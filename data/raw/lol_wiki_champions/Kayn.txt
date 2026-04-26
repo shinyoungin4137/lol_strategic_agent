@@ -1,0 +1,3647 @@
+# Kayn
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kayn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+655
++103
+MP
+410
++50
+HP5
+8
++0.75
+MP5
+11.5
++0.95
+AR
+38
++4.5
+AD
+68
++3.3
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+175
+Attack speed
+Base AS
+0.669
+Windup%
+18.729%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+135
+Pathing radius
+35
+Select. height
+180
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Healing
+-20%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Kayn
+The Shadow Reaper
+Role(s):
+Jungle
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2017-07-12
+Last changed
+V26.03
+Class
+Skirmisher
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Kayn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Shadow_Assassin
+Base statistics
+Edit
+HP
+655
++103
+MP
+410
++50
+HP5
+8
++0.75
+MP5
+11.5
++0.95
+AR
+38
++4.5
+AD
+68
++3.3
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+175
+Attack speed
+Base AS
+0.669
+Windup%
+18.729%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+135
+Pathing radius
+35
+Select. height
+180
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Healing
+-20%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Kayn
+The Shadow Assassin
+Role(s):
+Jungle
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2017-07-12
+Last changed
+V26.03
+Class
+Assassin
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Kayn
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Rhaast
+Base statistics
+Edit
+HP
+655
++103
+MP
+410
++50
+HP5
+8
++0.75
+MP5
+11.5
++0.95
+AR
+38
++4.5
+AD
+68
++3.3
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+175
+Attack speed
+Base AS
+0.669
+Windup%
+18.729%
+AS ratio
+N/A
+Bonus AS
++2.7
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+135
+Pathing radius
+35
+Select. height
+180
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Healing
+-20%
+Tenacity & Slow Resist
++20%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Rhaast
+The Darkin Slayer
+Role(s):
+Jungle
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2017-07-12
+Last changed
+V26.03
+Class
+Slayer
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+The Darkin Scythe
+Innate:
+Whenever
+Kayn
+scores champion
+takedowns
+or deals damage against champions, he earns orbs that unlocks his
+Darkin Slayer
+and
+Shadow Assassin
+forms.
+Kayn
+can return to the
+summoning platform
+to transform, permanently empowering his abilities.
+Shadow Assassin Bonus:
+If
+Kayn
+has been
+out of combat
+for a period, his attacks deal
+bonus
+magic damage
+for a short time upon entering combat.
+Darkin Bonus:
+Rhaast
+heals
+for a portion of the damage he deals to enemy champions with his
+abilities
+.
+Innate:
+Kayn
+has a secondary
+experience bar
+that tracks progress toward his
+Darkin Slayer
+and
+Shadow Assassin
+forms. He gathers orbs from champion
+takedowns
+and each instance of damage (excluding
+damage over time
+) dealt against champions. Once he has earned enough orbs, he unlocks a form based on whether he earned more from
+melee
+or
+ranged
+champions (for
+Darkin Slayer
+and
+Shadow Assassin
+, respectively), with the other form unlocked later.
+While near his team's
+summoning platform
+,
+Kayn
+can choose a form
+to enter transformation over 6 seconds, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+for the duration. At the end of the transformation he is restored to full
+health
+and
+mana
+. The transformation will grant a passive bonus and permanently empower some of
+Kayn's
+abilities based on the form chosen. He gains a one-time
+Homeguard
+once the transformation is complete.
+Kayn
+cannot activate the transformation while he is affected by
+cast-inhibiting crowd control
+or a
+lockout
+that disables abilities.
+Shadow Assassin Bonus:
+Upon entering
+combat
+with enemy champions,
+Kayn
+becomes empowered for 3 seconds to deal
+20% – 42.
+35
+% (based on level)
+of
+post-mitigation
+physical
+and
+magic
+damage dealt against enemy champions as
+bonus
+magic damage
+. This effect cannot trigger again until
+Kayn
+has been out of combat with champions for over 8 seconds, with the timer being reset if he recasts
+Umbral Trespass
+.
+Darkin Slayer Bonus:
+Rhaast
+heals
+for 25%
+(+ 0.
+5
+% per 100
+bonus
+health)
+of the
+post-mitigation
+physical damage
+that he deals to enemy champions with his
+abilities
+.
+Transformation alert.
+Info
+Targeting input
+Passive
+Affects
+Self
+The
+Shadow Assassin Bonus
+will not be triggered nor have its out-of-combat timer be refreshed if
+Kayn
+deals
+true damage
+.
+If the
+Shadow Assassin Bonus
+is granted by
+Kayn
+dealing damage, the triggering instance of damage will benefit from the bonus.
+Entering transformation will not
+destroy
+in-flight
+projectiles
+.
+The Orb System
+The experience is depicted as orbs that drop upon the ground.
+Melee
+champions drop red orbs that grant progress towards
+Darkin Slayer
+, while
+ranged
+champions drop blue orbs that grant progress for
+Shadow Assassin
+. Orbs will remain on the ground until automatically collected by
+Kayn
+regardless of range once he leaves
+combat
+. The orbs will be collected even if
+Kayn
+dies
+.
+The experience bar above his portrait gauges his current progression, the color reflects the form with greater progress.
+Kayn
+can transform by interacting with his portrait, and can wait 4 minutes until the other form becomes available, reduced by 5 seconds for each collected orb of their type after that.
+Melee
+orbs grant 2 points per hit and 6 points per takedown.
+Ranged
+orbs grant 3 points per hit and 7 points per takedown.
+The amount of points received per orb is multiplied by
+3 – 10.
+39
+(based on minutes)
+.
+The bar gets filled up completely at 500 points.
+If the two forms are within 8% of each other, the last champion range type hit will determine the winner. If both types are hit at the same time, the transformation will default to
+Darkin Slayer
+.
+Each side's bar has a bucket system, starting at 60 points.
+Each time an orb is taken the system checks if there's an amount of points in the bucket equal to or higher than the amount received from the orb.
+If there is,
+Kayn
+is given an additional orb of the same type he received, while also subtracting that amount of points from the bucket.
+The bucket fills by 0.
+8
+points per second if out of champion combat for 70 seconds.
+Damage dealt by
+damage over time
+effects and specifically
+First Strike
+and
+Summon Aery
+will not grant orbs.
+The following table refers for interactions while
+Kayn
+is transforming:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+All summoner spells are disabled
+Interrupted by
+N/A
+Interrupted by
+N/A
+Map-Specific Differences
+ARAM
+differences
+edit
+Locked form cooldown changed to 2 minutes.
+Shadow Assassin combat timer changed to 4 seconds.
+Transformation no longer restores full
+health
+and
+mana
+.
+Arena
+differences
+edit
+New Effect:
+Gains 30
+Orbs
+per round.
+Darkin base healing changed to 15% of damage dealt.
+Shadow Assassin bonus damage changed to
+30% – 60% (based on level)
+.
+Shadow Assassin bonus damage cooldown changed to 4 seconds.
+Ability Preview Video
+Edit
+Reaping Slash
+COST:
+40 Mana
+COOLDOWN:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5
+CAST TIME:
+none
+TARGET RANGE:
+350
+Active:
+Kayn
+dashes
+in the target direction, dealing
+physical damage
+to enemies he passes through. He then swings his scythe, dealing the same damage to surrounding enemies.
+Darkin Slayer Bonus:
+Reaping Slash
+deals damage based on the
+target's
+maximum
+health
+.
+Active:
+Kayn
+dashes
+in the target direction, dealing
+physical damage
+to enemies he passes through. He then swings his scythe, dealing the same damage to nearby enemies.
+Physical Damage:
+75 / 105 / 135 / 165 / 195
+(+ 85%
+bonus
+AD)
+Total Physical Damage:
+150 / 210 / 270 / 330 / 390
+(+ 170%
+bonus
+AD)
+Both instances of
+Reaping Slash
+deal
+40
+bonus
+physical damage
+against
+minions
+and
+monsters
+.
+Non-Champion Damage:
+115 / 145 / 175 / 205 / 235
+(+ 85%
+bonus
+AD)
+Total Non-Champion Damage:
+230 / 290 / 350 / 410 / 470
+(+ 170%
+bonus
+AD)
+Darkin Slayer Bonus:
+Reaping Slash's
+damage is modified to deal
+65% AD
+(+ 6%
+(+ 3.
+5
+% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+physical damage
+with each hit, for a total of
+130% AD
+(+ 12%
+(+ 7% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+. This damage has a cap against monsters that does not include the
+bonus
+damage.
+Capped Monster Damage per Hit:
+200 / 250 / 300 / 350 / 400
+Total Capped Monster Damage:
+400 / 500 / 600 / 700 / 800
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+Reaping Slash's
+dash speed is increased by
+Kayn's
+bonus
+movement speed
+.
+Spell shields
+will block only a single instance of damage - either the dash or the slash.
+If the
+dash
+is
+interrupted
+,
+Kayn
+will not swing his scythe.
+Reaping Slash's
+swing can be performed quicker if the dash stops prematurely upon colliding with terrain.
+As the
+Shadow Assassin
+, an
+alternate icon for
+Reaping Slash
+is used but has no modified effect.
+Other abilities can be queued while casting
+Reaping Slash
+.
+Item actives
+are locked out while casting.
+The swing's animation has a 0.
+25
+-second
+lockout
+time.
+Kayn
+will only be able to move after 0.
+416
+seconds.
+Map-Specific Differences
+ARAM
+differences
+edit
+Bonus AD ratio per hit changed to
+95%
+bonus
+AD
+.
+Total bonus AD ratio changed to
+190%
+bonus
+AD
+.
+Arena
+differences
+edit
+Darkin health ratio changed to
+3% of target's
+maximum
+health
+.
+Darkin bonus AD ratio changed to
+2.
+5
+% per 100
+bonus
+AD
+.
+Ability Preview Video
+Edit
+Blade's Reach
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+0.
+55
+•
+None
+TARGET RANGE:
+700
+•
+900
+Active:
+Kayn
+swings his scythe in the target direction, dealing
+physical damage
+and briefly
+slowing
+enemies hit.
+Shadow Assassin Bonus:
+Blade's Reach's
+area is extended.
+Kayn
+conjures a shadow to perform
+Blade's Reach
+in his stead, removing the ability's cast time.
+Darkin Slayer Bonus:
+Blade's Reach
+briefly
+knocks up
+enemies hit.
+Active:
+Kayn
+swings his scythe in the target direction, dealing
+physical damage
+to enemies hit and
+slowing
+them by 90% decaying over 1.
+5
+seconds.
+Physical Damage:
+85 / 130 / 175 / 220 / 265
+(+ 110%
+bonus
+AD)
+Shadow Assassin Bonus:
+Blade's Reach's
+radius is extended by 200 units.
+Kayn
+conjures an
+untargetable
+shadow
+at the casting position to perform
+Blade's Reach's
+sweep over 0.
+55
+seconds in his stead, removing the ability's cast time.
+Darkin Slayer Bonus:
+Blade's Reach
+knocks up
+enemies hit for 1 second.
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+The
+shadow
+is considered an allied champion and can interact with effects such as
+World Atlas'
+and
+Runic Compass'
+Quest
+and local reward from structures.
+(bug)
+Blade's Reach's
+indicator is visible to enemies while cast inside terrain and towards enemy champions.
+This ability will cast from wherever the caster is at the start of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 10 / 9 / 8 / 7 / 6 seconds.
+Ability Preview Video
+Edit
+Shadow Step
+COST:
+90 Mana
+COOLDOWN
+:
+21 / 19 / 17 / 15 / 13
+CAST TIME:
+none
+Active:
+Kayn
+gains
+bonus
+movement speed
+,
+ghosting
+and the ability to enter terrain for a duration. If he has recently been
+in combat
+with enemy champions, the duration is dramatically reduced.
+Kayn
+heals
+himself upon entering terrain for the first time from casting
+Shadow Step
+. If he receives damage or deals damage against an enemy
+champion
+during
+Shadow Step
+, the duration is dramatically reduced.
+Shadow Assassin Bonus:
+Shadow Step
+has a reduced
+cooldown
+.
+Kayn
+gains
+slow resist
+and more
+bonus
+movement speed
+while in terrain.
+Active:
+Kayn
+gains
+40%
+bonus total
+movement speed
+,
+ghosting
+and the ability to ignore terrain collision for a duration. If he has been
+in combat
+with enemy champions within the last 3 seconds,
+Shadow Step
+will instead last 1.
+5
+seconds.
+Duration:
+7 / 7.
+5
+/ 8 / 8.
+5
+/ 9 seconds
+Kayn
+heals
+himself upon entering terrain for the first time from casting
+Shadow Step
+and he gains
+unobstructed vision
+while inside.
+Heal:
+90 / 100 / 110 / 120 / 130
+(+ 45%
+bonus
+AD)
+Receiving damage from or dealing damage to an enemy
+champion
+while
+Shadow Step
+is active reduces its remaining duration to 1.
+5
+seconds. This effect also cannot remain active out of terrain for longer than 1.
+5
+seconds and will cancel immediately if
+Kayn
+performs a
+basic attack
+or becomes
+immobilized
+or
+polymorphed
+.
+Shadow Assassin Bonus:
+Shadow Step's
+cooldown
+is reduced to 10 seconds at all ranks.
+Kayn
+gains 100%
+slow resist
+while active and, upon entering terrain, the
+bonus total
+movement speed
+is increased to
+70%
+for the remaining duration.
+Info
+Targeting input
+Auto
+Affects
+Self
+Counters
+Grounded
+Disabled
+As
+Rhaast
+, an
+alternate icon for
+Shadow Step
+is used but has no modified effect.
+The
+bonus
+movement speed
+stacks multiplicatively
+with other sources of movement speed boosts.
+Self
+immobilizations
+such as
+Zhonya's Hourglass
+also count for interrupting
+Shadow Step
+.
+Recall
+is disabled while
+Kayn
+is inside terrain.
+Enemies cannot see
+Kayn
+while he is inside of terrain unless they have terrain-piercing vision, such as
+Heightened Senses
+,
+Hawkshot
+or
+unobstructed vision
+.
+However, enemies and allies (including
+Kayn
+) will be notified when nearby terrain is infested if
+Kayn
+is within 1000 units of an enemy champion - with an indicator being placed on the terrain with a direct line between
+Kayn
+and the enemy champion.
+Slightly less than standard sight radius, but more than the
+camouflage
+detection radius.
+Kayn
+can move up to 550 units beyond the outer-edge of the battlefield.
+Shadow Step
+can interact with
+player-generated terrain
+.
+If
+Kayn
+is inside terrain when the effect ends, he will be placed correspondingly to the nearest valid space.
+Sleep
+will not interrupt
+Shadow Step
+.
+(bug)
+Map-Specific Differences
+ARAM
+differences
+edit
+Shadow Assassin cooldown changed to 7 seconds.
+Arena
+differences
+edit
+Shadow Assassin bonus movement speed changed to 100%.
+Shadow Assassin modified cooldown changed to 7 seconds.
+Ability Preview Video
+Edit
+Umbral Trespass
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+none
+TARGET RANGE:
+550
+•
+750
+EFFECT RADIUS:
+300
+•
+300 - 500
+Passive:
+Kayn
+marks
+enemy champions he has damaged for a few seconds.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion. Upon arrival, he
+channels
+for a short time,
+attaching
+to the target and
+revealing
+them.
+Recast:
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction.
+Shadow Assassin Bonus:
+Umbral Trespass
+has increased range. Emerging will
+reset
+The Darkin Scythe's
+cooldown.
+Darkin Slayer Bonus:
+Umbral Trespass
+deals damage based on the
+target's
+maximum
+health
+, and
+heals
+him for a portion of the
+target's
+maximum
+health
+.
+Passive:
+Kayn
+marks
+enemy champions he damaged in the last 3.
+15
+seconds.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion over 0.
+25
+seconds,
+attaching
+himself to them at the end of the dash. After 0.
+5
+seconds of his arrival, he
+channels
+for up to 2 seconds, during which the target is
+revealed
+.
+Umbral Trespass
+can be recast during the channel after 0.
+1
+seconds have elapsed, and does so automatically after the duration or if it is
+interrupted
+.
+Recast:
+After a delay of
+0.
+5
+seconds to 0.
+75
+seconds
+,
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction, detaching himself from them and becoming targetable again at the end of the dash.
+Physical Damage:
+150 / 250 / 350
+(+ 150%
+bonus
+AD)
+Shadow Assassin Bonus:
+Umbral Trespass
+gains 200
+bonus
+cast range and emerge range. Additionally, emerging will reset
+The Darkin Scythe's
+cooldown
+.
+Darkin Slayer Bonus:
+Umbral Trespass
+is modified to deal
+physical damage
+equal to
+15%
+(+ 10% per 100
+bonus
+AD)
+of the target's
+maximum
+health
+, and also
+heals
+Rhaast
+for
+11.
+25
+%
+(+ 7.
+5
+% per 100
+bonus
+AD)
+of the target's
+maximum
+health
+after the recast's delay.
+Info
+Targeting input
+Unit
+/
+Direction
+Target out-of-range override
+Walk in range of the target unit to cast (first cast)
+Affects
+Enemies, Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Disruption
+Interrupted
+Umbral Trespass'
+recast delay lasts for an inconsistent period of time.
+(bug)
+The initial cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+.
+The recast (both manual and automatic) does not.
+The ability activation happens when
+Kayn
+is attached to his target and the channel starts.
+Kassadin
+cannot reduce
+Force Pulse's
+cooldown because
+Kayn
+is untargetable during the activation.
+The ability will recast if
+Kayn
+is ordered a movement command.
+Kayn
+will reappear from being
+vanished
+as soon as the recast is cast, while remaining untargetable.
+Upon recast,
+Kayn
+will always damage his target from the east, regardless of the direction he chooses to dash in.
+Kayn
+will arrive to the target after 0.
+25
+seconds regardless of how far they move away from him during the dash.
+If
+Umbral Trespass
+is targeted on an enemy with a
+spell shield
+or a
+Fiora
+with her
+Riposte
+active, the ability will fail to cast entirely, being placed on full cooldown without triggering the active's effects (as well as on-cast effects).
+Spell shield will not block the damage from the recast.
+If the target
+dies
+, enters
+resurrection
+, or is sent to the
+Death Realm
+while
+Kayn
+is
+attached
+, the channel will be cancelled and he will instantly detach and reappear on top of the target's location. This does not occur if
+Kayn
+is in the process of emerging from the target.
+If those same conditions occur before the attachment,
+Kayn
+will reappear at the target's location at the end of his dash.
+Umbral Trespass'
+cooldown will sometimes be refunded at the end of the
+channel
+if any of these conditions occur during it.
+(bug)
+If the target is a
+clone
+that expires while
+Kayn
+is attached,
+Umbral Trespass
+will recast automatically.
+If
+Kayn
+dies while
+attached
+and the recast is available,
+Umbral Trespass'
+damage is dealt immediately. If the recast is not available,
+Umbral Trespass'
+damage is not dealt at all.
+Entering
+resurrection
+while
+attached
+does not deal
+Umbral Trespass'
+damage regardless of if the recast is available or not.
+Kayn
+will detach immediately in both cases.
+Umbral Trespass'
+interactions with
+crowd control
+:
+All forms of
+cast-inhibiting crowd control
+will interrupt the channel.
+Upon being cast,
+Kayn
+is
+cleansed
+of
+drowsiness
+effects.
+During
+Umbral Trespass
+,
+Kayn
+is immune to
+fear
+.
+Despite being a movement channel,
+Umbral Trespass
+is not interrupted by
+root
+.
+Root
+will not disable
+Umbral Trespass'
+recast, despite it being a dash.
+As
+Rhaast
+,
+Umbral Trespass
+will grant the
+heal
+automatically if the target dies during the channel.
+The heal is not granted if the target dies before the channel starts.
+Kayn
+will draw
+turret
+aggro after the recast's dash, despite the damage being dealt to the enemy while he was untargetable.
+Until the recast or after the duration, the ability will have had no effect on the target for the purposes of
+Electrocute
+or the 'in-combat' status.
+The damage is
+not
+blocked if the target is
+untargetable
+at the time of the recast.
+While
+dismounting
+,
+Kled
+blocks the damage of
+Umbral Trespass
+.
+(bug)
+Umbral Trespass
+cannot be cast on
+Sion
+during
+Glory in Death
+.
+During
+Umbral Trespass
+,
+Kayn
+will not take the self-inflicted damage from
+Death's Dance's
+Ignore Pain
+if the damage was sourced from a
+turret
+.
+Kayn
+will copy his target's total
+size
+for
+Umbral Trespass'
+duration, even if their size is smaller than his.
+The player's screen will direct to the target's position upon attaching.
+As
+Rhaast
+, an
+alternate icon is used for the initial activation of
+Umbral Trespass
+.
+The following table refers for interactions while
+Kayn
+is
+channeling
+and dashing out of the victim:
+The dash out is not interrupted by
+cast-inhibiting crowd control
+.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+Hexflash
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Darkin base damage health ratio changed to
+7% of target's
+maximum
+health
+.
+Darkin damage bonus AD ratio changed to
+5% per 100
+bonus
+AD
+.
+Darkin heal changed to 50% of damage amount.
+Shadow Assassin cast range changed to 950 units.
+Shadow Assassin maximum dash range changed to 700 units.
+Ability Preview Video
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Kayn (Collection)
+.
+Original
+11.07.2017
+A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will… or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra.
+Robbie Daymond, Sam A. Mowry
+Evan 'Somnicidal' Monteiro
+Loot eligible
+View in 3D
+•
+View Music
+Soulhunter
+1350
+11.07.2017
+Robbie Daymond, Sam A. Mowry
+Jean 'Curing' Go
+Bilgewater: Curse of the Drowned
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Odyssey
+1820
+12.09.2018
+As an honored Ordinal of the Demaxian Empire, Kayn relentlessly hounds the crew of the Morning Star, hoping to recapture Sona and learn the secrets of the legendary Ora Gate. He bickers constantly with his sentient alien scythe, Rhaast, whose own motivations are far more dire than Kayn could ever realize…
+Robbie Daymond, Sam A. Mowry
+Esben Lash Rasmussen
+Odyssey
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Odyssey Kayn Chromas
+Emerald
+Merc
+Pearl
+Ruby
+Sapphire
+Nightbringer
+1350
+23.09.2021
+Rhaast was once an archon of light, a beacon of order… and now he is little more than a weapon in the hands of Kayn, an ambitious demi-god of dusk seeking true godhood. The two war within Kayn's own body, each determined to overthrow the other and lay claim to true divinity.
+Robbie Daymond, Sam A. Mowry
+Jeremy 'Jermu' Anninos
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Nightbringer Kayn Chromas
+Catseye
+Deathbringer
+Ruby
+Sapphire
+Tanzanite
+Prestige Nightbringer
+Special
+23.09.2021
+Kayn and Rhaast are forged anew in the crucible of their clash. No longer are they a mere weapon, a mere demigod— they are forces of nature, warping each other and the raw energy around them, each hurtling towards a victory sure to shake the firmament itself.
+Robbie Daymond, Sam A. Mowry
+Jeremy 'Jermu' Anninos
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+This skin is a variant of
+Nightbringer
+. Store variants are discounted for multiple purchases.
+View in 3D
+Snow Moon
+1350
+23.06.2022
+The communion was nearly complete. Kayn could feel the Blood Moon demon writhing within. It was then that the Snow Moon assassins struck. Stolen away from that temple into theirs, Kayn was inducted into the Snow Moon Order, their ancient ways piercing and unfamiliar. Only time will tell if their taming of his spirit holds.
+Robbie Daymond, Sam A. Mowry
+Huyy Nguyen, West Studio
+Snow Moon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Snow Moon Kayn Chromas
+Amethyst
+Meteorite
+Obsidian
+Ruby
+HEARTSTEEL
+1820
+08.11.2023
+Kayn wields his music like a weapon—both as himself and as his demonic alter ego, Rhaast. Though he's got all the training of a pop music prince, his bad reputation after the breakup of his last band made him an industry pariah. Determined to spite the haters, Kayn joined HEARTSTEEL only to find creative partners (and friends?) he might actually trust.
+Robbie Daymond, Sam A. Mowry
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+HEARTSTEEL
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Transforming
+Chromas
+View in 3D
+•
+View Music
+HEARTSTEEL Kayn Chromas
+Citrine
+Pearl
+Rockstar
+Rose Quartz
+Ruby
+Battle Academia
+1350
+19.03.2025
+Co-captains of the Assassin Club, Kayn and Rhaast are an embodiment of Babylon Academy's tactics. Kayn lulls rivals into a false sense of security before Rhaast explodes with overwhelming force, pummelling opponents into submission. Rhaast's diligent work ethic is the real reason they're here at all, as Kayn's aloofness irks all of his classmates.
+Robbie Daymond, Sam A. Mowry
+Pandart Studio
+Battle Academia
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Battle Academia Kayn Chromas
+Catseye
+Emerald
+Ruby
+Sapphire
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.03
+Reaping Slash
+Base damage increased to 75 / 105 / 135 / 165 / 195 from 75 / 100 / 125 / 150 / 175.
+V26.01
+Umbral Trespass
+Bug Fix:
+Fixed a bug where the Darkin Slayer variant would fail to heal him if his target died at specific times during the ability.
+Bug Fix:
+Added base damage to the level-up tooltip to the Darkin Slayer variant.
+V25.24
+The Darkin Scythe
+Shadow Assassin bonus damage reduced to
+20% – 40% (based on level)
+from
+25% – 45% (based on level)
+.
+V25.19
+- September 25th Hotfix
+Reaping Slash
+Bug Fix:
+Dash no longer completes faster than intended.
+V25.17
+Reaping Slash
+Mana cost reduced to 40 from 50.
+Blade's Reach
+Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 65 / 70 / 75 / 80.
+V25.10
+Stats
+Health growth reduced to 103 from 109.
+V25.04
+Umbral Trespass
+Bug Fix:
+No longer still applies its exit effect to the target if his
+False Life
+triggers during it.
+V25.S1.3
+Reaping Slash
+Base damage per hit increased to 75 / 100 / 125 / 150 / 175 from 75 / 95 / 115 / 135 / 155.
+V25.S1.2
+The Darkin Scythe
+Shadow Assassin bonus damage increased to
+25% – 45% (based on level)
+from
+15% – 45% (based on level)
+.
+V14.7
+Reaping Slash
+Bonus AD ratio per hit increased to
+85%
+bonus
+AD
+from
+80%
+.
+Total bonus AD ratio increased to
+170%
+bonus
+AD
+from
+160%
+.
+V14.6
+Reaping Slash
+Darkin Slayer health ratio increased to
+6% of target's
+maximum
+health
+from
+5%
+.
+New Effect:
+Item actives are now locked out while casting.
+Umbral Trespass
+Bonus AD ratio reduced to
+150%
+bonus
+AD
+from
+175%
+.
+V14.5
+The Darkin Scythe
+New Effect:
+Darkin Slayer healing now scales with
+0.
+5
+% per 100
+bonus
+health
+.
+Umbral Trespass
+Darkin Slayer heal increased to 75% of damage amount from 65%.
+Base heal increased to
+11.
+25
+% of the target's
+maximum
+health
+from
+9.
+75
+%
+Heal bonus AD ratio increased to
+7.
+5
+% per 100
+bonus
+AD
+from
+6.
+5
+%
+.
+V14.2
+The Darkin Scythe
+Removed:
+Damage instances dealt by
+Summon Aery
+no longer spawn orbs for transformation progress.
+Umbral Trespass
+Bug Fix:
+Darkin Slayer version's heal is now granted automatically if the unit dies during the channel.
+Unknown Patch - Estimated
+V13.23
+General
+Transforming into
+Shadow Assassin
+or
+Rhaast
+no longer causes the central portion of the in-game UI to use their respective base portraits for all skins.
+V13.18
+The Darkin Scythe
+Darkin Slayer healing changed to 25% of damage dealt at all levels from
+20% – 30% (based on level)
+.
+Umbral Trespass
+Darkin Slayer damage bonus AD ratio reduced to
+10% per
+bonus
+AD
+from
+13%
+.
+Darkin Slayer heal bonus AD ratio reduced to
+6.
+5
+% per 100
+bonus
+AD
+from
+8.
+45
+%
+.
+V13.17
+The Darkin Scythe
+New Effect:
+Now fully restores his health and mana upon transforming.
+Does not apply in ARAM.
+Blade's Reach
+Bonus AD ratio reduced to
+110%
+bonus
+AD
+from
+130%
+.
+V13.8
+Shadow Step
+Shadow Assassin cooldown increased to 10 seconds from 8.
+Shadow Assassin bonus movement speed reduced to 70% from 80%.
+V13.3
+The Darkin Scythe
+Shadow Assassin bonus damage increased to
+15% – 45% (based on level)
+from
+13% – 40% (based on level)
+.
+Reaping Slash
+Bonus AD ratio increased to
+80%
+bonus
+AD
+from
+65%
+.
+Total bonus AD ratio increased to
+160%
+bonus
+AD
+from
+130%
+.
+V12.23
+The Darkin Scythe
+Shadow Assassin bonus damage increased to
+13% – 40% (based on level)
+from
+9.
+3
+% – 31.
+4
+% (based on level)
+.
+The previous values were intended to be
+8% – 30.
+1
+% (based on level)
+, but were greater in effect.
+Shadow Step
+Bonus AD ratio increased to
+45%
+bonus
+AD
+from
+35%
+bonus
+AD
+.
+V12.18
+Reaping Slash
+Darkin Slayer bonus AD ratio reduced to
+3.
+5
+% per 100
+bonus
+AD
+from
+5%
+.
+V12.14
+Stats
+Health growth increased to 109 from 99.
+The Darkin Scythe
+Darkin Slayer heal reduced to
+20% – 30% (based on level)
+from
+25% – 35% (based on level)
+.
+V12.13
+The Darkin Scythe
+Bug Fix:
+Damage instances dealt by
+First Strike
+no longer spawn orbs for transformation progress.
+V12.11
+Reaping Slash
+Darkin Slayer bonus AD ratio reduced to
+5% per 100
+bonus
+AD
+from
+5.
+5
+%
+.
+V12.10
+Stats
+Base health increased to 655 from 585.
+Health growth increased to 99 from 85.
+Armor growth increased to 4.
+5
+from 3.
+3
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+The Darkin Scythe
+Darkin Slayer heal reduced to
+25% – 35% (based on level)
+from
+30% – 40% (based on level)
+.
+Shadow Step
+Base heal reduced to 90 / 100 / 110 / 120 / 130 from 100 / 115 / 130 / 145 / 160.
+Bonus AD ratio reduced to
+35%
+bonus
+AD
+from
+40%
+.
+Umbral Trespass
+Darkin Slayer base heal reduced to
+9.
+75
+% of the target's
+maximum
+health
+from
+10.
+5
+%
+.
+Darkin Slayer heal bonus AD ratio reduced to
+8.
+45
+% per 100
+bonus
+AD
+from
+9.
+1
+%
+.
+V11.23
+The Darkin Scythe
+Bug Fix:
+Now properly displays its transformation status in the allied chat when the portrait is pinged.
+V11.22
+Reaping Slash
+Darkin Slayer bonus AD ratio increased to
+5.
+5
+% per 100
+bonus
+AD
+from
+4%
+.
+Umbral Trespass
+Darkin Slayer base damage increased to
+15% of target's
+maximum
+health
+from
+10%
+.
+Darkin Slayer base heal increased to
+10.
+5
+% of target's
+maximum
+health
+from
+7%
+.
+V11.20
+General
+Adjusted splash artwork for
+Nightbringer Kayn
+and
+Prestige Nightbringer Kayn
+.
+Blade's Reach
+Bug Fix:
+Fixed a bug where
+Shadow Assassin
+would only receive half of local tower gold if his living shadow was active and in range.
+V11.17
+The Darkin Scythe
+Shadow Assassin bonus damage reduced to
+8% – 30% (based on level)
+from
+12% – 44% (based on level)
+.
+V11.15
+The Darkin Scythe
+Bug Fix:
+Global transformation SFX now plays for both allies and enemies.
+Bug Fix:
+Transformation SFX is now stereo for the local player.
+Blade's Reach
+Bug Fix:
+On-hit SFX is now form-specific.
+Shadow Step
+Bug Fix:
+Fixed a bug where the SFX made a popping noise when it looped.
+Original Kayn
+Bug Fix:
+Recall SFX is now form-specific.
+Odyssey Kayn
+Bug Fix:
+Dance music is now form specific.
+V11.13
+Blade's Reach
+New Effect:
+VFX is now revealed when cast within terrain towards enemy champions.
+Umbral Trespass
+Bug Fix:
+Now correctly cancels early if stunned during the channel.
+V11.9
+Reaping Slash
+Darkin Slayer AD ratio increased to
+65% AD
+from
+55% AD
+.
+V11.5
+General
+Undocumented:
+Kayn's non-classic skins' base-form portraits will no longer appear on the scoreboard for all players.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.25
+- December 15th Hotfix
+Stats
+Base armor increased to 38 from 35.
+Reaping Slash
+Base damage increased to 75 / 95 / 115 / 135 / 155 from 65 / 85 / 105 / 125 / 145.
+V10.25
+Stats
+Base armor reduced to 35 from 38.
+Reaping Slash
+Cooldown increased to 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds from 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4.
+Base damage reduced to 65 / 85 / 105 / 125 / 145 from 75 / 95 / 115 / 135 / 155.
+V10.20
+Odyssey Kayn
+Bug Fix:
+Fixed a bug where he would expand and shrink when an enemy player highlighted him.
+V10.12
+- June 15th Hotfix
+Blade's Reach
+Bug Fix:
+No longer able to cast globally to all enemies on the map.
+V10.10
+The Darkin Scythe
+Darkin Slayer heal reduced to
+30% – 40% (based on level)
+from
+34.
+5
+% – 43% (based on level)
+.
+V10.9
+Reaping Slash
+Cooldown reduced to 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+New Effect:
+Bonus damage now applies to minions.
+Undocumented:
+Rhaast
+capped damage no longer also considers the
+bonus
+damage.
+Blade's Reach
+Slow increased to 90% from 70%.
+V10.6
+- March 19th Hotfix
+Blade's Reach
+Bug Fix:
+Can no longer self-cast to damage units globally.
+V10.6
+General
+Recommended items updated.
+The Darkin Scythe
+Orb gain rate changed to
+3 – 10.
+39
+(based on minutes)
+from
+3 – 10 (based on minutes)
+.
+Blade's Reach
+Undocumented:
+If self-casted,
+Blade's Reach
+now hits all units globally, instead of only up to 4500 units away.
+V10.5
+The Darkin Scythe
+Orb gain rate changed to
+3 – 10 (based on minutes)
+from
+3 / 6 / 10 (based on minutes)
+.
+Blade's Reach
+Slow strength increased to 70% from 60%.
+V10.3
+The Darkin Scythe
+Bug Fix:
+Fixed a bug where he could select neither form if he died damaging both a ranged and a melee champion when the orb count for both forms were within 8% of each other.
+V9.21
+Reaping Slash
+Base damage increased to 75 / 95 / 115 / 135 / 155 from 60 / 80 / 100 / 120 / 140.
+Darkin Slayer AD ratio increased to
+55% AD
+from
+50% AD
+.
+Bonus damage against monsters reduced to 40 from 55.
+Blade's Reach
+Bug Fix:
+Having the living shadow from
+Shadow Assassin's
+Blade's Reach
+stand on the
+Eye of the Herald
+no longer has that non-champion entity pick it up.
+V9.15
+Umbral Trespass
+Bug Fix:
+Now properly goes on cooldown if the target dies while he has infested them.
+V9.9
+Umbral Trespass
+Bug Fix:
+When reactivated quickly, his model no longer appears before
+Umbral Trespass
+completes.
+V9.8
+Shadow Step
+New Effect:
+Shadow Assassin
+form sets the cooldown to 8 seconds at all ranks.
+V9.2
+The Darkin Scythe
+Removed:
+Damage and takedowns against melee champion dropping red orbs and against ranged champions blue orbs.
+New Effect:
+Damage and takedowns against enemy champions grants orbs.
+New Effect:
+Once the bar is filled, if your percentage of damage done against melee champions is higher than your percentage of damage done against ranged champions you gain
+Rhaast
+, otherwise you gain
+Shadow Assassin
+.
+New Effect:
+The transformation progress bar now color tints towards the transformation type that's furthest along, becoming deeper blue when
+Shadow Assassin
+is far ahead, and deep red for
+Rhaast
+.
+New Effect:
+Can now ping the transform bar to inform allies how far or close
+Kayn
+is to transform.
+New Effect:
+Can now ping that a form is available.
+New Effect:
+Can now ping that a form is unavailable and the time remaining before it is ready to be activated.
+New Effect:
+Once a form is unlocked, you can collect orbs from the opposite champion type to reduce the second form's timer by 5 seconds each.
+Total transformation points required increased to 500 from 400.
+New Effect:
+If when collecting their final transformation points, the two forms are within 8% of each other, the type of champion range you finally hit will determine the transformation.
+Bug Fix:
+No longer immediately harvests orbs when damaging ranged champions who hadn't yet damaged him. He'll now properly wait until exiting combat.
+Reaping Slash
+Bug Fix:
+Fixed a
+Shadow Step
+into basic attack into
+Reaping Slash
+bug where, if
+Shadow Step's
+buff expired during
+Reaping Slash's
+cast time (due to the basic attack putting Kayn in combat), Q dealt no damage.
+Shadow Step
+New Effect:
+Can now start
+Recalling
+during
+Shadow Step
+if not inside terrain.
+Bug Fix:
+Fixed a bug where
+Shadow Step
+ending due to casting a basic attack would occasionally cut his
+Reaping Slash
+attack short and dealing no damage.
+Umbral Trespass
+New Effect:
+Can now emerge from target with a distance below 300 units.
+New Effect:
+Shadow Assassin's
+Umbral Trespass
+gains 200
+bonus
+range when emerging from his target.
+Soulhunter Kayn
+Bug Fix:
+Fixed a bug where he would hear the audio for
+Master Yi's
+Highlander
+forever if he transformed into
+Rhaast
+with
+Master Yi
+in the game.
+V9.1
+The Darkin Scythe
+New Effect:
+Can now ping the time until other form is available if
+Kayn's
+already unlocked a form.
+V8.17
+Shadow Step
+Empowered duration increased to 7 / 7.
+5
+/ 8 / 8.
+5
+/ 9 seconds from 5 / 6 / 7 / 8 / 9.
+Shadow Step
+(Shadow Assassin)
+Bonus movement speed increased to 80% from 70%.
+V8.7
+The Darkin Scythe
+Passive points gained based on minutes changed to
+3 / 6 / 10 (based on minutes)
+from
+0.
+5
+– 15 (based on minutes)
+.
+Reaping Slash
+New Effect:
+Other abilities can now be queued up while casting
+Q
+.
+Shadow Step
+Bug Fix:
+Shadow Step
+no longer copies an enemy's
+Master Yi's
+Highlander
+SFX.
+V8.6
+Blade's Reach
+Bonus AD ratio increased to
+130%
+bonus
+AD
+from
+120%
+.
+Umbral Trespass
+Bonus AD ratio increased to
+175%
+bonus
+AD
+from
+150%
+.
+V7.24b
+Stats
+Attack damage growth increased to 3.
+3
+from 2.
+8
+.
+The Darkin Scythe
+Darkin Slayer heal increased to
+34.
+5
+% – 43% (based on level)
+from
+26% – 43% (based on level)
+.
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+Base armor increased to 38 from 29.
+Reaping Slash
+Base damage increased to 60 / 80 / 100 / 120 / 140 from 55 / 75 / 95 / 115 / 135.
+Blade's Reach
+Base damage increased to 90 / 135 / 180 / 225 / 270 from 80 / 125 / 170 / 215 / 260.
+V7.16
+The Darkin Scythe
+Bug Fix:
+No longer gains transformation progress from ticks of
+Corrupting Potion
+,
+Deathfire Touch
+,
+Crest of Cinders
+, or
+Challenging Smite
+.
+Other periodic effects, such as
+Ignite
+, already had no impact on transformation progress.
+Blade's Reach
+Bug Fix:
+Shadow Assassin's
+tooltip for
+Blade's Reach
+now displays the proper slow duration, slow value, and bonus attack damage ratio.
+In-game effects are unchanged.
+Umbral Trespass
+Bug Fix:
+Once again marks targets for
+Umbral Trespass
+, even when his damage is completely absorbed by a shield.
+V7.15
+Umbral Trespass
+Bonus AD ratio increased to
+150%
+bonus
+AD
+from
+110%
+.
+Bug Fix:
+Fixed a bug where
+Umbral Trespass
+wasn't making
+Kayn
+"unseen" for
+Duskblade of Draktharr's
+Nightstalker proc.
+Bug Fix:
+Fixed a bug where
+Shadow Assassin's
+passive wasn't amplifying damage-over-time (ex.
+Deathfire Touch
+) or proc (ex.
+Duskblade of Draktharr
+) effects.
+Bug Fix:
+Fixed a bug where
+Shadow Assassin's
+passive triggered against
+Fiora's
+Riposte
+,
+Pantheon's
+Aegis Protection
+, and
+Shen's
+Spirit's Refuge
+even though there's no damage to amplify.
+Bug Fix:
+Fixed a bug where
+Kled's
+Bear Trap on a Rope
+ended
+Umbral Trespass
+early.
+Bug Fix:
+Fixed a bug where
+Kayn
+could cast
+Umbral Trespass
+on an enemy he attempted to damage when all of the damage was absorbed by a shield.
+Soulhunter Kayn
+The Darkin Scythe
+Bug Fix:
+Orb particles during his passive are now more visible.
+V7.14
+July 18th Hotfix
+General
+Bug Fix:
+Fixed a bug causing
+Kayn's
+UI to break, sometimes preventing him from transforming altogether.
+Umbral Trespass
+Bug Fix:
+Kled
+no longer ends up in a weird spot if
+Kayn
+uses
+Umbral Trespass
+on him to avoid the targeted dash at the end of
+Chaaaaaaaarge!!!
+.
+V7.14
+Added
+The Darkin Scythe
+Innate:
+Kayn
+wields an ancient, sentient weapon, that battles with him for control. Dealing damage against champions causes them to drops orbs that are automatically collected upon leaving combat, filling a bar above
+Kayn's
+portrait.
+Once the bar is full he can choose to either be overwhelmed by
+Rhaast
+or expel him to become the
+Shadow Assassin
+, based on whether he has damaged more
+melee
+or
+ranged
+champions, respectively. Once primed, the other option becomes available after 4 minutes.
+The transformation can only be performed by interacting with their portrait while on the summoning platform, permanently changing their abilities.
+Shadow Assassin
+:
+Kayn's
+basic attacks and abilities deal
+12% – 44% (based on level)
+of post-mitigation damage as
+bonus
+magic damage, lasting for 3 seconds upon entering in combat with an enemy champion, refreshing after 8 seconds out of combat with them or by using
+Umbral Trespass
+.
+Rhaast
+:
+Rhaast
+heals for
+26% – 43% (based on level)
+of the post-mitigation damage that he deals with spells against enemy champions.
+Reaping Slash
+Active:
+Kayn
+dashes forward, dealing 55 / 75 / 95 / 115 / 135
+(+ 65%
+bonus
+AD)
+physical damage to all enemies he passes through before flourishing his scythe, dealing the same damage again to surrounding enemies.
+Shadow Assassin
+:
+Reaping Slash
+is unchanged.
+Rhaast
+:
+Both instances of
+Reaping Slash's
+damage are modified to
+50% AD
+(+ 5%
+(+ 4% per 100
+bonus
+AD)
+of target's
+maximum
+health)
+physical damage, capped at 200 / 250 / 300 / 350 / 400 against monsters.
+Regardless of the form, both instances of
+Reaping Slash
+deals 55
+bonus
+damage against monsters.
+Mana Cost:
+50
+Cooldown:
+7 / 6.
+5
+/ 6 / 5.
+5
+/ 5 seconds
+Blade's Reach
+Active:
+After a short delay in which he can't perform any other actions,
+Kayn
+performs an upwards sweep with his scythe, dealing 80 / 125 / 170 / 215 / 260
+(+ 120%
+bonus
+AD)
+physical damage to all enemies in a line and
+slowing
+them by 60%, decaying over 1.
+5
+seconds.
+Shadow Assassin
+:
+Blade's Reach's
+range is increased by 200, deals
+10%
+bonus
+AD
+bonus
+damage and the
+slow
+decays over 2 seconds. Additionally,
+Kayn
+conjures a
+living shadow
+at the casting position to perform
+Blade's Reach
+in his stead, allowing
+Kayn
+to perform other actions.
+Rhaast
+:
+Blade's Reach
+knocks up
+enemies for 1 second.
+Mana Cost:
+60 / 65 / 70 / 75 / 80
+Cooldown:
+13 / 12 / 11 / 10 / 9 seconds
+Shadow Step
+Active:
+Kayn
+gains 40%
+bonus
+movement speed, is
+ghosted
+and can ignore terrain collision for 1.
+5
+seconds. Immobilizing effects will interrupt
+Shadow Step
+.
+Kayn
+heals himself for 100 / 115 / 130 / 145 / 160
+(+ 40%
+bonus
+AD)
+health upon moving through terrain for the first time and, if he's not in combat with enemy champions,
+Shadow Step's
+duration is increased to 5 seconds. Entering combat with a champion after the effect is enhanced reduces the remaining duration to 1.
+5
+seconds.
+Shadow Assassin
+:
+Casting
+Shadow Step
+removes
+slows
+, additionally if
+Kayn
+enters terrain at least once,
+Shadow Step
+will be improved for the remainder of its duration to grant 70%
+bonus
+movement speed and make
+Kayn
+immune to
+slows
+.
+Rhaast
+:
+Shadow Step
+is unchanged.
+Mana Cost:
+90
+Cooldown:
+21 / 19 / 17 / 15 / 13 seconds
+Umbral Trespass
+Passive:
+Kayn
+basic attacks and abilities against champions apply
+Umbral Trespass
+for a few seconds.
+Active:
+Kayn
+infests a marked enemy champion for up to 2.
+5
+seconds,
+revealing them
+and becoming untargetable for the duration. Reactivating
+Umbral Trespass
+ends it earlier.
+Upon reactivation or at the end of the duration,
+Kayn
+wrenches himself free from their body in the cursor's direction, dealing 150 / 250 / 350
+(+ 110%
+bonus
+AD)
+physical damage to the target.
+Shadow Assassin
+:
+Umbral Trespass
+gains 200
+bonus
+range and emerging from the target resets
+The Darkin Scythe
+cooldown.
+Rhaast
+:
+Umbral Trespass
+damage is modified to deal
+10%
+(+ 13% per 100
+bonus
+AD)
+of target's
+maximum
+health
+physical damage, and heals him for
+「 70% of the pre-mitigation damage 」
+「
+7%
+(+ 9% per 100
+bonus
+AD)
+of target's
+maximum
+health
+」
+.
+Mana Cost:
+100
+Cooldown:
+120 / 100 / 80 seconds
+Trivia
+Kayn
+is one of 11 champions that can change shape, altering some or all of their abilities:
+Elise
+,
+Gnar
+,
+Jayce
+,
+Kled
+,
+Nidalee
+,
+Rek'Sai
+,
+Shyvana
+,
+Sylas
+,
+Viego
+, and
+Yunara
+.
+In Kayn's case, once per game,
+The Darkin Scythe
+allows him to choose to permantly become either
+Darkin Slayer
+or
+Shadow Assassin
+, both forms enhancing his passive and abilities.
+Kayn
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Ambessa
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+,
+Zaahen
+, and
+Zed
+.
+He is the seventh dark-themed Ionian-
+affiliated
+champion (albeit Noxian-
+born
+), after
+Shen
+,
+Varus
+,
+Syndra
+,
+Zed
+,
+Xayah
+&
+Jhin
+; as well as the second-known member from the Order of Shadow.
+His stint as a child-soldier references
+conscription of children
+;
+Not all Noxian commanders condone their colleagues' callousness, though they at least turn a blind eye.
+While in
+Darkin Slayer
+form, the champion's ability tooltips change to read "Rhaast" instead of "Kayn".
+His dance references
+the Reebok dance
+.
+If you are tied in orbs for
+The Darkin Scythe
+, you will be defaulted to
+Rhaast
+.
+[
+2
+]
+The Darkin Scythe's
+icons upon transformation for
+Shadow Assassin
+and
+Darkin Slayer
+are both reused for the
+Teamfight Tactics
+items
+Kayn's Liberation
+and
+Rhaast's Embrace
+respectively, which reference him and Rhaast.
+Kayn's Series 1
+Eternals
+make the following references:
+Inside Out
+is a reference to the
+Disney/Pixar
+movie of the
+same name
+.
+Kayn's Series 2
+Eternals
+make the following references:
+Darkin Harvest
+is a name puns based on the
+Dark Harvest
+rune with the
+Darkin
+race.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Slayer
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Slayers fall into one of the following subclasses:
+Assassin
+Skirmisher (aka Duelist)
+Examples
+Katarina
+Rengar
+Shaco
+Tryndamere
+Gwen
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt by most damage-over-time (DoT)
+abilities
+.
+Persistent damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking due to currently performing another action that must complete. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification. However, abilities that would be interrupted by forms of cast-inhibiting crowd control are also interruptible by
+Disrupt
+.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Umbral Trespass
+COOLDOWN:
+120 / 100 / 80
+Passive:
+Kayn
+marks
+enemy champions he has damaged for a few seconds.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion. Upon arrival, he
+channels
+for a short time,
+attaching
+to the target and
+revealing
+them.
+Recast:
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction.
+Shadow Assassin Bonus:
+Umbral Trespass
+has increased range. Emerging will
+reset
+The Darkin Scythe's
+cooldown.
+Darkin Slayer Bonus:
+Umbral Trespass
+deals damage based on the
+target's
+maximum
+health
+, and
+heals
+him for a portion of the
+target's
+maximum
+health
+.
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+True damage
+Applies:
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt by most damage-over-time (DoT)
+abilities
+.
+Persistent damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+References
+↑
+1.0
+1.1
+1.2
+Kayn's profile page
+at
+LeagueOfLegends.com
+↑
+Rovient on Kayn Orb Ties

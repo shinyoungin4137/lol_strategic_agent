@@ -1,0 +1,2024 @@
+# Viktor
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Viktor
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+600
++100
+MP
+405
++45
+HP5
+8
++0.65
+MP5
+8
++0.8
+AR
+23
++4.4
+AD
+53
++3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+335
+Attack range
+525
+Attack speed
+Base AS
+0.658
+Windup%
+18%
+AS ratio
+N/A
+Bonus AS
++2.11
+%
+Missile speed
+2300
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+140
+Acq. radius
+525
+Special statistics
+HP
+「 600 (+
+92
+) 」
+「
+600 – 2164
+」
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Viktor
+The Herald of the Arcane
+Role(s):
+Middle
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Release date
+2011-12-29
+Last changed
+V25.24
+Class
+Battlemage
+Legacy class
+Mage
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Glorious Evolution
+Innate:
+Viktor
+collects
+Hex Fragments
+from enemies he kills and enemy champion
+takedowns
+. At 100
+Hex Fragments
+, he gains an Augment to apply to any of his
+abilities
+, empowering them with additional effects.
+Arcane Storm
+can be augmented after all of
+Viktor's
+basic abilities have been augmented.
+Innate:
+Viktor
+can augment each of his
+abilities
+at the cost of 100
+Hex Fragments
+, which he gains from killing enemies:
+Minions
+and
+monsters
+generate 1
+Hex Fragment
+.
+Siege minions, super minions, and epic monsters generate 10
+Hex Fragments
+.
+Enemy
+champion
+takedowns
+generate 20
+Hex Fragments
+.
+Arcane Storm
+can be augmented after all of
+Viktor's
+basic abilities have been augmented.
+Info
+Targeting input
+Passive
+Affects
+Self
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Gains 40
+Hex Fragments
+per round.
+Edit
+Siphon Power
+COST:
+45 / 50 / 55 / 60 / 65 mana
+COOLDOWN
+:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+600
+SPEED:
+2000
+Active:
+Viktor
+throws a draining device at the target enemy that deals
+magic damage
+. He also gains
+Discharge
+and
+shields
+himself for a short time.
+Discharge
+:
+Viktor's
+next
+basic attack
+with a short time will be modified to deal
+magic damage
+.
+Augment
+:
+After the device hits,
+Viktor
+gains
+bonus
+movement speed
+for a short time, and the
+shield
+is increased.
+Active:
+Viktor
+throws a draining device at the target enemy that deals
+magic damage
+. He also grants himself a
+shield
+for
+40 – 140 (based on level)
+(+ 25% AP)
+for 2.
+5
+seconds and gains
+Discharge
+for 4 seconds.
+Magic Damage:
+60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+Discharge:
+Viktor's
+next
+basic attack
+is empowered to become
+non-projectile
+and deal
+modified
+magic damage
+.
+Modified Magic Damage:
+20 / 45 / 70 / 95 / 120
+(+ 100% AD)
+(+ 50% AP)
+Total Magic Damage:
+80 / 120 / 160 / 200 / 240
+(+ 100% AD)
+(+ 90% AP)
+Augment: Turbocharge
+—
+After the device hits,
+Viktor
+gains
+30%
+bonus
+movement speed
+for 2.
+5
+seconds and the shield's strength is increased
+「 by 60%. 」
+「 to
+64 – 224 (based on level)
+(+ 40% AP)
+. 」
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies / Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Projectile
+See Notes
+Discharge
+does not convert the bonus damage dealt by
+Spellblade
+to
+magic damage
+from
+physical
+.
+(bug)
+Discharge
+disables the
+bonus
+damage from
+critical strikes
+.
+(bug)
+Spell shield
+does not prevent
+Viktor
+from gaining
+Discharge
+.
+Only the initial projectile can be
+intercepted
+.
+The empowered attack will trigger against turrets but not be consumed nor apply its effects against
+wards
+.
+If the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost (if applicable).
+Map-Specific Differences
+Arena
+differences
+edit
+Device base damage changed to 50 / 62.
+5
+/ 75 / 87.
+5
+/ 100.
+Device AP ratio changed to
+30% AP
+.
+Discharge base damage changed to 20 / 35 / 50 / 65 / 80.
+Discharge AP ratio changed to
+50% AP
+.
+Edit
+Gravity Field
+COST:
+65 mana
+COOLDOWN:
+17 / 16 / 15 / 14 / 13
+CAST TIME:
+0.
+25
+TARGET RANGE:
+800
+EFFECT RADIUS:
+340
+Active:
+Viktor
+deploys a gravity field that remains at the target location for a few seconds. After a brief delay, the field will activate to continually
+slow
+enemies within and inflict
+stack
+of
+Gravity Field
+.
+Gravity Field:
+The fifth stack will consume them all to
+knock down
+and briefly
+stun
+the target.
+Augment
+:
+Viktor's
+basic abilities and the initial hit of
+Arcane Storm
+will briefly
+slow
+enemies hit.
+Active:
+Viktor
+deploys a gravity field at the target location for 4.
+5
+seconds. After a 0.
+75
+-second delay, it activates to
+slow
+enemies within for 1 second, refreshing every 0.
+25
+seconds while they remain inside.
+Slow:
+33 / 36 / 39 / 42 / 45%
+The field applies a
+stack
+of
+Heavy Gravity
+to enemies within every 0.
+25
+seconds, stacking up to 5 times. The fifth stack consumes them all to
+knock down
+and
+stun
+the target for 1.
+5
+seconds. The knockdown and stun can be triggered only once per cast per enemy.
+Augment: Magnetize
+—
+Viktor's
+other abilities, excluding
+Arcane Storm's
+persistent damage,
+slow
+enemies hit by 20% for 1 second.
+Info
+Targeting input
+Location
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Enemies
+Counters
+Spell shield
+Blocked
+Gravity Field
+applies a single debuff for both the slow and the stack.
+Targets can be applied further stacks after having their stacks consumed for the first time.
+Stacks are always consumed upon the fifth stack, but only the first instance of stacks being consumed can trigger the crowd control effects.
+The debuff lasts for 1 second.
+Gravity Field
+will remain active if
+Viktor
+dies.
+Gravity Field's
+animation can be seen by both teams through
+fog of war
+.
+If an enemy enters the area of effect while
+untargetable
+, they may generate stacks even after becoming stunned once, causing them to get stunned up-to 3 times by a single
+Gravity Field
+.
+(bug)
+Edit
+Hextech Ray
+COST:
+60 / 70 / 80 / 90 / 100 mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+TARGET RANGE:
+550
+RANGE:
+500
+EFFECT RADIUS:
+500
+WIDTH:
+90
+SPEED:
+1050
+•
+1500
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit.
+Augment
+:
+After a brief delay, the path explodes along the beam's wake, dealing
+magic damage
+to enemies hit.
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit and briefly grants
+sight
+of the area.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 50% AP)
+Augment: Aftershock
+—
+The path explodes along the beam's wake after 1 second, dealing
+magic damage
+to enemies hit.
+Magic Damage:
+20 / 50 / 80 / 110 / 140
+(+ 80% AP)
+Total Magic Damage:
+90 / 160 / 230 / 300 / 370
+(+ 130% AP)
+Info
+Targeting input
+Vector
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Viktor
+may freely act while the ray is traveling.
+The effected area is set upon casting, no matter how far away
+Viktor
+moves. Unlike a leash,
+Hextech Ray
+will not break off its own effect.
+The laser grants a moderate area of
+sight
+around where the beam strikes the ground.
+If
+Hextech Ray
+is
+intercepted
+, the initial ray is not destroyed.
+However, the capability to be blocked only applies to the laser as it hits the ground.
+Viktor
+can cast the ability
+over
+the wall and it will not be destroyed or intercepted.
+Augmented Hextech Ray
+will still cause the entire target area to explode even if the laser is blocked.
+If
+Viktor
+dies while he is firing the beam it only deals damage up to the location at the time of his death.
+Map-Specific Differences
+Arena
+differences
+edit
+Laser AP ratio changed to
+40% AP
+.
+Cooldown changed to 13 / 12 / 11 / 10 / 9 seconds.
+Edit
+Arcane Storm
+COST:
+100 mana
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+EFFECT RADIUS:
+325
+Perfect Storm Radius:
+325 – 1105 (based on number of takedowns)
+Storm Sight Radius:
+700
+or
+Storm radius
+Storm Speed:
+200 – 300
+Perfect Storm Speed:
+250 – 375
+Active:
+Viktor
+conjures an arcane singularity at the target location that deals
+magic damage
+to enemies within and
+disrupts
+their channeled abilities. The singularity then remains for a duration, continually dealing
+magic damage
+to enemies within the area. If the initial hit has struck at least one enemy
+champion
+, it will automatically follow the nearest one hit.
+Arcane Storm
+can be recast at any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location or to follow the targeted enemy champion.
+Augment
+:
+The singularity moves faster. Scoring a champion
+takedown
+(up to 6) after the storm damages them will increase the singularity's size and duration.
+Active:
+Viktor
+conjures an arcane singularity at the target location, dealing
+magic damage
+to enemies within the area and
+disrupting
+their
+channeled abilities
+.
+Magic Damage:
+100 / 175 / 250
+(+ 50% AP)
+The singularity then remains active as a moving storm for 6.
+5
+seconds, striking a bolt of electricity onto enemies within it every second to deal
+magic damage
+, as well as granting
+sight
+of the area within its radius and the
+surrounding area
+. The singularity will target the nearest champion hit by its initial damage and will follow them. The singularity moves faster based on its proximity to
+Viktor
+.
+Magic Damage Per Tick:
+65 / 105 / 145
+(+ 35% AP)
+Total Magic Damage:
+490 / 805 / 1120
+(+ 260% AP)
+Arcane Storm
+can be recast at any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location, or to follow the target enemy champion or himself for its remaining duration.
+Augment: Perfect Storm
+—
+The singularity moves 25% faster. Additionally, whenever an enemy champion is
+taken down
+after being damaged by
+Arcane Storm
+, the singularity increases the storm's size by 40% and extends its duration by 3 seconds. The storm's radius can be increased up to 6 times and the singularity's duration can be extended only up to the original duration.
+Arcane Storm's recast can be used while affected by
+cast-inhibiting crowd control
+.
+Info
+Targeting input
+Location
+•
+Unit
+Target out-of-range override
+Walk in range of the target location to cast (first cast)
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Viktor
+can command the singularity regardless of how far away he is from it.
+The singularity will remain active even if
+Viktor
+dies and will automatically follow the nearest enemy champion in range at the time of his death, if it wasn't locked on already.
+The singularity will only be issued to automatically follow a nearby champion once; it will not lock on to a new target if its current target becomes invalid.
+Any commands it was issued prior to his death will not be interrupted.
+Spell shield
+will only block the initial damage.
+If
+Perfect Storm's
+singularity scores the killing blow on an enemy champion with the initial damage, it will spawn with the increased size.
+If multiple champions are dealt the killing blow by the initial hit, the singularity will spawn with the increased size respective to the number of champions killed.
+The base duration allows for 7 strikes (including the initial one).
+The storm will follow its target even if they are not
+visible
+, effectively giving away their position.
+Arcane Storm
+is not obstructed by terrain.
+The
+disrupt
+is 'wrapped' into a status effect that causes affected champions to display the "
+Silenced
+" UI on their
+health bar
+for 0.
+25
+seconds, without actually applying the disabling effects of the
+silence
+crowd control type (functions as an indicator of the target becoming
+disrupted
+). This however ensures that the
+disrupt
+is also prevented by effects that would negate
+silences
+(such as
+crowd control immunity
+).
+After becoming augmented, an
+alternate icon is used for the recast of
+Arcane Storm
+.
+The champion that
+Arcane Storm
+is following will have an overhead indicator.
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Base damage per hit changed to 60 / 100 / 140.
+AP ratio per hit changed to
+40% AP
+.
+Arena
+differences
+edit
+Initial base damage changed to 75 / 125 / 175.
+Cooldown changed to 100 / 80 / 60 seconds.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Viktor (Collection)
+.
+Original
+29.12.2011
+The fully biomechanical evolution of his former self, Viktor has embraced his Glorious Evolution and become something of a messiah to his followers. He sacrificed his own humanity under the logic that eliminating emotion would thereby eliminate suffering—and now seeks to bring the revelation of the hexcore to the rest of the world, even if they’re incapable of understanding the benefit. After all, to this master of the arcane, violence is merely a variable necessary to balance the ultimate equation.
+Owen Thomas
+Rudy Siswanto
+Loot eligible
+View in 3D
+•
+View Music
+Full Machine
+975
+29.12.2011
+Created from the same circuitry as the Full Metal champion, Jayce, Viktor was cast into the tunnels beneath the robot fighting arenas to serve as a janitoribot—while his twin was groomed for glory, simulcast en español. Upgrading himself with the cast-offs of the destroyed, he has sworn la venganza.
+Owen Thomas
+Lejia Chan, Kudos Productions
+Heavy Metal
+Loot eligible
+New SFX/VFX
+View in 3D
+Prototype
+750
+29.12.2011
+Owen Thomas
+Lejia Chan, Kudos Productions
+Mad Scientists
+Loot eligible
+Legacy
+Voice filter
+View in 3D
+Creator
+1350
+30.09.2013
+The creator of the Battlecast machine army, Viktor has perfected the art of transplanting living brains into low-tech, mass-produced weapons. But his work is far from complete, and even now he tinkers on newer, deadlier creations to crush all who oppose him.
+Owen Thomas
+Michal Ivan, Puppetworks Animation Studio
+Battlecast
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Death Sworn
+1350
+25.10.2017
+On a cold, dreary night, a pioneering inventor was tried and hanged for preaching his glorious vision of the future—a world in which the living knelt before the dead. Death had to admire Viktor's conviction, and sent him back into the mortal world, blessed with powers beyond imagination.
+Owen Thomas
+Marie Magny, West Studio
+Death Sworn
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+PsyOps
+1350
+17.09.2020
+Leader of the rogue military known as the Black Rose Group, Viktor is a psychic technomancer whose vision for a utopian world was abandoned when he suddenly departed High Command decades prior. Obsessed with an alien 'gate' uncovered during the Arctic Ops event, his experiments into human bioweapons would allow him to breach it and upend the global order.
+Owen Thomas
+Francis Tneh, West Studio
+Black Rose Group
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+PsyOps Viktor Chromas
+Amethyst
+Hunter
+Obsidian
+Peridot
+Ruby
+Sandstone
+Sapphire
+Turquoise
+High Noon
+1350
+26.05.2022
+Many a road to Hell was paved with good intent. Dr. Viktor may be the Mechanical Devil's kept engineer now, but his work began as charity: trying to “rehome” the souls of the dead in clockwork bodies, in order to circumvent mortality itself. Shame that Mordekaiser saw the good doctor's kindness and struck him a deal he could not deny.
+Owen Thomas
+Augusto Quirino, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+High Noon Viktor Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Arcane Savior
+1820
+11.12.2024
+Viktor wanted nothing to do with hextech after the death of his assistant, Sky—but the arcane had different plans for him. In the undercity, he found a new purpose as a healer thanks to the hexcore's effect on him. Now he hopes to show everyone the true power and promise of hextech, should they choose to accept it.
+Owen Thomas
+Horace 'Hozure' Hsu
+Arcane
+Loot eligible
+Legacy
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Machine Herald
+1350
+05.11.2025
+Viktor was once a brilliant scientist focused on the promise of technology. Convinced that flesh and emotions inhibited progress, he transcended his own frailty through relentless augmentation. Now, as the steel herald of a new age, he leads all toward the Glorious Evolution—and a world reforged in his image.
+Owen Thomas
+Augusto Quirino, West Studio
+Traditional
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Machine Herald Viktor Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V25.24
+Siphon Power
+Base shield increased to
+40 – 140 (based on level)
+from
+40 – 115 (based on level)
+.
+Shield AP ratio increased to
+25% AP
+from
+18% AP
+.
+Bug Fix:
+Corrected tooltip AP ratio.
+No gameplay change.
+V25.17
+Siphon Power
+Bug Fix:
+Tooltip now notes the correct buff duration for Discharge's attack of 4 seconds instead of 3.
+5
+.
+V25.15
+Siphon Power
+Undocumented / Bug Fix:
+Tooltip has been corrected to note the stated damage is the total damage dealt instead of an "additional" amount.
+Arcane Storm
+Bug Fix:
+Spell shields are no longer consumed by a strike without blocking its damage.
+V25.06
+Glorious Evolution
+If a level up occurs while an Augment point is gained, no longer requires the player to have to gain another Augment point before they are able to apply it to any ability, and causing the Augment point icons in the HUD to remain greyed out and unusable until that point.
+High Noon Viktor
+Bug Fix:
+Corrected homeguard VFX.
+V25.04
+Arcane Storm
+Bug Fix:
+No longer always targets Viktor after he hits
+Rift Herald
+(including via Arcane Storm).
+V25.S1.2
+Siphon Power
+Discharge AP ratio reduced to
+50% AP
+from
+60% AP
+.
+Arcane Storm
+AP ratio per second reduced to
+35% AP
+from
+45% AP
+.
+V25.S1.1
+General
+Bug Fix:
+Corrected various clipping issues with the model.
+V14.24
+- December 18th Hotfix
+Stats
+Health growth reduced to 100 from 104.
+Armor growth reduced to 4.
+4
+from 5.
+2
+.
+V14.24
+- Visual & Gameplay Update
+General
+Title changed to
+The Herald of the Arcane
+from
+The Machine Herald
+.
+Updated ability icons.
+Complete visual update across all skins.
+New splash artwork for
+Original Viktor
+,
+Full Machine Viktor
+,
+Prototype Viktor
+, and
+Death Sworn Viktor
+.
+Adjusted splash artwork for
+Creator Viktor
+,
+PsyOps Viktor
+, and
+High Noon Viktor
+.
+New lore.
+New voice-over.
+Updated sound effects.
+Prototype Viktor
+Price increased to
+750
+from
+520
+.
+Glorious Evolution
+Hex Fragments generated per large minion and epic monster kill increased to 10 from 5.
+Hex Fragments generated per champion takedown reduced to 20 from 25.
+Removed:
+Arcane Storm
+is no longer automatically augmented once all of his basic abilities have been augmented; it requires gaining a fourth augment.
+Arcane Storm
+cannot be augmented until after all of his basic abilities have been augmented.
+Bug Fix:
+Killing a champion clone no longer improperly generates 25 Hex Fragments.
+Siphon Power
+Base shield increased to
+40 – 115 (based on level)
+from
+27 – 105 (based on level)
+.
+Empowered base shield increased to
+64 – 184 (based on level)
+from
+43.
+2
+– 168 (based on level)
+.
+Gravity Field
+Undocumented:
+Zone radius increased to 340 units from 310.
+Zone duration increased to 4.
+5
+seconds from 3.
+75
+seconds.
+Slow strength increased to 33 / 36 / 39 / 42 / 45% from 30 / 34 / 38 / 42 / 45%.
+Slow duration increased to 1 second from 0.
+25
+seconds.
+Stack application rate increased to one per 0.
+25
+seconds from one per 0.
+5
+seconds.
+Maximum stacks increased to 5 from 3.
+Stacks are now consumed upon the fifth stack.
+Removed:
+Enemies no longer become immune to the slow after their stacks are consumed.
+Bug Fix:
+Stack application time is now consistent and is no longer improperly extended by up to 0.
+25
+seconds (total 0.
+75
+seconds of inconsistency over previously 3 ticks).
+Hextech Ray
+Renamed to
+Hextech Ray
+from
+Death Ray
+.
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+Arcane Storm
+Renamed to
+Arcane Storm
+from
+Chaos Storm
+.
+New Effect:
+Targeting the user now properly follows them instead of stopping upon reaching their location at the time of casting.
+New Effect:
+Augment: Perfect Storm — The singularity now increases in size by 40% and extends its duration by 3 seconds whenever an enemy champion is
+taken down
+after having been damaged by the ability. Size can only be increased up to 6 times and the duration can only be extended up to the original duration.
+PsyOps Viktor
+Arcane Storm
+Bug Fix:
+Singularity VFX no longer sometimes desyncs for allies.
+Trivia
+Pre-rework Viktor's robotic hand from the Prototype skin can be seen in the
+video
+for the Mac Version of League of Legends.
+Viktor's dance references the
+Melbourne Shuffle
+, a
+dance
+originating from Australia.
+A side-by-side comparison can be seen
+here
+.
+Viktor was the first champion who had a unique item available only for him (
+Prototype Hex Core
+), sharing this feature with
+Kalista
+.
+Viktor's
+Machine Herald
+skin represents his pre–visual‑update appearance. He is one of the five champions who have this type of skin, and his is the only one not named “Traditional”. The other champions are
+Karma
+,
+Lee Sin
+,
+Sejuani
+, and
+Trundle
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Arcane Storm
+COOLDOWN:
+120 / 100 / 80
+Active:
+Viktor
+conjures an arcane singularity at the target location that deals
+magic damage
+to enemies within and
+disrupts
+their channeled abilities. The singularity then remains for a duration, continually dealing
+magic damage
+to enemies within the area. If the initial hit has struck at least one enemy
+champion
+, it will automatically follow the nearest one hit.
+Arcane Storm
+can be recast at any time while the singularity is active.
+Recast:
+Viktor
+directs the singularity to the target location or to follow the targeted enemy champion.
+Augment
+:
+The singularity moves faster. Scoring a champion
+takedown
+(up to 6) after the storm damages them will increase the singularity's size and duration.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Siphon Power
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Viktor
+throws a draining device at the target enemy that deals
+magic damage
+. He also gains
+Discharge
+and
+shields
+himself for a short time.
+Discharge
+:
+Viktor's
+next
+basic attack
+with a short time will be modified to deal
+magic damage
+.
+Augment
+:
+After the device hits,
+Viktor
+gains
+bonus
+movement speed
+for a short time, and the
+shield
+is increased.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Glorious Evolution
+Innate:
+Viktor
+collects
+Hex Fragments
+from enemies he kills and enemy champion
+takedowns
+.
+At 100
+Hex Fragments
+, he gains an Augment to apply to any of his
+abilities
+, empowering them with additional effects.
+Arcane Storm
+can be augmented after all of
+Viktor's
+basic abilities have been augmented.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spellblade
+Spellblade
+is a unique
+named item effect
+that grants additional effects to the next
+on-hit
+trigger after casting a champion ability.
+The following items grant
+Spellblade
+:
+Sheen
+Bloodsong
+Dusk and Dawn
+Essence Reaver
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Knockdown
+Knockdown
+only affects units that are performing a
+dash
+or being displaced by an
+airborne
+effect. A unit that is
+knocked down
+has its
+dash
+or
+displacement
+interrupted and is placed on the ground instantly.
+Knockdown
+is not a
+status effect
+.
+Interrupts:
+Interrupts all
+dashes
+and
+airborne effects
+(displacement
+and
+status effects).
+Knock ups
+may have their
+airborne
+status removed on a case by case basis (inconsistent between sources), but their displacement always ends prematurely.
+Reduction:
+The effect is instantaneous.
+There is nothing to reduce.
+Resist:
+Resisted by
+crowd control immunity
+and
+displacement immunity
+.
+Removal:
+The effect is instantaneous.
+There is nothing to remove.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+References
+↑
+Viktor's profile page
+at
+LeagueOfLegends.com

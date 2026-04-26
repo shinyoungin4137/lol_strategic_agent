@@ -1,0 +1,2481 @@
+# Aurora
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Aurora
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+607
++110
+MP
+475
++30
+HP5
+6
++0.55
+MP5
+8
++0.8
+AR
+23
++4.5
+AD
+53
++3
+MR
+32
++1.3
+Crit. DMG
+200%
+MS
+335
+Attack range
+550
+Attack speed
+Base AS
+0.668
+Windup%
+20.054%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+1750
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+135
+Acq. radius
+525
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Ability Haste
++10
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Aurora
+The Witch Between Worlds
+Role(s):
+Middle
+,
+Top
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+3
+Utility
+1
+Release date
+2024-07-17
+Last changed
+V25.22
+Class
+Burst
+,
+Assassin
+Legacy class
+Mage
+,
+Assassin
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Spirit Abjuration
+Innate:
+Aurora's
+basic attacks
+and damaging
+abilities
+inflict a
+stack
+of
+Spirit Abjuration
+, stacking up to 3 times. The third stack consumes them all to deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+. If the target was a
+champion
+, she exorcises them to free a
+Spirit
+that follows her for a few seconds.
+Aurora
+heals
+over time based on her
+Spirits
+.
+Innate:
+Aurora's
+damaging
+basic attacks
+and
+abilities
+apply a
+stack
+of
+Spirit Abjuration
+to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal
+bonus
+magic damage
+equal to
+1%
+(+ 2.
+7
+% per 100 AP)
+of the target's
+maximum
+health
+, capped at
+100 – 290 (based on level)
+against
+monsters
+.
+Upon consuming the stacks from a
+champion
+,
+Aurora
+additionally exorcises them, freeing a
+Spirit
+from the target that follows her for the same duration. For each active
+Spirit
+,
+Aurora
+is
+healed
+for
+3 – 22 (based on level)
+(+ 2% AP)
+every second. Subsequent exorcisms free further
+Spirits
+and refresh all active
+Spirits
+.
+Aurora
+may have up to 4
+Spirits
+at a time, for a maximum heal per tick of
+12 – 88 (based on level)
+(+ 8% AP)
+.
+Info
+Targeting input
+Passive
+Affects
+Enemies, Self
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The spirits grant vision of a small area around themselves.
+Edit
+Twofold Hex
+COST:
+60 mana
+COOLDOWN
+:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+•
+None
+RANGE:
+900
+EFFECT RADIUS:
+Global
+WIDTH:
+210
+•
+90
+SPEED:
+1600
+•
+2000
+QUEUE THRESHOLD
+:
+0.
+05
+•
+0.
+05
+Active:
+Aurora
+fires a bolt of energy that deals
+magic damage
+to enemies hit and marks them for a short time.
+Twofold Hex
+can be recast while at least one target is marked.
+Recast:
+Aurora
+expunges the curse from all marked targets, drawing back bolts that each deal
+magic damage
+to enemies they pass through based on
+their
+missing
+health
+.
+Active:
+Aurora
+fires a bolt of energy in the target direction that deals
+magic damage
+to enemies hit and marks them with a curse for 3.
+5
+seconds.
+Magic Damage:
+45 / 70 / 95 / 120 / 145
+(+ 40% AP)
+Twofold Hex
+can be recast after 0.
+1
+seconds while at least one target is marked, and does so automatically at the end of the mark's duration.
+Recast:
+Aurora
+expunges the curse from all marked targets, drawing the spiritual energy back to her as bolts that each deal
+magic damage
+to all enemies they pass through, reduced to 40% against
+minions
+and 50% against
+monsters
+and increased by
+0% – 50% (based on target's
+missing
+health)
+. Subsequent bolts against an enemy deal 20% damage.
+Minimum Magic Damage:
+45 / 70 / 95 / 120 / 145
+(+ 40% AP)
+Maximum Magic Damage:
+67.
+5
+/ 105 / 142.
+5
+/ 180 / 217.
+5
+(+ 60% AP)
+Subsequent Bolt Minimum Magic Damage:
+9 / 14 / 19 / 24 / 29
+(+ 8% AP)
+Subsequent Bolt Maximum Magic Damage:
+13.
+5
+/ 21 / 28.
+5
+/ 36 / 43.
+5
+(+ 12% AP)
+Info
+Targeting input
+Direction
+•
+Auto
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Twofold Hex
+can also be recast for 0.
+66
+seconds after the 0.
+1
+-second delay. If the recast is used during this time window,
+Twofold Hex
+will be buffered to recast automatically as soon as the bolt missile from the first cast has fizzled from reaching maximum range, even if no targets are marked. This automatic recast can also be buffered during
+Twofold Hex's
+cast time.
+Spell shield
+can block the effects of the active and the recast.
+The marked targets do not need to be visible in order for
+Aurora
+to recast
+Twofold Hex
+.
+They do however need to be targetable; if all marked targets are
+untargetable
+,
+Twofold Hex's
+recast is disabled.
+Once
+Aurora
+has successfully recast
+Twofold Hex
+, she will not be able to recast it again for the duration regardless of any number of marked enemies still remaining.
+If all enemies marked by
+Twofold Hex
+are
+untargetable
+when
+Aurora
+manually recasts
+Twofold Hex
+, the ability will be consumed but evidently without effect. It will however automatically recast again at the end of the marks' duration to expunge any remaining marks.
+(unexpected)
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Across the Veil
+COST:
+80 mana
+COOLDOWN
+:
+22 / 21 / 20 / 19 / 18
+CAST TIME:
+none
+RANGE:
+300
+•
+450
+SPEED:
+350
+Active:
+Aurora
+hops
+into
+invisibility
+for a moment and gains
+Realm Hopper
+for a few seconds.
+Across the Veil's
+cooldown
+will reset upon scoring a champion
+takedown
+within a short time.
+Realm Hopper:
+Aurora
+becomes
+ghosted
+and gains
+bonus
+movement speed
+.
+Active:
+Aurora
+hops
+in the target direction inside a portal to the Spirit Realm. Upon
+completing
+the dash, she becomes
+invisible
+for a duration and gains
+Realm Hopper
+for 4 seconds.
+Invisibility Duration:
+1 / 1.
+15
+/ 1.
+3
+/ 1.
+45
+/ 1.
+6
+seconds
+Realm Hopper:
+Aurora
+becomes
+ghosted
+and gains
+bonus
+movement speed
+for the duration.
+Bonus Movement Speed:
+20 / 25 / 30 / 35 / 40%
+Scoring a
+takedown
+against an enemy
+champion
+within 3 seconds of damaging them will reset
+Across the Veil's
+cooldown
+.
+Info
+Targeting input
+Direction
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Self
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Aurora
+will
+not
+gain the stealth if her dash is interrupted.
+She will however gain the stealth despite the dash being interrupted from colliding with
+Between Worlds'
+border.
+Her dash is interrupted in this case from being overridden by the rift dash.
+Aurora
+is locked out of using all abilities, summoner spells, and item actives during the dash.
+She cannot buffer these spells to cast after the lockout. This is in place to prevent her from breaking the stealth from certain spell casts.
+This is the case even for spells that do not break stealth when cast.
+Using a basic attack breaks the stealth at the end of the attack windup.
+At rank 0,
+Realm Hopper
+will grant
+Aurora
+15%
+bonus
+movement speed
+. This is only relevant for using
+Between Worlds
+.
+If the
+total
+duration of
+Realm Hopper
+gained from a new cast of
+Across the Veil
+or
+Between Worlds
+is longer than the
+remaining
+duration of the one gained from a previous cast, then re-gaining
+Realm Hopper
+will override the previous buff's duration.
+If the
+remaining
+duration from a previous cast is shorter, then the same buff remains in place without refreshing.
+In both cases, the buff cannot stack with itself.
+Edit
+The Weirding
+COST:
+80 mana
+COOLDOWN:
+15 / 14 / 13 / 12 / 11
+CAST TIME:
+0.
+35
+RANGE:
+825
+WIDTH:
+175
+SPEED:
+150 +
+200% movement speed
+Active:
+Aurora
+blasts energy and
+recoils
+backward. The blast deals
+magic damage
+to enemies hit and
+slows
+them for a moment.
+Active:
+Aurora
+blasts energy in a line in the target direction and
+recoils
+250 units in the opposite direction. The blast deals
+magic damage
+to enemies hit and
+slows
+them by 80% for 1 second decaying after the first 0.
+15
+seconds.
+Magic Damage:
+70 / 110 / 150 / 190 / 230
+(+ 70% AP)
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Aurora
+is locked out of using all abilities, summoner spells, and item actives during the dash.
+While
+grounded
+or
+rooted
+,
+The Weirding
+can be cast but
+Aurora
+will not
+dash
+.
+Similarly, if
+Aurora
+is affected by ground or root during the cast time, she will not dash afterwards.
+This only applies to ground and root.
+Immobilizing
+effects will not prevent the dash afterwards.
+(unexpected)
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Does not benefit from
+Dashing
+.
+(bug)
+Does not trigger
+Mirage Blade's
+Blur.
+(bug)
+Edit
+Between Worlds
+COST:
+100 mana
+COOLDOWN
+:
+140 / 120 / 100
+CAST TIME:
+none
+RANGE:
+25 – 250
+•
+450
+COLLISION RADIUS:
+25
+EFFECT RADIUS:
+700
+Active:
+Aurora
+becomes
+unstoppable
+and
+leaps
+, unleashing an expanding shockwave that deals
+magic damage
+to enemies hit and
+slows
+them briefly, and gaining
+Realm Hopper
+for a few seconds. A circular rift then forms in the area. If
+Aurora
+touches the border, she
+dashes
+to the opposite side of it. If an enemy touches the border, they are
+slowed
+briefly. If
+Aurora
+dies
+or leaves the area, the rift will immediately close.
+Recast:
+Aurora
+closes the rift early.
+Realm Hopper:
+Aurora
+becomes
+ghosted
+and gains
+bonus
+movement speed
+.
+Active:
+Aurora
+leaps
+in the target direction with
+displacement immunity
+over 0.
+4
+seconds. She then gains
+Realm Hopper
+for a duration and unleashes a shockwave from
+425 units
+in front of her, expanding over 0.
+75
+seconds to deal
+magic damage
+to enemies hit and
+slow
+them by 30% for 2 seconds.
+Magic Damage:
+175 / 275 / 375
+(+ 70% AP)
+Realm Hopper
+Duration:
+3.
+5
+/ 4.
+25
+/ 5 seconds
+The shockwave leaves behind a circular rift to the Spirit Realm for a duration, forming borders that interact with
+Aurora
+and enemies. If
+Aurora
+collides
+with the border, she
+dashes
+to the diametrically opposite side of the rift over 0.
+4
+seconds, becoming
+untargetable
+and
+unable to act
+during the travel. If an enemy
+collides
+with the border, they are
+slowed
+by 50% for a duration.
+Rift Duration:
+1.
+75
+/ 2.
+5
+/ 3.
+25
+seconds
+Slow Duration:
+1.
+5
+/ 1.
+75
+/ 2 seconds
+Between Worlds
+can be recast after 1 second of unleashing the shockwave while the rift is active.
+Recast:
+Aurora
+closes the rift prematurely.
+The rift closes immediately if
+Aurora
+dies
+, enters
+resurrection
+, leaves the area, or is not within the area upon creation.
+Info
+Targeting input
+Direction
+•
+Auto
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Grounded
+See Notes
+Knockdown
+Not Interrupted
+Collision with the border is essentially moving within range of it while being targetable, including via normal movement, dash, or displacement.
+Aurora
+and enemies can collide with the border any number of times, as much as the duration permits.
+Enemies can be applied the slow by colliding with the border only once after moving within collision radius of it. The slow may be applied again from collision only until after they have left the collision radius; it cannot be continuously applied while enemies remain within collision radius of the border.
+Untargetable
+units cannot collide with the border, including
+Aurora
+herself.
+The in-game tooltip incorrectly lists the rift duration as 0.
+75
+seconds longer than it actually is.
+(bug)
+It is seemingly including the time required for the shockwave to fully expand. However, the rift and its borders will only form after the fact, so the actual duration of the rift is shorter.
+Between Worlds'
+untargetability
+from the rift dash does not
+destroy
+in-flight
+projectiles
+.
+Between Worlds'
+first cast is disabled while
+grounded
+or
+rooted
+.
+Aurora
+can still dash from colliding with the border even if she is
+immobilized
+or
+grounded
+.
+Spell shield
+can block both the shockwave and border collision.
+A pair of portals signifying
+Aurora's
+nearest possible entry and its corresponding exit is visible to her at all times.
+Despite supposedly not being a projectile, the damage from
+Between Worlds
+gets reflected by
+Mel's
+Rebuttal
+, dealing damage and applying a mark of
+Aurora's
+Spirit Abjuration
+to all of Aurora's allies in range, but only if it has not hit another enemy champion first.
+If the damage hits any enemy champion before interacting with Rebuttal,
+Between Worlds
+will only hit enemies, including
+Mel
+.
+Aurora
+can still pass through the edge of the spell to open a portal and dash to the other side, even if it has been reflected by
+Rebuttal
+.
+The following table refers for interactions while
+Aurora
+is dashing:
+This lockout applies to both the initial dash and the dashes in the formed rift.
+The lockout during the initial cast's dash persists for another 0.
+5
+seconds after the dash ends.
+The lockout during the rift dash persists for another 0.
+15
+seconds after the dash ends.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Tips & Tricks
+Blinks
+through the border will not collide with it and thus will ignore the range check.
+Map-Specific Differences
+Arena
+differences
+edit
+Does not benefit from
+Dashing
+.
+(bug)
+Does not trigger
+Mirage Blade's
+Blur.
+(bug)
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Aurora (Collection)
+.
+Original
+17.07.2024
+From the moment she was born, Aurora navigated life with a unique ability to move between the spirit and material realms. Determined to learn more about the spirit realm's inhabitants, she left her home to further her research and happened upon a wayward demigod who'd become twisted and lost to time. Witnessing his desperation, Aurora resolved to find a way to help her feral friend regain his forgotten identity—a journey that would take her to the farthest reaches of the Freljord.
+Emeri Chase
+Jennifer Wuestling
+Loot eligible
+View in 3D
+•
+View Music
+Battle Bunny
+1350
+17.07.2024
+As Anima Squad's sole research specialist, Aurora uses her understanding of the Primordians (and PhD in bioengineering) to translate and adapt Primordian technology. While her work has led to incredible advancements in Anima Squad's equipment, her true passion is helping the world understand Primordians as she does.
+Emeri Chase
+Fortune 'Fortuneee' K
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Battle Bunny Aurora Chromas
+Amethyst
+Catseye
+Emerald
+Meteorite
+Nightwire
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Arcana
+1350
+24.09.2025
+Those below know Aurora as an eccentric academic at the Grand Library, wandering off to study the mysterious workings of the fabled Pattern. Those above know Aurora as the Witch Betwixt, one of the few Higher Arcana able to find portals hidden within the magic of all things, and travel the cities across their mirroring axis. As above, so below.
+Emeri Chase
+Francis Tneh, West Studio
+Arcana
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Arcana Aurora Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Trivia
+Patch history
+For the expanded patch notes, see
+here
+.
+V25.22
+Spirit Abjuration
+Bug Fix:
+Map spirits are now fully invisible to other champions and no longer feature some visible layers.
+The Weirding
+Bug Fix:
+VFX now properly features team colors.
+V25.21
+Spirit Abjuration
+Undocumented / Bug Fix:
+No longer drops
+Souls
+near the southern corner of the middle lane if
+Thresh
+is present.
+[1]
+V25.19
+General
+Bug Fix:
+Joke VO is no longer prematurely interrupted.
+V25.18
+Spirit Abjuration
+Mark target health ratio reduced to
+1% of target's
+maximum
+health
+from
+2.
+5
+%
+.
+Mark AP ratio increased to
+2.
+7
+% per 100 AP
+from
+2% per 100 AP
+.
+Between Worlds
+Bug Fix:
+Tooltip now notes the proper
+Realm Hopper
+buff duration gained and no longer incorrectly notes that she gains it for the rift's duration only.
+V25.17
+Between Worlds
+Bug Fix:
+Tooltip now notes the correct rift duration.
+V25.15
+Spirit Abjuration
+Undocumented / Bug Fix:
+Tooltip now notes the mark consumption's monster damage cap.
+Editor's Note:
+The correct
+current
+numbers are noted, but the tooltip is not set up to automatically update if they change in the future.
+V25.14
+Between Worlds
+Bug Fix:
+Dash
+is no longer accidentally disabled if she casts
+Between Worlds
+close in time to
+Mark's
+timer expiring.
+V25.12
+Stats
+Base magic resistance increased to 32 from 30.
+Between Worlds
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+V25.10
+Twofold Hex
+Bug Fix:
+No longer fails to trigger
+Horizon Focus'
+Hypershot when under valid conditions.
+The Weirding
+Bug Fix:
+No longer fails to trigger
+Horizon Focus'
+Hypershot when under valid conditions.
+V25.09
+General
+Bug Fix:
+Realm Hopper's buff tooltip now has a proper name and description.
+V25.07
+Across the Veil
+Bug Fix:
+Corrected the capitalization of "move speed" to "Move Speed" in the tooltip.
+V25.05
+Spirit Abjuration
+Bug Fix:
+Stack application from basic attacks is now properly prevented by
+block
+.
+The Weirding
+AP ratio reduced to
+70% AP
+from
+80% AP
+.
+Between Worlds
+Exit slow strength reduced to 50% from 75%.
+V25.04
+General
+Bug Fix:
+Resolved several missing or incorrect SFX.
+V25.S1.2
+Battle Bunny Aurora
+The Weirding
+Bug Fix:
+Adjusted VFX to more correctly match the area of effect.
+V14.24
+Across the Veil
+Bug Fix:
+Tooltip now notes the movement speed bonus.
+V14.23
+- Gameplay Update
+General
+Bug Fix:
+Dying during
+Ambessa's
+Public Execution's
+suppression animation no longer causes
+Aurora
+to return to the default model pose.
+Spirit Abjuration
+Removed - Realm Hopper:
+After exorcising an enemy, for the next 4 seconds (refreshing on subsequent exorcisms)
+Aurora
+no longer gains
+5% – 8.
+6
+% (based on level)
+(+ 3% per 100 AP)
+bonus
+movement speed
+, and an additional
+2%
+(+ 1.
+5
+% per 100 AP)
+bonus
+movement speed
+for each active
+Spirit
+, up to 4
+Spirits
+maximum.
+Effect name moved to
+Across the Veil
+&
+Between Worlds
+.
+Twofold Hex
+Range increased to 900 units from 850.
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+New Effect:
+Now automatically recasts at the end of its duration.
+Active base damage increased to 45 / 70 / 95 / 120 / 145 from 40 / 65 / 90 / 115 / 140.
+Across the Veil
+Removed:
+No longer grants
+Spirit Abjuration's
+Realm Hopper
+for 4 seconds.
+New Effect - Realm Hopper:
+Now grants
+20 / 25 / 30 / 35 / 40%
+bonus
+movement speed
+for 4 seconds.
+The Weirding
+Range increased to 825 units from 800.
+Between Worlds
+Removed:
+No longer grants
+Spirit Abjuration's
+Realm Hopper
+for 4 seconds, with the effectiveness increased by 100% while
+Aurora
+is inside the rift.
+New Effect:
+Now grants
+Across the Veil's
+Realm Hopper
+for 3.
+5
+/ 3.
+875
+/ 4.
+25
+/ 4.
+625
+/ 5 seconds after the initial leap.
+Rift duration increased to 1.
+75
+/ 2.
+5
+/ 3.
+25
+seconds from 1.
+25
+/ 1.
+75
+/ 2.
+25
+.
+Removed:
+Enemies colliding with the rift are no longer
+knocked back
+75 units away from it.
+Border slow duration reduced to 1.
+5
+/ 1.
+75
+/ 2 seconds from 2 at all ranks.
+V14.18
+Between Worlds
+Initial dash maximum range reduced to 250 units from 450.
+Initial dash maximum range over terrain reduced to 450 units from 700.
+Initial dash fixed travel time reduced to 0.
+4
+seconds from 0.
+5
+.
+Rift duration reduced to 1.
+25
+/ 1.
+75
+/ 2.
+25
+seconds from 2.
+25
+/ 2.
+75
+/ 3.
+25
+.
+V14.17
+Between Worlds
+Base damage reduced to 175 / 275 / 375 from 200 / 325 / 450.
+V14.16
+Spirit Abjuration
+Bug Fix:
+Realm Hopper's
+duration is now properly refreshed when granted by
+Spirit Abjuration
+,
+Across the Veil
+or
+Between Worlds
+.
+Twofold Hex
+Bug Fix:
+Now properly triggers stacks of
+Electrocute
+,
+Phase Rush
+, and
+Conqueror
+if it was used shortly before or after
+The Weirding
+.
+Undocumented/New Effect:
+Recast can now be buffered during its cooldown and for 0.
+66
+seconds afterwards to cast as soon as the missile has fizzled from reaching maximum range, even if no targets are marked.
+Between Worlds
+Bug Fix:
+No longer only sometimes interrupts the dashes of enemies that collide with the borders from the outside.
+Bug Fix:
+VFX is now properly visible through the Fog of War at all times instead of only if the enemy can see the center of the rift.
+V14.15
+- August 5th Hotfix
+Spirit Abjuration
+Damage AP ratio increased to
+2% per 100 AP
+from
+1.
+5
+%
+.
+Twofold Hex
+Minion damage increased to 40% from 25%.
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+V14.15
+- August 2nd Hotfix
+Stats
+Base armor reduced to 23 from 27.
+Spirit Abjuration
+Base damage reduced to
+2.
+5
+% target
+maximum
+health
+from
+4%
+.
+Twofold Hex
+Minion damage reduced to 25% from 50%.
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+V14.15
+General
+Bug Fix:
+Issues with recommended runes have been resolved.
+Spirit Abjuration
+Base bonus movement speed reduced to
+5% – 8.
+4
+% (based on level)
+from
+5% – 9.
+25
+% (based on level)
+.
+Bonus movement speed per spirit reduced to 2% from 5%.
+New Effect:
+Bonus movement speed per spirit now scales with
+1.
+5
+% per 100 AP
+.
+Twofold Hex
+Recast timer reduced to 0.
+1
+seconds from 0.
+5
+.
+Bug Fix:
+Recast is no longer able to miss its target.
+Bug Fix:
+Recast now properly completes if the primary target dies.
+Across the Veil
+Cooldown increased to 22 / 21 / 20 / 19 / 18 seconds from 18 / 17 / 16 / 15 / 14.
+Stealth is now broken from a basic attack at the completion of its windup, instead of at the start.
+The Weirding
+Base dash speed reduced to 150 from 800.
+New Effect:
+Dash speed now scales with 200% movement speed.
+New Effect:
+Can now buffer attack and ability casts while dashing.
+Between Worlds
+Base damage reduced to 200 / 325 / 450 from 250 / 375 / 500.
+AP ratio reduced to
+60% AP
+from
+65% AP
+.
+New Effect:
+Can now buffer attack and ability casts while dashing.
+Removed:
+Camera is no longer locked while dashing.
+Bug Fix:
+While using maximum cast range clamping, buffering
+Between Worlds
+before blinking by any means no longer causes it to cast in the opposite direction from the one intended.
+Bug Fix:
+Hextech Rocketbelt's
+Supersonic's dash no longer overrides (and disables)
+Between Worlds'
+cast, causing
+Aurora
+to illegally gain displacement immunity from Supersonic.
+Bug Fix:
+Rift is no longer usable by
+Aurora
+within the
+Mordekaiser's
+Realm of Death
+if created outside of it/before entering it.
+Bug Fix:
+Rift VFX are no longer visible across dimensions (
+Mordekaiser's
+Realm of Death
+).
+V14.14
+- Added
+Spirit Abjuration
+- Innate
+Innate:
+Aurora's
+damaging basic attacks and abilities apply a stack of
+Spirit Abjuration
+to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal
+bonus
+magic damage
+equal to
+4%
+(+ 1.
+5
+% per 100 AP)
+of the target's
+maximum
+health
+, capped at
+100 – 270 (based on level)
+against
+monsters
+.
+Upon consuming the stacks from a
+champion
+,
+Aurora
+additionally exorcises them, gaining
+Realm Hopper
+for 4 seconds and freeing a
+Spirit
+from the target that follows her for the same duration. For each active
+Spirit
+,
+Aurora
+heals
+for
+3 – 20 (based on level)
+(+ 2% AP)
+every second. Subsequent exorcisms free further
+Spirits
+and refresh the duration of
+Realm Hopper
+and all active
+Spirits
+.
+Aurora
+may have up to 4
+Spirits
+at a time, for a maximum heal per tick of
+12 – 80 (based on level)
+(+ 8% AP)
+.
+Realm Hopper:
+Aurora
+gains
+ghosting
+and
+5% – 9.
+25
+% (based on level)
+(+ 3% per 100 AP)
+(+
+5% – 20% (based on active Spirits)
+)
+bonus
+movement speed
+.
+Twofold Hex
+- Q
+Active:
+Aurora
+fires a bolt of energy in the target direction that deals 40 / 65 / 90 / 115 / 140
+(+ 40% AP)
+magic damage
+to enemies hit and marks them with a curse for 3.
+5
+seconds.
+Twofold Hex
+can be recast after 0.
+5
+seconds of marking at least one target.
+Recast:
+Aurora
+expunges the curse from all marked targets, drawing the spiritual energy back to her as bolts that each deal the same
+magic damage
+to all enemies they pass through, reduced to 50% against
+minions
+and
+monsters
+and increased by
+0% – 100% (based on target's
+missing
+health)
+. Subsequent bolts against an enemy deal 20% damage.
+Cost:
+60 mana.
+Cooldown:
+8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds.
+Cast Time:
+0.
+25
+seconds.
+Across the Veil
+- W
+Active:
+Aurora
+hops
+in the target direction inside a portal to the Spirit Realm. Upon completing the dash, she becomes
+invisible
+for 1 / 1.
+15
+/ 1.
+3
+/ 1.
+45
+/ 1.
+6
+seconds and gains
+Realm Hopper
+for 4 seconds. Attacking or casting abilities ends the stealth immediately.
+Scoring a
+takedown
+against an enemy
+champion
+within 3 seconds of damaging them resets
+Across the Veil's
+cooldown
+.
+Cost:
+80 mana.
+Cooldown:
+18 / 17 / 16 / 15 / 14 seconds.
+Cast Time:
+None.
+The Weirding
+- E
+Active:
+Aurora
+blasts energy in a line in the target direction and
+recoils
+250 units in the opposite direction. The blast deals 70 / 110 / 150 / 190 / 230
+(+ 80% AP)
+magic damage
+to enemies hit and
+slows
+them by 80% for 1 second decaying after 0.
+15
+seconds.
+Cost:
+80 mana.
+Cooldown:
+15 / 14 / 13 / 12 / 11 seconds.
+Cast Time:
+0.
+35
+seconds.
+Between Worlds
+- R
+Active:
+Aurora
+leaps
+in the target direction with
+displacement immunity
+while unleashing a pulse of energy at a set location in front of her, both over 0.
+5
+seconds. She then gains
+Realm Hopper
+for 4 seconds and the pulse expands in a radius from the location over the next 0.
+75
+seconds, dealing 250 / 375 / 500
+(+ 65% AP)
+magic damage
+to enemies hit and
+slowing
+them by 30% for 2 seconds. Once the pulse has fully expanded, it manifests a circular rift to the Spirit Realm for 3 / 3.
+5
+/ 4 seconds.
+While
+Aurora
+is inside the rift, she doubles the
+bonus
+movement speed
+granted by
+Realm Hopper
+.
+Aurora
+and enemies within the rift are trapped inside. If
+Aurora
+collides with the border, she
+dashes
+to the diametrically opposite side of the rift over 0.
+4
+seconds, becoming
+untargetable
+and
+unable to act
+during the travel. If an enemy collides with the border, they are
+knocked back
+75 units away from it and are
+slowed
+by 75% for 2 seconds.
+Between Worlds
+can be recast after 1 second of unleashing the pulse.
+Recast:
+Aurora
+closes the rift prematurely.
+Cost:
+100 mana.
+Cooldown:
+140 / 120 / 100 seconds.
+Cast Time:
+None
+Collision Radius:
+25.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time.
+Invisible
+units become visible
+only
+when affected by
+True Sight
+.
+A
+stealthed
+unit's character model briefly shimmers for every instance of damage taken while
+stealthed
+. This shimmering does not make the unit
+selectable
+nor remove the
+stealth
+effect, only compromises its position.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units and other units to move through them.
+League of Legends content
+Invisibility
+Invisibility
+is a form of stealth that renders a unit hidden from enemy
+vision
+for a
+short
+period of time.
+Invisible
+units become visible
+only
+when affected by
+True Sight
+.
+A
+stealthed
+unit's character model briefly shimmers for every instance of damage taken while
+stealthed
+. This shimmering does not make the unit
+selectable
+nor remove the
+stealth
+effect, only compromises its position.
+League of Legends content
+Between Worlds
+COOLDOWN:
+140 / 120 / 100
+Active:
+Aurora
+becomes
+unstoppable
+and
+leaps
+, unleashing an expanding shockwave that deals
+magic damage
+to enemies hit and
+slows
+them briefly, and gaining
+Realm Hopper
+for a few seconds.
+A circular rift then forms in the area. If
+Aurora
+touches the border, she
+dashes
+to the opposite side of it. If an enemy touches the border, they are
+slowed
+briefly. If
+Aurora
+dies
+or leaves the area, the rift will immediately close.
+Recast:
+Aurora
+closes the rift early.
+Realm Hopper:
+Aurora
+becomes
+ghosted
+and gains
+bonus
+movement speed
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement, becoming unable to input movement commands and use movement spells. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+References
+↑
+Aurora's profile page
+at
+LeagueOfLegends.com

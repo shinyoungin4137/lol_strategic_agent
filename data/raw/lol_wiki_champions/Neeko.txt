@@ -1,0 +1,3295 @@
+# Neeko
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Neeko
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+610
++104
+MP
+450
++30
+HP5
+7.5
++0.75
+MP5
+7
++0.7
+AR
+21
++5.2
+AD
+48
++2.5
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+340
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Windup%
+20%
+AS ratio
+0.67
+Bonus AS
++3.5
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+300
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Arena
+differences
+edit
+General
+New Effect:
+Now passively gains
+0 – 200 (based on level)
+increased
+base
+health
+.
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-2%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-5%
+Neeko
+The Curious Chameleon
+Role(s):
+Middle
+,
+Support
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+1
+Release date
+2018-12-05
+Last changed
+V26.06
+Class
+Burst
+,
+Catcher
+Legacy class
+Mage
+,
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Inherent Glamour
+Sho'Ma Gathering Range:
+400
+Leap Range:
+500
+Innate:
+Neeko
+has a collection of disguises to take on the appearance of allied champions. She can choose a new champion to switch her disguise or select herself to deactivate her disguise. Standing near a non-champion unit will collect its
+Sho'Ma
+, adding its disguise to the collection. She can collect only one
+Sho'Ma
+, but can discard or consume it. The disguise will break when
+Neeko
+takes "lethal" damage, becomes
+immobilized
+, or performs her damaging abilities. This will also incur the cooldown.
+Innate:
+Neeko
+has a collection of disguises to take on the appearance of allied
+champions
+, displayed on her
+Disguise Menu
+. She can use the menu to activate a disguise, switch her current disguise to a different one, or deactivate the current disguise by selecting herself, all of which place
+Inherent Glamour
+on a 0.
+5
+-second cooldown. Taking damage from a champion or
+turret
+while not disguised puts
+Inherent Glamour
+on a 2-second cooldown.
+Standing by the nearest
+visible
+allied or neutral non-champion non-structure unit while not disguised will gather its
+Sho'Ma
+over 2 seconds, adding its disguise to the collection. Activating this disguise places
+Inherent Glamour
+on a 1-second cooldown.
+Neeko
+can collect only one
+Sho'Ma
+, but can discard or consume it using her
+Disguise Menu
+. She can store
+Sho'Ma
+from the following units, as long as they are targetable:
+Non-epic
+monsters
+Minions
+Traps
+Wards
+Pets
+Jungle plants
+While disguised,
+Neeko
+can use
+basic attacks
+while keeping her form. Her disguise breaks if she:
+uses a damaging
+ability
+,
+summoner spell
+, or
+item active
+becomes
+immobilized
+takes damage lethal to the disguise's form
+enters the enemy team's
+spawn
+platform
+*
+begins a
+channel
+other than
+Recall
+/
+Empowered Recall
+deals damage to a
+structure
+with a non-champion disguise form
+takes damage from a
+turret
+dies
+Breaking the disguise via dying, being immobilized or taking damage from a turret puts
+Inherent Glamour
+on a 2-second cooldown, entering the enemy spawn platform does not put it on cooldown, and all other methods of breaking the disguise put
+Inherent Glamour
+on a 1-second cooldown.
+Inherent Glamour's disguise is not deactivated from
+Pop Blossom
+until after 0.
+5
+seconds of its cast.
+Neeko
+cannot activate Inherent Glamour while she is affected by
+cast-inhibiting crowd control
+or a
+lockout
+that disables casting abilities.
+Info
+Targeting input
+Auto
+Affects
+Self
+Counters
+Grounded
+Not Disabled
+This article or section is
+substantially or structurally
+incomplete. You can help the League of Legends Wiki by
+expanding
+it. For more projects, see the
+Community To Do List
+.
+Additional information:
+This page is missing a full list of interactions with items, champion abilities, map-specific interactions, and tips & tricks.
+Before disguising
+Disguise menu on the HUD
+Neeko's
+disguise collection is offered through a special
+Disguise Menu
+in the HUD. The menu holds up to 5
+slots
+, based on the number of allied
+champions
+. The player can select a disguise by
+clicking on their portrait or via the Champion Specific Interaction
+hotkeys
+(default:
+Shift
++
+F1–F5
+). The
+Sho'Ma
+disguise can be discarded by clicking on the 'x' next to the disguise's icon or via the sixth Champion Specific Interaction hotkey (default:
+Shift
++
+F6
+).
+The
+slot
+containing her
+Sho'Ma
+disguise will be third in the HUD if there are two or more allied champions in the game, otherwise it will be the rightmost
+slot
+. The remaining
+slots
+will contain allied champion disguises in order of their appearance in the pre-game
+Loading Screen
+.
+Casting
+Inherent Glamour
+does not count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+,
+Force Pulse's
+passive, and does not interrupt
+the clone's
+movement orders.
+Neeko
+does not begin storing
+Sho'Ma
+from a unit if that unit enters her
+sight
+and gathering range at the same time, or if it is within gathering range when she loses the disguise.
+The progress of gathering
+Sho'Ma
+from a unit is not lost even if
+Neeko
+stores
+Sho'Ma
+from a different unit.
+Inherent Glamour's
+cooldown only prevents
+Neeko
+from activating disguises; she can still store and remove
+Sho'Ma
+while the passive is on cooldown.
+When disguising while storing
+Sho'Ma
+from a unit,
+Neeko
+continues to store
+Sho'Ma
+from that unit.
+Neeko
+cannot store
+Sho'Ma
+from
+Dark Procession
+and
+Powder Keg
+.
+After successfully storing
+Sho'Ma
+, Neeko celebrates by clapping.
+This animation is forced and overrides all other animations except
+Pop Blossom's
+landing animation.
+If
+Neeko
+attempts to activate a disguise while near the
+trap
+,
+ward
+, or
+jungle plant
+she stored
+Sho'Ma
+from, she will
+leap
+to that unit's exact position over 1 second, though not through terrain, and then become disguised. If she does so for a monster and is near its respective jungle camp, she will leap to that monster's usual position in the camp.
+If the monster is any
+Krug
+, she will leap to the
+large
+Krug's position in the camp on the blue side or
+medium
+Krug's position on the red side.
+If the monster is
+Rift Scuttler
+or a
+lesser
+Raptor
+, she will leap to its position at the time of storing
+Sho'Ma
+instead.
+(bug)
+The leap is interrupted if
+Neeko
+attacks, moves, or casts certain abilities and spells.
+The disguise will still activate after 1 second if the leap is interrupted by moving or attacking.
+Neeko
+cannot gather
+Sho'Ma
+while leaping.
+She will fail to activate the disguise after the leap if she is affected by the same conditions that would break a disguise.
+Inherent Glamour's
+leap has a number of interactions that set it apart from other
+lunges
+:
+Inherent Glamour's
+leap does not interact with
+Voltaic Cyclosword's
+Galvanize
+passive;
+Inherent Glamour's
+leap does not override the forced movement inflicted by
+airborne
+effects;
+The path of
+Inherent Glamour's
+leap will be similar to the path
+Neeko
+would take if ordered to move to the unit's position instead.
+Neeko
+will copy the unit's facing direction when disguising after leaping.
+If
+Neeko
+does not arrive at the unit's position while leaping, she will continue moving toward it.
+While not disguised, attempting to cast
+Inherent Glamour
+during a cast time or
+attack windup
+puts the ability on cooldown immediately, but postpones the disguise.
+Doing so while disguised will not postpone the effect and will interrupt the
+attack windup
+.
+This allows
+Neeko
+to successfully disguise even if she gets affected by effects that would put
+Inherent Glamour
+on cooldown during the delay.
+(unexpected)
+Neeko
+can activate
+Inherent Glamour
+while
+channeling
+, and remain in the disguise during the channel.
+(unexpected)
+Neeko
+can activate
+Inherent Glamour
+while
+immobilized
+, and remain in the disguise during the immobilization, despite the fact that immobilizations are meant to break the disguise.
+(unexpected)
+While disguised
+Neeko
+will copy aesthetics as well as superficial mechanical
+statistics
+. She will fake a number of readings:
+Health bar
+(original's current amount becomes her apparent maximum)
+While disguised as
+Kled
+,
+Neeko's
+health bar simulates a
+health threshold
+, but does not color
+Skaarl's
+health
+properly.
+(bug)
+Secondary resource
+- e.g.
+mana
+,
+energy
+or none at all (original's current amount becomes her apparent maximum)
+If disguised as a
+Siege  Minion
+,
+Neeko
+cannot see her mana bar.
+(bug)
+Ammunition
+Stats
+Buffs
+and
+debuffs
+with their respective icons and VFX/SFX (there are exceptions)
+Neeko
+sees the buffs that are actually applied to her, while enemies see the disguise's form's buffs.
+Although
+Neeko
+can see the buffs, she cannot read their descriptions by hovering their icons.
+(bug)
+After gaining a charge of
+Shared Riches
+(
+World Atlas
+,
+Runic Compass
+),
+Neeko
+is unable to see the charge count until she consumes a charge.
+(bug)
+Level
+Kill feed icon
+Minimap icon
+A number of attributes she actually adopts are:
+Base
+movement speed
+if it is lower than
+Neeko's
+base
+While disguised as a non-champion,
+Neeko's
+total
+movement speed
+cannot be reduced below
+200
+.
+While disguised as a ward or plant,
+Neeko's
+total
+movement speed
+cannot be increased above
+200
+, except via effects that set
+movement speed
+to a certain value (
+Chaaaaaaaarge!!!
+).
+PENDING FOR TEST:
+Is this true for traps?
+Disguising as
+Elise
+while she is in
+spider form
+will set
+Neeko's
+base
+movement speed
+to
+315
+instead.
+(bug)
+Classification of the unit (e.g.
+melee
+,
+siege
+minion; large, small monster; ward)
+Neeko
+is never considered a minion for the purposes of
+Reinforced Armor
+.
+Base range type of the unit (
+melee
+,
+ranged
+)
+Wards
+are considered to be melee, while
+jungle plants
+and
+Rift Scuttler
+are considered to be ranged.
+Base
+attack speed
+and attack ratio
+When disguising as a non-champion,
+Neeko
+instead has her
+total
+attack speed
+set to that of the disguise's form, or to 2.
+0
+if the disguise's form's
+total
+attack speed
+is any higher.
+Although
+Jhin
+gains additional base attack speed through
+growth
+,
+Neeko
+only inherits his level 1 base attack speed value.
+(bug)
+Basic attack
+damage type (
+basic damage
+,
+ability damage
+), and subtype (
+physical damage
+,
+magic damage
+)
+For example, many
+pets
+deal ability damage instead of basic damage with their basic attacks.
+However,
+critical strikes
+from non-champions always deal
+physical
+basic damage.
+The
+projectile
+or non-projectile quality of their attack and projectile speed, if applicable
+When
+striking critically
+as a non-champion with a projectile attack, the attack projectile is invisible and hits near-instantly, but can still be intercepted by
+Wind Wall
+and similar abilities.
+Base
+attack range
+of the unit's base form
+For example, in the case of
+Gnar
+, she will adopt
+175
+attack range.
+Damage dealt to champions (
+physical
+,
+magical
+) ratio for the purposes of
+Camille's
+Adaptive Defenses
+.
+Size
+(including size modifiers and base unit size) at the time of disguising
+Pathing radius
+when disguising as a non-champion
+PENDING FOR TEST:
+Is the same true for champions?
+Voice lines
+Base unit model, regardless of current form
+Default transformation toggle (non-innate)
+Character interactions (jokes, taunts, dances, laughs, toggle effects), as well as their
+Recall
+animation
+Neeko
+can copy
+Samira's
+taunt animation but she will not actually throw the coin via the
+Taunt
+ability.
+While disguised as a non-champion,
+Neeko
+will play her laugh sound when attempting to laugh.
+Editor's Note:
+This is an intentional feature, requested by fans when
+Neeko's
+V13.9
+gameplay update was released.
+While disguised as a
+Packmate
+, she will play
+Naafiri's
+laugh instead.
+Both
+Neeko
+and the disguise's form take damage based on her real
+current
+health
+,
+armor
+, and
+magic resistance
+.
+While disguised as a
+lane minion
+,
+Neeko
+uniquely
+takes
+bonus
+physical damage
+from minions
+based on the disguise's form's health.
+While disguised as a non-champion, for the purposes of
+combat status
+,
+Neeko
+is considered a champion when dealing damage, but not when taking damage.
+Enemy
+turrets
+and
+minions
+still aggro
+Neeko
+while she is disguised as a neutral
+monster
+or
+jungle plant
+.
+While disguised as a plant or ward,
+Neeko
+can be targeted by minions and affected by most effects that normally don't affect them.
+PENDING FOR TEST:
+which abilities, runes and items do / don't interact with wards, plants and wardlike entities?
+While disguised as a unit not targetable by turrets (e.g. wards, traps,
+Sentinel
+,
+Tentacle
+),
+Neeko
+cannot be targeted by turrets until she damages a champion.
+Disguising as a unit not targetable by turrets does not drop ongoing turret aggro.
+While disguised as a jungle plant or
+trap
+,
+Neeko's
+facing direction visually appears to not change while moving.
+Neeko's
+real facing direction is, however, affected by movement for the purposes of direction-facing effects (e.g.
+Petrifying Gaze
+,
+Backstab
+).
+Disguising as a
+Blast Cone
+or
+Scryer's Bloom
+creates their respective
+roots
+at
+Neeko's
+location at the time of disguise.
+PENDING FOR TEST:
+when do they disappear?
+Disguising as a monster does not cause
+Neeko's
+attack windup
+to not be cancelled if the target moves out of range.
+While disguised as a ward,
+Neeko
+can be
+disabled
+by
+control wards
+, but not by
+sweeper drones
+or
+Umbral Glaive's
+Blackout
+.
+(bug)
+While disguised as a ward,
+Neeko
+does not trigger
+Blackout
+.
+While disguised as a ward, when attacked by champions using
+Umbral Glaive
+,
+Neeko
+takes damage from
+Extinguish
+, but the disguise's form does not.
+(bug)
+PENDING FOR TEST:
+did Umbral Glaive interactions change after
+V26.01
+?
+While disguised as a ward, when standing within a 225 radius of a
+faelight
+, '
+Neeko
+will mimic superward VFX for
+39 seconds
+, or until her disguise is broken or she leaves the faelight location.
+While stationary, and within 75-225 radius of a faelight,
+Neeko
+will
+blink
+into a 75 radius of the faelight's location.
+Disguising as a non-champion interrupts the cast time of
+Darius'
+Noxian Guillotine
+if it is targeting
+Neeko
+.
+While disguised as a non-champion,
+Neeko
+can be targeted by
+Karma's
+Focused Resolve
+and
+Renewal
+.
+(bug)
+While disguised as a non-champion,
+Neeko
+can be directly hit by
+Hwei's
+Spiraling Despair
+.
+(bug)
+While disguised as a non-champion,
+Neeko
+cannot be affected by
+Jhin's
+Deadly Flourish
+,
+Rammus'
+Powerball's
+negative effects, cannot be
+knocked up
+by
+Jarvan IV's
+Dragon Strike
+, and cannot attach
+Zilean's
+Time Bomb
+to herself.
+(bug)
+While disguised as a non-champion,
+Neeko
+cannot be tethered by
+Taric's
+Bastion
+. If she was tethered before changing, the tether will break as soon as she changes into a non-champion and Taric's spells can not be mimicked onto her. Once she changes into a champion the tether will automatically come back.
+Requiem
+does not affect
+Neeko
+while disguised as a non-champion if
+Karthus
+is casting it during
+Death Defied
+, but does otherwise.
+(bug)
+While disguised as a non-champion,
+Neeko
+breaks
+Mountain Dragon Soul's shield
+.
+While disguised as a non-champion, allied champions using
+Shared Riches
+(
+World Atlas
+,
+Runic Compass
+) while
+Neeko
+is nearby will
+execute
+minions and trigger the VFX without spending a charge or awarding
+gold
+to
+Neeko
+.
+While disguised as a non-champion, enemy
+Sundered Sky's
+Lightshield Strike
+indicator will not be displayed on
+Neeko
+, but she will still be affected by the empowered attack.
+Abilities and item actives with champion
+targeting forgiveness
+(e.g.
+K'Sante's
+All Out
+,
+Karma's
+Inspire
+,
+Kindred's
+Mounting Dread
+) can be cast on
+Neeko
+even while she is disguised as a non-champion.
+(bug)
+While disguised as a minion or monster,
+Neeko
+cannot be
+feared
+by
+Noxian Guillotine
+.
+(bug)
+While disguised as a monster,
+Neeko
+cannot be targeted by
+Smite
+.
+(bug)
+While disguised as a monster,
+Neeko
+does not receive damage from
+Primal Smite
+.
+(bug)
+While disguised as a monster,
+Neeko
+receives full damage as a monster from
+Unleashed Smite
+.
+While disguised as
+Daisy
+,
+Neeko's
+basic attacks
+will not deal damage.
+(bug)
+After gaining the
+Brushmaker
+buff for the first time,
+Neeko's
+basic attacks while disguised as
+Daisy
+will do
+100%
+total
+AD
+physical damage
+, but the damage will be attributed to
+Ivern
+, allowing
+Neeko
+to attack turrets without breaking the disguise, as well as apply his
+on-hit
+effects instead of her own.
+(bug)
+This also allows
+Neeko
+to apply stacks of
+Daisy Smash!
+without consuming any, which can allow
+Daisy
+to cast
+Daisy Smash!
+multiple times within 3 seconds.
+(bug)
+While disguised as
+Blue Sentinel
+or
+Red Brambleback
+,
+Neeko's
+attacks use a different animation cycle from the original monster's and sometimes show VFX from the removed
+Voidborn
+forms of the monsters.
+(bug)
+While disguised as a non-champion,
+Neeko
+cannot receive
+Crest of Insight
+and
+Crest of Cinders
+by killing
+Blue Sentinel
+and
+Red Brambleback
+.
+(bug)
+While disguised as a non-champion,
+Neeko
+is not
+knocked back
+when taking damage from
+Graves'
+New Destiny's
+pellets.
+(bug)
+While disguised as
+Graves
+,
+Neeko's
+attacks visually imitate
+New Destiny's
+pellets, but only deal damage with his
+invisible missile
+.
+While disguised as
+Lulu
+,
+Neeko
+will spawn a
+Pix
+with the same skin ID as
+Neeko's
+.
+For example,
+Star Guardian Neeko
+(skin 10) will always produce a
+Pool Party Pix
+with a Ruby Chroma (skin 10).
+While disguised as
+Bel'Veth
+,
+Neeko's
+basic attacks always deal
+0 damage
+.
+(bug)
+While disguised as
+Elise's
+Spiderlings
+or
+Annie's
+Tibbers
+,
+Neeko's
+basic attacks will only deal
+100%
+bonus
+AD
+magic damage
+.
+(bug)
+If
+Neeko
+has no
+bonus
+AD
+, she will not deal damage.
+However,
+Neeko's
+critical strikes
+while disguised will deal
+(200% +
+30%
+)
+total
+AD
+physical damage
+as expected.
+While disguised as
+Tibbers
+,
+Neeko's
+attacks do not interact with
+Arcane Comet
+.
+(bug)
+While disguised as
+Bel'Veth's
+Void Remora
+,
+Zyra's
+Thorn Spitters
+or
+Vine Lashers
+,
+Neeko
+cannot issue a basic attack command.
+While disguised as a non-champion,
+Neeko
+takes reduced damage from
+Kled's
+dismounted
+attacks
+(bug)
+, but is not considered a champion for the ability's other effects.
+Neeko
+benefits from
+Mr. Kled's Wild Ride
+even while disguised as a lane minion,
+Voidmite
+or
+Void Remora
+.
+(bug)
+While disguised as a non-champion,
+Neeko
+cannot purchase items exclusive to
+melee
+or
+ranged
+champions (eg.
+Runaan's Hurricane
+) regardless of her current range type.
+(bug)
+Neeko
+cannot purchase
+Elixir of Iron
+,
+Elixir of Sorcery
+,
+Elixir of Wrath
+,
+Farsight Alteration
+while disguised as a unit with a lower level than required.
+Neeko
+will fail to purchase these items when disguising as a unit of required level if her real level is lower than required.
+Breaking the disguise
+Inherent Glamour's
+disguise is broken by the following actions:
+Casting
+Blooming Burst
+or
+Tangle-Barbs
+.
+Casting
+Pop Blossom
+will not break the disguise immediately, but after a delay.
+Using
+Exhaust
+,
+Ignite
+,
+Smite
+,
+Unleashed Smite
+,
+Primal Smite
+, or
+Mark
+.
+Using
+Dash
+will not break the disguise.
+Activating the following items:
+Hextech Gunblade
+Hextech Rocketbelt
+Profane Hydra
+Randuin's Omen
+Ravenous Hydra
+Redemption
+Stridebreaker
+Tiamat
+Titanic Hydra
+While disguised as a champion
+(unexpected)
+, dealing
+ability damage
+to champions with abilities or items will also break the disguise.
+Akshan's
+Comeuppance
+is special cased to break the disguise and put it on a 2-second cooldown both before damaging
+Neeko
+and while targeting her.
+Damage dealt by
+Voidmites
+summoned by
+Neeko
+will be attributed to
+Neeko
+and will break the disguise if the disguise's form is a non-champion.
+(unexpected)
+This includes Voidmites summoned by
+Rift Herald Rodeo
+if Rift Herald was
+attached
+to
+Neeko
+during the charge.
+Tips & Tricks
+The scoreboard's question mark of
+Neeko
+(which indicates an enemy is not currently visible to your team) will disappear if the
+disguised
+Neeko
+is visible. Therefore, it can be used to determine whether a unit that recently appeared on the map is
+Neeko
+or not.
+Before disguising as a
+monster
+or
+ward
+using the
+leap
+,
+Neeko
+should be positioned close enough to reach the desired unit's position before the disguise is completed in order to preserve the unit's original facing direction.
+Since
+Neeko
+disguising does not interrupt ongoing
+Sho'Ma
+gathering,
+Neeko
+can disguise as a champion to prevent herself from switching the target of gathering.
+While
+channeling
+Hexflash
+,
+Neeko
+can disguise as a unit with less than
+200
+to override its
+movement speed
+cap, which will allow her to move during the channel.
+Bel'Veth's
+Above and Below's
+Void Surge
+cooldown
+reset will not count
+Neeko
+when disguised as a non-champion because it is applied before the
+knockup
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Neeko
+starts the combat phase disguised as her teammate's champion.
+Neeko
+disguised as a
+Power Flower
+will only have
+1 health
+(and display only one pip).
+(bug)
+Edit
+Blooming Burst
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+RANGE:
+800
+EFFECT RADIUS:
+250
+SPEED:
+2000
+Active:
+Neeko
+tosses a seed that
+blooms
+at the target location, dealing
+magic damage
+to nearby enemies. If the
+bloom
+kills an enemy or hits a
+champion
+or large
+monster
+, it will
+bloom
+again to deal
+magic damage
+, up to two times per cast.
+Active:
+Neeko
+tosses a seed that bursts upon landing at the target location, dealing
+magic damage
+to nearby enemies.
+Initial Magic Damage:
+60 / 110 / 160 / 210 / 260
+(+ 60% AP)
+If the burst kills an enemy or hits a
+champion
+or large
+monster
+, the seed blooms after 0.
+75
+seconds to burst again, dealing
+magic damage
+to enemies in the same area. This may occur up to 2 times per cast.
+Subsequent Magic Damage:
+35 / 60 / 85 / 110 / 135
+(+ 25% AP)
+Total Maximum Magic Damage:
+130 / 230 / 330 / 430 / 530
+(+ 110% AP)
+Each bloom deals
+bonus
+magic damage
+against
+monsters
+.
+Bonus Monster Damage:
+35 / 50 / 65 / 80 / 95
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Spell shield
+blocks an instance of damage but does not prevent subsequent
+Blooms
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Initial hit base damage changed to 90 / 140 / 190 / 240 / 290.
+Second and third hit base damage changed to 75 / 100 / 125 / 150 / 175.
+Edit
+Shapesplitter
+COOLDOWN
+:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+none
+TARGET RANGE:
+900
+Passive:
+Neeko's
+basic attacks
+on-hit
+generate
+stacks
+of
+Shapesplitter
+. At 2 stacks, her next basic attack will consume them all to become
+non-projectile
+, deal
+bonus
+magic damage
+, and briefly grant her
+bonus
+move speed
+.
+Active:
+Neeko
+creates a
+clone
+of her
+current form
+, together they enter brief
+invisibility
+and gain
+bonus
+move speed
+for a short time. The clone will run in the target direction for a short time before expiring, during which
+Shapesplitter
+can be recast.
+Recast:
+Neeko
+directs the clone to the target location.
+Passive:
+Neeko's
+basic attacks
+on-hit
+generate a
+stack
+of
+Shapesplitter
+,  which refreshes on subsequent attacks and stacks up to 2 times. At 2 stacks, her next basic attack
+on-attack
+consumes them all to become
+non-projectile
+, deal
+bonus
+magic damage
+and grant her
+bonus
+movement speed
+for 1 second. This attack deals
+75
+bonus
+magic damage
+against
+monsters
+.
+Bonus Magic Damage:
+30 / 65 / 100 / 135 / 170
+(+ 60% AP)
+Bonus Movement Speed:
+10 / 17.
+5
+/ 25 / 32.
+5
+/ 40%
+Active:
+Neeko
+creates a
+clone
+of her
+current form
+, after which they both instantly become
+invisible
+for 0.
+5
+seconds and gain
+bonus
+movement speed
+for 3 seconds.
+Shapesplitter
+can be recast at any time while the clone is active.
+Bonus Movement Speed:
+20 / 25 / 30 / 35 / 40%
+The clone lasts for 3 seconds, moves a fixed distance in the target direction, and is
+untargetable
+to allies and for the first 0.
+5
+seconds of its lifespan to enemies. If the clone takes
+damage
+, it will disappear prematurely after 0.
+5
+seconds.
+Casting an ability, summoner spell, item active, or starting a
+channel
+causes the clone to stop moving. Additionally, the clone plays the
+casting animations
+for
+Blooming Burst
+and
+Tangle-Barbs
+as well as
+Pop Blossom's
+visual effects
+whenever
+Neeko
+casts them. The clone will also play the animation of her next
+expression
+or
+Recall
+for a
+set duration
+that overrides its original duration and will become unable to move while doing so.
+Recast:
+Neeko
+sends her clone to the target location if it is not playing an expression or
+Recall
+animation.
+"Hahaa! You fell for it!"
+Info
+Targeting input
+Direction
+/
+Location
+Affects
+Self
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Magic
+Counters
+Parries
+Blocked
+Projectile
+Not Blocked
+The empowered attack will not trigger against
+wards
+and
+jungle plants
+.
+The damage done by the empowered attack is attributed to
+Inherent Glamour
+in the
+Death Recap
+.
+(bug)
+Using a basic attack
+breaks stealth
+at the start of the attack windup.
+Recasting
+Shapesplitter
+does not count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Once spawned with a
+disguise
+, the clone cannot lose the disguise.
+When mimicking the animation of
+Blooming Burst
+and
+Tangle-Barbs
+while disguised, the clone will play the disguise unit's first and third ability animation respectively.
+When mimicking the animation of
+Blooming Burst
+, the clone will turn toward
+Blooming Burst's
+target location unless it was ordered to move within the last
+0.
+5
+seconds, in which case it will not change its facing direction.
+(bug)
+When mimicking the animation of
+Tangle-Barbs
+, the clone will always face to the east.
+(bug)
+If
+Shapesplitter
+is cast during
+Pop Blossom's
+delay, the clone will also mimic the ability by displaying the VFX for its area of effect. The copied VFX is only visible to enemies, and only while they have
+sight
+of
+Neeko
+.
+(unexpected)
+When
+Neeko
+forces her clone to play an expression or
+Recall
+animation, she modifies its duration based on the animation played.
+Joke - 8 seconds.
+Dance - 8 seconds.
+Taunt - 4.
+25
+seconds.
+Laugh - 3 seconds.
+Recall
+- 8 seconds.
+Empowered Recall
+- 4 seconds.
+While playing an expression or recall animation, the clone cannot move via pathing, even if it is affected by a
+forced action
+.
+The clone is special-cased to not apply
+Frozen Heart's
+Winter's Caress
+after the clone's base duration (3 seconds) has elapsed.
+This effect can still apply before that, including if the clone disappears prior to the base duration elapsing.
+(unexpected)
+The clone will sometimes not disappear prematurely after 0.
+5
+seconds.
+(bug)
+Both
+Neeko
+and the clone use the same running animation.
+When passing near a
+jungle camp
+for the first time,
+Neeko
+will wave at the camp. The clone will likewise wave at nearby camps every time it is spawned, which can override the running animation and allow players to recognize the clone.
+(bug)
+The clone can still be targeted by allied
+auto-targeted
+effects (e.g.
+Heal
+,
+Celestial Blessing
+).
+The clone benefits from allied
+Speed Shrine
+, despite being
+untargetable
+to allies.
+(unexpected)
+Map-Specific Differences
+Arena
+differences
+edit
+On-hit base damage changed to 70 / 105 / 140 / 175 / 210.
+On-hit AP ratio changed to
+70% AP
+.
+Cooldown changed to 12 / 11 / 10 / 9 / 8 seconds.
+Edit
+Tangle-Barbs
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+0.
+25
+RANGE:
+1000
+WIDTH:
+140
+•
+200
+SPEED:
+1300
+•
+1500
+Active:
+Neeko
+slings a magical spiral in the target direction that deals
+magic damage
+and
+roots
+enemies hit. If the spiral hits at least one enemy, it grows in size, speed, and root duration.
+Active:
+Neeko
+slings a magical spiral in the target direction that deals
+magic damage
+to enemies hit and
+roots
+them for a duration.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 65% AP)
+Root Duration:
+0.
+7
+/ 0.
+9
+/ 1.
+1
+/ 1.
+3
+/ 1.
+5
+seconds
+If the spiral hits at least one enemy, it grows in size and its speed and root duration is increased.
+Empowered Root Duration:
+1.
+8
+/ 2.
+1
+/ 2.
+4
+/ 2.
+7
+/ 3 seconds
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Root duration increased to 1 / 1.
+2
+/ 1.
+4
+/ 1.
+6
+/ 1.
+8
+seconds.
+Empowered root duration unchanged.
+Edit
+Pop Blossom
+COST:
+100 Mana
+COOLDOWN
+:
+120 / 105 / 90
+CAST TIME:
+0.
+6
+EFFECT RADIUS:
+590
+•
+600
+Active:
+Neeko
+briefly winds up spiritual essence and highlights the area around her, which is visible to enemies unless she is
+disguised
+. Afterwards,
+Neeko
+briefly leaps upward and
+knocks up
+nearby enemies. She then lands to emit a burst of energy that deals
+magic damage
+and briefly
+stuns
+nearby enemies.
+Active:
+Neeko
+winds up spiritual essence over 1.
+25
+seconds and highlights an area around herself, which is visible to enemies unless she is
+disguised
+. If
+Neeko
+is in a
+disguise
+, it will break after 0.
+5
+seconds into the duration.
+After winding up, the cast time begins and
+Neeko
+leaps upward,
+knocking up
+nearby enemies for 0.
+6
+seconds.
+When the cast time ends, she lands to emit a burst of energy that deals
+magic damage
+to nearby enemies and
+stuns
+them for 0.
+75
+seconds.
+Magic Damage:
+150 / 350 / 550
+(+ 120% AP)
+"Get ready!"
+Info
+Targeting input
+Auto
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Ability details:
+The wind up uses a special bar similar to cast bars to represent when
+Pop Blossom's
+cast time will start.
+The wind up has no special interactions.
+The highlighted area is fixed around
+Neeko
+.
+Neeko's
+most recent
+Shapesplitter
+clone disappears when
+Pop Blossom's
+cast time starts.
+Editor's Note:
+This may be a remnant of when it would spawn multiple clones during the development of her
+V13.9
+gameplay update, intended to reduce visual clutter.
+[
+2
+]
+This ability will cast from wherever the caster is at the end of the cast time.
+Interactions:
+On-cast effects are applied on activation.
+Pop Blossom
+can start its cast time during
+stasis
+.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Neeko (Collection)
+.
+Original
+05.12.2018
+Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them.
+Flora Paulita
+Jennifer Wuestling
+Loot eligible
+View in 3D
+•
+View Music
+Winter Wonder
+1350
+05.12.2018
+An ancient and mysterious winter sprite, Neeko regards the world around her with an almost childlike curiosity. Having recently returned from beyond the Poro King's vast domain, she has become enamored with the civilization that has risen in her absence.
+Flora Paulita
+Atey Ghailan
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Winter Wonder Neeko Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Turquoise
+Star Guardian
+1350
+12.09.2019
+A member of Ahri's original team of Star Guardians, Neeko watched her teammates fall against Zoe's dark powers, going into hiding when she, too, was thought dead. Revealing herself to the newly assembled Star Guardians at the eve of their greatest battle, the wide-eyed adventurer has vowed that this time, she won't run.
+Flora Paulita
+Unknown artist
+Star Guardian Season 3
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+•
+View Music
+Prestige Star Guardian
+Special
+12.09.2019
+Neeko and the Star Guardians emerge from their battle forever changed, friendships reforged in the face of stunning victory and brutal loss. They will save their lost companion—perhaps not now, but one day—and they will do it together.
+Flora Paulita
+Rudy Siswanto
+Star Guardian Season 3
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+This skin is a variant of
+Star Guardian
+. Store variants are discounted for multiple purchases.
+View in 3D
+•
+View Music
+Shan Hai Scrolls
+1350
+28.01.2021
+A kindly god of the Shan Hai Scrolls who remembers her counterpart, Jhin, from before he succumbed to madness, Neeko believes she can return Jhin to the side of good before the painting's magic fades and doom befalls the multiverse, but she knows such an expenditure of power may destroy her in the process.
+Flora Paulita
+Horace 'Hozure' Hsu
+Shan Hai Scrolls
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Shan Hai Scrolls Neeko Chromas
+Catseye
+Granite
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Prestige Star Guardian (2022)
+Special
+01.04.2022
+Neeko and the Star Guardians emerge from their battle forever changed, friendships reforged in the face of stunning victory and brutal loss. They will save their lost companion—perhaps not now, but one day—and they will do it together.
+Flora Paulita
+Rudy Siswanto
+Star Guardian Season 3
+Loot ineligible
+New SFX/VFX
+New Animations
+New Recall
+This skin is a variant of
+Prestige Star Guardian
+. Store variants are discounted for multiple purchases.
+View in 3D
+Bewitching
+1350
+20.10.2022
+Neeko never remembers to buy a costume for the yearly festivities. Her delightful disguises come courtesy of her transfigurative talents and shapeshifting spells. Wait… are there two Nidalees at this party? Nope. That's just Neeko, pulling one of her classic pranks.
+Flora Paulita
+Hendry Iwanaga, Caravan Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Bewitching Neeko Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Street Demons
+1350
+13.09.2023
+An up-and-coming young kappa new to the Styxbridge scene, Neeko is ready to make her magical mark on the walls of this city. Though she is a veritable creative chameleon, able to adopt any artistic style, her own signature work is known for its bright and bubbly attitude, bringing a smile to anyone who sees her tags.
+Flora Paulita
+Ina Wong, West Studio
+Street Demons
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Street Demons Neeko Chromas
+Amethyst
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Cosplayer
+1350
+09.10.2024
+Commemorating LoL Player Days 2024.
+Flora Paulita
+Chace Chen, Pandart Studio
+Superfans
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Cosplayer Neeko Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Turquoise
+Beeko
+Battle Pass
+22.10.2025
+When she's not sipping nectar from a Pop Blossom, Beeko's probably camouflaging herself as bee-vers, bee-tahs, or mana-bees. There's no telling what animal Beeko might bee!
+Flora Paulita
+Alsie Lau
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.07
+Inherent Glamour
+Undocumented / Removed:
+Disguising while channeling
+Hexflash
+no longer forces
+Neeko
+to recast it early on the NA, OCE, and SEA servers.
+Editor's Note:
+Since this change was a result of the changes to controls and hotkeys exclusive to the above servers, it may or may not return any time controls and hotkeys are updated in the future, and this note may not accurately reflect the current status on those servers.
+V26.06
+- March 27th Hotfix
+Inherent Glamour
+Undocumented / New Effect:
+Disguising while channeling
+Hexflash
+now forces
+Neeko
+to recast it early on the NA, OCE, and SEA servers.
+Note:
+This change was only implemented as a result of the changes to controls and hotkeys exclusive to the above servers.
+V26.05
+Shapesplitter
+New Effect:
+Cooldown now starts after clone expires.
+Removed:
+Can no longer use Ctrl+5, which plays the joke expression for clone only.
+V26.03
+Inherent Glamour
+While disguised as a ward on a faelight, she will now display on-model visual effects as if a faelight-enhanced ward (does not gain bonus vision or destroy existing wards).
+V25.23
+Inherent Glamour
+Undocumented / New Effect:
+Being damaged by a turret now breaks her disguise.
+Editor's Note:
+Though undocumented in the official patch notes, it is mentioned in supplementary material.
+[
+3
+]
+[
+4
+]
+V25.14
+Shapesplitter
+Removed:
+Clone is no longer able to path to its destination while making an expression.
+Undocumented / New Effect:
+Clone is now special-cased to not apply
+Frozen Heart's
+Winter's Caress and the slow from
+Celestial Opposition's
+Blessing of the Mountain after the clone's base duration (3 seconds) has elapsed.
+V25.13
+Inherent Glamour
+Bug Fix:
+While disguised as
+Karma
+, the symbol on her cape piece above her now properly plays its animations.
+V25.12
+Blooming Burst
+Initial base damage reduced to 60 / 110 / 160 / 210 / 260 from 80 / 125 / 170 / 215 / 260.
+Initial AP ratio increased to
+60% AP
+from
+50% AP
+.
+Shapesplitter
+On-hit base damage reduced to 30 / 65 / 100 / 135 / 170 from 40 / 75 / 110 / 145 / 180.
+V25.07
+Inherent Glamour
+Bug Fix:
+Ability shop descriptions now properly match her current range type (
+melee
+,
+ranged
+) while disguised.
+Undocumented / New Effect:
+Neeko's maximum attack speed is now capped at 2.
+0
+while disguised as a non-champion.
+Undocumented / Bug Fix:
+Neeko no longer shows
+Waterwalking
+and
+Scorchclaw's Slash
+buff VFX while disguised.
+V25.S1.3
+- February 5th Hotfix
+Shapesplitter
+Bug Fix:
+No longer permanently retains a constant Jungle item experience penalty from minions from the moment she transforms into a champion that owns a jungle item.
+V25.S1.3
+Inherent Glamour
+While disguised as a minion, she now takes bonus damage from other minions equal to the ratio of her minion disguise's current health, instead of her own current health.
+V25.S1.1
+Shapesplitter
+Undocumented:
+While Neeko is disguised as a non-champion, clones no longer expose the following buff VFX:
+Arcane Comet
+ready,
+Ardent Censer's
+Sanctify,
+Crest of Cinders
+,
+Crest of Insight
+, all effects granted by a
+Dragon Soul
+,
+First Strike
+ready,
+Guardian
+trigger radius,
+Hand of Baron
+,
+Spellblade
+,
+Staff of Flowing Water's
+Rapids, Shared Riches floating charges (
+World Atlas
+&
+Runic Compass
+), and
+Elixir of Iron
+,
+Elixir of Sorcery
+and
+Elixir of Wrath
+being active.
+Unknown Patch
+Inherent Glamour
+New Effect:
+Akshan's
+Comeuppance
+now breaks the disguise instead of
+executing
+Neeko
+.
+V14.24
+Inherent Glamour
+Undocumented / Bug Fix:
+Shapesplitter
+clones summoned while disguised will no longer display VFX such as
+World Atlas'
+Shared Riches charges or
+Arcane Comet
+being ready.
+Street Demons Neeko
+Undocumented / Bug Fix:
+Now properly displays her special heart VFX when disguising as
+Nidalee
+.
+V14.23
+Inherent Glamour
+Undocumented / Bug Fix:
+Can no longer apply the buff "NeekoProximityDetector" to units by rapidly changing which unit's Sho'ma she is storing.
+Shapesplitter
+Undocumented / Bug Fix:
+Clones created while disguised no longer show the VFX of
+Celestial Opposition
+or
+spell shields
+.
+V14.21
+- October 29th Hotfix (Announced in
+V14.22
+)
+Inherent Glamour
+Undocumented / Bug Fix:
+No longer shows invisible buffs while transformed.
+Undocumented / Bug Fix:
+No longer crashes the player.
+Undocumented / Bug Fix:
+Buffs or debuffs no longer show on the wrong side of the HUD while disguised.
+Shapesplitter
+Undocumented / Bug Fix:
+The game no longer crashes when attempting to clone while affected by
+Inherent Glamour
+.
+Undocumented / Bug Fix:
+Shapesplitter's
+passive stacks are now visible while disguised with
+Inherent Glamour
+.
+V14.17
+Inherent Glamour
+Undocumented / New Effect:
+Can now transform into a
+Voidmite
+.
+Undocumented / Bug Fix:
+Applying
+Touch of the Void
+against any structure no longer breaks her disguise if she is disguised as a non-champion.
+V14.16
+Inherent Glamour
+Bug Fix:
+Immolate
+aura VFX and
+Mountain Dragon Soul
+VFX no longer shows when disguised as a non-champion.
+Undocumented / New Effect:
+Mountain Dragon Soul's
+shield now breaks when disguising as a non-champion.
+V14.14
+Inherent Glamour
+Undocumented / Bug Fix:
+Infernal Cinders VFX no longer shows while disguising as a non-champion.
+Undocumented / Bug Fix:
+Sundered Sky's
+Lightshield Strike
+ready VFX is no longer visible to enemies while Neeko is disguised as a non-champion.
+V14.9
+Stats
+Selection radius increased to 120 units from 90.
+Shapesplitter
+Bug Fix:
+Recasting no longer counts as unique cast instances for the purposes of activating
+Spellblade
+and triggering
+Kassadin's
+Force Pulse's
+passive.
+V14.7
+Shapesplitter
+Bug Fix:
+While duplicating an expression or
+Recall
+, Neeko can no longer redirect the clone after emoting by using
+Move Pet Click
+on a visible enemy unit.
+Undocumented / Bug Fix:
+Using an expression during the cast animation of
+Blooming Burst
+or
+Tangle-Barbs
+no longer extends
+Shapesplitter's
+duration while also granting Neeko full control of the clone after the point it would normally expire.
+V14.6
+Shapesplitter
+Bug Fix:
+Ivern
+no longer sees disguised monsters as having an enemy (red by default) health bar instead of the intended friendly health bar (blue by default).
+V14.4
+Shapesplitter
+Bug Fix:
+Recasting the ability no longer sometimes causes the clone to visually teleport to the targeted location.
+V14.3
+Shapesplitter
+Bug Fix:
+Now properly inherits
+Smolder's
+horn in the model due to tier 1 upgrade of
+Super Scorcher Breath
+.
+Editor's Note:
+This bug fix was later reverted or does not seem to have happened.
+V14.2
+Inherent Glamour
+Bug Fix:
+Being disguised as a minion near turrets no longer causes them to lose their backdoor protection.
+Shapesplitter
+Bug Fix:
+No longer sometimes causes her to become stuck in her running animation.
+Winter Wonder Neeko
+,
+Bewitching Neeko
+,
+Street Demons Neeko
+Pop Blossom
+Bug Fix:
+Outer ring indicator no longer appears non-horizonal under certain circumstances from the enemy's POV.
+V14.1
+Inherent Glamour
+Bug Fix:
+Dark Harvest
+and
+Heartsteel
+no longer reveal her when she's disguised.
+Shapesplitter
+Bug Fix:
+No longer scales with ultimate ability haste.
+Pop Blossom
+New Effect:
+Knockup no longer moves enemies outside of the stun range.
+V13.24
+- December 12th Hotfix
+Inherent Glamour
+Bug Fix:
+No longer allows Neeko to attack and unintentionally gain attack damage and attack speed when transforming into a non-attacking unit.
+V13.24
+Inherent Glamour
+Bug Fix:
+No longer is allowed to inherit the attributes of more than one unit at a time, which sometimes granted her 2.
+5
+attack speed.
+Editor's Note:
+This bug fix was later reverted or does not seem to have happened.
+Star Guardian Neeko
+,
+Prestige Star Guardian Neeko
+,
+Prestige Star Guardian Neeko (2022)
+Shapesplitter
+Undocumented / Bug Fix:
+Casting
+Shapesplitter
+during
+Homeguard
+no longer causes the wings VFX to become permanently attached to her model.
+V13.23
+- Estimated
+Inherent Glamour
+Undocumented / Bug Fix:
+No longer takes 25000 True Damage if she is disguised as a non-champion near
+Viktor's
+Chaos Storm
+.
+V13.22
+Stats
+Attack windup reduced to 20% from 21.
+48387
+%.
+Shapesplitter
+Bug Fix:
+Clone's
+Recall
+now properly displays the VFX for Honor 5 or Challenger recall.
+V13.20
+Shapesplitter
+Undocumented:
+The empowered attack no longer triggers against
+wards
+and
+jungle plants
+.
+V13.19
+Pop Blossom
+Bug Fix:
+VFX is no longer visible to enemies from the Fog of War.
+V13.18
+Inherent Glamour
+Bug Fix:
+KDA score no longer changes based on unit she is disguised as.
+V13.13
+Inherent Glamour
+Bug Fix:
+Can now attack while transforming into a
+Totem Ward
+,
+Farsight Ward
+, or
+Control Ward
+.
+Blooming Burst
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 7 at all ranks.
+Shapesplitter
+Base damage changed to 40 / 75 / 110 / 145 / 180 from 50 / 80 / 110 / 140 / 170.
+Pop Blossom
+New Effect:
+Now breaks
+Inherent Glamour
+after 0.
+5
+seconds of casting.
+V13.12
+Inherent Glamour
+Bug Fix:
+Can no longer use basic attacks while disguised as a
+Zombie Ward
+.
+V13.10
+Inherent Glamour
+Bug Fix:
+Passive disguise no longer breaks from basic attacks if disguised as a monster that had died.
+Bug Fix:
+Players that ping her items while she is disguised will no longer reveal who she is disguised as.
+Bug Fix:
+In-game reporting system no longer reveals her disguise on the scoreboard.
+Bug Fix:
+Target champions only setting now properly takes the disguise into account.
+Bug Fix:
+No longer retains 2.
+5
+attack speed after transforming into a minion or monster while standing next to a ward which the passive chargeup can start on.
+Bug Fix:
+Activating the disguise for an allied
+Ahri
+using the
+Spirit Blossom Ahri
+skin and having
+Spirit Rush
+active now properly causes the disguise to lose the empowered form of that skin after the buff times out.
+Blooming Burst
+Bonus monster damage increased to 35 / 50 / 65 / 80 / 95 from 30 / 40 / 50 / 60 / 70.
+Shapesplitter
+Bonus monster damage increased to 75 from 50.
+Pop Blossom
+AP ratio increased to
+120% AP
+from
+100% AP
+.
+V13.9
+- Gameplay Update
+Inherent Glamour
+New Innate:
+While within 300 units of a non-epic monster, minion, trap, ward, pet, or plant,
+Neeko
+stores their
+Sho'Ma
+over 2 seconds. Only one of these units can be stored at a time and she can clear out the
+Sho'Ma
+of the current unit to change the disguise to a different one. Afterwards, she can transform into that unit by selecting them in the interface.
+Removed:
+Disguise no longer breaks upon taking damage.
+New Effect:
+Disguise now also breaks upon the form taking lethal damage or when
+Neeko
+becomes
+immobilized
+or deals damage to a structure while in the form of a non-champion.
+Removed:
+Disguise no longer modifies her attack speed or movement speed if the unit's values are higher than hers.
+Cooldown reduced to 6 seconds at all levels from
+25 – 10 (based on level)
+.
+Bug Fix:
+Jungle companion now properly becomes invisible while she is disguised as an allied champion.
+Blooming Burst
+Bloom base damage reduced to 35 / 60 / 85 / 110 / 135 from 40 / 65 / 90 / 115 / 140.
+Bloom AP ratio increased to
+25% AP
+from
+20% AP
+.
+Effect radius increased to 250 from 225.
+New Effect:
+Now deals 30 / 40 / 50 / 60 / 70 bonus damage against monsters per bloom.
+New Effect:
+Casting the ability beyond its maximum range will now cast the ability at maximum range instead of having her walk into position to throw it.
+Shapesplitter
+New Effect:
+Can now recast the ability in order to send her clone to the target location.
+New Effect:
+Clone now plays her
+Blooming Burst
+,
+Tangle-Barbs
+, dance, joke, taunt, laugh, and
+Recall
+animations and their respective sound effects.
+New Effect:
+On-hit now deals 50 bonus damage against monsters.
+Clone now spawns directly on top of her, instead of 100 units in front of her.
+Bug Fix:
+Now properly copies certain debuff effects.
+Tangle-Barbs
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220.
+AP ratio increased to
+65% AP
+from
+60% AP
+.
+Pop Blossom
+Cooldown increased to 120 / 105 / 90 seconds from 90 at all ranks.
+Base damage reduced to 150 / 350 / 550 from 200 / 425 / 650.
+Damage AP ratio reduced to
+100% AP
+from
+130% AP
+.
+New Effect:
+Now
+knocks up
+nearby enemies for 0.
+6
+seconds after starting the windup.
+Stun duration reduced to 0.
+75
+seconds from 1.
+25
+.
+Removed:
+No longer shields her for 75 / 100 / 125
+(+ 75% AP)
+after starting the windup, increased by 40 / 60 / 80
+(+ 40% AP)
+per champion, for 2 seconds.
+Trivia
+In Neeko's trailer, the frog jumping off a cliff references
+George the Suicidal Frog
+.
+She was the last champion released in 2018.
+The icon for
+Shapesplitter
+was reused for the
+Teamfight Tactics
+item
+Neeko's Help
+, which references her, as well as for the
+Legends of Runeterra
+card
+3
+Shapesplitter
+.
+Neeko waves at jungle camps when she walks near them.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Catcher
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Catchers
+specialize in locking down opponents or, in some cases, entire battlefields by creating intense zones of threat that only foolish enemies would dare wade through. Although not as reliant on their friends as Enchanters, the fragile Catchers greatly benefit from allied presence - both to deter incoming danger and to help capitalize on targets they've locked down.
+Examples
+Blitzcrank
+Morgana
+Zyra
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement, becoming unable to input movement commands and use movement spells. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Stealthed trap
+Stealthed traps
+are
+units
+that enter
+stealth
+shortly after being summoned, last for a duration, and are
+untargetable
+until they are
+revealed
+. They may be revealed and made targetable once again by
+Control Wards
+,
+Sweeper Drones
+(e.g. from
+Fiddlesticks'
+A Harmless Scarecrow
+and
+Oracle Lens
+), and
+Umbral Glaive's
+Blackout.
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement, becoming unable to input movement commands and use movement spells. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+Quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except uninterruptible ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Structure
+A
+structure
+is a fixed, immobile unit on the battlefield that exists to control a team's territory and protect their base. Structures include
+turrets
+,
+inhibitors
+, and the
+Nexus
+. The structure unit type is considered an invalid target to most abilities and spells, and can normally only be damaged with
+basic attacks
+.
+Turrets
+are heavy fortifications that defend a part of territory. They provide vision of the area and autonomously fire homing bolts at nearby enemies, establishing a defensive ground for allies.
+Inhibitors
+are stone platforms containing an arcane crystal. They are located in each team's base and are each protected by an inhibitor turret standing before them in the same lane. When a team's inhibitor is destroyed, allied
+super minions
+will begin spawning in the waves set in the respective lane.
+The
+Nexus
+is a massive stone platform containing a large arcane crystal. One is located in each team's base and each are protected by two Nexus turrets standing before them. When a team's Nexus is destroyed, they are defeated and the opposing team scores victory of the match, thus ending the game.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Pop Blossom
+COOLDOWN:
+120 / 105 / 90
+Active:
+Neeko
+briefly winds up spiritual essence and highlights the area around her, which is visible to enemies unless she is
+disguised
+.
+Afterwards,
+Neeko
+briefly leaps upward and
+knocks up
+nearby enemies. She then lands to emit a burst of energy that deals
+magic damage
+and briefly
+stuns
+nearby enemies.
+League of Legends content
+Cast-inhibiting crowd control
+A unit that is affected by
+cast-inhibiting crowd control
+is unable to cast abilities, activate items, or use summoner spells. The following crowd control effects disable casting of all spells and abilities as well as interrupts all
+channels
+:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Note that
+Disrupt
+is not a status effect and solely interrupts channels, and thus cannot fall under this classification. However, abilities that would be interrupted by forms of cast-inhibiting crowd control are also interruptible by
+Disrupt
+.
+Root
+and
+Ground
+only disable movement spells and abilities.
+Stasis
+and
+Suppression
+are the only crowd control effects that disable all summoner spells from use; all other cast-inhibiting crowd control only disable movement summoner spells.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking due to currently performing another action that must complete. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Spellblade
+Spellblade
+is a unique
+named item effect
+that grants additional effects to the next
+on-hit
+trigger after casting a champion ability.
+The following items grant
+Spellblade
+:
+Sheen
+Bloodsong
+Dusk and Dawn
+Essence Reaver
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Shapesplitter
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Passive:
+Neeko's
+basic attacks
+on-hit
+generate
+stacks
+of
+Shapesplitter
+. At 2 stacks, her next basic attack will consume them all to become
+non-projectile
+, deal
+bonus
+magic damage
+, and briefly grant her
+bonus
+move speed
+.
+Active:
+Neeko
+creates a
+clone
+of her
+current form
+, together they enter brief
+invisibility
+and gain
+bonus
+move speed
+for a short time. The clone will run in the target direction for a short time before expiring, during which
+Shapesplitter
+can be recast.
+Recast:
+Neeko
+directs the clone to the target location.
+League of Legends content
+Dark Procession
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Yorick
+summons a destructible ring of spirits at the target location that
+knocks aside
+enemies hit. It remains as
+terrain
+against enemies for a few seconds.
+League of Legends content
+Powder Keg
+RECHARGE:
+17 / 16 / 15 / 14 / 13
+Active:
+Gangplank
+places a
+Powder Keg
+at the target location, which can be
+attacked
+or
+shot
+to damage it. If an enemy destroys a
+Powder Keg
+, it is safely dismantled.
+If
+Gangplank
+destroys a
+Powder Keg
+, it will explode to deal the
+attack's damage
+to nearby enemies and
+slow
+them. Against an enemy
+champion
+, the explosion additionally deals
+bonus
+physical damage
+and ignores a
+portion of their armor
+.
+The explosion will cause nearby
+Powder Kegs
+to also explode.
+Gangplank
+stocks a
+Powder Keg
+every few seconds, up to a maximum.
+References
+↑
+Neeko's profile page
+at
+LeagueOfLegends.com
+↑
+Tim shares previews of the Neeko midscope update
+↑
+X — Riot Phroxzon
+Patch 25.23 Full Preview!
+↑
+YouTube —
+Riot Phreak: Patch 25.23 Preview
+(44:00)

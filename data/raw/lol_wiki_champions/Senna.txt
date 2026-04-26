@@ -1,0 +1,3390 @@
+# Senna
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Senna
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+530
++89
+MP
+350
++45
+HP5
+3.5
++0.55
+MP5
+11.5
++0.7
+AR
+25
++4
+AD
+50
++0
+MR
+30
++1.3
+Crit. DMG
+200% ( ×  0.9)
+MS
+330
+Attack range
+600
+Attack speed
+Base AS
+0.625
+Windup%
+31.25% (mod. 0.6)
+AS ratio
+0.4
+Bonus AS
++2.6
+%
+Missile speed
+Non-projectile
+Unit radius
+Gameplay radius
+65
+Select. radius
+115
+Pathing radius
+35
+Select. height
+170
+Acq. radius
+800
+Special statistics
+Damage Dealt
+-8%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++5%
+Damage Received
+-10%
+Damage Dealt
++10%
+Damage Received
++0%
+Damage Dealt
++10%
+Damage Received
++0%
+Healing
++20%
+Senna
+The Redeemer
+Role(s):
+Bottom
+,
+Support
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+2
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+3
+Release date
+2019-11-10
+Last changed
+V26.06
+Class
+Marksman
+,
+Enchanter
+Legacy class
+Support
+,
+Marksman
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Abilities
+Edit
+Basic Attack
+ATTACK RANGE:
+600
+SPEED:
+N/A
+Basic Attack:
+Senna
+blasts the target with her relic cannon that uses a
+non-projectile
+beam, dealing
+100% AD
+physical damage
+, applying
+on-hit
+effects, and triggering
+on-attack
+effects.
+Senna's
+critical strikes
+deal only
+「
+(180% +
+27%
+) AD
+physical damage
+. 」
+「 90% of the
+critical damage
+champions usually have. 」
+Senna
+has an
+attack ratio
+of 0.
+4
+, meaning she only gains
+「 + 0.
+4
+attack speed
+per
+100%
+bonus
+attack speed
+. 」
+「 64% of the
+attack speed
+she would gain if her attack speed ratio was the same as her base attack speed. 」
+Additionally,
+Senna's
+base
+attack windup
+is reduced
+「 to
+31.
+25
+% – 21.
+875
+% (based on level)
+, 」
+「 by
+0% – 30% (based on level)
+, 」
+but is only reduced by 60% of the expected value given attack speed bonuses.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies
+Damage classification
+Type
+Basic damage
+Sub-type(s)
+Physical
+Counters
+Parries
+Blocked
+Projectile
+Not Blocked
+At level 20, only with the per level
+bonus
+attack speed,
+Senna
+will have
+0.
+829516
+attack speed
+, and will take
+0.
+33
+seconds
+to perform an attack compared to
+0.
+528
+seconds
+at level 1.
+Edit
+Absolution
+TARGET IMMUNITY
+:
+6 / 5 / 4 (based on level)
+EFFECT RADIUS:
+2000
+Innate - Weakened Soul
+:
+Senna's
+basic attacks
+on-hit
+and
+abilities
+against enemy
+champions
+apply a
+stack
+of
+Mist
+for a few seconds. Subsequent hits collect the
+Mist
+, dealing
+bonus
+physical damage
+based on the
+target's
+current
+health
+and rendering the target immune to further
+Mist
+applications for a few seconds. Enemies that die near
+Senna
+may spawn a
+Mist Wrath
+from their corpse, which lasts for a period. She can kill
+Mist Wraiths
+to gain
+gold
+and
+Mist
+stacks.
+Innate - Relic Cannon
+:
+Senna's
+basic attacks deal
+bonus
+physical damage
+and briefly grant her
+bonus
+movement speed
+based on the
+target's movement speed
+.
+Mist
+: For each stack,
+Senna
+gains
+bonus
+attack damage
+. For every few stacks, she also gains
+bonus
+attack range
+and
+critical strike chance
+, or
+life steal
+if she has max critical strike chance.
+Innate - Weakened Soul
+:
+Senna's
+basic attacks
+on-hit
+and
+abilities
+mark enemy champions hit for 4 seconds. Subsequent attacks or ability hits against marked targets will consume the mark to grant
+Senna
+a
+stack
+of
+Mist
+and deal
+bonus
+physical damage
+equal to
+1% – 10% (based on level)
+of the target's
+current
+health
+, rendering the target immune to being marked again for a few seconds. This damage
+applies
+life steal
+at 100% effectiveness.
+Innate:
+Enemies that die near
+Senna
+may spawn a
+Mist Wraith
+from their corpse. A
+Mist Wraith
+lasts 8 seconds and
+Senna
+can basic attack or hit it with
+Piercing Darkness
+or
+Dawning Shadow
+to kill it instantly, granting her
+8
+and a stack of
+Mist
+.
+Enemy
+champions
+and large
+monsters
+will spawn a
+Mist Wraith
+.
+Epic
+monsters
+will spawn 2
+Mist Wraiths
+.
+Minions
+and lesser
+monsters
+that
+Senna
+kills have a 10% chance to spawn a
+Mist Wraith
+.
+Large
+minions
+that
+Senna
+does not kill will always spawn a
+Mist Wraith
+, while lesser
+minions
+and lesser
+monsters
+that
+Senna
+does not kill have a 28% chance to spawn one.
+Lesser minions executed by an allied champion's
+Support Quest
+item have a 8.
+4
+% chance to spawn a
+Mist Wraith
+.
+Mist
+: For each stack of
+Mist
+,
+Senna
+gains
+0.
+75
+bonus
+attack damage
+. For every 20 stacks, she also gains
+20
+bonus
+attack range
+and
+10% critical strike chance
+. Additionally, every
+1% critical strike chance
+in excess of
+100%
+is converted into 0.
+35
+%
+life steal
+.
+Innate - Relic Cannon
+:
+Senna's
+basic attacks
+on-hit
+deal
+20% AD
+bonus
+physical damage
+and grant her
+10% / 15% / 20% (based on level)
+of the target's movement speed
+as
+bonus
+movement speed
+for 0.
+5
+seconds. The damage
+applies
+life steal
+at 100% effectiveness.
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Counters
+Spell shield
+Not Blocked
+Parries
+See Notes
+If a target's mark has a remaining duration less than 0.
+25
+seconds, and
+Senna
+starts her basic attack windup on the target during this time, the mark's duration will be modified to 0.
+75
+seconds. Subsequent windups on the marked target will refresh this modified duration if the previous attack windup did not complete.
+Despite
+Senna
+dealing 1 damage to
+Mist Wraiths
+, attacking them will calculate the
+attack's damage
+(including
+critical strike
+modifiers) and any
+on-hit
+effects for the purposes of
+life steal
+and
+drain
+effects.
+Relic Cannon
+is only applied if the attack deals more than 0 damage.
+Hence, it is not applied if the target is
+invulnerable
+or
+Senna's
+basic attack's
+attack damage
+is reduced to 0 or below.
+The bonus damage is also not applied against
+structures
+(regardless of their vulnerability).
+Dealing 0 damage is valid for marking and collecting
+Mist
+from champions, but dealing no damage at all is not.
+Hence,
+Senna
+can mark and collect from
+invulnerable
+enemies.
+Dodge
+prevents marking and collecting a
+Mist
+via
+Senna's
+basic attacks and
+Piercing Darkness
+.
+PENDING FOR TEST:
+:
+Mist
+interaction with
+block
+and
+blind
+.
+Nunu & Willump
+spawn a wraith each.
+Enemies will not see newly spawned wraiths while
+Senna
+is not visible.
+A wraith can be hit by
+Bard's
+Cosmic Binding
+and it will interact with it the same way minions or monsters interact with Cosmic Binding but it will not take damage.
+Mist Wraith
+has a spawn animation, but is targetable immediately.
+Mist Wraith
+grants a small amount of
+sight
+around itself.
+Runaan's Hurricane
+secondary bolts will ignore
+Mist Wraiths
+.
+Attacking a
+Mist Wraith
+will not consume
+Energized
+.
+Excluding
+the range increase and the bonus shielding on
+Dawning Shadow
+, one stack of
+Mist
+is worth
+46.
+25
+(
++8
+from
+Mist Wraith
+pickup (
+54.
+25
+total)),
+35.
+62125
+if the critical chance is converted to life steal.
+0.
+75
+AD
+is worth
+26.
+25
+.
+0.
+5
+%
+critical strike chance
+is worth
+20
+.
+0.
+175
+%
+life steal
+is worth
+9.
+37125
+.
+The bonus on-hit damage applies an additional stack of
+Black Cleaver's
+Carve
+.
+Critical strike chance
+gained from
+Yun Tal Wildarrows'
+Practice Makes Lethal
+,
+Augments and
+Stat bonuses
+do
+not
+interact with the life steal conversion.
+(bug)
+The buff will be granted even when hitting units that have zero movement speed (from which
+Senna
+cannot gain any movement speed).
+Attacking
+structures
+is special-cased to not grant it at all, however.
+Pinging
+Absolution
+in the HUD will send a chat message to the team that displays its stack count and her total
+attack range
+accumulated.
+Tips & Tricks
+At high enough attack speed, and assuming
+Senna
+is at her max attack range when killing a unit that spawns a
+Mist Wraith
+, she can collect it before they leave her attack range at all.
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Mist Wraith
+gold
+earned is
+ignored
+by the Swiftplay-specific bounty comeback system.
+One for All
+differences
+edit
+Wraiths are not shared.
+Weakened Soul
+debuff application is individually tracked and does not interact among multiple users.
+Arena
+differences
+edit
+New Effect:
+Gains 7.
+5
+Mist
+stacks per round.
+Senna's
+excess
+critical strike chance
+from
+Mist
+and items is converted to
+life steal
+, which means it does not affect
+Sword of the Divine's
+Exorciate
+.
+(unexpected)
+The global Arena Stat Adjustments buff does not convert
+Senna's
+excess
+critical strike chance
+to
+adaptive force
+.
+(bug)
+Edit
+Piercing Darkness
+COST:
+70 / 80 / 90 / 100 / 110 Mana
+COOLDOWN:
+15
+CAST TIME:
+80% of
+Senna's
+windup time
+(0.
+4
+at
+base
+attack speed
+)
+TARGET RANGE:
+600 – 1100
+RANGE:
+1300
+WIDTH:
+100
+•
+280
+Active:
+Senna
+fires a spectral laser toward the target unit.
+Senna
+and allied champions hit are
+healed
+. Enemies hit are dealt
+physical damage
+, which
+applies
+life steal
+and
+on-hit
+effects, and
+slowed
+for a short time.
+Piercing Darkness'
+cooldown is
+reduced
+on-hit
+.
+Active:
+Senna
+fires a beam in the direction of the target unit. The beam consists of a wider ray of light, and a narrower ray of shadow at the center.
+The shadow ray deals
+physical damage
+to enemies hit and
+slows
+them by 15%
+(+ 15% per 100
+bonus
+AD)
+(+ 10% per 100 AP)
+for a duration. The damage dealt to enemy champions
+applies
+life steal
+at 100% effectiveness.
+Physical Damage:
+30 / 55 / 80 / 105 / 130
+(+ 60%
+bonus
+AD)
+Slow Duration:
+1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds
+The light ray
+heals
+Senna
+and allied
+champions
+hit.
+Healing:
+40 / 60 / 80 / 100 / 120
+(+ 40%
+bonus
+AD)
+(+ 50% AP)
+Piercing Darkness
+is
+considered
+to trigger a single
+basic attack
+against
+turrets
+,
+wards
+,
+jungle plants
+,
+Mist Wraiths
+and
+any other attack-interactive units
+hit. It also applies
+on-hit
+effects against
+champions
+and
+turrets
+hit.
+Piercing Darkness'
+current
+cooldown
+is reduced by 1 second
+on-hit
+.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Allies, Enemies, Turrets, Wards
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Missing
+Projectile
+Not Blocked
+The ability's cast time respects the attack speed
+floor and cap
+.
+Piercing Darkness
+also applies most
+on-attack
+effects to one enemy champion struck, and ocassionally to two.
+(unexpected)
+Hail of Blades
+will spend a stack on hitting a champion with
+Piercing Darkness
+but only if
+Hail of Blades
+was activated first by an auto-attack.
+Senna
+can generally target anything that is not either explicitly
+untargetable
+or herself.
+Valid targets include anything that can be targeted by a basic attack from someone.
+Piercing Darkness
+respects all
+turret
+-specific rules when striking them.
+On-hit effects are applied in order of struck units' spawn IDs. This matters for effects that are consumed on-hit (e.g.
+Spellblade
+), which are applied to the target with the lowest
+Spawn ID
+.
+"Spawn ID" is an unofficial abbreviation to describe the spawn order for all units at the start of a game, below are some examples.
+If
+Senna
+targets an enemy champion but hits at least one more enemy champion simultaneously,
+Press the Attack's
+first stack will be applied to that target. If no champion was targeted, it will default to the champion with the lowest Spawn ID out of the ones struck by the ability. Whether the effect stacks up on a champion or not when multiple enemy champions are stuck also depends on Spawn ID.
+If
+Piercing Darkness
+struck an enemy champion and turret simultaneously, with
+Rapid Firecannon
+fully charged, the passive effect will most likely trigger on the turret since towers are often spawned before champions.
+For on-attack effects, they are also applied in order of struck units' spawn IDs. However, there are some specific on-attack effects that will apply to both the target of
+Piercing Darkness
+and the target with the lowest
+Spawn ID
+if the two unit is not identical.
+(unexpected)
+Confirmed cases
+:
+Energized
+effects are stacked twice the amount.
+PENDING FOR TEST:
+Spell shield
+will not prevent on-hit effects from being applied.
+PENDING FOR TEST:
+Piercing Darkness
+interaction with
+dodging
+,
+blocking
+, and
+blinding
+effects.
+Tips & Tricks
+Because
+Senna's
+windup percent scales down with levels but her windup time also only scales with 60% of attack speed bonuses, the precise numbers get complicated quickly.
+At base attack speed and level 1,
+Senna's
+attack windup is 0.5 seconds.
+A reduced formula for calculating
+Piercing Darkness'
+cast time at a given attack timer is
+80% of
+[ 0.5 + 0.1875 × (1 ÷
+total
+attack speed
+− 1 ÷ 0.5) ] seconds.
+The cast time equals
+0.
+264
+seconds
+(which is the standard for most abilities in
+League of Legends
+) at approximately
+204.
+3
+%
+bonus
+attack speed
+(as of
+V25.10
+).
+Reducing
+Senna's
+attack speed via
+attack speed reductions
+also increases
+Piercing Darkness'
+cast time by 60% of the amount.
+Map-Specific Differences
+Arena
+differences
+edit
+Heal AP ratio changed to
+80% AP
+.
+Slow AP ratio changed to
+15% per 100 AP
+.
+Edit
+Last Embrace
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+11
+CAST TIME:
+0.
+25
+TARGET RANGE:
+1300
+EFFECT RADIUS:
+280
+WIDTH:
+140
+SPEED:
+1200
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Senna
+throws a globule of Black Mist in the target direction that deals
+physical damage
+to the first enemy hit and sticks onto them. After a brief moment, the Black Mist spreads out from the target, briefly
+rooting
+them and surrounding enemies.
+Active:
+Senna
+throws a globule of Black Mist in the target direction that deals
+physical damage
+to the first enemy hit and attaches to them for 1 second.
+Physical Damage:
+70 / 110 / 150 / 190 / 230
+(+ 90%
+bonus
+AD)
+After the duration or when the target dies, the Black Mist spreads out of the target,
+rooting
+them and surrounding enemies for a few seconds.
+Root Duration:
+1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Last Embrace
+will not
+root
+the primary target if they are
+untargetable
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Curse of the Black Mist
+COST:
+70 Mana
+COOLDOWN
+:
+26 / 24.
+5
+/ 23 / 21.
+5
+/ 20
+CAST TIME:
+1
+EFFECT RADIUS:
+400
+QUEUE THRESHOLD
+:
+0.
+5
+Detection Radius:
+400
+Active:
+Senna
+creates an aura of mist and gains
+camouflage
+for a few seconds. She will quickly regain camouflage after breaking stealth. Allied champions that enter the mist gain
+Wraith Form
+for the remaining duration.
+Senna
+and allies camouflaged by
+Curse of the Black Mist
+also gain
+bonus
+movement speed
+.
+Wraith Form
+: Gain
+camouflage
+. Enemies will have
+obscured vision
+of camouflaged
+Wraiths
+moving outside the mist.
+Wraiths
+will quickly regain camouflage after breaking stealth.
+Active:
+Senna
+shrouds herself in an
+aura
+of Black Mist and gains
+camouflage
+for a duration. If
+Senna
+breaks the camouflage
+, she regains it after 1.
+75
+seconds without performing actions that break stealth.
+Effect Duration:
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8 seconds
+Allied champions who enter the mist gain
+Wraith Form
+for a duration equal to the aura's remaining duration.
+Wraith Form:
+Gain
+camouflage
+. Enemies are granted
+obscured vision
+of camouflaged
+Wraiths
+moving outside the mist within their line of
+sight
+.
+Wraith Form
+can be regained if lost by breaking the camouflage after 1.
+75
+seconds without performing actions that break stealth.
+Wraith Form
+ends immediately upon
+Senna's
+death
+.
+Senna
+and allies camouflaged by
+Curse of the Black Mist
+also gain
+20%
+(+ 5% per 100 AP)
+bonus
+movement speed
+.
+Senna
+can move during Curse of the Black Mist's cast time.
+"Shadows catch the fallen..."
+Info
+Targeting input
+Auto
+Affects
+Self
+Allies affected by the
+Curse of the Blast Mist
+aura receive a buff called
+Cloak of Mist
+.
+Obscured units appear as
+Wraiths
+, hence the name. The wraith model does not distinguish which champion is obscured.
+On the
+mini-map
+, obscured champions will be displayed as wraith icons instead of champion icons to the enemy team.
+In-game, the 'Cloak of Mist' buff grants camouflage and the 'Wraith Form' buff obscures the unit and grants movement speed. However, 'Cloak of Mist' has the unspecified effect of negating the obscuring effects of 'Wraith Form' (i.e. the unit is not a wraith while inside the mist); the unit has the bonus movement speed even when they are not a wraith (e.g. inside the mist or an enemy is nearby); and 'Wraith Form' also grants the functionality of camouflage (i.e. the unit is treated as a camouflaged unit with regards to
+True Sight
+,
+Control Wards
+, and enemy
+champions
+).
+Given this overly complex interaction between the two buffs granted as well as the overlapping effects, it is easier to describe the effects as a single buff that is modified in specific circumstances rather than trying to establish a new game mechanic.
+Senna
+likewise has her aura buff and the 'Wraith Form' buff, but her 'Wraith Form' does not share gameplay functionality with other allies benefiting from Wraith Form. For
+Senna
+, the appearance of being a wraith is a form-swap while camouflaged (similar to
+Evelynn's
+Demon Shade
+).
+Senna
+will remain in her wraith form when she is detected so long as the camouflage effect isn't broken, and her wraith's appearance is very distinct from other wraiths.
+Allied champions who enter the mist and have
+stealth
+of their own will still gain the
+Wraith Form
+buff but they will not grant
+obscured vision
+of themselves to the enemy while out of the mist nor will they appear as a
+Wraith
+.
+Allies who have their own
+camouflage
+and also have
+Wraith Form
+will be revealed to enemies from their stealth's detection range, not
+Wraith Form's
+.
+If
+Senna
+gains
+invisibility
+while
+camouflaged
+by
+Curse of the Black Mist
+, the visual effects of her aura will be hidden while she is invisible.
+Curse of the Black Mist
+will not activate if
+Senna
+enters
+resurrection
+during the cast time.
+Wraith Form
+will not be granted to allies that are in a
+zombie state
+or are
+channeling
+. It will be granted to allies even if they are
+untargetable
+.
+Using a basic attack breaks the stealth at the start of the attack windup.
+The stealth regain timer is refreshed from basic attacks at the start of their attack windup.
+Tips & Tricks
+Because of its duration,
+Curse of the Black Mist
+can be utilized in conjunction with
+Homeguard
+when exiting the base, and importantly early in the lane.
+This is at the cost of mana, some of which will regenerate during the walk. Mana is consumed upon finishing the cast, so alternatively the caster can remain in base to regenerate some or all of the amount incurred, though delaying the journey back to lane.
+To maximize the distance covered, due to
+movement speed caps
+, use the ability when Homeguard's movement speed has dropped approximately below 500. This will allow
+Senna
+and any allies following her to keep a form of haste for a particularly long time.
+The haste and stealth combination can be highly effective in initiating ambushes from
+Fog of War
+, since the number of teammates concealed can be difficult to discern.
+Map-Specific Differences
+Arena
+differences
+edit
+Movement speed AP ratio changed to
+7% per 100 AP
+.
+Edit
+Dawning Shadow
+COST:
+100 Mana
+COOLDOWN:
+140 / 120 / 100
+CAST TIME:
+1
+TARGET RANGE:
+Global
+WIDTH:
+320
+•
+2400
+SPEED:
+20000
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Senna
+fires a massive beam in the target direction. Enemies in the center are dealt
+physical damage
+and
+revealed
+for a short time.
+Senna
+and allied champions hit by the beam are
+shielded
+for a short time.
+Active:
+Senna
+fires a massive beam in the target direction. The beam consists of a broad wave of light, and a narrow wave of shadow at the center.
+The shadow wave deals
+physical damage
+to enemy
+champions
+hit and
+reveals
+them for 3 seconds, as well as hits all
+Mist Wraiths
+.
+Physical Damage:
+250 / 400 / 550
+(+ 115%
+bonus
+AD)
+(+ 70% AP)
+The light wave grants a
+shield
+to
+Senna
+and allied champions hit for 3 seconds, and grants
+sight
+of
+the area
+along the path for 2 seconds.
+Shield Strength:
+120 / 160 / 200
+(+ 50% AP)
+(+ 150%
+Mist
+)
+"No shadow without light!"
+Info
+Targeting input
+Direction
+Affects
+Self, Allies, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The broad wave is a singular projectile that can be
+destroyed
+.
+The narrow wave will be destroyed with it in the process.
+This ability will cast from wherever the caster is at the start of the cast time.
+Senna
+reveals herself during the cast time.
+Tips & Tricks
+On
+Summoner's Rift
+,
+Dawning Shadow
+will take approximately 0.
+9
+seconds to land if fired from Nexus to Nexus or from the midpoint of bot lane to the midpoint of toplane.
+Map-Specific Differences
+Arena
+differences
+edit
+Shield AP ratio changed to
+70% AP
+.
+Pets
+Mist Wraith
+Bounty
+Gold
+8
+Exp
+0
+Statistics
+Health
+1
+Incoming damage modifier
+1 from
+Senna's
+basic attacks,
+Piercing Darkness
+, and
+Dawning Shadow
+Move speed
+Static
+Control type
+Autonomous
+Target type
+Minion
+Protection
+Only
+Senna
+herself can target and interact with the
+Mist Wraith
+.
+Abilities
+Wraith
+The
+Mist Wraith
+is considered an enemy unit, but targetable to
+Senna
+only with her basic attacks and abilities.
+Wandering
+The
+Mist Wraith
+, after being spawned, disappears after 8 seconds.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Senna (Collection)
+.
+Original
+10.11.2019
+Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.
+Cynthia Kaye McWilliams
+Bo 'chenbowow' Chen
+Loot eligible
+View in 3D
+•
+View Music
+True Damage
+1350
+10.11.2019
+Senna rose to fame with her stunning vocal range and iconic sense of style, but when a shady adversary from her past imprisoned her in a restrictive record deal that took away her creative independence, she vanished from the spotlight. After years of living in the shadows, she now emerges as the lead singer of True Damage with her mind set on defining her legacy on her own terms.
+Cynthia Kaye McWilliams
+Jennifer Wuestling
+True Damage
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+True Damage Senna Chromas
+Amethyst
+Catseye
+Citrine
+Freestyle
+Pearl
+Ruby
+Sapphire
+Prestige True Damage
+Special
+04.02.2020
+Having topped the charts once more, Senna finds herself in the familiar space of fame and celebrity. Between cosmetics deals and fashion shows, she offers a clear message to fans and haters alike: Don't call it comeback. Senna's been here for years.
+Cynthia Kaye McWilliams
+Esben Lash Rasmussen
+True Damage
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations
+New Recall
+This skin is a variant of
+True Damage
+. Store variants are discounted for multiple purchases.
+View in 3D
+High Noon
+1820
+18.06.2020
+Once the greatest gunslinger on the continent, Senna's life would have ended when her heart was torn out by the devil—save for the intervention of a higher authority. Mysteriously resurrected with the heart of an angel and a demonic steed, she has returned to the west to restore the balance of Heaven and Hell... however she sees fit.
+Cynthia Kaye McWilliams
+Kelly Aleshire
+High Noon
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+High Noon Senna Chromas
+Citrine
+Emerald
+Mythic
+Rose Quartz
+Ruby
+Tanzanite
+PROJECT
+1350
+27.05.2021
+A PROJECT volunteer who supposedly died during the elevation of her consciousness, Senna's mind was decoupled from the physical world and escaped into cyberspace, becoming a digital ghost. Inhabiting a body of her own design as Mordekaiser assumed control of the City, she is one of the few who understands the true threat of his ever-expanding directives.
+Cynthia Kaye McWilliams
+West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+PROJECT: Senna Chromas
+Amethyst
+Catseye
+Obsidian
+Pearl
+Peridot
+Reckoning
+Rose Quartz
+Ruby
+Sapphire
+Lunar Eclipse
+1350
+28.04.2022
+An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable.
+Cynthia Kaye McWilliams
+Augusto Quirino, West Studio
+Eclipse
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Lunar Eclipse Senna Chromas
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige Lunar Eclipse
+Special
+28.04.2022
+Burning up the runway in a look inspired by an ancient order of magical knights, Senna brings a cold, but determined energy to the Gala proceedings. Evil beware — these looks can kill... and kill again.
+Cynthia Kaye McWilliams
+Julia Yurtsev
+Eclipse
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+This skin is a variant of
+Lunar Eclipse
+. Store variants are discounted for multiple purchases.
+View in 3D
+Bewitching
+1350
+20.10.2022
+When she was just a young witch, a warlock bound Senna's soul to a tome of spells, hoping to rid himself of her rising power. But her time spent disembodied only made her stronger. While others party, the overly serious Senna searches for ghouls and ghosts, planning to send them to the grave... again.
+Cynthia Kaye McWilliams
+Huyy Nguyen, West Studio
+Bewitching
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Bewitching Senna Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Star Guardian
+1350
+20.07.2023
+Years spent battling the darkness alone has strengthened Senna's resolve, but it also hardened her heart. After all, when you're a Star Guardian, you know losing loved ones is inevitable. Still, she'll keep fighting now, harder than ever. Reuniting her new friend Xayah with her evil ex-boyfriend is a powerful motivator.
+Cynthia Kaye McWilliams
+Mingchen Shen, West Studio
+Star Guardian Season 4
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Star Guardian Senna Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rainbow
+Ruby
+Sapphire
+Tanzanite
+Winterblessed
+1820
+06.12.2023
+Senna woke in the dreamlike embrace of the Aurora. Clad in regal dress she didn't recognize, she had no memory of how she got there, nor could she remember anything else, save for flashes of warmth: a love, lost in shadow. "Who am I?" she wondered.
+Cynthia Kaye McWilliams
+Pandart Studio
+Winterblessed
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Winterblessed Senna Chromas
+Catseye
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Wreathguard
+Masked Justice
+1350
+20.02.2025
+Senna's memories are a haze. There are flashes—hands locked together, an explosion—before waking up to vast destruction in a strange, alien suit. Only one image lingers in her mind—the face of a mad giant. She hears cries for help in the air, and sets out on a new journey. Senna will find her memories, and save whoever she can on the way.
+Cynthia Kaye McWilliams
+David Villegas, West Studio
+Masked Justice
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Masked Justice Senna Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Warhound
+1350
+19.03.2026
+ALERT: Warhound known as Senna sighted near local ruins. She leads the Hellfire Hounds, a group claiming to fight for Quicksilver access for all. Uses unknown Quicksilver technology to grow stronger with every drop. Prevent access to her fuel source, and do NOT underestimate her or the loyalty of her followers.
+Cynthia Kaye McWilliams
+Bo 'chenbowow' Chen, Jennifer Wuestling
+Warhounds
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Warhound Senna Chromas
+Catseye
+Emerald
+Fearless Fang
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.05
+General
+Bug Fix:
+Fixed a bug where her homeguard SFX started and stopped suddenly.
+V26.04
+Piercing Darkness
+Base damage reduced to 30 / 55 / 80 / 105 / 130 from 30 / 60 / 90 / 120 / 150.
+Damage bonus AD ratio increased to
+60%
+bonus
+AD
+from
+40%
+.
+Last Embrace
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 70 / 115 / 160 / 205 / 250.
+Bonus AD ratio increased to
+90%
+bonus
+AD
+from
+70%
+.
+V26.03
+Absolution
+Bug Fix:
+Fixed an issue where it wouldn't convert excess crit chance from
+Yun Tal Wildarrows
+into lifesteal.
+V26.01
+Basic Attack
+Total critical damage ratio reduced to 90% from 100%.
+Base critical strike damage increased from 175% to 180%.
+Infinity Edge
+scaling reduced to 27% from 40%.
+V25.23
+Star Guardian Senna
+Dawning Shadow
+Bug Fix:
+Resolved a VFX distortion issue.
+V25.17
+- August 27th Hotfix
+Stats
+Attack speed growth reduced to 2.
+6
+% from 3%.
+V25.17
+Stats
+Attack speed growth increased to 3% from 2%.
+Piercing Darkness
+Base heal increased to 40 / 60 / 80 / 100 / 120 from 40 / 55 / 70 / 85 / 100.
+V25.12
+Absolution
+Mist Wraith
+spawn rate on minions she kills reduced to 10% from 14%.
+Bug Fix:
+Attacking
+Mist Wraiths
+no longer incorrectly consumes/activates available attack effects.
+V25.10
+Absolution
+Critical strike chance per 20 stacks increased to 10% from 8%.
+Mist Wraith
+spawn rate on minions she kills increased to 14% from 8.
+4
+%.
+Piercing Darkness
+Heal AP ratio reduced to
+50% AP
+from
+60% AP
+.
+V25.05
+Absolution
+Bug Fix:
+No longer sometimes fails to grant the guaranteed Mist Wraith from
+siege minions
+when she kills it via a Support item's (
+) Shared Riches charge.
+V25.S1.1
+Bewitching Senna
+Bug Fix:
+Chromas now use the correct assets during the Homeguard animation and no longer fall back to Senna's default skin's assets.
+V14.22
+- November 6th Hotfix
+Absolution
+Bug Fix:
+Collected
+Mist Wraiths
+no longer turn into Zombie Wards.
+V14.21
+Stats
+Base armor reduced to 25 from 28.
+Armor growth reduced to 4 from 4.
+7
+.
+V14.19
+- September 25th Hotfix
+General
+Undocumented / Bug Fix:
+Senna existing in the game no longer causes turrets to become invisible.
+V14.17
+Piercing Darkness
+Base heal reduced to 40 / 55 / 70 / 85 / 100 from 40 / 60 / 80 / 100 / 120.
+Heal AP ratio reduced to
+60% AP
+from
+80% AP
+.
+Dawning Shadow
+Shield AP ratio reduced to
+50% AP
+from
+70% AP
+.
+V14.16
+Stats
+Attack speed growth reduced to 2% from 4%.
+Absolution
+Critical strike chance per 20 stacks reduced to 8% from 10%.
+Piercing Darkness
+Base heal increased to 40 / 60 / 80 / 100 / 120 from 40 / 50 / 60 / 70 / 80.
+Heal AP ratio increased to
+80% AP
+from
+40% AP
+.
+Heal bonus AD ratio increased to
+40%
+bonus
+AD
+from
+30%
+.
+Removed:
+Heal no longer scales with
+1.
+6
+per 1 lethality
+.
+Slow AP ratio increased to
+10% per 100 AP
+from
+6%
+.
+Slow bonus AD ratio increased to
+15% per 100
+bonus
+AD
+from
+10%
+.
+Last Embrace
+Root duration increased to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+Curse of the Black Mist
+Bug Fix:
+VFX no longer repeatedly plays in spectator mode.
+Dawning Shadow
+Base shield increased to 120 / 160 / 200 from 100 / 150 / 200.
+Shield AP ratio increased to
+70% AP
+from
+40% AP
+.
+V14.7
+Absolution
+Mist Wraith
+spawn rate on minions she kills increased to 8.
+4
+% from 2.
+8
+%.
+Bug Fix:
+Mist Wraith
+spawn rate on minions killed by an ally Support item user no longer uses the incorrect chance of 28%, and has now been corrected to have a chance of 8.
+4
+%.
+V14.6
+Absolution
+Mist Wraith
+spawn rate on minions she kills reduced to 2.
+7
+% from 8.
+3
+%.
+V14.5
+Piercing Darkness
+Damage bonus AD ratio reduced to
+40%
+bonus
+AD
+from
+50%
+.
+V14.1
+Absolution
+Undocumented:
+Mist Wraith
+spawn rate from minions killed by an ally Support item user increased to 28% from 4.
+166
+%.
+V13.24
+High Noon Senna
+Bug Fix:
+Now properly plays the transition animation for exiting her Homeguard run animation.
+PROJECT: Senna
+Dawning Shadow
+Bug Fix:
+VFX is no longer cut off from elevation change when cast from lower ground.
+V13.22
+Piercing Darkness
+Base damage reduced to 30 / 60 / 90 / 120 / 150 from 30 / 65 / 100 / 135 / 170.
+Base heal reduced to 40 / 50 / 60 / 70 / 80 from 40 / 55 / 70 / 85 / 100.
+V13.18
+Basic Attack
+Critical strike damage increased to 100% from 91.
+5
+%.
+Last Embrace
+New Effect:
+Area of effect spread now applies a stack of
+Mist
+to champions hit.
+V13.4
+Stats
+Attack speed ratio increased to 0.
+4
+from 0.
+3
+.
+Dawning Shadow
+Base damage increased to 250 / 400 / 550 from 250 / 375 / 500.
+Bonus AD ratio increased to
+115%
+bonus
+AD
+from
+100%
+.
+Cooldown reduced to 140 / 120 / 100 from 160 / 140 / 120.
+Dawning Shadow
+Bug Fix:
+PROJECT Senna's
+gun no longer disappears while casting the ability.
+V13.3
+Last Embrace
+Bug Fix:
+Missile is now fired from
+Senna's
+location at the end of the cast time again as intended.
+V13.1b
+Stats
+Mana regeneration growth increased to 0.
+7
+from 0.
+4
+.
+V12.23
+Last Embrace
+Undocumented:
+Missile is now fired at cast time start location rather than at the end location.
+V12.12
+- June 30th Hotfix
+Stats
+Base health reduced to 530 from 560.
+Piercing Darkness
+Base damage changed to 30 / 65 / 100 / 135 / 170 from 40 / 70 / 100 / 130 / 160.
+Last Embrace
+Root duration reduced to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+.
+V12.11
+Absolution
+Mist Wraith
+spawn rate on minions she kills increased to 8.
+3
+% from 2.
+7
+%.
+Piercing Darkness
+Base slow reduced to 15% from 20%.
+Slow duration reduced to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 2 at all ranks.
+V12.10
+- May 25th Hotfix
+Stats
+Base health reduced to 560 from 590.
+Absolution
+Damage health ratio reduced to
+1% – 10% (based on level)
+of target's
+current
+health
+from
+1% – 16% (based on level)
+.
+V12.10
+Stats
+Base health increased to 590 from 520.
+Health growth increased to 89 from 75.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Piercing Darkness
+Base heal reduced to 40 / 55 / 70 / 85 / 100 from 40 / 60 / 80 / 100 / 120.
+Heal bonus AD ratio reduced to
+30%
+bonus
+AD
+from
+40%
+.
+Dawning Shadow
+Base shield reduced to 100 / 150 / 200 from 120 / 160 / 200.
+V12.4
+Dawning Shadow
+Bug Fix:
+No longer changes direction if the ability is cast while the cursor is hovering the champion's portrait in the HUD.
+V12.3
+Absolution
+Mist Wraith
+spawn rate on minions she kills reduced to 2.
+7
+% from 10%.
+V12.2
+Piercing Darkness
+New Effect:
+Now
+slows
+enemies hit by 20%
+(+ 10% per 100
+bonus
+AD)
+(+ 6% per 100 AP)
+for 2 seconds.
+V11.20
+Piercing Darkness
+Bug Fix:
+Fixed a bug where it did not grant
+Press the Attack
+stacks.
+V11.17
+Absolution
+Critical damage penalty reduced to 8.
+5
+% from 14%.
+Critical damage increased to 160.
+125
+% from 150.
+5
+%.
+Mist Wraith
+spawn rate on minions she kills increased to 10% from 4.
+166
+%.
+V11.15
+True Damage Senna
+Bug Fix:
+Unique skin voice lines have been restored.
+V13.7
+General
+Adjusted splash artwork for
+PROJECT: Senna
+.
+V11.11
+Absolution
+Bonus attack range per 20 stacks reduced to 20 from 25.
+Piercing Darkness
+New Effect:
+Heal now scales with
+1.
+6
+per 1 lethality
+.
+Curse of the Black Mist
+New Effect:
+Bonus movement speed now scales with
+5% per 100 AP
+.
+Dawning Shadow
+Damage AP ratio increased to
+70% AP
+from
+50% AP
+.
+V11.5
+Absolution
+New Effect:
+Can now only grant a maximum of 100% critical strike chance.
+Excess critical strike chance is still converted into life steal.
+V11.2
+Stats
+Attack speed ratio increased to 0.
+3
+from 0.
+2
+.
+Absolution
+Mist Wraith
+spawn rate on minions she doesn't kill increased to 28% from 22%.
+Mist Wraith
+gold increased to
+8
+from
+3
+.
+Piercing Darkness
+Heal AP ratio increased to
+40% AP
+from
+25% AP
+.
+Damage bonus AD ratio increased to
+50%
+bonus
+AD
+from
+40%
+.
+Bug Fix:
+Now properly grants a stack of
+Kraken Slayer's
+Bring It Down when hitting enemy champions and turrets.
+V10.23
+Absolution
+Critical strike damage reduction reduced 14% from 35%.
+Critical strike damage increased to 150.
+5
+% from 130%.
+Critical strike chance per 20 stacks reduced to 10% from 15%.
+Dawning Shadow
+New Effect:
+Can now collect
+Mist Wraiths
+.
+V10.19
+Absolution
+Mist Wraith
+spawn rate on minion and lesser monster kills reduced to 4.
+166
+% from 8.
+33
+%.
+V10.12
+General
+Bug Fix:
+Her
+critical strike
+attacks no longer have longer windup time than her standard attacks.
+Absolution
+Mist Wraith
+spawn rate on minion kills increased to 8.
+33
+% from 1.
+67
+%.
+V10.11
+Absolution
+New Effect:
+Stats can now be pinged.
+V10.8
+Absolution
+Mist Wraith
+spawn rate on minions she doesn't kill reduced to 22% from 25%.
+V10.6
+Absolution
+Bonus attack damage per stack reduced to 0.
+75
+from 1.
+On target cooldown increased to
+6 / 5 / 4 (based on level)
+seconds from 4 at all levels.
+V10.3
+Absolution
+Mist Wraith
+spawn rate on minions
+Senna
+doesn't kill increased to 25% from 20%.
+Mist Wraith
+spawn rate on large minion kills reduced to 1.
+67
+% from 100%.
+New Effect:
+Minions executed by allies with
+Spoils of War
+now only have a 1.
+67
+% chance to spawn
+Mist Wraiths
+.
+Curse of the Black Mist
+Bug Fix:
+Allies no longer briefly become invisible if she dies while active.
+V9.24
+General
+Recommended items updated.
+Stats
+Health growth reduced to 75 from 85.
+Absolution
+Mist Wraith
+spawn rate on minion kills reduced to 1.
+67
+% from 5.
+55
+%.
+Removed:
+Champion clones no longer spawn
+Mist Wraiths
+.
+Bug Fix:
+Allied
+Bard's
+Cosmic Binding's
+can no longer damage
+Mist Wraiths
+.
+Piercing Darkness
+Base damage reduced to 40 / 70 / 100 / 130 / 160 from 50 / 80 / 110 / 140 / 170.
+Damage AD ratio reduced to
+40%
+bonus
+AD
+from
+50%
+.
+Last Embrace
+Root duration reduced to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1.
+45
+/ 1.
+65
+/ 1.
+85
+/ 2.
+05
+/ 2.
+25
+.
+Dawning Shadow
+Damage AP ratio increased to
+50% AP
+from
+40% AP
+.
+V9.23
+Absolution
+Removed:
+No longer changes the
+Spellthief's Edge
+item-line to grant
+adaptive force
+instead of
+ability power
+.
+True Damage Senna
+Loading screen border is now uniquely colored per True Damage skin.
+V9.22
+- Added
+Absolution
+(Innate)
+Innate - Weakened Soul
+:
+Senna's
+basic attacks and abilities on enemy champions apply
+Mist
+for 4 seconds.
+Senna's
+next attack collects the
+Mist
+and deals
+1% – 16% (based on level)
+of target's
+current
+health
+bonus
+physical damage
+. The same target cannot be collected more than once every 4 seconds.
+Enemy
+champions
+, large
+minions
+and large
+monsters
+that die near
+Senna
+spawn a
+Mist Wraith
+for 8 seconds. Epic monsters spawn 2
+Mist Wraiths
+instead. Small
+minions
+and lesser
+monsters
+have a 20% chance to spawn
+Mist Wraiths
+, reduced to 5.
+5
+% chance on those that
+Senna
+kills.
+Senna
+can basic attack a
+Mist Wraith
+to destroy it, gaining
+3
+and collecting its
+Mist
+.
+Absolution
+: Each stack of
+Mist
+grants
+Senna
+1
+bonus
+attack damage
+. For every 20 stacks,
+Senna
+also gains
+25
+bonus
+range
+and
+15% critical strike chance
+. Upon exceeding 100%
+critical strike chance
+,
+Senna
+converts 35% of the excess into
+life steal
+. Additionally,
+Spellthief's Edge
+item-line grants
+adaptive force
+instead of
+ability power
+.
+Relic Cannon
+:
+Senna
+does not gain
+attack damage
+through growth, her basic attack wind-up is only reduced by 0.
+6
+% per
+1%
+bonus
+attack speed
+, and her
+critical strikes
+deal only
+(30% +
+16.
+25
+%
+) AD
+bonus
+physical damage
+, but her basic attacks deal
+20% AD
+bonus
+physical damage
+and grant her
+10% / 15% / 20% (based on level)
+of the target's movement speed
+as
+bonus
+movement speed
+for 0.
+5
+seconds.
+Piercing Darkness
+(Q)
+Active:
+After a brief delay,
+Senna
+fires a spectral laser in the direction of the target unit,
+healing
+herself and allied
+champions
+in a line for 40 / 60 / 80 / 100 / 120
+(+ 40%
+bonus
+AD)
+(+ 25% AP)
+, and dealing 50 / 80 / 110 / 140 / 170
+(+ 50%
+bonus
+AD)
+physical damage
+to non-ward enemies hit in a thinner line. Enemy champions take
+on-hit effects
+.
+Mist Wraiths
+struck by the beam are collected for
+Senna
+.
+Basic attacks reduce
+Piercing Darkness'
+cooldown
+by 1 second.
+Mana Cost:
+70 / 80 / 90 / 100 / 110.
+Cooldown:
+15 seconds.
+Target Range:
+Senna's attack range
+.
+Effect Radius:
+1300.
+Width:
+130
+/
+260
+.
+Last Embrace
+(W)
+Active:
+Senna
+throws a globule of Black Mist in the target direction, dealing 70 / 115 / 160 / 205 / 250
+(+ 70%
+bonus
+AD)
+physical damage
+and sticking onto the first enemy hit.
+After a 1 second delay or when the target dies, the Black Mist spreads out of the target,
+rooting
+them and nearby enemies for 1.
+45
+/ 1.
+65
+/ 1.
+85
+/ 2.
+05
+/ 2.
+25
+seconds.
+Mana Cost:
+50 / 55 / 60 / 65 / 70.
+Cooldown:
+11 seconds.
+Target Range:
+1175.
+Detection Radius:
+400.
+Speed:
+1200.
+Curse of the Black Mist
+(E)
+Active:
+Senna
+surrounds herself with an aura of mist for 6 / 6.
+5
+/ 7 / 7.
+5
+/ 8 seconds. The mist grants
+camouflage
+to
+Senna
+and allied champions inside, as well as a
+Wraith Form
+that lasts for the remaining duration.
+Senna's
+basic attacks and abilities will briefly break her out of
+camouflage
+.
+Wraith Form:
+Gain
+20%
+bonus
+movement speed
+and appear as an
+obscured
+wraith to enemies beyond 150 units. Performing a basic attack or casting an ability removes
+Wraith Form
+, which cannot be regained for 2 seconds.
+Mana Cost:
+70.
+Cooldown:
+26 / 24.
+5
+/ 23 / 21.
+5
+/ 20 seconds.
+Cast Time:
+1 second.
+Effect Radius:
+400.
+Dawning Shadow
+(R)
+Active:
+Senna
+fires two beams of spectral light in the target direction, one granting
+sight
+in a broad area, the other dealing 250 / 375 / 500
+(+ 100%
+bonus
+AD)
+(+ 40% AP)
+physical damage
+to enemy
+champions
+hit and afflicting them with
+Mist
+.
+Senna
+and allied champions caught in any part of the area are
+shielded
+for 120 / 160 / 200
+(+ 40% AP)
+(+ 1.
+5
+per
+Mist
+collected)
+for 3 seconds.
+Mana Cost:
+100.
+Cooldown:
+160 / 140 / 120 seconds.
+Cast Time:
+1.
+3
+seconds.
+Target Range:
+Global.
+Width:
+320
+/
+2400
+.
+Speed:
+20000.
+Trivia
+Senna
+is one of 16 champions that infinitely scales at least one of their statistics or abilities:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Mel
+,
+Nasus
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Senna's case,
+Absolution
+infinitely stacks her
+attack damage
+, range, lifesteal and the shield of
+Dawning Shadow
+.
+Senna is an example of a champion that was present in the lore before they were developed into a playable champion: appearing as a recurring character in
+Lucian's
+story since his release. Another example is
+Lissandra
+, who appeared in the
+Journal of Justice
+.
+She is also part of the alternative universes of
+High Noon
+and
+PROJECT
+without having any belonging skins before her release.
+Senna is the second champion that cannot increase a stat through leveling up, after
+Thresh
+and his
+armor
+. In her case, it is
+attack damage
+because of her passive,
+Absolution
+.
+Bel'Veth
+and
+Briar
+were the next champions to be released who cannot increase a stat through leveling up. These stats are
+Bel'Veth
+'s
+attack speed
+and
+Briar
+'s
+health regeneration
+.
+Senna (optionally with
+Lucian
+) has a
+Nemesis Quest
+against
+Thresh
+.
+[
+2
+]
+Senna's (and Lucian's) reward is called
+Purity… peace
+:
+"Thresh has finally been allowed to pass. This unit absorbed some of his power […]."
+Senna has among one of the longest attack frames in game, at 0.
+5
+seconds, while most champions are between 0.
+2
+and 0.
+3
+seconds.
+[
+3
+]
+Her name comes from Arabic سناء
+Sanāʼ
+"brightness, sublimity",
+[
+4
+]
+from root
+s-n-y
+(>
+Sin
+"moon" &
+seneh
+"
+burning bush
+").
+[
+5
+]
+The movement speed buff from
+Absolution
+is called
+Essence Tap
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their basic attack windup.
+Unlike on-hit effects, on-attack effects do not require the user to land their basic attacks, only to finish their windup. Abilities that trigger on-attack effects will do so upon successfully hitting the target.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Plated Steelcaps
+will mitigate incoming
+basic damage
+on the user.
+Life steal
+and
+omnivamp
+heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives a non-
+basic attack
+spell the property of applying
+life steal
+from its damage, which basic attacks do by default.
+This tag is located on some
+abilities
+that apply
+spell effects
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Piercing Darkness
+COOLDOWN:
+15
+Active:
+Senna
+fires a spectral laser toward the target unit.
+Senna
+and allied champions hit are
+healed
+. Enemies hit are dealt
+physical damage
+, which
+applies
+life steal
+and
+on-hit
+effects, and
+slowed
+for a short time.
+Piercing Darkness'
+cooldown is
+reduced
+on-hit
+.
+League of Legends content
+Dawning Shadow
+COOLDOWN:
+140 / 120 / 100
+Active:
+Senna
+fires a massive beam in the target direction.
+Enemies in the center are dealt
+physical damage
+and
+revealed
+for a short time.
+Senna
+and allied champions hit by the beam are
+shielded
+for a short time.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Drain
+Drain
+, better known as
+Vamp
+, is a term for various
+healing
+effects that are based on damage dealt, but are not
+spell vamp
+or
+life steal
+.
+Drain
+effects benefit from
+Heal and Shield Power
+.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Structure
+A
+structure
+is a fixed, immobile unit on the battlefield that exists to control a team's territory and protect their base. Structures include
+turrets
+,
+inhibitors
+, and the
+Nexus
+. The structure unit type is considered an invalid target to most abilities and spells, and can normally only be damaged with
+basic attacks
+.
+Turrets
+are heavy fortifications that defend a part of territory. They provide vision of the area and autonomously fire homing bolts at nearby enemies, establishing a defensive ground for allies.
+Inhibitors
+are stone platforms containing an arcane crystal. They are located in each team's base and are each protected by an inhibitor turret standing before them in the same lane. When a team's inhibitor is destroyed, allied
+super minions
+will begin spawning in the waves set in the respective lane.
+The
+Nexus
+is a massive stone platform containing a large arcane crystal. One is located in each team's base and each are protected by two Nexus turrets standing before them. When a team's Nexus is destroyed, they are defeated and the opposing team scores victory of the match, thus ending the game.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+References
+↑
+Senna's profile page
+at
+LeagueOfLegends.com
+↑
+August on Senna Quest
+↑
+August on Senna's Attack Frame
+↑
+sanāʼ
+in almaany
+↑
+Theological Dictionary of the Old Testament, Volume 15
+, ed. Botterweck, Ringgren, & Fabry, p. 318

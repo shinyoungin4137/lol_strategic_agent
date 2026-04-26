@@ -1,0 +1,3001 @@
+# Samira
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Samira
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+630
++108
+MP
+349
++38
+HP5
+3.25
++0.55
+MP5
+8.2
++0.7
+AR
+26
++4.7
+AD
+57
++3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+335
+Attack range
+500
+Attack speed
+Base AS
+0.658
+Windup%
+15%
+AS ratio
+N/A
+Bonus AS
++3.3
+%
+Missile speed
+2800
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+41
+Select. height
+122
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+AD
+「 57 (+
+2.5
+) 」
+「
+57 – 99.
+5
+」
+AS
+「 0.
+658
+[base], 0.
+658
+[ratio] (+
+2.
+8
+% [growth]) 」
+「
+0.
+658
+– 0.
+971
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Shielding
+-1%
+Samira
+The Desert Rose
+Role(s):
+Bottom
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2020-09-21
+Last changed
+V26.06
+Class
+Marksman
+Legacy class
+Marksman
+,
+Assassin
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Abilities
+Edit
+Daredevil Impulse
+TARGET IMMUNITY
+:
+10
+TARGET RANGE:
+650 / 725 / 800 / 875 / 950 (based on level)
+SPEED:
+2050
+•
+2800
+Innate:
+Samira's
+basic attacks
+and damaging
+abilities
+against enemy
+champions
+that are unique from the previous hit generate a
+Style
+stack
+, up to 6.
+Samira
+can attack
+immobilized
+enemies to rapidly fire a barrage of bolts at them. If she is slightly outside of her
+attack range
+, she will also
+dash
+into it, then fire. Additionally, attacking
+champions
+and
+monsters
+that are
+knocked up
+will
+knock them up
+again briefly.
+This effect cannot occur on the same target more than once every few seconds.
+Innate:
+Samira's
+sword deals
+bonus
+magic damage
+to enemies based on
+their
+missing
+health
+. She uses her sword when she casts certain abilities or attacks enemies within
+melee range
+.
+Innate - Style:
+Each stack grants
+bonus
+movement speed
+and an increasing grade
+from E to S.
+Innate:
+Samira's
+damaging
+basic attacks
+and
+abilities
+against at least one enemy
+champion
+unique from the previous damaging hit made against champions generate a
+stack
+of
+Style
+for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times.
+Style:
+For each stack,
+Samira
+gains
+2.
+75
+% / 3% / 3.
+25
+% / 3.
+5
+% (based on level)
+bonus
+movement speed
+, up to a maximum of
+16.
+5
+% / 18% / 19.
+5
+% / 21% (based on level)
+. At maximum stacks,
+Samira
+can cast
+Inferno Trigger
+.
+Innate:
+Samira's
+basic attacks against targets within
+200 units of her use her blade, becoming
+non-projectile
+. Blade attacks,
+Blade Whirl
+,
+Wild Rush
+, and the slash and explosives of
+Flair
+deal
+2 – 21 (based on level)
+(+
+3.
+5
+% – 11.
+32
+% (based on level)
+AD)
+bonus
+magic damage
+, increased by
+0% – 100% (based on target's
+missing
+health)
+, up to
+4 – 42 (based on level)
+(+
+7% – 22.
+65
+% (based on level)
+AD)
+.
+Samira's
+basic attack against an
+immobilized
+target is empowered to have an
+uncancellable windup
+and fire
+6 bolts over 0.
+5
+seconds
+, each dealing
+17% AD
+physical damage
+and
+applying
+life steal
+. If the target is a
+monster
+or is
+airborne
+, the attack also
+knocks them up
+for 0.
+5
+seconds.
+The empowered attack
+resets
+Samira's
+basic attack timer, is affected by
+critical strike
+modifiers, applies
+on-hit
+effects only once, and cannot occur on the same target more than once every few seconds.
+If the target is further away from
+Samira's
+attack range
+, initiating an attack against the immobilized target while within valid range of them will first cause her to
+dash
+toward them up to her
+attack range
+, then automatically cast the bolts.
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Projectile
+See Notes
+Grounded
+See Notes
+Knockdown
+Interrupted
+The
+Style
+stack count is represented by the grades
+to the left of
+Samira's
+health bar
+, visible to the player only, as well as a stack counter under the
+health bar
+, visible to all players.
+Abilities blocked by
+spell shields
+will still grant
+Samira
+Style
+stacks.
+Style
+stacks can be generated via
+clones
+.
+Gun and blade attacks do not count as different for the purposes of stacking
+Style
+.
+Basic attacks using the blade are still classified as
+ranged
+.
+The blade attack's range condition is unaffected by
+attack range
+modifiers (e.g.
+Rapid Firecannon
+).
+Its attack range is calculated edge-to-edge, as normal (i.e.,
+size
+modifiers on
+Samira
+or her target can still increase the effective distance as basic attack range is added onto unit size).
+The blade attack bonus deals
+default damage
+.
+The blade attack bonus does not apply against
+structures
+.
+The blade attack bonus applies after the primary damage of the attack and is
+not
+an
+on-hit
+effect.
+The empowered attack's bolts deal:
+Basic damage
+for the first bolt, as a basic attack would.
+Default damage
+for all subsequent bolts.
+Each bolt from the empowered attack rolls for a
+critical strike
+separately.
+The empowered attack will trigger on
+immobilizes
+from
+any
+source.
+It specifically cannot trigger against enemies affected by
+Blast Cone's
+displacement triggered by anyone.
+(unexpected)
+The empowered attack will not trigger against
+crowd control immune
+and
+displacement immune
+targets.
+Fiora's
+Riposte
+can resist the knock up from
+Daredevil Impulse
+, but the ability will not trigger its on-
+immobilization
+empowerment condition from the attack alone.
+(unexpected)
+Samira
+may dash and have her dash to an
+immobilized
+target canceled an indefinite number of times, so long as the empowered attack has not triggered. When the empowered attack begins,
+Daredevil Impulse's
+cooldown is applied on the target which also prevents her from initiating the dash and the attack again on them for the duration.
+The on-target cooldown will start even if the empowered attack is parried.
+While
+grounded
+or
+rooted
+,
+Samira
+cannot
+dash
+into range to use the empowered attack. She can only use it if her target is within her
+attack range
+while under this condition.
+The empowered attack will not apply the knock up against
+suspended
+enemies.
+The empowered attack will only apply the knock up if the target is still
+immobilized
+or
+airborne
+upon being hit. It will not apply if they are no longer disabled when hit.
+The empowered attack cannot be used against a target with a
+spell shield
+.
+The application of the
+knock up
+effect can occur on any of the bolts of the empowered attack if it had not already occurred on the first.
+A missile that is parried by
+Riposte
+or is
+dodged
+,
+blocked
+, or misses while
+Samira
+is
+blinded
+cannot
+apply the knock up in any way.
+The empowered attack's speed is unaffected by
+attack speed
+modifiers.
+If
+Samira
+is outside maximum initiation range for the dash when targeting an immobilized target, the player must input a
+new
+Attack order on the target upon entering initiation range in order to actually initiate the dash.
+However if
+Samira
+enters the bolts' cast range via her movement while the target is still immobilized without issuing any other commands, the empowered attack will cast without requiring a new order (without the dash).
+The empowered attack removes any forced movement affecting the target once its knock up ends.
+(unexpected)
+PENDING FOR TEST:
+Does this also happen if it's
+cleansed
+.
+Tips & Tricks
+Samira
+can target enemies affected by
+Dragon's
+or
+Baron Nashor's
+displacing
+attacks and abilities with the empowered attack/dash, allowing for an unexpected initiation or quick
+poke
+.
+Edit
+Flair
+COST:
+30 Mana
+COOLDOWN
+:
+6 / 5 / 4 / 3 / 2
+CAST TIME:
+0.
+25
+TARGET RANGE:
+340
+RANGE:
+950
+•
+400
+WIDTH:
+120
+•
+130
+ANGLE:
+100
+°
+SPEED:
+2600
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Samira
+fires a shot in the target direction that deals
+physical damage
+to the first enemy hit. If
+Flair
+is cast towards an enemy in melee range,
+Samira
+will instead slash with her sword, dealing
+physical damage
+. If
+Flair
+is cast during
+Wild Rush
+,
+Samira
+deploys explosives in her wake that deal
+physical damage
+to enemies hit.
+Active:
+Samira
+fires a shot in the target direction that deals
+physical damage
+to the first enemy hit.
+Physical Damage:
+0 / 5 / 10 / 15 / 20
+(+ 110% AD)
+If a targetable enemy is in front of
+Samira
+at the time of cast, she will instead slash with her blade in a cone, dealing the same damage to enemies hit.
+If
+Flair
+is cast during
+Wild Rush
+,
+Samira
+deploys explosives in her wake that detonate upon the end of the dash, dealing the same damage to enemies hit.
+Flair
+can
+critically strike
+for
+(150% +
+15%
+)
+damage and will
+apply
+life steal
+at 100% effectiveness.
+Info
+Targeting input
+Direction
+Affects
+Self, Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Minion Aggro
+See Notes
+Counters
+Spell shield
+Blocked
+Projectile
+See Notes
+Applies
+spell damage
+on the shot and
+area damage
+on the slash and explosives.
+Flair's
+shot against an enemy champion will aggro nearby enemy minions.
+Flair
+can be cast during
+Wild Rush
+even if
+Blade Whirl
+or
+Inferno Trigger
+are active.
+The slash and explosives roll their
+critical strike
+against each target individually.
+The shot and the slash do not count as different abilities for stacking
+Style
+.
+Samira's
+next attack after using
+Flair
+will occasionally come out faster.
+(unexpected)
+Samira
+can use
+Wild Rush
+during
+Flair's
+cast time.
+This ability will cast from wherever the caster is at the end of the cast time.
+Flair
+will fire or slash from wherever
+Samira
+is at the end of the cast time.
+Samira
+will always slash in her facing direction, and she will turn to face the target direction only once at the start of the cast time.
+Only the shot will be destroyed by
+projectile-intercepting
+effects.
+The explosive placement is illustrated in
+Wild Rush
+regardless of whether
+Flair
+is available.
+The VFX always covers the the full dash's distance even if
+Wild Rush
+is interrupted mid-dash.
+Edit
+Blade Whirl
+COST:
+60 Mana
+COOLDOWN
+:
+30 / 28 / 26 / 24 / 22
+CAST TIME:
+0.
+1
+EFFECT RADIUS:
+325
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Samira
+briefly spins her blade twice, dealing
+physical damage
+to nearby enemies each time. During this time, she destroys all incoming enemy
+projectiles
+.
+Active:
+Samira
+spins her blade over 0.
+75
+seconds, destroying all hostile non-
+turret
+projectiles
+within the area for the duration.
+Samira
+slashes twice during
+Blade Whirl
+, each one dealing
+physical damage
+to all nearby enemies. The first slash occurs immediately and the second one occurs after the duration.
+Physical Damage per Hit:
+20 / 35 / 50 / 65 / 80
+(+ 50%
+bonus
+AD)
+Total Physical Damage:
+40 / 70 / 100 / 130 / 160
+(+ 100%
+bonus
+AD)
+Samira
+cannot basic attack nor cast
+Flair
+during Blade Whirl. Casting
+Inferno Trigger
+will end Blade Whirl early.
+"Don't think so."
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Spell shield
+will block the damage from one slash.
+While the ability has a cast time - the cast time has no effect on the ability's usability. All effects begin immediately and
+Samira
+can move throughout.
+Both slashes count as the same ability for stacking
+Style
+.
+The effect ending early includes the second slash not being performed, if applicable.
+Entering
+stasis
+will also end
+Blade Whirl
+early.
+Other item actives and channeling
+Teleport
+or
+Recall
+will
+not
+end the effect early.
+Samira
+can ignore the lockout for
+Flair
+and basic attacks if she uses
+Wild Rush
+and queues up
+Flair
+and/or a basic attack at the start of it.
+(bug)
+Tips & Tricks
+Flair
+cannot be directly cast during this ability, but can still occur through the
+Wild Rush
++
+Flair
+interaction.
+Edit
+Wild Rush
+COST:
+40 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+TARGET RANGE:
+600
+RANGE:
+650
+•
+800
+•
+-150
+WIDTH:
+300
+SPEED:
+1600
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Samira
+dashes
+at the target enemy or enemy structure, dealing
+magic damage
+to enemies she passes through. She also gains
+bonus
+attack speed
+for a short time. Scoring a champion
+takedown
+resets
+Wild Rush's
+cooldown.
+Active:
+Samira
+dashes
+a fixed distance in the direction of the target enemy or enemy
+structure
+, dealing
+magic damage
+to enemies she passes through. She also gains
+bonus
+attack speed
+for 5 seconds.
+Magic Damage:
+50 / 60 / 70 / 80 / 90
+(+ 20%
+bonus
+AD)
+Bonus Attack Speed:
+20 / 25 / 30 / 35 / 40%
+Scoring a
+takedown
+against an enemy
+champion
+within 3 seconds of damaging them resets
+Wild Rush's
+cooldown
+.
+Flair
+and
+Inferno Trigger
+can be cast during the dash. Casting
+Blade Whirl
+will buffer it to cast at the end of the dash.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Samira
+gains the attack speed buff at the start of the dash.
+Wild Rush
+does not deal its damage to turrets.
+Wild Rush
+prioritizes targeting champions over turrets.
+Inferno Trigger
+will be buffered to cast at the end of the dash if
+Flair
+was cast during the dash.
+Casting
+Flash
+during
+Wild Rush
+will interrupt the dash but deal damage to nearby enemies at the location.
+If
+Flair
+was cast during this time, an explosive will also be placed at that location.
+Wild Rush
+will also reset if
+Samira
+kills or gets assist credit on a
+clone
+that dies (to hostiles).
+(unexpected)
+Edit
+Inferno Trigger
+COST:
+6 Style
+CAST TIME:
+none
+STATIC COOLDOWN
+:
+5
+EFFECT RADIUS:
+600
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Samira
+unleashes a torrent of shots, reducing her
+movement speed
+and rapidly firing shots that deal
+physical damage
+to nearby enemies.  Each shot can
+critically strike
+and
+apply
+life steal
+.
+Inferno Trigger
+costs
+6 Style
+stacks.
+Active:
+Samira
+unleashes a torrent of shots for
+2.
+277
+seconds
+,
+reducing
+her
+movement speed
+by
+30%
+and rapidly shooting at  nearby enemies over
+2.
+013
+seconds
+at sporadic times in
+0.
+2
+-second intervals
+each (up to 10 times per enemy), dealing
+physical damage
+with each shot, reduced by 75% against
+minions
+. This damage is affected by
+critical strike
+modifiers and
+applies
+life steal
+at 100% effectiveness.
+Physical Damage Per Shot:
+20 / 40 / 60
+(+ 30% AD)
+Total Physical Damage:
+200 / 400 / 600
+(+ 300% AD)
+Minion Damage Per Shot:
+5 / 10 / 15
+(+ 7.
+5
+% AD)
+Total Minion Damage:
+50 / 100 / 150
+(+ 75% AD)
+A nearby
+visible
+enemy is required to cast this ability, and targets do not have to be visible to be shot at.
+Style
+stacks are consumed at the end of the effect.
+Samira
+cannot basic attack nor cast
+Flair
+and
+Blade Whirl
+during Inferno Trigger, but she can still move. Inferno Trigger will end prematurely if
+Samira
+is affected by any form of
+cast-inhibiting crowd control
+as well as
+disarm
+. Inferno Trigger cannot be cast while
+Samira
+is
+disarmed
+.
+"Showtime!"
+Info
+Targeting input
+Proximity
+Target out-of-range override
+The ability will not cast
+Affects
+Enemies
+Damage classification
+Type
+AOE DOT damage
+Sub-type(s)
+Physical
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Disruption
+Interrupted
+Samira's
+facing direction remains as it had been or, if she is moving, towards that direction during
+Inferno Trigger
+.
+The
+movement speed
+reduction stacks additively with other
+movement speed
+bonuses.
+It is a negative bonus, not a
+slow
+, and is thus not reduced by
+slow resist
+.
+Inferno Trigger's
+area of effect is fixed around
+Samira
+.
+Spell shield
+will block the damage of one shot.
+Inferno Trigger
+will not end if there are no enemies that remain in range.
+The bottom of the
+player's
+screen will have a fiery visual effect while
+Samira
+is at
+S
+rank and
+Inferno Trigger
+has at least one rank.
+Since
+Inferno Trigger's
+cooldown is static,
+Ultimate Hunter
+will be swapped with
+Treasure Hunter
+for
+Samira
+at the start of the game.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage per tick changed to 5 / 10 / 15.
+Edit
+/taunt
+RANGE:
+950 •
+890
+WIDTH:
+120
+SPEED:
+1400
+Samira's
+taunt expression
+prevents
+her from inputting attack commands and casting non-movement abilities. After a few seconds, she will toss a
+coin in the direction she is facing. If she has at least
+1
+gold
+, the coin deals
+1 true damage
+to the first enemy champion hit, and removes
+1
+from
+Samira
+to grant it to them. The damage can trigger
+Daredevil Impulse
+.
+Samira's
+taunt expression
+prevents
+her from inputting attack commands and casting non-movement abilities, and she may only interrupt it herself with a movement command. After 3 seconds without interruption, she will toss a
+coin in the direction she is facing.
+If she has at least
+1
+gold
+, the coin deals
+1 true damage
+to the first enemy champion hit, and
+1
+is removed from
+Samira
+to grant it to them. The damage can trigger
+Daredevil Impulse
+.
+If cast within 1200 units of a
+visible
+enemy champion,
+Samira
+will turn to face towards the closest one to perform the animation.
+Samira's
+Taunt
+can target and hit dead enemy champions, granting them
+1
+but not triggering other effects.
+"Buy something nice. On me."
+Info
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+True
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Samira
+must have at least
+1
+to weaponize her Taunt animation.
+Using her
+Taunt
+does
+not
+count as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Flash
+and
+Wild Rush
+can be cast during her
+Taunt
+, but neither interrupt the effect.
+(bug)
+If Samira's facing direction is changed before the coin is fired (e.g. by casting
+Wild Rush
+), she will still turn toward her initial
+facing direction
+to toss the coin. Note:
+facing direction
+, not toward the location of the target.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Samira (Collection)
+.
+Original
+21.09.2020
+Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.
+Emily O’Brien
+Jessica 'OwleyCat' Oyhenart
+Loot eligible
+View in 3D
+•
+View Music
+PsyOps
+1350
+21.09.2020
+Fearless and deadly, Samira was once a renowned soldier of fortune. A born thrill seeker, she fights not for fame or wealth, but to push the limits of her skill. Through intense training, her innate psychic powers have been fully unleashed, allowing her to turn every mission and every kill into a thrilling display of stylish flair.
+Emily O’Brien
+Jennifer Wuestling
+Black Rose Group
+Loot eligible
+Additional/unique quotes
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+PsyOps Samira Chromas
+Amethyst
+Catseye
+Hunter
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Space Groove
+1350
+01.04.2021
+A groovy, thrill-seeking bodyguard and elite warrior from the Hot Tub Nebula, Samira took a job directly from the Three Party Goddesses to save Lux from an impending invasion of the Normal World. Now, as the pair liberate planets across the galaxy, Samira must do everything in her power to keep Lux safe—both from Lissandra and from Lux's own lack of self preservation instincts.
+Emily O’Brien
+Xiao Guang Sun, West Studio
+Space Groove
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Space Groove Samira Chromas
+Amethyst
+Aquamarine
+Disco
+Emerald
+Obsidian
+Pearl
+Rainbow
+Rose Quartz
+Ruby
+High Noon
+1350
+26.05.2022
+The poster was straightforward enough: “WANTED: Tahm Kench - Devil, DEAD OR ALIVE”, followed by a generous sum. Only the Mechanical Devil's got that kinda cash to pay. Samira ain't sure why the other bounty hunters seemed so spooked by a little ol' devil hunt. Well, let 'em shy away. This gunpowder witch don't scare easy.
+Emily O’Brien
+Jeremy Chong, West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+High Noon Samira Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Paragon
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Soul Fighter
+3250
+20.07.2023
+A renowned bounty hunter who can't sit still cause she's ALWAYS on the hunt for her next thrill! This weapons master can use every dangerous tool in (and out!) of her arsenal to fight with STYLE in the Tournament of Souls! Our gracious host better sleep with one eye open, because rumor has it this queen wants to collect his crown! Make way for… SAMIRA!
+Emily O’Brien
+Jennifer Wuestling
+Soul Fighter
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+•
+View Music
+Masque of the Black Rose
+Battle Pass
+09.01.2025
+Dear Samira, in recognition of your daring feats across the empire, we invite you to the Silken Danse. The noble houses have heard about your great potential from a trusted name in our ranks, Captain Indari. So, Desert Rose—from one fearless woman to another—you are welcome to our garden. –Lady Elise
+Emily O’Brien
+Jiunn Kuo, Kudos Productions
+Masque of the Black Rose
+Loot eligible
+New SFX/VFX
+View in 3D
+Battle Professor
+1350
+22.01.2026
+A star alumnus of Babylon Academy, Samira paused her lucrative mercenary career to come back and teach Advanced Acrobatic Swordplay. Babylon had given her both the tools and freedom to throw herself into danger and come out stronger for it. Now she can instill that same sense of fearless thrill-seeking into the next generation. For one semester at least.
+Emily O’Brien
+Lejia Chan, Kudos Productions
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Battle Professor Samira Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.06
+Flair
+Bug Fix:
+Fixed a bug that caused her to cast it with no effect if it was immediately cast after using
+Blade Whirl
+then
+Inferno Trigger
+.
+V26.05
+Flair
+Now does multiple additional checks to see if there are units on both the right and left of her. If there are, and importantly if there are no units far in front of her, she will use Sword Q. If a unit is far in front of her, she will still use Gun Q regardless of units on the right and left.
+Is now properly sealed during her passive. This resolves a case where it can go on cooldown despite not being used if pressed during her passive's animation. This also applies to an instance where her ultimate was cast after her W.
+Now does a check to see if the enemy is walking away from her and in the very last part of her Sword Q's range. If so, she will instead use Gun Q. This should resolve the extreme cases where champions can simply walk away from her Q at very low move speed. Higher move speeds will still likely be able to do so, rightfully.
+V26.04
+Flair
+Life steal effectiveness increased to 100% from 80%.
+Inferno Trigger
+Life steal effectiveness increased to 100% from 80%.
+V26.01
+Flair
+Base damage reduced to 0 / 5 / 10 / 15 / 20 from 5 / 10 / 15 / 20 / 25.
+AD ratio changed to
+110% AD
+at all ranks from
+95 / 102.
+5
+/ 110 / 117.
+5
+/ 125% AD
+.
+Base critical strike damage increased to 150% from 125%.
+Infinity Edge
+scaling reduced to 15% from 40%.
+Inferno Trigger
+Base damage per shot increased to 20 / 40 / 60 from 5 / 15 / 25.
+AD ratio per shot reduced to
+3O% AD
+from
+45% AD
+.
+Base critical strike damage increased to 200% from 175%.
+Infinity Edge
+scaling reduced to 30% from 40%.
+V25.14
+Inferno Trigger
+Bug Fix:
+Using
+Inferno Trigger
+(the ability does not need to cast, only be input) no longer overrides the lockout to
+Blade Whirl
+during
+Wild Rush's
+dash, thus illegally allowing her to cast the former during the dash whenever queued.
+V25.12
+General
+Bug Fix:
+Restored champion kill VO.
+Daredevil Impulse
+Bonus movement speed per stack increased to
+2.
+75
+% / 3% / 3.
+25
+% / 3.
+5
+% (based on level)
+from
+2% / 2.
+5
+% / 3% / 3.
+5
+% (based on level)
+.
+Maximum bonus movement speed increased to
+16.
+5
+% / 18% / 19.
+5
+% / 21% (based on level)
+from
+12% / 15% / 18% / 21% (based on level)
+.
+Flair
+Base damage increased to 5 / 10 / 15 / 20 / 25 from 0 / 5 / 10 / 15 / 20.
+V25.11
+Flair
+Life steal effectiveness increased to 80% from 66.
+6
+%.
+Blade Whirl
+Bonus AD ratio per hit reduced to
+50%
+bonus
+AD
+from
+60%
+bonus
+AD
+.
+Maximum bonus AD ratio reduced to
+100%
+bonus
+AD
+from
+120%
+bonus
+AD
+.
+Inferno Trigger
+Life steal effectiveness increased to 80% from 50%.
+Masque of the Black Rose Samira
+Adjusted splash art.
+Updated models and VFX.
+V25.S1.3
+Wild Rush
+Attack speed duration increased to 5 seconds from 3.
+V14.18
+Flair
+AD ratio increased to
+95 / 102.
+5
+/ 110 / 117.
+5
+/ 125% AD
+from
+85 / 95 / 105 / 115 / 125% AD
+.
+V14.12
+Soul Fighter Samira
+Bug Fix:
+Pentakill celebration is no longer partially missing confetti and spotlight VFX.
+V14.10
+- May 16th Hotfix
+Stats
+Attack damage growth reduced to 3 from 3.
+3
+.
+Blade Whirl
+Bonus AD ratio per hit reduced to
+60%
+bonus
+AD
+from
+80%
+bonus
+AD
+.
+Maximum bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+160%
+bonus
+AD
+.
+Inferno Trigger
+AD ratio per hit reduced to
+45% AD
+from
+50% AD
+.
+Maximum AD ratio reduced to
+450% AD
+from
+500% AD
+.
+V13.23
+General
+Removed:
+No longer replaces
+Aftershock
+with
+Grasp of the Undying
+.
+Removed:
+No longer replaces
+Glacial Augment
+with
+First Strike
+.
+V13.17
+Stats
+Base health increased to 630 from 600.
+V13.14
+Taunt
+Bug Fix:
+Now properly grants a
+Style
+stack when the coin hits an enemy champion.
+Flair
+Bug Fix:
+Can no longer cast the ability again despite being on cooldown after launching the empowered attack from
+Daredevil Impulse
+.
+V13.9
+Daredevil Impulse
+Bug Fix:
+Empowered attack no longer knocks up epic monsters.
+Inferno Trigger
+Bug Fix:
+Animation can no longer be cancelled unintentionally.
+V13.5
+Daredevil Impulse
+Bonus movement speed per stack changed to
+2% / 2.
+5
+% / 3% / 3.
+5
+% (based on level)
+from
+1% / 2% / 3% / 4% (based on level)
+.
+Maximum bonus movement speed changed to
+12% / 15% / 18% / 21% (based on level)
+from
+6% / 12% / 18% / 24% (based on level)
+.
+V13.4
+Daredevil Impulse
+Bonus movement speed per stack changed to
+1% / 2% / 3% / 4% (based on level)
+from 3.
+5
+% at all levels.
+Maximum bonus movement speed changed to
+6% / 12% / 18% / 24% (based on level)
+from 21% at all levels.
+Inferno Trigger
+Life steal effectiveness reduced to 50% from 66.
+6
+%.
+V12.23
+Flair
+Bug Fix:
+Casting it during
+Wild Rush
+now properly counts as two instances of damage for effects such as
+Conqueror
+and
+Electrocute
+.
+V12.22
+Stats
+Base mana increased to 349 from 348.
+88
+.
+Base mana regeneration increased to 8.
+2
+from 8.
+18
+.
+V12.13
+Wild Rush
+Bug Fix:
+Cooldown is no longer reset from scoring a takedown against an enemy clone.
+V12.11
+Stats
+Attack damage growth increased to 3.
+3
+from 3.
+Flair
+AD ratio increased to
+85 / 95 / 105 / 115 / 125% AD
+from
+80 / 90 / 100 / 110 / 120% AD
+.
+V12.10
+Stats
+Base health increased to 600 from 530.
+Health growth increased to 108 from 94.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+V12.5
+Stats
+Health growth increased to 94 from 88.
+Armor growth increased to 3.
+5
+from 3.
+Inferno Trigger
+Static cooldown reduced to 5 seconds from 8.
+V12.3
+Daredevil Impulse
+Bug Fix:
+No longer grants an additional
+Style
+stack from executing an enemy champion with
+The Collector's
+Death and Taxes.
+V12.2
+Inferno Trigger
+Base damage per shot increased to 5 / 15 / 25 from 0 / 10 / 20.
+Maximum base damage increased to 50 / 150 / 250 from 0 / 100 / 200.
+V11.24
+Inferno Trigger
+Mana cost reduced to 0 at all ranks from 100 / 50 / 0.
+V11.18
+Flair
+Bug Fix:
+Fixed a bug where it did not apply life steal when cast during
+Wild Rush
+.
+V11.6
+Blade Whirl
+Bug Fix:
+Second slash now properly always deals damage.
+V11.5
+Stats
+Attack damage growth increased to 3 from 2.
+3
+.
+Flair
+AD ratio increased to
+80 / 90 / 100 / 110 / 120% AD
+from
+80 / 87.
+5
+/ 95 / 102.
+5
+/ 110% AD
+.
+Inferno Trigger
+Bug Fix:
+Now properly triggers
+Ravenous Hydra's
+Cleave.
+V11.4
+Daredevil Impulse
+AD ratio changed to
+3.
+5
+% – 10.
+5
+% (based on level)
+AD
+from
+7.
+5
+% AD
+.
+Flair
+AD ratio changed to
+80 / 87.
+5
+/ 95 / 102.
+5
+/ 110% AD
+from
+100% AD
+at all ranks.
+Blade Whirl
+Duration reduced to 0.
+75
+seconds from 1.
+25
+.
+Wild Rush
+Dash speed reduced to 1600 from 2050.
+New Effect:
+Can now be cast on enemy structures to dash through them, but will target champions over structures.
+Damage is not applied against structures.
+Removed:
+Can no longer be cast on allies.
+Inferno Trigger
+Cooldown increased to 8 seconds from 3.
+V11.1
+Daredevil Impulse
+Undocumented:
+Prowler's Claw
+no longer counts as a unique spell cast towards stacking
+Style
+.
+V10.25
+Daredevil Impulse
+New Effect:
+Empowered attack now applies the knock up to enemy champions and minions only if they are
+airborne
+, rather than if they are
+immobilized
+.
+Empowered attack still applies the knock up to immobilized monsters.
+Undocumented:
+Empowered attack now only applies the knock up if the target is still immobilized/airborne upon being hit, rather than applying regardless.
+Flair
+Life steal effectiveness reduced to 66.
+6
+% from 100%.
+Bug Fix:
+Critically striking now deals the proper bonus damage.
+Inferno Trigger
+Life steal effectiveness reduced to 66.
+6
+% from 100%.
+V10.24
+Daredevil Impulse
+AD ratio reduced to
+7.
+5
+% AD
+from
+10% AD
+.
+Dash range reduced to
+650 / 725 / 800 / 875 / 950 (based on level)
+units from
+800 / 850 / 900 / 950 / 1000
+.
+V10.23
+Daredevil Impulse
+Bug Fix:
+Empowered attack can no longer be used on immobilized targets that have a spell shield or are untargetable.
+V10.22
+Stats
+Base attack damage reduced to 57 from 59.
+Base armor reduced 26 from 28.
+V10.21
+Wild Rush
+Cooldown increased to 20 / 18 / 16 / 14 / 12 seconds from 15 / 14 / 13 / 12 / 11.
+Bonus attack speed reduced to 20 / 25 / 30 / 35 / 40% from 30 / 35 / 40 / 45 / 50%.
+V10.20
+Undocumented:
+Samira's
+Taunt
+no longer triggers on-cast effects.
+V10.19
+- September 22nd Hotfix
+Stats
+Base health reduced to 530 from 600.
+Inferno Trigger
+Base damage per shot reduced to 0 / 10 / 20 from 10 / 20 / 30.
+AD ratio per shot reduced to
+50% AD
+from
+60% AD
+.
+V10.19
+- Added
+Daredevil Impulse
+(Innate)
+Innate - Style:
+Damaging basic attacks and abilities against at least one enemy
+champion
+different from the previous damaging hit made against them grants
+Samira
+a
+Style
+stack for 6 seconds, up to 6 stacks,
+refreshing
+on damaging attacks and abilities against enemy champions. The stack count is represented by the grades
+to the left of her health bar for
+Samira
+herself, and a stack counter underneath the bar that is visible to all units.
+Samira
+gains
+0% – 21% (based on
+Style grade)
+bonus
+movement speed
+.
+Innate:
+Samira's
+basic attacks against targets in
+200 range use her blade, becoming
+non-projectile
+. Basic attacks
+on-hit
+within this range and
+Blade Whirl
+,
+Wild Rush
+, and the slash and explosives of
+Flair
+deal
+2 – 19 (based on level)
+(+ 10% AD)
+bonus
+magic damage
+, increased by
+0% – 100% (based on target's
+missing
+health)
+.
+Additionally,
+Samira's
+basic attack against
+immobilized
+enemies is empowered to have an
+uncancellable windup
+and fire 6 bolts over 0.
+5
+seconds, each dealing
+17% AD
+physical damage
+, applying
+life steal
+, and
+knocking up
+the target for 0.
+5
+seconds. If the target is not within attack range,
+Samira
+will
+dash
+into it from up to
+800 / 850 / 900 / 950 / 1000 (based on level)
+units and then fire the bolts. This effect cannot occur on the same target more than once every
+10 seconds
+.
+The empowered attack causes her basic attack timer to
+reset
+. Each bolt rolls
+critical strikes
+separately.
+On-hit
+effects are only applied once.
+Flair
+(Q)
+Active:
+Samira
+fires a shot in the target direction, dealing 0 / 5 / 10 / 15 / 20
+(+ 100% AD)
+physical damage
+to the first enemy it hits.
+If a targetable enemy is in front of
+Samira
+, she will slash with her blade instead, dealing the same damage to all enemies hit in a cone.
+Casting
+Flair
+during
+Wild Rush
+will cause
+Samira
+to deploy explosives along her path which detonate upon the end of the dash, dealing the same damage to enemies within the covered distance. This
+can be done
+while performing
+Blade Whirl
+and
+Inferno Trigger
+.
+Both the shot and slash can
+critically strike
+for
+(25% +
+25%
+)
+bonus
+physical damage
+and apply
+life steal
+at full effectiveness.
+Mana Cost:
+30.
+Cooldown:
+6 / 5 / 4 / 3 / 2 seconds.
+Width:
+120
+/
+130
+.
+Cast Time:
+0.
+25
+seconds.
+Speed:
+2600
+.
+Blade Whirl
+(W)
+Active:
+Samira
+slashes around herself twice over 1.
+25
+seconds, the first slash occurring immediately and the second being performed 0.
+25
+seconds before the duration ends, each one dealing 20 / 35 / 50 / 65 / 80
+(+ 80%
+bonus
+AD)
+physical damage
+to nearby enemies.
+Samira
+destroys all hostile non-
+turret
+projectiles
+that enter or are in her vicinity during this time.
+Samira
+cannot attack nor cast
+Flair
+during Blade Whirl. Casting
+Inferno Trigger
+will end Blade Whirl early without performing the second slash.
+Mana Cost:
+60.
+Cooldown:
+30 / 28 / 26 / 24 / 22
+seconds.
+Cast Time:
+None.
+Wild Rush
+(E)
+Active:
+Samira
+dashes
+in the direction of the target allied or enemy unit and slashes all enemies in her path, dealing 50 / 60 / 70 / 80 / 90
+(+ 20%
+bonus
+AD)
+magic damage
+and gaining 30 / 35 / 40 / 45 / 50%
+bonus
+attack speed
+for 3 seconds.
+Takedowns
+on enemy
+champions
+reset
+Wild Rush's
+cooldown.
+Mana Cost:
+40.
+Cooldown:
+15 / 14 / 13 / 12 / 11 seconds.
+Target Range:
+600
+/
+650
+.
+Width:
+100.
+Cast Time:
+None.
+Speed:
+2050.
+Inferno Trigger
+(R)
+Active:
+Samira
+unleashes a torrent of shots from her weapons, rapidly shooting at all nearby enemies every 0.
+2
+seconds over 2 seconds,
+slowing
+herself by 25% and dealing 10 / 20 / 30
+(+ 60% AD)
+physical damage
+with each shot, reduced by 75% against
+minions
+.
+Each shot can
+critically strike
+for
+(100% +
+25%
+)
+bonus
+physical damage
+and applies
+life steal
+at full effectiveness.
+Inferno Trigger cannot be cast unless the
+Style
+cost is satisfied, and will reset the grade back to 0 stacks when the effect ends.
+Samira
+cannot attack nor cast
+Flair
+or
+Blade Whirl
+during Inferno Trigger, but she is still able to move. Inferno Trigger will end prematurely by all forms of
+interrupting
+crowd control
+.
+Cost:
+100 / 50 / 0 mana +
+6 Style.
+Static Cooldown:
+3
+seconds.
+Cast Time:
+None.
+Taunt
+(Ctrl + 2)
+Taunt:
+If
+Samira
+does not interrupt the emote for 3 seconds, she tosses a
+coin in the direction she is facing. If she has at least
+1
+, the first enemy
+champion
+hit, including
+dead
+ones, takes an
+insulting
+1
+true damage
+but also receives
+1
+from
+Samira
+.
+If cast while a
+corpse
+of an enemy champion is within range,
+Samira
+will turn to face towards the closest one.
+This spell counts as an ability for
+Daredevil Impulse
+.
+Target Range:
+950.
+Width:
+120.
+Width:
+1400.
+Trivia
+Samira is probably inspired by
+Sayyida al Hurra
+, an Arab woman who, as a child, along with her family, abandoned the
+Emirates of Granada
+due to the Christian conquest and became a pirate and warrior woman.
+Samira was accidentally pushed to
+PBE
+prior to the supposed reveal.
+Samira
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Ambessa
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+,
+Zaahen
+, and
+Zed
+.
+Samira is one of 19 champions able to apply a form of
+crowd control
+to themselves by using an
+ability
+, the others are:
+Blitzcrank
+,
+Briar
+,
+Galio
+,
+Nunu
+,
+Pantheon
+,
+Poppy
+,
+Pyke
+,
+Quinn
+,
+Renata Glasc
+,
+Sion
+,
+Tahm Kench
+,
+Taliyah
+,
+Thresh
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Vladimir
+, and
+Xerath
+.
+Samira shares having a non-projectile basic attack in melee range with
+Fiddlesticks
+and
+Kayle
+.
+Unlike conventional
+emotes
+, Samira's
+Taunt
+has mechanical functions. It creates a coin skillshot that, if Samira has
+1
+to spare, deals 1 damage and gives
+1
+to enemy champions.
+[
+2
+]
+It also automatically aims towards dead enemy champions in range.
+[
+3
+]
+Samira's movement animations change form depending on whether her recent attack used the gun or blade.
+The blocking animation of
+Blade Whirl
+has Samira explicitly shoot every single incoming projectile.
+[
+4
+]
+Samira was teased ingame with the
+Style: Rank S
+loot item earnable in patch
+V10.17
+. It was
+awarded
+by scoring a takedown after fighting in a manner like
+Daredevil Impulse
+.
+If players look at the
+Daredevil Impulse
+stacks in the slot, it will show "Why are reading this? Style on them!"
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement, becoming unable to input movement commands and use movement spells. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+,
+blinking
+or
+lunging
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Inferno Trigger
+STATIC CD:
+5
+Active:
+Samira
+unleashes a torrent of shots, reducing her
+movement speed
+and rapidly firing shots that deal
+physical damage
+to nearby enemies.
+Each shot can
+critically strike
+and
+apply
+life steal
+.
+Inferno Trigger
+costs
+6 Style
+stacks.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Blade Whirl
+COOLDOWN:
+30 / 28 / 26 / 24 / 22
+Active:
+Samira
+briefly spins her blade twice, dealing
+physical damage
+to nearby enemies each time. During this time, she destroys all incoming enemy
+projectiles
+.
+League of Legends content
+Wild Rush
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+Active:
+Samira
+dashes
+at the target enemy or enemy structure, dealing
+magic damage
+to enemies she passes through. She also gains
+bonus
+attack speed
+for a short time.
+Scoring a champion
+takedown
+resets
+Wild Rush's
+cooldown.
+League of Legends content
+Flair
+COOLDOWN:
+6 / 5 / 4 / 3 / 2
+Active:
+Samira
+fires a shot in the target direction that deals
+physical damage
+to the first enemy hit.
+If
+Flair
+is cast towards an enemy in melee range,
+Samira
+will instead slash with her sword, dealing
+physical damage
+.
+If
+Flair
+is cast during
+Wild Rush
+,
+Samira
+deploys explosives in her wake that deal
+physical damage
+to enemies hit.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives a non-
+basic attack
+spell the property of applying
+life steal
+from its damage, which basic attacks do by default.
+This tag is located on some
+abilities
+that apply
+spell effects
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Clone
+A
+clone
+or
+decoy
+is a specific type of
+pet
+that attempts to imitate a
+champion
+, copying their current vitality, stats, items, level, and most status effects upon creation. They are considered champions against many effects that do not strictly require
+player
+champions, else they are considered
+minions
+either small or large among certain cases.
+The
+damage
+they deal is attributed to them alone, but they transfer last hit and kill credit. Killing a
+clone
+awards
+25
+and
+44
+.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Structure
+A
+structure
+is a fixed, immobile unit on the battlefield that exists to control a team's territory and protect their base. Structures include
+turrets
+,
+inhibitors
+, and the
+Nexus
+. The structure unit type is considered an invalid target to most abilities and spells, and can normally only be damaged with
+basic attacks
+.
+Turrets
+are heavy fortifications that defend a part of territory. They provide vision of the area and autonomously fire homing bolts at nearby enemies, establishing a defensive ground for allies.
+Inhibitors
+are stone platforms containing an arcane crystal. They are located in each team's base and are each protected by an inhibitor turret standing before them in the same lane. When a team's inhibitor is destroyed, allied
+super minions
+will begin spawning in the waves set in the respective lane.
+The
+Nexus
+is a massive stone platform containing a large arcane crystal. One is located in each team's base and each are protected by two Nexus turrets standing before them. When a team's Nexus is destroyed, they are defeated and the opposing team scores victory of the match, thus ending the game.
+References
+↑
+Samira's profile page
+at
+LeagueOfLegends.com
+↑
+Reav3 on Samira Taunt
+↑
+Blizz on Taunt Against Dead Bodies
+↑
+Vandiril.
+Slow Mo Samira W vs 5 Enemies! Epic Animation!
+(13 Sept 2020). youtube.com. Retrieved 14 Sept 2020

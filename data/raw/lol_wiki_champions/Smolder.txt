@@ -1,0 +1,2632 @@
+# Smolder
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Smolder
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+575
++100
+MP
+300
++40
+HP5
+3.75
++0.6
+MP5
+8.5
++0.7
+AR
+24
++4
+AD
+60
++2.3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+330
+Attack range
+550
+Attack speed
+Base AS
+0.638
+Windup%
+16.622%
+AS ratio
+N/A
+Bonus AS
++4
+%
+Missile speed
+1800
+Unit radius
+Gameplay radius
+65
+Select. radius
+130
+Pathing radius
+30
+Select. height
+150
+Acq. radius
+900
+Special statistics
+Damage Dealt
++0%
+Damage Received
++2%
+Ability Haste
+-10
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Smolder
+The Fiery Fledgling
+Role(s):
+Bottom
+Store price:
+3150
+|
+975
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+1
+Utility
+1
+Release date
+2024-01-31
+Last changed
+V26.02
+Class
+Marksman
+Legacy class
+Marksman
+,
+Mage
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Abilities
+Edit
+Dragon Practice
+Innate:
+Smolder
+generates a
+stack
+of
+Dragon Practice
+from damaging champions with abilities, or when
+Super Scorcher Breath
+kills
+minions
+and
+monsters
+. His
+basic abilities
+deal
+bonus
+magic damage
+based on stacks.
+Innate:
+Smolder
+generates a
+stack
+of
+Dragon Practice
+each time he hits an enemy champion with an
+ability
+, or whenever
+Super Scorcher Breath
+kills a
+minion
+or
+monster
+. His basic abilities deal
+bonus
+magic damage
+based on stacks.
+Super Scorcher Breath
+: Deals
+bonus
+magic damage
+equal to
+40% – 60%
+(+
+0% – 6%
+)
+(based on critical strike chance)
+of
+Dragon Practice
+stacks
+.
+Achooo!
+: Explosions deal
+bonus
+magic damage
+equal to
+55% of
+Dragon Practice
+stacks
+.
+Flap, Flap, Flap
+: Attacks each deal
+bonus
+magic damage
+equal to
+12% of
+Dragon Practice
+stacks
+.
+Info
+Targeting input
+Passive
+Affects
+Self/Enemies
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+Super Scorcher Breath
+grants a stack if the target dies while the initial missile is in flight.
+This happens even if the target dies to
+Super Scorcher Breath's
+burn, giving him a total of 2 stacks.
+Achooo!
+can only grant a stack of
+Dragon Practice
+with the first hit against each enemy champion.
+Flap, Flap, Flap
+can only grant one stack of
+Dragon Practice
+per cast.
+Map-Specific Differences
+Arena
+differences
+edit
+New Effect:
+Now gains 14 stacks at the start of the game and each subsequent round.
+Edit
+Super Scorcher Breath
+COST:
+25 mana
+COOLDOWN:
+5.
+5
+/ 5 / 4.
+5
+/ 4 / 3.
+5
+CAST TIME:
+100% of
+Smolder's
+windup time
+(0.
+261
+at
+base
+attack speed
+)
+TARGET RANGE:
+550 (+ 100%
+bonus
+attack range
+)
+RANGE:
+500
+EFFECT RADIUS:
+285
+•
+150
+ANGLE:
+15
+°
+SPEED:
+1800
+•
+900
+QUEUE THRESHOLD
+:
+0.
+05
+Active:
+Smolder
+spits a fireball that deals
+physical damage
+to the target enemy.
+Super Scorcher Breath
+becomes empowered with new effects based
+Dragon Practice
+stacks
+:
+25 stacks:
+The fireball explodes upon collision to deal
+physical damage
+to nearby enemies.
+125 stacks:
+The fireball sends forth bolts of fire that deal
+physical damage
+to enemies hit. The number of bolts increases based on stacks.
+225 stacks:
+Enemies hit will burn for
+true damage
+based on
+their
+maximum
+health
+over a short time. Enemy
+champions
+are also
+executed
+at low health
+based on stacks.
+Super Scorcher Breath
+applies
+life steal
+and
+on-hit
+and
+on-attack
+effects.
+Active:
+Smolder
+spits a fireball at the target enemy that deals
+physical damage
+, increased by
+0% – 50%
+(+
+0% – 15%
+)
+(based on critical strike chance)
+; applies
+on-hit
+effects; applies
+life steal
+at 50% effectiveness; and triggers
+on-attack
+effects. If
+Super Scorcher Breath
+kills at least one target,
+Smolder
+restores
+15 mana
+.
+Physical Damage:
+65 / 80 / 95 / 110 / 125
+(+ 130%
+bonus
+AD)
+Super Scorcher Breath
+becomes empowered with new effects based on the number of
+Dragon Practice
+stacks
+:
+Tier 1 - 25 stacks:
+The fireball explodes upon collision to deal the same
+physical damage
+to nearby enemies. The explosion benefits from
+life steal
+at 50% effectiveness and applies
+on-hit
+effects.
+Tier 2 - 125 stacks:
+The fireball sends forth 2
+(+ 0.
+8
+per 100
+Dragon Practice
+stacks)
+bolts of fire in an arc upon collision that explode at maximum range, dealing 50% of the same damage to enemies hit. The bolts benefit from
+life steal
+at 50% effectiveness and apply
+on-hit
+effects.
+Physical Damage:
+32.
+5
+/ 40 / 47.
+5
+/ 55 / 62.
+5
+(+ 65%
+bonus
+AD)
+Tier 3 - 225 stacks:
+Enemies hit are set on fire for 3 seconds, causing them to take
+bonus
+true damage
+equal to
+「
+2.
+5
+% per 100
+bonus
+AD
+(+ 0.
+5
+% per 100
+Dragon Practice
+stacks)
+of their
+maximum
+health
+over the duration, capped at 300 against monsters. 」
+「
+0.
+83
+% per 100
+bonus
+AD
+(+ 0.
+17
+% per 100
+Dragon Practice
+stacks)
+of their
+maximum
+health
+each second, capped at 100 per tick against monsters. 」
+Subsequent applications of the burn stack, though not refreshing the duration of the previous burn. Enemy
+champions
+afflicted with the burn are also
+executed
+once
+Smolder
+deals damage to them that would leave them below
+6.
+5
+% of their
+maximum
+health
+.
+Execution announcement.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+True
+Counters
+Spell shield
+Blocked
+Parries
+See Notes
+Projectile
+Blocked
+Any applied
+Dragon Practice
+damage is affected by the same damage modifiers as
+Super Scorcher Breath
+and does not benefit from the ability's
+life steal
+.
+Super Scorcher Breath's
+damage tags:
+The fireball deals
+spell damage
+and procs
+basic damage
+required effects.
+The explosion deals
+area damage
+.
+The burn deals
+proc damage
+.
+Only
+Smolder's
+damage counts for triggering the execute.
+If the target is below the threshold while afflicted with the burn, they will be executed on the next instance of damage dealt by
+Smolder
+, which includes the burn tick.
+If
+Super Scorcher Breath
+would damage the target to below the execution threshold, they are executed on the same damage instance.
+The number of additional bolts launched based on
+Dragon Practice
+stacks is rounded up.
+(unexpected)
+At 125
+Dragon Practice
+stacks, the fireball will launch 3 bolts.
+At 225
+Dragon Practice
+stacks, the burn's damage based on the target's health ratio will increase by at least 1.
+125
+%.
+Super Scorcher Breath
+can only hit enemies once per cast.
+The minion and monster damage modifier applies only to the physical damage.
+Super Scorcher Breath's
+initial fireball, explosion and extra bolts can all be
+blocked
+and
+dodged
+.
+The application of the burn is negated in all cases.
+Edit
+Achooo!
+COST:
+50 / 55 / 60 / 65 / 70 mana
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+0.
+35
+RANGE:
+1500
+EFFECT RADIUS:
+385
+WIDTH:
+115
+SPEED:
+2000
+•
+400
+Active:
+Smolder
+sneezes forth a glob that deals
+physical damage
+to enemies hit and
+slows
+them. Hitting an enemy
+champion
+creates an explosion that deals
+physical damage
+to nearby enemies.
+Active:
+Smolder
+sneezes a fiery glob in the target direction that deals
+physical damage
+to enemies hit and
+slows
+them by 35% for 1.
+5
+seconds, slowing down in missile speed after travelling
+1200
+units. Hitting an enemy
+champion
+creates an explosion that deals
+physical damage
+to nearby enemies, with subsequent explosions against the same target dealing 75% damage of the previous explosion's damage.
+Glob Physical Damage:
+60 / 70 / 80 / 90 / 100
+(+ 60%
+bonus
+AD)
+Explosion Physical Damage:
+10 / 35 / 60 / 85 / 110
+(+ 65%
+bonus
+AD)
+(+ 80% AP)
+Total Physical Damage On Champion Hit:
+70 / 105 / 140 / 175 / 210
+(+ 125%
+bonus
+AD)
+(+ 80% AP)
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Smolder
+can't declare basic attacks for a brief moment after the cast time.
+Spell shield
+can block either the glob or the explosion, but not both.
+Edit
+Flap, Flap, Flap
+COST:
+65 mana
+COOLDOWN
+:
+24 / 22 / 20 / 18 / 16
+CAST TIME:
+none
+RANGE:
+700
+SPEED:
+1800
+Active:
+Smolder
+takes flight for a short time, becoming
+ghosted
+and gaining
+bonus
+movement speed
+and the ability to ignore terrain collision. While in flight, he automatically fires bolts at a nearby enemy, dealing
+physical damage
+with each hit. The number of attacks increases based on
+critical strike chance
+.
+Active:
+Smolder
+takes flight for 1.
+25
+seconds, becoming
+ghosted
+and gaining
+75%
+bonus
+movement speed
+,
+unobstructed vision
+, and the ability to ignore terrain collision. While in flight, he automatically fires up to 5
+(+ 1 per 100
+Dragon Practice
+stacks)
+bolts at the nearest and
+most wounded
+visible
+enemy, dealing
+physical damage
+with each hit and prioritizing enemy champions.
+Physical Damage per Hit:
+10 / 15 / 20 / 25 / 30
+(+ 30% AD)
+Minimum Total Physical Damage:
+50 / 75 / 100 / 125 / 150
+(+ 150% AD)
+Flap, Flap, Flap
+ends immediately if
+Smolder
+casts another ability or becomes
+immobilized
+.
+Info
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Bypass
+Grounded
+Disabled
+Smolder's
+attack range
+is reduced to 0 for the duration of
+Flap, Flap, Flap
+.
+Based on game engine ticks
+Smolder
+may not be able to declare
+basic attacks
+for up to 0.
+264
+seconds after the end of the effect.
+(unexpected)
+The number of additional bolts based on
+Dragon Practice
+stacks is rounded down.
+Smolder
+reveals himself while attacking enemies, even inside terrain.
+Spell shield
+will block only one bolt.
+Self
+immobilizations
+such as
+Zhonya's Hourglass
+also count for ending
+Flap, Flap, Flap
+.
+Recall
+is disabled while
+Smolder
+is inside terrain.
+Flap, Flap, Flap
+can interact with
+player-generated terrain
+.
+If
+Smolder
+is inside terrain when the effect ends, he will be placed correspondingly to the nearest valid space.
+The following table refers for interactions while
+Smolder
+is flying:
+Attacking
+Causes
+Smolder
+to move towards the attack target.
+Abilities
+Interrupts
+Movement
+Allowed
+Items
+Usable
+Disabled
+N/A
+Interrupted by
+Zhonya's Hourglass
+Consumables
+Usable
+Spells
+Usable
+All summoner spells are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Interrupted by
+Death
+Immobilizing effects
+Edit
+MMOOOMMMM!
+COST:
+100 mana
+COOLDOWN:
+120 / 110 / 100
+CAST TIME:
+0.
+75
+RANGE:
+4250
+•
+-600
+EFFECT RADIUS:
+1000
+WIDTH:
+125
+SPEED:
+1700
+Active:
+Smolder
+shouts for his mother to attack from above, causing her to exhale a wave of fire along his path. The wave
+heals
+Smolder
+and deals
+physical damage
+to enemies hit, enemies within the center are dealt
+increased damage
+and
+slowed
+.
+Active:
+Smolder
+shouts for his mother to attack from above, causing her to exhale a wave of fire starting from behind him and towards the target direction, granting
+sight
+of its
+surroundings
+as it travels. The wave
+heals
+Smolder
+and deals
+physical damage
+to enemies hit, with those in the center taking
+50% increased damage
+and becoming
+slowed
+by 40% for 2 seconds.
+Self Heal:
+100 / 135 / 170
+(+ 50%
+bonus
+AD)
+(+ 75% AP)
+Physical Damage:
+200 / 300 / 400
+(+ 110%
+bonus
+AD)
+(+ 100% AP)
+Increased Physical Damage:
+300 / 450 / 600
+(+ 165%
+bonus
+AD)
+(+ 150% AP)
+MMOOOMMMM!
+deals 50% damage against
+minions
+and
+monsters
+.
+Info
+Targeting input
+Direction
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the start of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled in the first 0.
+4
+seconds of the cast time.
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Smolder (Collection)
+.
+Original
+31.01.2024
+Hidden amongst the craggy cliffs of the Noxian frontier, under the watchful eyes of his mother, a young dragon is learning what it means to be heir to the Camavoran imperial dragon lineage. Playful and eager to grow up, Smolder looks for any excuse to practice his burgeoning abilities. Though he's still a fledgling, his skills are nothing to sneeze at, easily setting fire to anything that burns.
+Georgie Cordova Kidder
+Rudy Siswanto
+Loot eligible
+View in 3D
+•
+View Music
+Heavenscale
+1350
+31.01.2024
+The youngest member of the royal family and cousin to the prince, Smolder likes nothing more than to tag along on any adventures Lee Sin gets up to. He may have missed the part of the plan that involves disguising himself as a human, but hey—he will show them that dragons don't need to dress up to be the life of the party!
+Georgie Cordova Kidder
+Fortune 'Fortuneee' K
+Heavenscale
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Heavenscale Smolder Chromas
+Amethyst
+Aquamarine
+Catseye
+Lustrous
+Obsidian
+Pearl
+Peridot
+Ruby
+Turquoise
+Reindeer
+1350
+03.12.2025
+Smolder takes great joy in his role as Santa Braum's swiftest helper. Whether it's gift-wrapped boxes or the occasional lump of coal, he delivers to all the children before the bells ring on the first morning of Snowdown. And if he sneaks a present or two for himself along the way… well, who's counting?
+Georgie Cordova Kidder
+Roanna Peroz
+Snowdown Showdown
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Reindeer Smolder Chromas
+Amethyst
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Trivia
+Smolder
+is one of 16 champions that infinitely scales at least one of their statistics or abilities:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Mel
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Smolder's case,
+Dragon Practice
+stacks gained through
+Dragon Practice
+permanently increase the bonus damage of his basic abilities,
+Flap, Flap, Flap's
+bolt amount, and
+Super Scorcher Breath's
+bolt amount and burn damage as it upgrades.
+Smolder's joke animation references a popular meme of the character Toothless from
+How to Train Your Dragon
+series being depicted dancing.
+[
+2
+]
+Smolder's dance animation references the 1988 movie Oliver and Company. Striking a similarity to
+Oliver's dance
+.
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.02
+Stats
+Armor growth reduced to 4 from 4.
+7
+.
+V26.01
+Dragon Practice
+Super Scorcher Breath
+base critical strike chance scaling reduced to
+40% – 60% (based on critical strike chance)
+from
+40% – 70%
+.
+Infinity Edge
+scaling reduced to
+0% – 6% (based on critical strike chance)
+from
+0% – 16%
+.
+Super Scorcher Breath
+Base critical strike chance scaling reduced to
+0% – 50% (based on critical strike chance)
+from
+0% – 75%
+.
+Infinity Edge
+scaling reduced to
+0% – 15% (based on critical strike chance)
+from
+0% – 40%
+.
+V25.15
+Super Scorcher Breath
+Bug Fix:
+No longer causes a short lockout on the next attack after the ability is cast or canceled.
+Flap, Flap, Flap
+Bug Fix:
+Spell shields are no longer consumed by a bolt without blocking its damage.
+V25.11
+Stats
+Base health regeneration reduced to 3.
+75
+from 4.
+5
+.
+Base armor reduced to 24 from 26.
+V25.10
+Dragon Practice
+Super Scorcher Breath
+stack ratio increased to
+40% – 70% (based on critical strike chance)
+from
+30% – 52.
+5
+%
+.
+Flap, Flap, Flap
+stack ratio increased to 12% from 10%.
+Super Scorcher Breath
+Tier 3 burn
+Dragon Practice
+stack ratio increased to
+0.
+5
+% per 100
+Dragon Practice
+stacks
+from
+0.
+4
+%
+.
+V25.06
+Achooo!
+Glob base damage changed to 60 / 70 / 80 / 90 / 100 from 30 / 50 / 70 / 90 / 110.
+Explosion base damage reduced to 10 / 35 / 60 / 85 / 110 from 30 / 50 / 70 / 90 / 110.
+Explosion bonus AD ratio increased to
+65%
+bonus
+AD
+from
+60%
+.
+Flap, Flap, Flap
+Base damage per hit increased to 10 / 15 / 20 / 25 / 30 from 5 / 10 / 15 / 20 / 25.
+AD ratio per hit increased to
+30% AD
+from
+25% AD
+.
+MMOOOMMMM!
+Cooldown reduced to 120 / 110 / 100 seconds from 120 at all ranks.
+V25.S1.2
+Dragon Practice
+New Effect:
+Super Scorcher Breath
+bonus damage based on critical chance is now affected by critical damage bonuses.
+Super Scorcher Breath
+New Effect:
+Damage based on critical chance is now affected by critical damage bonuses.
+V14.23
+- Gameplay Update
+Dragon Practice
+Super Scorcher Breath
+Dragon Practice stack ratio reduced to
+30% – 52.
+5
+% (based on critical strike chance)
+from
+40% – 70% (based on critical strike chance)
+.
+Flap, Flap, Flap
+Dragon Practice stack ratio reduced to 10% from 20%.
+Super Scorcher Breath
+New Effect:
+Now refunds
+15 mana
+if this ability kills at least one target.
+Base damage increased to 65 / 80 / 95 / 110 / 125 from 15 / 25 / 35 / 45 / 55.
+AD ratio changed to
+130%
+bonus
+AD
+from
+100%
+total
+AD
+.
+Removed:
+Damage to non-champions reduced to 100% from 110%.
+Tier 2 base missiles increased to 2 from 1.
+Tier 2 bonus missiles per 100
+Dragon Practice
+stacks reduced to 0.
+8
+from 1.
+5
+.
+Tier 2 missile explosion damage reduced to 50% from 75%.
+Explosion base damage changed to 32.
+5
+/ 40 / 47.
+5
+/ 55 / 62.
+5
+from 11.
+25
+/ 18.
+75
+/ 26.
+25
+/ 33.
+75
+/ 41.
+25
+.
+Explosion AD ratio changed to
+65%
+bonus
+AD
+from
+75%
+total
+AD
+.
+Undocumented:
+Tier 2 missile on-hit damage modifier increased to 100% from 75%.
+Tier 3 burn AD ratio increased to
+2.
+5
+% per 100
+bonus
+AD
+from
+2% per 100
+bonus
+AD
+.
+Removed:
+Tier 3 burn no longer scales with
+1% per 100 AP
+.
+Tier 3 burn
+Dragon Practice
+stack ratio reduced to
+0.
+4
+% per 100
+Dragon Practice
+stacks
+from
+0.
+8
+% per 100
+Dragon Practice
+stacks
+.
+Achooo!
+Mana cost changed to 50 / 55 / 60 / 65 / 70 from 60 at all ranks.
+Glob base damage reduced to 30 / 50 / 70 / 90 / 110 from 45 / 75 / 105 / 135 / 165.
+Glob bonus AD ratio increased to
+60%
+bonus
+AD
+from
+25%
+.
+Removed:
+Glob damage no longer scales with
+20% AP
+.
+Explosion base damage increased to 30 / 50 / 70 / 90 / 110 from 25 / 40 / 55 / 70 / 85.
+Explosion bonus AD ratio increased to
+60%
+bonus
+AD
+from
+25%
+.
+Non-champion damage reduced to 100% from 140%.
+Flap, Flap, Flap
+Base damage per bolt reduced to 5 / 10 / 15 / 20 / 25 from 15 / 20 / 25 / 30 / 35.
+AD ratio per bolt increased to
+25% AD
+from
+10% AD
+.
+Number of bolts per 100
+Dragon Practice
+stacks increased to 1 from 0.
+75
+.
+MMOOOMMMM!
+Cooldown reduced to 120 seconds at all ranks from 140 / 130 / 120.
+New Effect:
+Now deals 50% damage against non-champions.
+V14.18
+Stats
+Base health reduced to 575 from 605.
+Super Scorcher Breath
+Base damage reduced to 15 / 25 / 35 / 45 / 55 from 20 / 30 / 40 / 50 / 60.
+Removed:
+Damage no longer scales with
+15% AP
+.
+Achooo!
+Base damage reduced to 45 / 75 / 105 / 135 / 165 from 50 / 80 / 110 / 140 / 170.
+V14.14
+Super Scorcher Breath
+Base damage increased to 20 / 30 / 40 / 50 / 60 from 15 / 25 / 35 / 45 / 55.
+V14.12
+Super Scorcher Breath
+Bug Fix:
+Fixed a bug that caused attacks that tag multiple targets to not receive the damage amp from
+Press the Attack
+.
+V14.11
+Stats
+Base attack damage increased to 60 from 57.
+Dragon Practice
+Super Scorcher Breath
+bonus damage increased to
+40% – 70% (based on critical strike chance)
+of
+Dragon Practice
+stacks from
+40% – 52%
+.
+Super Scorcher Breath
+Mana cost changed to 25 at all ranks from 23 / 26 / 29 / 32 / 35.
+Critical strike chance ratio increased to
+0% – 75% (based on critical strike chance)
+from
+0% – 50%
+.
+V14.10
+- May 16th Hotfix
+Stats
+Base attack damage increased to 57 from 55.
+Base health increased to 605 from 575.
+Base health regeneration increased to 4.
+5
+from 3.
+V14.9
+MMOOOMMMM!
+Bug Fix:
+No longer displays its mana cost in the HUD if the respective setting has been disabled by the player.
+Bug Fix:
+The ultimate ability timer no longer displays as full/that the ability is available at all times including after it has already been cast.
+V14.7
+Stats
+Base armor increased to 26 from 24.
+Super Scorcher Breath
+Critical strike chance ratio increased to
+0% – 50% (based on critical strike chance)
+from
+0% – 30%
+.
+MMOOOMMMM!
+Bug Fix:
+No longer plays the roar SFX twice simultaneously, causing them to layer and thus be louder than intended.
+V14.6
+Super Scorcher Breath
+New Effect:
+Execute now only triggers on damage instances originating from Smolder.
+Tier 3 base execute threshold increased to
+6.
+5
+% of target's
+maximum
+health
+from
+1.
+25
+%
+.
+Removed:
+Execute threshold no longer increases by
+2.
+5
+% per 100
+Dragon Practice
+stacks
+.
+Bug Fix:
+Tooltip now considers the intended
+Dragon Practice
+stack scaling in its calculations for the tier 3 burn damage (of 0.
+8
+% instead of the old 1%).
+Achooo!
+Missile width reduced to 115 from 125.
+Flap, Flap, Flap
+Bonus movement speed reduced to 75% from 100%.
+Tooltip now properly clarifies that the number of missiles is rounded down.
+V14.5
+- March 7th Hotfix
+Flap, Flap, Flap
+Number of bolts per 100
+Dragon Practice
+stacks reduced to 0.
+75
+from 2.
+Bug Fix:
+Calculation for the number of bolts from
+Dragon Practice
+stacks is no longer incorrectly rounded up.
+MMOOOMMMM!
+Cooldown increased to 140 / 130 / 120 seconds from 120 / 110 / 100.
+V14.5
+General
+Adjusted spawn location of basic attack missile VFX in order to more accurately represent him breathing it out.
+Stats
+Attack windup reduced to 15.
+954
+% from 16.
+622
+%.
+Super Scorcher Breath
+Removed:
+At tier 3, no longer deals a base
+6.
+5
+% of target's
+maximum
+health
+true damage
+.
+New Effect:
+Tier 3 true damage now scales with
+2% per 100
+bonus
+AD
+.
+New Effect:
+Tier 3 true damage now scales with
+1% per 100 AP
+.
+New Effect:
+Tier 3 true damage now scales with 0.
+8
+% per 100
+Dragon Practice
+stacks.
+Flap, Flap, Flap
+Removed:
+Number of bolts is no longer increased by
+1 / 2 / 3 / 4 / 5 (based on critical strike chance)
+.
+New Effect:
+Number of bolts now increases by 2 per 100
+Dragon Practice
+stacks.
+Bug Fix:
+Now properly ignores terrain collision for
+Taliyah's
+Weaver's Wall
+.
+MMOOOMMMM!
+Base damage reduced to 200 / 300 / 400 from 225 / 350 / 475.
+Sweetspot bonus damage increased to 50% from 30%.
+Base heal reduced to 100 / 135 / 170 from 110 / 160 / 210.
+New Effect:
+Heal now scales with
+50%
+bonus
+AD
+.
+V14.4
+General
+Bug Fix:
+No longer is considered a Void champion for champion voice lines.
+Bug Fix:
+No longer is able to become stuck in impassable terrain when he is hit by
+Rift Herald's
+charge.
+Bug Fix:
+Various clipping animations have been fixed.
+Super Scorcher Breath
+New Effect:
+Now grants
+Dragon Practice
+stacks if the target dies while the initial missile is in flight.
+Tier 2 base missiles reduced to 1 from 2.
+Tier 2 additional missiles per 100
+Dragon Practice
+stacks increased to 1.
+5
+from 1.
+Achooo!
+Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds from 13 / 12.
+5
+/ 12 / 11.
+5
+/ 11.
+Initial base damage changed to 50 / 80 / 110 / 140 / 170 from 70 / 90 / 110 / 130 / 150.
+Initial AD ratio reduced to
+25%
+bonus
+AD
+from
+25%
+total
+AD
+.
+Initial AP ratio reduced to
+20% AP
+from
+35% AP
+.
+New Effect:
+Explosion damage now scales with
+25%
+bonus
+AD
+.
+Explosion AP ratio increased to
+80% AP
+from
+65% AP
+.
+Flap, Flap, Flap
+Bug Fix:
+Now properly ignores the terrain collision for
+Yorick's
+Dark Procession
+.
+MMOOOMMMM!
+Bug Fix:
+Missile no longer fizzles upon caster's death.
+Cooldown now starts at the end of the cast time.
+Missile spawn delay changed to 1 second after start of cast time from 0.
+25
+seconds after end of cast time. (
+Note: its timing is unchanged.
+)
+Bug Fix:
+SFX no longer plays louder than intended in spectator mode.
+Bug Fix:
+Can no longer sometimes crash the game under specific circumstances.
+Heavenscale Smolder
+Bug Fix:
+Respawn VFX timing and SFX are no longer incorrectly used during his
+Recall
+animation.
+V14.3
+General
+Bug Fix:
+His model's shadow now properly snaps back to him upon completing
+Recall
+.
+Bug Fix:
+His health bar is now properly aligned during his spawn animation.
+Bug Fix:
+No longer has multiple clipping issues of his model due to clashing with various other model and spell layers.
+Super Scorcher Breath
+Bug Fix:
+No longer plays the execute VFX repeatedly on every damage check tick against targets that had a health threshold below the execute threshold.
+Flap, Flap, Flap
+Bug Fix:
+No longer
+grants vision
+of stealthed units while any missiles are in-flight and at least one has hit them.
+Stats
+Undocumented:
+Base attack damage reduced to 55 from 56.
+Undocumented:
+Attack damage growth reduced to 2.
+3
+from 2.
+5
+.
+V14.2
+- Added
+Dragon Practice
+- Innate
+Innate:
+Smolder
+generates a stack of
+Dragon Practice
+each time he hits an enemy champion with an ability, or whenever
+Super Scorcher Breath
+kills a
+minion
+or
+monster
+. His basic abilities deal
+bonus
+magic damage
+based on stacks.
+Super Scorcher Breath
+: Deal
+bonus
+magic damage
+equal to
+40% – 52% (based on critical strike chance)
+of
+Dragon Practice
+stacks
+.
+Achooo!
+: Deals
+bonus
+magic damage
+equal to
+55% of
+Dragon Practice
+stacks
+.
+Flap, Flap, Flap
+: Attacks each deal
+bonus
+magic damage
+equal to
+20% of
+Dragon Practice
+stacks
+.
+Super Scorcher Breath
+- Q
+Active:
+Smolder
+spits a fireball at the target enemy that deals 15 / 25 / 35 / 45 / 55
+(+ 100% AD)
+(+ 15% AP)
+physical damage
+, increased by
+0% – 30% (based on critical strike chance)
+, and applies
+on-hit
+and
+on-attack
+effects at 100% effectiveness and
+life steal
+at 50% effectiveness.
+Super Scorcher Breath
+becomes empowered with new effects based on
+Dragon Practice
+stacks
+:
+Tier 1 - 25 stacks:
+The fireball explodes upon collision to deal the same
+physical damage
+to nearby enemies.
+Tier 2 - 125 stacks:
+The fireball sends forth 2
+(+ 1 per 100
+Dragon Practice
+stacks)
+bolts of fire in an arc upon collision that explode at maximum range, dealing 75% of the same
+physical damage
+to enemies hit.
+Tier 3 - 225 stacks:
+Enemies hit are set on fire for 3 seconds, causing them to take
+bonus
+true damage
+equal to
+「
+6.
+5
+% of their
+maximum
+health
+over the duration, 」
+「
+2.
+17
+% of their
+maximum
+health
+each second over the duration, 」
+capped at 300 against monsters. Enemy
+champions
+are also
+executed
+if they are damaged to or while below
+2%
+(+ 1% per 40
+Dragon Practice
+stacks)
+of their
+maximum
+health
+.
+Super Scorcher Breath
+deals 110% damage against
+minions
+and
+monsters
+.
+Mana Cost:
+23 / 26 / 29 / 32 / 35.
+Cooldown:
+5.
+5
+/ 5 / 4.
+5
+/ 4 / 3.
+5
+seconds.
+Cast Time:
+100% of his attack windup time,
+Target Range:
+550 (+ 100%
+bonus
+range)
+,
+Range:
+500
+,
+Effect Radius:
+285
+/
+150
+,
+Angle:
+15
+°,
+Speed:
+1800
+/
+900
+.
+Achooo!
+- W
+Active:
+Smolder
+sneezes a fiery glob in the target direction that deals 70 / 90 / 110 / 130 / 150
+(+ 25% AD)
+(+ 35% AP)
+physical damage
+to enemies hit and
+slows
+them by 35% for 1.
+5
+seconds, slowing down in missile speed after travelling
+1200
+units. Hitting an enemy
+champion
+creates an explosion that deals 25 / 40 / 55 / 70 / 85
+(+ 65% AP)
+physical damage
+to nearby enemies, with subsequent explosions against the same target dealing 75% damage.
+Achooo!
+deals 140% damage against
+minions
+and
+monsters
+.
+Mana Cost:
+60.
+Cooldown:
+13 / 12.
+5
+/ 12 / 11.
+5
+/ 11 seconds.
+Cast Time:
+0.
+35
+seconds,
+Range:
+1500,
+Effect Radius:
+385
+,
+Width:
+125
+,
+Speed:
+2000
+/
+400
+.
+Flap, Flap, Flap
+- E
+Active:
+Smolder
+takes flight for 1.
+25
+seconds, gaining
+100%
+bonus
+movement speed
+,
+unobstructed vision
+, and the ability to ignore terrain collision. While in flight, he automatically fires up to
+5 – 10 (based on critical strike chance)
+bolts at the nearest and
+most wounded
+visible
+enemy, dealing 15 / 20 / 25 / 30 / 35
+(+ 10% AD)
+physical damage
+with each hit and prioritizing enemy champions.
+Flap, Flap, Flap
+ends immediately if
+Smolder
+casts one of his abilities or becomes
+immobilized
+.
+Mana Cost:
+65.
+Cooldown:
+24 / 22 / 20 / 18 / 16 seconds.
+Cast Time:
+None,
+Range:
+700,
+Speed:
+1800
+.
+MMOOOMMMM!
+- R
+Active:
+Smolder
+shouts for his mother to attack from above, causing her to exhale a wave of fire from behind him and towards the target direction, granting
+sight
+of its
+surroundings
+as it travels. The wave
+heals
+Smolder
+for 110 / 160 / 210
+(+ 75% AP)
+and deals 225 / 350 / 475
+(+ 110%
+bonus
+AD)
+(+ 100% AP)
+physical damage
+to enemies hit, with those in the center taking
+30% increased damage
+and becoming
+slowed
+by 40% for 2 seconds.
+Mana Cost:
+100.
+Cooldown:
+120 / 110 / 100 seconds.
+Cast Time:
+0.
+75
+seconds,
+Range:
+4250 /
+-600
+,
+Effect Radius:
+1000
+,
+Width:
+125
+,
+Speed:
+1700.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Super Scorcher Breath
+COOLDOWN:
+5.
+5
+/ 5 / 4.
+5
+/ 4 / 3.
+5
+Active:
+Smolder
+spits a fireball that deals
+physical damage
+to the target enemy.
+Super Scorcher Breath
+becomes empowered with new effects based
+Dragon Practice
+stacks
+:
+25 stacks:
+The fireball explodes upon collision to deal
+physical damage
+to nearby enemies.
+125 stacks:
+The fireball sends forth bolts of fire that deal
+physical damage
+to enemies hit. The number of bolts increases based on stacks.
+225 stacks:
+Enemies hit will burn for
+true damage
+based on
+their
+maximum
+health
+over a short time. Enemy
+champions
+are also
+executed
+at low health
+based on stacks.
+Super Scorcher Breath
+applies
+life steal
+and
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Achooo!
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Smolder
+sneezes forth a glob that deals
+physical damage
+to enemies hit and
+slows
+them. Hitting an enemy
+champion
+creates an explosion that deals
+physical damage
+to nearby enemies.
+League of Legends content
+Flap, Flap, Flap
+COOLDOWN:
+24 / 22 / 20 / 18 / 16
+Active:
+Smolder
+takes flight for a short time, becoming
+ghosted
+and gaining
+bonus
+movement speed
+and the ability to ignore terrain collision. While in flight, he automatically fires bolts at a nearby enemy, dealing
+physical damage
+with each hit. The number of attacks increases based on
+critical strike chance
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Super Scorcher Breath
+COOLDOWN:
+5.
+5
+/ 5 / 4.
+5
+/ 4 / 3.
+5
+Active:
+Smolder
+spits a fireball that deals
+physical damage
+to the target enemy.
+Super Scorcher Breath
+becomes empowered with new effects based
+Dragon Practice
+stacks
+:
+25 stacks:
+The fireball explodes upon collision to deal
+physical damage
+to nearby enemies.
+125 stacks:
+The fireball sends forth bolts of fire that deal
+physical damage
+to enemies hit. The number of bolts increases based on stacks.
+225 stacks:
+Enemies hit will burn for
+true damage
+based on
+their
+maximum
+health
+over a short time. Enemy
+champions
+are also
+executed
+at low health
+based on stacks.
+Super Scorcher Breath
+applies
+life steal
+and
+on-hit
+and
+on-attack
+effects.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Dragon Practice
+Innate:
+Smolder
+generates a
+stack
+of
+Dragon Practice
+from damaging champions with abilities, or when
+Super Scorcher Breath
+kills
+minions
+and
+monsters
+. His
+basic abilities
+deal
+bonus
+magic damage
+based on stacks.
+Wild Rift content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends: Wild Rift
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their basic attack windup.
+Unlike on-hit effects, on-attack effects do not require the user to land their basic attacks, only to finish their windup. Abilities that trigger on-attack effects will do so upon successfully hitting the target.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+True damage
+Applies:
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Plated Steelcaps
+will mitigate incoming
+basic damage
+on the user.
+Life steal
+and
+omnivamp
+heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+References
+↑
+Smolder's profile page
+at
+LeagueOfLegends.com
+↑
+Know Your Meme —
+Dancing Toothless

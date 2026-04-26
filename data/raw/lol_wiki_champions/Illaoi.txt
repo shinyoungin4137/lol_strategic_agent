@@ -1,0 +1,4018 @@
+# Illaoi
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Illaoi
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+656
++115
+MP
+350
++50
+HP5
+9.5
++0.8
+MP5
+7.5
++0.75
+AR
+35
++5
+AD
+65
++5
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+350
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Windup%
+21.429%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+100
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Healing
+-20%
+HP
+「 656 (+
+105
+) 」
+「
+656 – 2441
+」
+AD
+「 65 (+
+4
+) 」
+「
+65 – 133
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Illaoi
+The Kraken Priestess
+Role(s):
+Top
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+1
+Utility
+1
+Release date
+2015-11-24
+Last changed
+V26.04
+Class
+Juggernaut
+Legacy class
+Fighter
+,
+Tank
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Prophet of an Elder God
+STATIC COOLDOWN
+:
+18 – 5.
+71
+(based on level)
+EFFECT RADIUS:
+1000
+Innate:
+Periodically, a
+Tentacle
+will spawn next to nearby
+terrain
+. It can be killed by enemy basic attacks and will become dormant if
+Illaoi
+leaves it alone. A
+Tentacle
+only attacks through
+Illaoi's
+abilities and does so by slamming the ground once, dealing
+physical damage
+to enemies hit. Whenever it hits at least one enemy
+champion
+,
+Illaoi
+is
+healed
+for a portion of
+her
+missing
+health
+.
+Innate:
+Periodically,
+Illaoi
+spawns a
+Tentacle
+on the nearest terrain, if no other Tentacle is around it. Tentacles fully spawn after a 2 second delay and are
+untargetable
+in the meantime.
+Tentacles
+are commanded to attack by
+Illaoi's
+abilities
+, dealing
+9 – 200.
+12
+(based on level)
+(+ 110% AD)
+(+ 40% AP)
+physical damage
+to all enemies struck, increased by
+0% – 30% (based on
+Tentacle Smash's rank)
+.
+Each enemy individually reduces the slam damage by 50% for every slam they were hit by in the last 0.
+66
+seconds, capped at 75% less damage.
+Each
+Tentacle
+also
+heals
+Illaoi
+for
+5% of her
+missing
+health
+if it hits at least one enemy
+champion
+.
+See
+Pets
+for more details about
+Tentacles
+.
+Info
+Targeting input
+Passive
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Illaoi
+cannot spawn
+Tentacles
+on ally invulnerable
+structures
+[1]
+(note)
+, in addition to neither her nor the
+Vessel
+being able to spawn them in
+Nexus Obelisk's
+attack range.
+Even after
+Nexus turrets
+have lost their invulnerability,
+Illaoi
+still has issues spawning
+Tentacles
+on them (probably because of the nearby invulnerable
+Nexus
+).
+[2]
+(unexpected)
+Tentacles
+are prevented from spawning on
+base gates
+.
+If multiple
+Tentacles
+hit simultaneously, the received healing is calculated iteratively based on the new amount of
+missing
+health, as per this formula:
+(
+maximum
+health −
+current
+health)
+× (1 − 0.95
+n
+), with 'n' the number of
+Tentacle
+hits.
+A slam that extends the damage reduction window to reduce the damage of a successive slam that would otherwise not have been reduced, can have its contribution of damage effectivelly negated or even outweighted by the window extension. For example, a slam reduced to 25% damage may be the cause of a successive slam being reduced from 100% to 50% damage - reducing the damage by 50% with only a contribution of 25%.
+[3]
+[4]
+(unexpected)
+The expectation would instead be for slam damage to follow the formula (200% − damage% of slams in the last 0.
+66
+s) ÷ 2, which would result in the successive slam from the above example to be reduced from 100% to
+87.
+5
+%
+damage - reducing the damage by 12.
+5
+% with a contribution of 25%.
+Map-Specific Differences
+Arena
+differences
+edit
+Heal health ratio changed to
+2.
+5
+%
+missing
+health
+.
+General
+Illaoi
+has a 1200 radius to detect a nearby terrain to spawn a
+Tentacle
+on
+[5]
+. On
+Summoner's Rift
+, every point on the map has a terrain that is within that radius, thus effectively allowing
+Illaoi
+to spawn a
+Tentacle
+from anywhere. The same may not apply for all maps.
+Edit
+Tentacle Smash
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+75
+RANGE:
+-52.
+75
+• 802.
+75
+WIDTH:
+200
+QUEUE THRESHOLD
+:
+0.
+5
+Passive:
+Tentacle
+damage is increased.
+Active:
+Illaoi
+slams down a
+Tentacle
+in the target direction, dealing
+physical damage
+.
+Passive:
+Tentacle
+damage is increased.
+Damage Increase:
+10 / 15 / 20 / 25 / 30%
+Active:
+Illaoi
+slams down a
+Tentacle
+in the target direction.
+Illaoi
+reveals
+herself during the cast if there is an enemy champion
+nearby
+.
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Tentacle Smash's
+hitbox is fixed in front of
+Illaoi
+, while the indicator on the ground is fixed to the targeted direction.
+For allied
+Original Illaoi
+and
+Void Bringer Illaoi
+skin,
+Tentacle Smash's
+indicator is further in front of
+Illaoi
+compared to an enemy
+Illaoi's
+and other skins (with the hitbox unchanged).
+[6]
+(unexpected)
+Conqueror
+will pre-emptively amplify
+Tentacle Smash's
+damage by the generated
+Conqueror
+stack.
+(unexpected)
+PENDING FOR TEST:
+Only
+Tentacle Smash
+or also
+Prophet of an Elder God
+attacks?
+PENDING FOR TEST:
+The self-reveal has not been fully tested for complete confirmation. Is the ability invisible when hitting minions and there is no enemy champion nearby? Is the tip of the ability enough to reveal her? Whether it can hit a minion or not? Just if she's around the exit of the fog of war, and even if she points towards the inside of the fog of war?
+[7]
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Test of Spirit
+and
+Leap of Faith
+are buffered.
+Harsh Lesson
+is usable.
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Tips & Tricks
+Since
+Tentacle Smash
+is still considered a
+Tentacle
+for
+Prophet of an Elder God's
+damage reduction, care should be taken around
+Tentacle
+attack sequences, as using the ability at innapropriate times may greatly reduce not only its own damage, but also the damage of following
+Tentacle
+attacks.
+[8]
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus tentacle damage changed to 4 / 8 / 12 / 16 / 20%.
+Edit
+Harsh Lesson
+COST:
+30 Mana
+COOLDOWN
+:
+4
+CAST TIME:
+none
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Illaoi's
+next basic attack gains
+bonus
+attack range
+and causes her to
+leap
+to her target, dealing
+additional
+physical damage
+and commanding nearby
+Tentacles
+to attack the target.
+Active:
+Illaoi
+empowers her next
+basic attack
+within 6 seconds to gain
+225
+bonus
+range
+and cause her to
+leap
+to the target's location if they are beyond her normal basic attack range.
+The attack deals
+additional
+physical damage
+, with a minimum threshold, and capped at 300 against non-champions, and
+on-hit
+commands all
+Tentacles
+in range to attack the target. The minimum
+additional
+damage can also be applied against
+turrets
+.
+Additional Physical Damage:
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+(+ 3.
+5
+% per 100 AD)
+of target's
+maximum
+health
+Minimum Physical Damage:
+20 / 30 / 40 / 50 / 60
+Harsh Lesson
+resets
+Illaoi's
+basic attack timer.
+Harsh Lesson can be activated during
+Illaoi's
+other abilities.
+Info
+Targeting input
+Auto
+Affects
+Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+See Notes
+Grounded
+See Notes
+Knockdown
+See Notes
+Harsh Lesson
+cannot be cast while
+pulling
+a
+Spirit
+.
+The
+additional
+damage doesn't apply
+life steal
+but it does apply
+spell vamp
+and
+Omnivamp
+.
+Spell shield
+prevents Tentacle commands but does not prevent the
+additional
+damage.
+[9]
+[10]
+Harsh Lesson
+is made of two different abilities which are decided by
+Illaoi's
+range to the target, being either
+melee
+or within
+dash
+range, causing interactions to act differently.
+Interrupt
+:
+The melee attack has an
+uncancellable windup
+.
+Starting the attack before triggering
+Guardian Angel's
+passive and hitting while she's in it will not cause the
+Tentacles
+to slam.
+[11]
+The dash attack does not have an uncancellable windup, meaning effects that can interrupt the dash will cancel the attack.
+Unlike other empowered basic attacks, an interrupt on the dash attack will still cause the
+buff
+to be consumed and the ability to be put on cooldown.
+[12]
+That includes self effects, such as
+Flash
+.
+[13]
+(unexpected)
+Ground
+or
+root
+:
+The melee attack can be used. If
+Illaoi
+attack commands and then casts
+Harsh Lesson
+while
+rooted
+, she is able to use the close range version within its dash range.
+(unexpected)
+The dash ability can be cast but cannot be used while
+grounded
+or
+rooted
+because
+Illaoi
+loses the
+bonus
+attack range
+.
+Block
+,
+dodge
+and
+blind
+:
+Tentacles
+will slam if the melee attack is
+blocked
+[14]
+, but will
+not
+if it's
+dodged
+[15]
+or if it
+misses
+[16]
+.
+(unexpected)
+In all cases the empowered attack
+additional
+damage is prevented.
+(unexpected)
+Tentacles
+will slam if the dash attack is
+blocked
+,
+dodged
+or if it
+misses
+.
+The empowered attack
+additional
+damage is dealt when the attack is
+blocked
+or
+dodged
+, but is
+not
+if it
+misses
+.
+The melee attack will still hit if the target becomes
+untargetable
+[17]
+, while the dash attack will
+not
+.
+[18]
+(unexpected)
+The melee attack will
+not
+hit if the target has
+died
+, while the dash attack will hit.
+[19]
+In a frame perfect situation, the melee attack will also hit, however it will not make the
+Tentacles
+slam.
+[20]
+(unexpected)
+The melee attack triggers
+Hail of Blades
+, while the dash attack does not.
+[21]
+(unexpected)
+If the empowered attack duration ends during the melee animation, the attack won't be empowered
+(unexpected)
+, but if it ends during the dash - then the buff will linger until the attack has finished.
+[22]
+Illaoi
+can quickly cast other abilities after melee hitting the target, but after dash hitting there is a short delay.
+[23]
+(unexpected)
+Abilities cannot be buffered during the melee windup but they can be buffered during the dash windup.
+(unexpected)
+Attack speed will desync the animation from the dash.
+[24]
+(unexpected)
+The
+Tentacle
+attacking because of
+Harsh Lesson
+is considered to be of the same
+cast instance
+, and thus will not grant additional stacks of
+Conqueror
+,
+Electrocute
+,
+Phase Rush
+and
+Tribute
+.
+Because of the damage being
+additional
+,
+Harsh Lesson
+triggers
+Bone Plating
+and one of its plates with the same attack.
+It also triggers
+Arcane Comet
+and reduces its cooldown twice.
+[25]
+(unexpected)
+While the ability is active,
+Tentacles
+are commanded to attack
+on-hit
+, interacting with
+Guinsoo's Rageblade
+without consuming the empowered attack.
+[26]
+Tips & Tricks
+Since the mana of an ability is consumed at the end of cast time,
+Illaoi
+may still cast
+Harsh Lesson
+mid cast time of her other abilities even if her remaining mana were only enough for that other ability - potentially casting both for the price of one.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 6 seconds.
+Edit
+Test of Spirit
+COST:
+35 / 40 / 45 / 50 / 55 Mana
+COOLDOWN
+:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+0.
+25
+RANGE:
+950 •
+100
+WIDTH:
+100
+TETHER RADIUS:
+1500
+•
+1700
+SPEED:
+1900
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her. The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+Active:
+Illaoi
+launches a tendril in the target direction that stops at the first enemy hit, pulling their
+Spirit
+out in front of
+Illaoi
+over 0.
+75
+seconds if they are a
+champion
+. The target is
+tethered
+to the
+Spirit
+for
+7 seconds
+,
+revealing
+them in addition to granting
+sight
+of the area around them while the tether remains.
+The
+Spirit
+spawns with the target's
+current
+health
+,
+armor
+and
+magic resist
+, and redirects a portion of the
+pre-mitigation damage
+received to the tethered champion.
+Damage Transmission:
+25 / 30 / 35 / 40 / 45%
+(+ 8% per 100 AD)
+When the
+Spirit
+is killed or the target leaves tether range, the tether is severed, marking the target as a
+Vessel
+for 4 seconds and
+slowing
+them by 80% for 1.
+5
+seconds once the tether returns back to them. Each
+Tentacle
+autonomously attacks the closest
+Vessel
+or
+Spirit
+, prioritizing the latter, once every
+4.
+5
+/ 4 / 3.
+5
+(based on level)
+seconds.
+Enemies made a
+Vessel
+continuously spawn a
+Tentacle
+near themselves, when possible.
+Tentacles
+can spawn 300 units closer to each other than when spawned by
+Illaoi
+.
+Illaoi
+is
+unable to act
+while firing the projectile and while the target's
+Spirit
+is being pulled. She also
+reveals
+herself while firing the projectile if there is an enemy champion
+nearby
+.
+Vessels
+can dispel their mark by scoring a
+takedown
+against
+Illaoi
+. Test of Spirit cannot be cast again until the
+Spirit
+dies.
+"Take back your spirit."
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Sub-type(s)
+Physical
+•
+Magic
+•
+True
+(Redirected damage)
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+PENDING FOR TEST:
+The self-reveal has not been fully tested for complete confirmation. Is the ability invisible when passing nearby minions and there is no enemy champion nearby? Is the tip of the ability enough to reveal her? Whether it can collide with a minion or not? Just if she's around the exit of the fog of war, and even if she points towards the inside of the fog of war?
+[27]
+Spirits
+are classified as
+clones
+:
+Spirits
+can only be fully targeted by
+Illaoi's
+team and neutral monsters. The
+Spirit's
+allies cannot manually select it as a valid target for spells and abilities, but they can still do so with automatically targeted effects.
+Spirits
+take 50% damage from
+turrets
+.
+[28]
+(unexpected)
+Effects, like runes, may consider the
+Spirit
+as a champion for their stat-tracking.
+(unexpected)
+Spirits
+cannot be
+healed
+nor
+shielded
+(
+Summon Aery
+excluded).
+The
+Spirit
+levels up when the
+Vessel
+does, gaining the target's stats per level. If the target has a resource that also increases per level (i.e
+mana
+), the
+Spirit's
+lifetime will increase instead.
+[29]
+(unexpected)
+Like other
+clones
+, killing the
+Spirit
+awards
+25
+, but unlike other
+clones
+it doesn't award
+Experience
+.
+(note)
+The
+Spirit's
+destination is decided based on
+Illaoi's
+position and facing direction when the target is hit.
+The
+Spirit
+is
+untargetable
+while it is being pulled, and spawns with the tethered champion's default model and size.
+[30]
+The
+Spirit's
+lifetime is sometimes 0.
+25
+seconds longer, while its
+untargetability
+is sometimes shorter, potentially causing
+Tentacles
+to hit an inconsistent amount of times, as was easily the case pre
+V25.15
+.
+[31]
+(unexpected)
+Redirected damage is calculated by taking the pre-mitigation damage against the
+Spirit
+, applying
+Test of Spirit's
+damage modifier, and then capping it to the
+Spirit's
+current
+health
+. This damage will then be affected by damage modifiers (resistances and other effects) of the
+Vessel
+.
+This order of operations allows
+Test of Spirit
+to deal more or less percentage of the
+Vessel's
+health
+than would be expected:
+Because the
+Spirit's
+modifiers can be different from the
+Vessel's
+, allowing the
+Spirit
+to have higher or lower
+effective health
+, respectively increasing or decreasing the maximum pre-mitigated damage from killing it.
+Because, while it would be expected to block excess pre-mitigated damage over what kills the
+Spirit
+, since the cap does not consider the
+Spirit's
+damage modifier, it may cause it to block damage before the
+Spirit
+is killed
+[32]
+, or in corner cases not block excess damage even if it is killed. On the other hand,
+Test of Spirit's
+damage modifier is unexpectedly applied before the cap instead of after, with the same effect of potentially causing the cap to not block excess damage even if the
+Spirit
+is killed, or in corner cases block damage before it is killed.
+The addition of the two, causes an increasing difference of expected damage when the pre-mitigated damage is between
+Spirit current health ÷ Spiritmod
+and
+Spirit current health ÷ Emod
+.
+(unexpected)
+Illaoi
+needs
+937.
+5
+/ 875 / 812.
+5
+/ 750 / 687.
+5
+total
+AD
+to reach 100% redirected damage. As per above, the damage is still dependent on the
+Spirit's
+and
+Vessel's
+damage modifiers and may not always be able to deal 100% of the target's
+current
+health as total redirected damage.
+Spell shields
+may only prevent the initial spirit grab and the
+slow
+upon becoming a
+Vessel
+.
+Spell shields
+will not prevent becoming a
+Vessel
+or
+Tentacles
+from attacking.
+The tendril can be blocked by
+projectile
+-destroying effects (e.g.
+Yasuo's
+Wind Wall
+).
+It will only be destroyed and not replicated against
+Mel's
+Rebuttal
+.
+The application of the
+slowing
+missile cannot be blocked by
+projectile
+- destroying effects (e.g.
+Yasuo's
+Wind Wall
+).
+Effects that
+destroy homing missiles
+(i.e certain
+untargetabilities
+) will prevent the application of the
+slowing
+missile.
+The slowing missile will not be fired if the target is already
+untargetable
+when the
+Spirit
+dies.
+The spirit pull is not considered a
+crowd control
+effect and will not be blocked by
+crowd control immunity
+, with the exception of
+Morgana's
+Black Shield
+.
+[33]
+(unexpected)
+The projectile tentacle model is linked to
+Illaoi's
+model animation and size. However gameplay wise it is not, thus the actual hitbox being different than the position, width and length of the visible model.
+[34]
+(unexpected)
+The model will stop mid-air / vanish if
+Illaoi
+goes into
+stasis
+,
+sleep
+or
+airborne
+, however the actual hitbox will continue its trajectory unseen.
+[35]
+This ability will cast from wherever the caster is at the end of the cast time.
+And will fire towards the same pointed location.
+If the target's health is reduced to 0 while their
+Spirit
+is being pulled out, and they do not
+die
+(i.e because of
+resurrection
+), then the
+Spirit
+will still spawn with 0 health, making it
+invulnerable
+. The target will successively become a
+Vessel
+when the
+Spirit's
+lifetime expires.
+[36]
+(unexpected)
+If some effect regenerates the champion's health while they are
+resurrecting
+, and before the
+Spirit
+spawns, then the same will not apply.
+[37]
+[38]
+Grabbing the
+Spirit
+of
+Viego
+will make the
+Spirit's
+lifetime (the white bar below the lifebar) disappear, similar to other cases in the past.
+[39]
+(unexpected)
+PENDING FOR TEST:
+Post
+V12.8
+, does grabbing the
+Spirit
+of an
+Oathsworn
+make the
+Spirit
+invisible?
+[40]
+Illaoi
+can better see than her allies who's been
+Vesseled
+, by adding a layer of watery effects on their model. The
+Vessel
+will also be let known it's debuffed, by having a layer of watery effects on its screen instead.
+If the target becomes a
+Vessel
+while
+vanished
+, the layer on their model will fail to be added.
+[41]
+(unexpected)
+The
+Vessel
+status effect is a debuff that doesn't
+persist through death
+.
+If the target is made a
+Vessel
+while
+resurrecting
+, some
+resurrections
+may cleanse the
+Vessel
+debuff, while others will not.
+[42]
+[43]
+(unexpected)
+Transferred damage will apply on-damage effects, such as
+Black Cleaver
+,
+Morellonomicon
+,
+Executioner's Calling
+,
+Elixir of Sorcery
+,
+Riftmaker
+,
+Shadowflame
+,
+The Collector
+,
+First Strike
+,
+Aspect of the Dragon
+burn damage, and
+The Darkin Scythe
+.
+Redirected damage always counts as single target for the purpose of
+Omnivamp
+.
+Transferred damage will not doubly apply on-hit or on-spell effects versus the target (e.g.
+Liandry's Torment
+,
+Phase Rush
+stacks). These effects are only applied versus the
+Spirit
+.
+Attacking the
+Vessel
+and its
+Spirit
+simultaneously will only apply one stack of
+Black Cleaver
+to the
+Vessel
+.
+While
+First Strike
+is active, damage instances that do not trigger the
+First Strike
+projectile, will redirect close to 0 damage
+[44]
+, similar to past cases
+[45]
+.
+(unexpected)
+When the tether is broken (whether the
+Spirit's
+lifetime ran out or the target moved out of range), the
+Spirit
+will
+vanish
+and move to
+Illaoi's
+location.
+An
+uncancellable windup
+attack may still kill the
+Spirit
+after it
+vanished
+to grant the gold, but without making the target a
+Vessel
+.
+[46]
+When the
+Spirit
+is killed, it will remain in the same position for less than a second before moving to an unknown location. This will cancel any remaining
+Tentacle
+queued attacks, for the target being out of range.
+[47]
+[48]
+[49]
+(unexpected)
+The
+Spirit
+is immune to
+stasis
+(i.e.
+Bard's
+Tempered Fate
+).
+Fiora's
+Riposte
+can be used to prevent becoming a
+Vessel
+if used before the
+Spirit
+is killed
+[50]
+, or while leaving the tether's range.
+[51]
+Sion's
+Spirit
+cannot be spawned during
+Glory in Death
+.
+Spirits
+created before
+Sion's
+zombie state
+will remain active.
+If the target that had its
+Spirit
+pulled from them is taken into the
+Realm of Death
+, the tether will break, but they will not be made into a
+Vessel
+.
+The following table refers for interactions while
+Illaoi
+is firing the projectile and while the target's
+Spirit
+is being pulled:
+Attacking
+Disabled
+Abilities
+Tentacle Smash
+and
+Leap of Faith
+are buffered.
+Harsh Lesson
+is usable, but is buffered while pulling the
+Spirit
+.
+(unexpected)
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Tips & Tricks
+Other than
+area of effects
+, since
+Riftmaker
+,
+Aspect of the Dragon
+burn damage, and
+The Darkin Scythe
+apply on the
+Spirit
+and the
+Vessel
+individually and as separate instances of damage, their
+bonus
+damage through the redirection is effectively enhanced. In particular,
+Riftmaker
+and
+The Darkin Scyte
+will further apply on their own redirected
+bonus
+damage.
+Note, the same does not apply for damage modifiers without a separate instance of damage (i.e
+Last Stand
+).
+PENDING FOR TEST:
+Does the above still apply for
+Riftmaker
+after its
+V12.23
+change?
+[52]
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Bonus
+gold
+earned from killing
+Spirits
+is
+ignored
+by the Swiftplay-specific bounty comeback system.
+Edit
+Leap of Faith
+COST:
+100 Mana
+COOLDOWN:
+120 / 95 / 70
+CAST TIME:
+0.
+5
+EFFECT RADIUS:
+500
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Illaoi
+becomes
+unstoppable
+before dealing
+physical damage
+to nearby enemies. For each enemy
+champion
+hit, a
+Tentacle
+is summoned around her for a period. For the duration,
+Harsh Lesson's
+cooldown is
+reduced
+and nearby
+Tentacles
+attack faster.
+Active:
+Illaoi
+gains
+displacement immunity
+and leaps into the air for the cast time. She then slams her idol into the ground, dealing
+physical damage
+to nearby enemies. For each enemy champion hit, a
+Tentacle
+is summoned for 8 seconds (up to a maximum of 6 summons).
+Physical Damage:
+150 / 250 / 350
+(+ 50%
+bonus
+AD)
+For the duration,
+Harsh Lesson's
+cooldown
+is halved, all
+Tentacles
+awakened by
+Illaoi
+are
+untargetable
+, will not show their hitboxes, nor go dormant, and will take 0.
+5
+seconds to make an attack; however they will then incur a lockout of 0.
+5
+seconds before being able to start a new attack.
+This does not affect the
+Tentacle
+attack from
+Tentacle Smash
+.
+"All is Nagakabouros!"
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+This ability will cast from wherever the caster is at the end of the cast time.
+Illaoi
+spawns the
+Tentacle
+700 range away from her, unless there's a natural wall blocking the way making the
+Tentacle
+spawn on it, with an angle relative to the direction she's facing.
+1+ champions: one
+Tentacle
+at 0 degrees. (towards
+Illaoi's
+facing direction)
+2+ champions: one
+Tentacle
+at 60 degrees.
+3+ champions: one
+Tentacle
+at 300 degrees.
+4+ champions: one
+Tentacle
+at 120 degrees.
+5+ champions: one
+Tentacle
+at 240 degrees.
+6+ champions: one
+Tentacle
+at 180 degrees.
+Tentacles
+may spawn on base barriers. If
+Illaoi
+is in the center of a base barrier, all
+Tentacles
+will spawn in the same position and stack over each other, making it appear as if there was only one
+Tentacle
+.
+[53]
+(unexpected)
+Illaoi's
+facing direction is decided by the position of the cursor on cast, but can also be changed mid-cast through other effects, such as
+Flash
+.
+[54]
+If there are no walls nearby, spawning the last
+Tentacle
+will form a perfect hexagon.
+Spell shields
+will block the ability's damage but will not prevent
+Tentacles
+from spawning.
+If
+Illaoi
+dies
+within 0.
+25
+seconds of dropping down, she will spawn buffed
+Tentacles
+, but she won't manage in time to buff the already spawned ones.
+[55]
+(unexpected)
+If
+Illaoi
+is near a
+Tentacle
+that is about to spawn, it will spawn buffed by
+Leap of Faith
+even if
+Illaoi
+is no longer nearby.
+Using
+Harsh Lesson
+after
+Illaoi
+drops down will command
+Tentacles
+to immmediatelly start attacking, regardless if they were already mid animation. Any previous attack will continue to hit without an animation during the same time the second attack performs its animation.
+[56]
+(unexpected)
+This makes it possible for the same tentacle to reduce its own damage by having the second attack hit too fast, which is not otherwise possible.
+[57]
+After the buff expires,
+Tentacles
+will linger for an extra 0.
+25
+seconds, allowing them to continue receiving commands and queuing up non-empowered attacks, while remaining not dormant.
+[58]
+Pets
+Tentacle
+Bounty
+Gold
+5
+Exp
+0
+CS
+0
+Statistics
+Sight radius
+Blind
+Health
+2
+Attack speed
+1.
+00
+Attack range
+927.
+75
+x 200
+Incoming damage modifier
+1 from champion basic attacks
+CC resist
+Immune to crowd control
+Move speed
+0 (Does not move)
+Control type
+The
+Tentacle
+is commanded to attack each time a target in
+950
+range gets hit by
+Harsh Lesson
+.
+The
+Tentacle
+is also able to periodically automatically receive attack commands towards the closest
+Vessel
+or
+Spirit
+within
+950-range
+, unless it's already attacking, and only 0.
+25
+seconds later after its last attack or
+Leap of Faith
+attack-lockout period.
+[59]
+(unexpected)
+Its attacks get queued up if it receives more than one attack command. If the target of a queued attack dies before the attack starts, their dead body will be targeted.
+[60]
+[61]
+If the
+Tentacle
+is commanded to attack by a
+Harsh Lesson
+while inactive, it will instead queue the attack if it becomes active in the next 0.
+5
+seconds.
+[62]
+If a
+Tentacle
+is killed while attacking, the
+Tentacle
+will first finish its attack and then die, without being able to queue up other commands.
+(note)
+Target type
+Ward
+(can be
+teleported
+to and grants
+sight
+of nearby
+Control Wards
+(unexpected)
+). It is however considered an enemy for effects like
+Cho'Gath's
+Carnivore's
+[63]
+and
+Warwick's
+Eternal Hunger's
+[64]
+.
+On-hit effects
+Not mitigated by
+block
+or
+dodge
+.
+Spell effects
+Applies
+spell effects
+as
+area damage
+.
+Protection
+A single
+spell shield
+can block all tentacle attacks that hit at the same time.
+Abilities
+Slam
+The
+Tentacle
+damages all non-
+structure
+enemies it hits along its length and
+heals
+Illaoi
+if it hits at least one enemy champion.
+Awakening
+The
+Tentacle
+awakens over 0.
+25
+seconds
+[65]
+[66]
+(unexpected)
+, and remains active while
+Illaoi
+or a
+Vessel
+are within 2000 range and not
+dead
+. If none is nearby, the
+Tentacle
+finishes any of its ongoing attacks before becoming dormant, cancelling further queued attacks
+[67]
+[68]
+[69]
+(unexpected)
+. If dormant for 30 consecutive seconds, the
+Tentacle
+disappears.
+The
+Tentacle
+is lenient towards becoming dormant when
+Illaoi
+dies while the
+Tentacle
+is spawning
+[70]
+[71]
+, or for 1.
+5
+seconds after hitting
+Test of Spirit
+- allowing
+Tentacles
+to make a last attack on their targets.
+Enrage
+The
+Tentacle
+is buffed by
+Leap of Faith
+.
+Vision
+All
+Tentacles
+around 1000 range of an enemy champion are
+revealed
+through the
+fog of war
+.
+When about to
+slam
+it
+reveals
+the targeted spot
+to allies.
+General
+Battle Bear Illaoi's
+Tentacle
+attack indicator is smaller than other skins (with the hitbox unchanged).
+[72]
+(unexpected)
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Illaoi (Collection)
+.
+Original
+24.11.2015
+Illaoi’s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes’ spirits from their bodies and shatter their perception of reality. All who challenge the 'Truth Bearer of Nagakabouros' soon discover Illaoi never battles alone—the god of the Serpent Isles fights by her side.
+Rolonda Watts
+Evan 'Somnicidal' Monteiro
+Loot eligible
+View in 3D
+•
+View Music
+Void Bringer
+1350
+24.11.2015
+Rolonda Watts
+Alvin Lee
+Curse of the Void
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Resistance
+1350
+15.03.2018
+Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world.
+Rolonda Watts
+Bo 'chenbowow' Chen
+Battlecast
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Resistance Illaoi Chromas
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Cosmic Invoker
+1350
+24.11.2020
+An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated.
+Rolonda Watts
+West Studio
+Cosmic
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Cosmic Invoker Illaoi Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Turquoise
+Snow Moon
+1350
+23.06.2022
+Illaoi, the High Priestess of the Snow Moon, imagines a world free of the madness that consumes it. Her vision can only be realized when every soul is cleansed, every demon ripped from its bindings. Maintaining order with an icy resolve, she'll stop at nothing, her own humanity a fleeting memory.
+Rolonda Watts
+David Villegas, West Studio
+Snow Moon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Snow Moon Illaoi Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Battle Bear
+1350
+31.07.2024
+Every Anima Squad recruit knows Illaoi's booming laugh—and her notoriously tough training sessions—all too well. As someone always looking towards the future, it may seem strange that she is also Anima Squad's keeper of the Old Ways. But Illaoi knows that there was life before Final City, and she will ensure life continues long after the war is done.
+Rolonda Watts
+Yuyu Wong, Kudos Productions
+Anima Squad
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Battle Bear Illaoi Chromas
+Catseye
+Emerald
+Nightwire
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.04
+Prophet of an Elder God
+Tentacle base damage increased to
+9 – 200.
+12
+(based on level)
+from
+9 – 180 (based on level)
+.
+V25.18
+Prophet of an Elder God
+New Effect:
+Tentacles will no longer spawn during the channel or dash of
+Teleport
+/
+Unleashed Teleport
+.
+Tentacle spawning is now deferred until their cast ends.
+Harsh Lesson
+AD ratio reduced to
+3.
+5
+% per 100 AD
+from
+4%
+.
+Test of Spirit
+Vessel
+debuff duration increased to 4 seconds from 3.
+Undocumented:
+The
+Vessel
+no longer has a
+5 / 4 / 3 (based on level)
+second lockout for spawning successive
+Tentacles
+.
+The only condition for a new Tentacle to spawn is now range between them.
+Undocumented:
+V25.15
+undocumented change reverted. Tentacles can now go idle even if there is a
+Spirit
+in range, no longer allowing them to continue attacking targets.
+V25.16
+Prophet of an Elder God
+Tentacle AD ratio increased to
+110% AD
+from
+105% AD
+.
+Spawn cooldown reduced to
+18 – 7 (based on level)
+seconds from
+20 – 7.
+25
+(based on level)
+.
+V25.15
+General
+All tooltip locations where values related to
+Tentacles
+are noted will now properly update with changes to their actual values.
+Prophet of an Elder God
+Tentacle AD ratio increased to
+105% AD
+from
+100% AD
+.
+Tentacle Smash
+Bug Fix:
+Corrected AD ratio in the tooltip.
+Test of Spirit
+Vessel
+debuff duration reduced to 3 seconds from 10.
+Automatic Tentacle slam cooldown against
+Spirits
+and
+Vessels
+reduced to
+4.
+5
+/ 4 / 3.
+5
+(based on level)
+from
+5.
+5
+/ 4.
+5
+/ 3.
+5
+(based on level)
+.
+Removed:
+1.
+1
+seconds lockout before the
+Vessel
+can start spawning the first Tentacle.
+Undocumented:
+Tentacles now stay awake if there is a
+Spirit
+in range, even if
+Illaoi
+or a
+Vessel
+is not around, allowing them to continue attacking targets. (before -
+[73]
+[74]
+, after -
+[75]
+[76]
+[77]
+)
+V25.09
+Prophet of an Elder God
+Bug Fix:
+Tentacle slams no longer apply their damage through different dimensions (e.g.
+Mordekaiser's
+Realm of Death
+).
+V25.S1.1
+Test of Spirit
+Bug Fix:
+VO for when an enemy's spirit is active no longer unintentionally plays for allies as well.
+V14.22
+Stats
+Base attack damage reduced to 65 from 68.
+Mana growth reduced to 50 from 60.
+V14.4
+Prophet of an Elder God
+Tentacle AD ratio reduced to
+100% AD
+from
+115% AD
+.
+Test of Spirit
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+Bug Fix:
+Tentacle attack call range has been increased to match
+Harsh Lesson's
+, to 950 from 900.
+V14.3
+Prophet of an Elder God
+Tentacle range increased to 925 from 800.
+Tentacle base damage reduced to
+9 – 162 (based on level)
+from
+10 – 180 (based on level)
+.
+AD ratio reduced to
+115% AD
+from
+120% AD
+.
+Tentacle Smash
+Undocumented:
+Allied
+Original Illaoi
+skin
+Tentacle Smash
+indicator has been moved forward by 50 units (hitbox unchanged). Other skins unchanged.
+[78]
+Harsh Lesson
+Undocumented:
+Tentacle call range increased to 950 from 800.
+Undocumented:
+The dash version of the ability now properly causes the basic attack to
+critically strike
+with
+Sundered Sky
+.
+Test of Spirit
+Undocumented:
+Tentacle call range increased to 900 from 800.
+V14.2
+Stats
+Health growth increased to 115 from 109.
+Base mana increased to 350 from 300.
+Mana growth increased to 60 from 50.
+Prophet of an Elder God
+Heal per tentacle hit increased to
+5%
+missing
+health
+from
+4.
+5
+%
+.
+V13.20
+- October 11th Hotfix
+Test of Spirit
+Bug Fix:
+Spirits of champions without a resource now have the proper duration.
+V13.20
+Test of Spirit
+Bug Fix:
+The spirit out of an enemy
+Briar
+no longer instantly reaches the end of its life duration if the clone was created while she was not under the effect of her
+Blood Frenzy
+.
+Now bugged in this same way with resourceless champions such as
+Riven
+and
+Garen
+instead.
+Undocumented - Estimated:
+Grabbing the spirit of champions with special resource bars (i.e
+Flow
+,
+Ferocity
+) no longer makes the spirit not show its lifetime.
+V13.6
+Test of Spirit
+Undocumented:
+Killing the
+Spirit
+no longer awards
+44 Experience
+, unlike other
+clones
+. (before -
+[79]
+)
+Note:
+It still awards
+25
+.
+V12.15
+- Estimated
+Test of Spirit
+Undocumented:
+Spirits now properly cause
+turrets
+to
+Warm Up
+their attacks. (before -
+[80]
+)
+V12.10
+Stats
+Base health increased to 656 from 586.
+Health growth increased to 109 from 95.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Prophet of an Elder God
+Heal per tentacle hit reduced to
+4.
+5
+%
+missing
+health
+from
+5%
+.
+V12.8
+Tentacle Smash
+Bug Fix:
+Buffering the ability no longer causes the caster to instantly face in the direction of the cursor.
+Harsh Lesson
+Bug Fix:
+The dashed version of the ability now correctly causes
+Tentacles
+to attack if
+Illaoi
+had an active
+spell shield
+.
+Test of Spirit
+New Effect:
+Now grants assist credit if the target is killed even when the
+Spirit
+does not take any damage.
+Bug Fix:
+Spirits
+spawned are no longer invisible if the tethered champion was camouflaged and being revealed by a
+Control Ward
+.
+Bug Fix:
+Buffering the ability no longer causes the caster to instantly face in the direction of the cursor.
+Bug Fix:
+Spirits
+that expire are no longer automatically killed by being dealt 100% of their health by the
+Vessel
+, triggering their
+takedown
+effects and
+Aatrox's
+Umbral Dash's
+healing.
+V12.6
+- March 30th Hotfix
+Harsh Lesson
+Bug Fix:
+Fixed a bug where the dashed version of the ability would not deal bonus damage based on the target's maximum health.
+Undocumented - Estimated:
+Bonus damage is now dealt after the basic attack, affecting interactions like
+Blade of the Ruined King
+.
+V12.6
+General
+Undocumented:
+All abilities now buffer within 0.
+5
+seconds of being cast while on cooldown or sealed.
+Prophet of an Elder God
+Removed:
+Tentacles
+spawning near base gates on Summoner's Rift for both team's bases.
+Bug Fix:
+Inactive
+Tentacles
+no longer try to attack when commanded by
+Harsh Lesson
+, causing their attacks upon becoming active to be delayed. (before -
+[81]
+[82]
+)
+Undocumented:
+Instead the attack is now queued if the
+Tentacle
+becomes active in the next 0.
+5
+seconds.
+[83]
+Not Functional:
+This bug fix is not functional if
+Harsh Lesson
+is used an instant before the
+Tentacle
+spawns.
+[84]
+Tentacle Smash
+Bug Fix:
+Ability is now visible to enemy champions when cast outside of their vision.
+Note:
+Illaoi
+now reveals herself.
+[85]
+Undocumented:
+Buffering the ability now causes the caster to instantly face in the direction of the cursor, with gameplay implications.
+Harsh Lesson
+New Effect:
+Other abilities can now be buffered during the dashed version of the attack's windup.
+Not Functional:
+The same happens for the melee version.
+Bug Fix:
+Visual indicator now properly displays the correct range of the empowered attack.
+Undocumented:
+Active effects (such as
+Flash
+) are no longer locked out from being cast during the dashed version of the ability (now works the same as the melee version).
+[86]
+Undocumented:
+The dashed version of the ability now deals damage and causes
+Tentacles
+to attack if it was
+blocked
+or
+dodged
+.
+[87]
+[88]
+[89]
+Undocumented:
+The dashed version of the ability no longer causes
+Tentacles
+to attack if
+Illaoi
+had an active
+spell shield
+.
+Test of Spirit
+Bug Fix:
+Spirits
+that expire are no longer automatically killed by being dealt 100% of their health by the last assisting ally, granting them creep score.
+Undocumented:
+It now is so by the enemy
+Vessel
+instead, triggering their
+takedown
+effects and
+Aatrox's
+Umbral Dash's
+healing but without granting them the creep score.
+Bug Fix:
+The ability is now visible to enemy champions when cast outside of their vision.
+Note:
+Illaoi
+now reveals herself. (before -
+[90]
+, after -
+[91]
+)
+Undocumented:
+Buffering the ability now causes the caster to instantly face in the direction of the cursor, with gameplay implications.
+Undocumented:
+Other spells can now be buffered during the entire portion of the ability's cast time, instead of only while pulling the
+Spirit
+.
+Undocumented:
+Inactive
+Tentacles
+are no longer automatically commanded to attack the
+Spirit
+or
+Vessel
+, causing their attacks to go on cooldown without actually attacking.
+Leap of Faith
+New Effect:
+Other spells can now be buffered during the ability's cast time.
+Removed:
+Illaoi
+automatically turns to face the closest enemy champion on cast, affecting
+Tentacles
+spawned positions. (before -
+[92]
+)
+Illaoi
+now only turns to face towards the cursor position.
+V12.4
+Stats
+Base attack speed increased to 0.
+625
+from 0.
+571
+.
+Attack speed ratio increased to 0.
+625
+from 0.
+571
+.
+Harsh Lesson
+AD ratio increased to
+4% per 100 AD
+from
+2% per 100 AD
+.
+Test of Spirit
+New Effect:
+After hitting the ability,
+Tentacles
+are now lenient towards becoming dormant for 1.
+5
+seconds, allowing them slightly more time to attack their targets if the caster dies while pulling the
+Spirit
+.
+V11.22
+Test of Spirit
+Bug Fix:
+Death's Dance
+no longer considers the
+Spirit
+as a champion for the
+takedown
+effect.
+V11.21
+Harsh Lesson
+New Effect:
+Base damage now triggers spell effects.
+Probable Bug:
+Since bonus damage already triggered spell effects, now certain effects are triggered twice (i.e
+Arcane Comet
+cooldown reduction).
+V11.15
+Tentacle Smash
+Bug Fix:
+Illaoi's
+model animation no longer fizzles if she inputs another command right after casting the ability.
+V11.14
+Stats
+Base movement speed increased to 350 from 340.
+V11.12
+Stats
+Mana growth increased to 50 from 40.
+V11.4
+Test of Spirit
+Undocumented:
+Duskblade of Draktharr
+no longer considers the
+Spirit
+as a champion for the
+takedown
+effect.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 586 from 585.
+6
+.
+V10.23
+- Estimated
+Test of Spirit
+Undocumented:
+The lifetime of a
+Rumble
+Spirit
+is no longer shorter than normal. (before -
+[93]
+[94]
+)
+Undocumented:
+The
+Spirit
+of an
+Ekko
+no longer triggers
+Parallel Convergence
+.
+V10.21
+Harsh Lesson
+Undocumented:
+Spell shields
+now pop to prevent
+Tentacle
+commands, but they do not prevent
+Harsh Lesson's
+additional damage.
+[95]
+V10.20
+Prophet of an Elder God
+Cooldown reduced to
+20 – 7.
+25
+(based on level)
+seconds from
+20 – 12 (based on level)
+.
+Harsh Lesson
+Bug Fix:
+Harsh Lesson
+no longer pops
+spell shields
+and now always deals full damage to the targeted enemy, instead of only doing full damage if the dashed version was used.
+Test of Spirit
+Bug Fix:
+Lulu's
+team can no longer get permanent vision of an area if she is cloned by
+Test of Spirit
+and dies while
+Help, Pix!
+is activated on
+Lulu
+.
+V10.13
+- Estimated
+Tentacle Smash
+Bug Fix:
+Casting the ability with the cursor position pointed exactly at
+Illaoi's
+location, no longer desyncs the hitbox indicator from the actual area of damage. (before -
+[96]
+)
+Leap of Faith
+Bug Fix:
+Tentacles no longer sometimes spawn in the same position and hit enemies on a very large area or globally. (before -
+[97]
+[98]
+)
+V10.9
+Test of Spirit
+Undocumented:
+Perfect Timing
+no longer considers the
+Spirit
+as a champion for the
+takedown
+effect.
+V10.8
+Harsh Lesson
+Indicator added to show recast ability timer.
+V10.6
+Test of Spirit
+Undocumented:
+Blade of the Ruined King
+no longer has its damage capped against the
+Spirit
+as if it was considered a minion. (before -
+[99]
+)
+Undocumented:
+Swain's
+Ravenous Flock
+,
+Katarina's
+Voracity
+,
+Master Yi's
+Highlander
+and
+Kha'Zix's
+Evolved Wings
+takedown effects no longer trigger on the
+Spirit
+.
+Undocumented:
+Perfect Timing
+now considers the
+Spirit
+as a champion for the
+takedown
+effect.
+V10.3
+Test of Spirit
+Bug Fix:
+If
+Sett
+has no points in
+Haymaker
+,
+Test of Spirit
+will now properly extrude his vessel.
+V10.1
+Test of Spirit
+Bug Fix:
+Can no longer pull spirits of targets protected by
+Morgana's
+Black Shield
+.
+V9.19
+Harsh Lesson
+Bug Fix:
+Can now be cast while grounded or rooted.
+Undocumented:
+If
+Illaoi
+attack commands and then casts the ability while rooted, she will no longer perform the dash, but instead will use the close range version within its dash range.
+V9.18
+Harsh Lesson
+Bug Fix:
+Can no longer dash while rooted.
+Undocumented:
+Can no longer be cast while grounded or rooted. If casted before, only the close version may be used, while negating the attack commands while being in dash version.
+[100]
+V9.15
+Test of Spirit
+Undocumented:
+Jinx's
+Get Excited!
+takedown effect no longer triggers on the
+Spirit
+.
+V9.13
+Prophet of an Elder God
+Removed:
+Tentacles going into an idle state when
+Illaoi
+or a
+Vessel
+are not around, being placed on
+1 health
+and visibly becoming small.
+Not functional:
+Tentacles still go into a type of idle state which cancels any following queued attacks and which prevents starting new attacks against valid targets. (before -
+[101]
+[102]
+[103]
+[104]
+[105]
+[106]
+[107]
+, after -
+[108]
+[109]
+[110]
+)
+New Effect:
+Tentacle damage now also scales with
+40% AP
+.
+New Effect:
+Cooldown is now pingable.
+Tentacle lifetime while dormant reduced to 30 seconds from 60.
+Range of enemies to gain vision of tentacles reduced to 1000 units from 1400.
+Bug Fix:
+Enemy champions no longer globally gain vision of tentacles that are slamming.
+Undocumented:
+Illaoi
+can no longer spawn Tentacles on ally invulnerable
+structures
+(the Vessel still can).
+[111]
+[112]
+[113]
+Undocumented:
+Commanded Tentacles now attack in the order they were commanded to. For example, doing an E-W will first do the E attack and then the W attack rather than two W attacks. This fixes effects based on
+cast instance
+. (before -
+[114]
+[115]
+[116]
+[117]
+)
+Undocumented:
+If a Tentacle is killed while attacking, the Tentacle will first finish its attack and then die.
+Harsh Lesson
+New Effect:
+Now has a minimum base damage of 20 / 30 / 40 / 50 / 60, that can be applied on
+turrets
+.
+Test of Spirit
+Removed:
+Spirit duration being reduced by 1.
+25
+seconds each time the target damages
+Illaoi
+with basic attacks, by 1 second with single target spells and by 0.
+66
+seconds with area of effect ones.
+Spirit duration reduced to 7 seconds from 10.
+Vessel duration reduced to 10 seconds from 12.
+Tentacle automatic attack cooldown reduced to
+5.
+5
+/ 4.
+5
+/ 3.
+5
+(based on level)
+seconds from 10 seconds at all levels.
+Undocumented:
+Grabbing the spirit of a champion with red resource (i.e
+rage
+) no longer makes the spirit not show its lifetime. (before -
+[118]
+)
+Undocumented:
+Tether now breaks if the target moves to
+Mordekaiser's
+Realm of Death
+.
+Undocumented:
+Swain's
+Ravenous Flock
+takedown effect now also triggers when the
+Spirit
+dies, regardless of being allied or enemy.
+Leap of Faith
+Maximum tentacle summons increased to 6 from 5.
+New Effect:
+Leap of Faith
+spawned Tentacles now linger for an extra 0.
+25
+seconds after losing the buff, during which they can continue receiving attack commands.
+[119]
+Undocumented:
+If
+Illaoi
+dies within 0.
+25
+seconds of using the ability, already spawned tentacles will not be empowered.
+[120]
+V9.11
+Leap of Faith
+Undocumented:
+Hitting the
+Spirit
+no longer spawns two tentacles. (before -
+[121]
+)
+V9.9
+Prophet of an Elder God
+Undocumented:
+Spell shields
+now always block
+Tentacle
+slams, instead of only blocking them if they were triggered by a melee
+Harsh Lesson
+, or if the
+Tentacle
+was awakened by a
+Vessel
+and commanded by
+Test of Spirit
+.
+Before this,
+spell shields
+would pop but would not block the damage of
+Tentacle
+slams commanded by a dashed
+Harsh Lesson
+, or if the tentacle was
+awakened
+by
+Illaoi
+and commanded by
+Test of Spirit
+. In addition,
+Prophet of an Elder God's
+damage reduction would not consider the
+Tentacle
+that popped the
+spell shield
+, causing the reduction to start from the third
+Tentacle
+hit, instead of from the second. (before -
+[122]
+)
+Harsh Lesson
+Undocumented:
+Can no longer issue an attack command after casting the ability to
+dash
+while rooted. Can still dash if the attack command is issued before casting the ability.
+[123]
+Test of Spirit
+Undocumented:
+Can now grab the
+Spirit
+of
+clones
+.
+Undocumented:
+Draven's
+League of Draven
+no longer triggers when killing the
+Spirit
+.
+Undocumented:
+Katarina's
+Voracity
+,
+Master Yi's
+Highlander
+and
+Kha'Zix's
+Evolved Wings
+takedown effects now trigger on the
+Spirit
+.
+Undocumented:
+No longer blocks
+Kayle
+from using her
+Celestial Blessing
+while the
+Spirit
+is nearby.
+Undocumented:
+The
+Spirit
+can no longer be targeted by
+Divine Judgement
+.
+Leap of Faith
+Undocumented:
+Extra tentacles now spawn for every
+clone
+hit.
+Note:
+Since the
+Spirit
+is both a
+clone
+and was special cased to spawn a tentacle, it now spawns two tentacles instead of one.
+[124]
+V9.8
+Test of Spirit
+Undocumented:
+Draven's
+League of Draven
+and
+Jinx's
+Get Excited!
+now trigger on the
+Spirit
+.
+V9.5
+Test of Spirit
+Undocumented:
+Can now grab a spirit through
+Morgana's
+Black Shield
+.
+V9.2
+Leap of Faith
+Undocumented:
+The animation no longer sometimes bugs out, making
+Illaoi
+not leap in the air. (before -
+[125]
+)
+V9.1
+Leap of Faith
+New Effect:
+Ability icon HUD now shows the remaining duration of the ability.
+V8.24
+Test of Spirit
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 20 / 18 / 16 / 14 / 12.
+Leap of Faith
+Cooldown reduced to 120 / 95 / 70 seconds from 120 / 105 / 90.
+V8.20
+Test of Spirit
+Undocumented:
+The Black Cleaver
+now correctly stacks on the spirit. (before -
+[126]
+)
+V8.18
+Void Bringer Illaoi
+Harsh Lesson
+Bug Fix:
+Fixed an FPS hitching issue that occurred when she successfully
+Teleported
+while her
+Harsh Lesson
+attack buff was active.
+V8.14
+Test of Spirit
+Bug Fix:
+The
+Spirit
+now correctly takes true damage from
+Conqueror
+. (before -
+[127]
+)
+V8.13
+Tentacle Smash
+Undocumented:
+No longer shows a damage increase of 5% before upgrading to rank 1. (before -
+[128]
+)
+V8.6
+Prophet of an Elder God
+Bug Fix:
+Tentacles no longer count as wards for the purpose of placing and destroying them.
+Undocumented:
+VFX particles upon slaming on low graphics removed.
+[129]
+Test of Spirit
+Undocumented:
+Illaoi
+and her enemies can no longer see the range which breaks
+Test of Spirit's
+tether on low graphics.
+V8.3
+Prophet of an Elder God
+Undocumented:
+Tentacles no longer keep their dance SFX after
+Illaoi
+stops dancing if she spammed the dance command. (before -
+[130]
+)
+Harsh Lesson
+Undocumented:
+The attack can no longer be cancelled when attacking monsters. (before -
+[131]
+)
+Undocumented:
+The dashed version can now stack and trigger
+Guinsoo's Rageblade
+.
+Undocumented:
+Now correctly calculates damage done based on
+Muramana's
+bonus ad.
+Undocumented:
+Bonus
+damage is now dealt before the basic attack, affecting interactions like
+Blade of the Ruined King
+.
+V7.24
+Test of Spirit
+Bug Fix:
+Pulled spirits no longer have their health bars disappear when the target the
+Spirit
+was pulled out from, or its allies, try to target it.
+Undocumented:
+Spirits now have their lifetime disappear if it was grabbed from a champion with red or white resources (i.e
+rage
+,
+flow
+).
+[132]
+V7.23
+Prophet of an Elder God
+New Effect / Bug Fix:
+Tentacle commands no longer fizzle if an enemy dies after being acquired as a slam target. The command will now continue towards the dead target. (before -
+[133]
+, after -
+[134]
+[135]
+[136]
+)
+Not Functional:
+The same does not apply if the target is a
+Spirit
+that has died about a second ago.
+[137]
+[138]
+Harsh Lesson
+New Effect:
+Close version of the ability now has an
+uncancellable windup
+.
+Not Functional:
+The same does not apply when targeting monsters.
+[139]
+New Effect / Bug Fix:
+If the target dies during the leap animation of the dashed version of the ability, Tentacles will now be commanded to attack the dead target.
+Not Functional:
+The same does not apply if the target dies an instant before the ability hits.
+[140]
+Test of Spirit
+Undocumented:
+Stacking
+Press the Attack
+on the spirit no longer permanently disables the rune. (before -
+[141]
+)
+V7.22
+Stats
+Base attack damage increased to 68 from 60.
+Base armor increased to 35 from 26.
+V7.17
+Harsh Lesson
+Bug Fix:
+The dashed version of the ability no longer causes
+bonus
+critical damage
+to apply a second time to the basic attack portion when
+critically striking
+.
+Basic attack portion critical strike changed to (200% +
+bonus
+critical damage
+)
+AD
+from (200% +
+bonus
+critical damage
+) × (1 +
+bonus
+critical damage
+)
+AD
+.
+Undocumented:
+Bonus
+damage is now dealt after the basic attack, affecting interactions like
+Blade of the Ruined King
+.
+V7.11
+Prophet of an Elder God
+Removed:
+Tentacles killed increasing the minion killed stat.
+V7.7
+Prophet of an Elder God
+Bug Fix:
+Lifesteal no longer applies when hitting tentacles.
+V7.6
+Harsh Lesson
+Bug Fix:
+Can no longer spam
+Harsh Lesson
+to ignore the cast time of
+Test of Spirit
+.
+V6.22
+General
+Bug Fix:
+Illaoi's
+tentacles now normally swing at champions under the effects of
+Taric's
+Cosmic Radiance
+or
+Kindred's
+Lamb's Respite
+.
+V6.15
+Prophet of an Elder God
+New Effect:
+Tentacles
+are now visible in brush to enemy champions within their normal vision range.
+V6.14
+General
+Tentacle
+indicators are now more accurate when displaying the area they're going to Slam.
+V6.11
+General
+Clarity:
+All tooltips updated.
+Tentacle Smash
+Passive
+changed to 10 / 15 / 20 / 25 / 30% increased damage from increasing the AD ratio by
+0 / 10 / 20 / 30 / 40% AD
+.
+Harsh Lesson
+Damage changed to
+3 / 3.
+5
+/ 4 / 4.
+5
+/ 5%
+(+
+「 2% per 100 AD 」
+「 1% per 50 AD 」
+)
+of target's maximum health
+from 15 / 35 / 55 / 75 / 95
+(+ 10% AD)
+.
+The new damage is capped at 300 against non-champions.
+Test of Spirit
+Slow
+duration reduced to 1.
+5
+seconds from 2.
+Removed:
+Slow's
+decay.
+V6.10
+Harsh Lesson
+Cooldown reduced to 4 seconds at all ranks from 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds.
+V6.9
+Prophet of an Elder God
+New Effect:
+Tentacles no longer appear in fog of war but stay revealed once first seen.
+Test of Spirit
+Vessel
+duration reduced to 12 seconds from 60.
+Tentacles
+spawn interval reduced to
+5 / 4 / 3 (based on level)
+seconds from 10.
+Tentacles
+spawned by a
+Vessel
+can now spawn closer to each other.
+Removed:
+Killing 3
+Tentacles
+dispels the
+Vessel
+effect early.
+Removed:
+Enemies being able to see
+Tentacles
+spawning in fog of war.
+Removed:
+Recall
+prevents
+Tentacles
+from spawning.
+Undocumented:
+Vessel debuff now refreshes if applied again on the enemy.
+V6.5
+Leap of Faith
+Bug Fix:
+Tentacles
+spawned no longer fail to attack
+Harsh Lesson
+targets the moment before expiring.
+V6.4
+Leap of Faith
+New Effect:
+Illaoi
+becomes
+unstoppable
+while casting.
+V6.3
+Test of Spirit
+Mana cost reduced to 35 / 40 / 45 / 50 / 55 from 35 / 45 / 55 / 65 / 75.
+Removed:
+0.
+25
+seconds root after missing.
+New Effect:
+Illaoi
+can instantly move after casting.
+New Effect:
+Tentacles
+killed by allies within 5 seconds of being hit by a
+Vessel
+counts towards the debuff's removal.
+Bug Fix:
+Fiora
+could
+Riposte
+the application of the
+Vessel
+debuff as it flew towards her.
+V5.23
+Added
+Trivia
+Illaoi has the 2nd highest
+level 18
+base
+attack damage
+at 150 (
+Illaoi
+), behind 162.
+9
+(
+Mega Gnar
+).
+She is the only champion who can summon an enemy unit (
+Vessel
+).
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Summoner's Rift
+The newest and most venerated battleground is known as Summoner's Rift. Traverse down one of three different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Featured Game Modes
+Doom Bots
+One For All
+Ultimate Spellbook
+Ultra Rapid Fire
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Prophet of an Elder God
+STATIC CD:
+18 – 5.
+71
+(based on level)
+Innate:
+Periodically, a
+Tentacle
+will spawn next to nearby
+terrain
+. It can be killed by enemy basic attacks and will become dormant if
+Illaoi
+leaves it alone.
+A
+Tentacle
+only attacks through
+Illaoi's
+abilities and does so by slamming the ground once, dealing
+physical damage
+to enemies hit. Whenever it hits at least one enemy
+champion
+,
+Illaoi
+is
+healed
+for a portion of
+her
+missing
+health
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Leap of Faith
+COOLDOWN:
+120 / 95 / 70
+Active:
+Illaoi
+becomes
+unstoppable
+before dealing
+physical damage
+to nearby enemies. For each enemy
+champion
+hit, a
+Tentacle
+is summoned around her for a period.
+For the duration,
+Harsh Lesson's
+cooldown is
+reduced
+and nearby
+Tentacles
+attack faster.
+League of Legends content
+Harsh Lesson
+COOLDOWN:
+4
+Active:
+Illaoi's
+next basic attack gains
+bonus
+attack range
+and causes her to
+leap
+to her target, dealing
+additional
+physical damage
+and commanding nearby
+Tentacles
+to attack the target.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and
+dispel
+most
+debuffs
+upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Zaahen's
+Cultivation of War
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Spell vamp
+Spell vamp
+is a subtype of
+Vamp
+, that converts a percentage of all
+ability damage
+dealt into health.
+For
+area of effect
+and
+pet
+damage, it is reduced to 33% effectiveness.
+League of Legends content
+Omnivamp
+Omnivamp
+is a collective term used to refer to
+healing
+from dealing
+physical damage
+,
+magic damage
+, and
+true damage
+.
+The healing from omnivamp is reduced to 20% effectiveness for damage to minions and monsters.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Interrupt
+Interrupt
+is a quality of crowd control that
+interrupts
+an in-progress effect, preventing its completion or causing the effect to go off at an
+interrupted
+state.
+The following crowd control effects
+interrupt
+channeled and charged
+abilities (unless otherwise noted by the ability):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+The following crowd control effects
+interrupt
+dashes
+:
+Airborne
+Knockdown
+Stasis
+Basic attack windups
+are
+interrupted
+by all forms of crowd control that inhibit attacking.
+Ground
+and
+Root
+only
+interrupt
+channeled and charged movement abilities.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+References
+↑
+Illaoi's profile page
+at
+LeagueOfLegends.com

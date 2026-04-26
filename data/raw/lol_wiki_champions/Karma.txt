@@ -1,0 +1,2750 @@
+# Karma
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Karma
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+630
++109
+MP
+374
++40
+HP5
+5.5
++0.55
+MP5
+13
++0.8
+AR
+28
++5
+AD
+49
++3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+335
+Attack range
+525
+Attack speed
+Base AS
+0.625
+Windup%
+16.146%
+AS ratio
+N/A
+Bonus AS
++2.3
+%
+Missile speed
+1500
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+145
+Acq. radius
+525
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Karma
+The Enlightened One
+Role(s):
+Middle
+,
+Support
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+2
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+2
+Release date
+2011-02-01
+Last changed
+V26.08
+Class
+Burst
+,
+Enchanter
+Legacy class
+Mage
+,
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Gathering Fire
+Innate:
+Mantra's
+current cooldown is
+reduced
+by a few seconds for each enemy champion hit by
+Karma's
+damaging
+abilities
+.
+Innate:
+Mantra's
+current
+cooldown
+is reduced by 4 seconds for each enemy champion hit by
+Karma's
+damaging
+abilities
+.
+Info
+Targeting input
+Passive
+Affects
+Self
+Inner Flame
+/
+Soulflare
+reduces
+Mantra's
+cooldown per champion hit by either damage instance (up to a maximum total reduction of 40 seconds if 5 enemy champions are hit by both instances of damage).
+Focused Resolve
+/
+Renewal
+reduces
+Mantra's
+cooldown when initially cast and again after the duration for the tether has expired (for a total reduction of 8 seconds).
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+On-damage cooldown reduction changed to 0.
+5
+/ 0.
+75
+/ 1.
+*
+Edit
+Inner Flame
+COST:
+40 / 50 / 60 / 70 / 80 Mana
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+0.
+25
+TARGET RANGE:
+950 /
+890
+EFFECT RADIUS:
+280
+WIDTH:
+120
+SPEED:
+1700
+Active:
+Karma
+fires a bolt in the target direction that explodes on the first enemy hit, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them.
+Active:
+Karma
+fires a bolt in the target direction that explodes on the first enemy hit, dealing
+magic damage
+to nearby enemies and
+slowing
+them by 40% for 1.
+5
+seconds.
+Magic Damage:
+60 / 110 / 160 / 210 / 260
+(+ 70% AP)
+Edit
+Soulflare
+EFFECT RADIUS:
+280
+WIDTH:
+160
+Mantra
+Bonus:
+Inner Flame
+deals increased damage, and fires a larger bolt that also explodes at max range. The explosion briefly creates a field that
+slows
+enemies, which then ruptures to deal
+magic damage
+.
+Mantra
+Bonus:
+Inner Flame
+deals increased damage, and fires a larger bolt that also explodes at maximum range.
+Bonus Magic Damage:
+40 / 100 / 160 / 220
+(+ 30% AP)
+Total Magic Damage:
+60 / 110 / 160 / 210 / 260 (+
+40 / 100 / 160 / 220
+)
+(+ 100% AP)
+The explosion creates a field for 1.
+5
+seconds that
+slows
+enemies within by 50%, which then ruptures to deal
+magic damage
+.
+Magic Damage:
+40 / 130 / 220 / 310
+(+ 50% AP)
+Total Bonus Damage:
+80 / 230 / 380 / 530
+(+ 80% AP)
+Total Damage:
+60 / 110 / 160 / 210 / 260 (+
+80 / 230 / 380 / 530
+)
+(+ 150% AP)
+Soulflare
+scales with
+Mantra's
+rank.
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Spell shield
+will block the initial impact from
+Inner Flame
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+Inner Flame's
+effect radius is centered around the location of the missile as it collides.
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will block the initial impact from either ability but will not block
+Soulflare's
+field damage.
+Soulflare's
+detonation radius is centered around the location of the missile as it collides, while the lingering field will always be created at the impacted enemy's center instead.
+Soulflare
+will cast from wherever
+Karma
+is at the end of the cast time.
+Inner Flame
+ARAM
+differences
+edit
+Soulflare
+Bonus primary damage changed to 40 / 90 / 140 / 190.
+No video available.
+Edit
+Focused Resolve
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+12
+CAST TIME:
+0.
+25
+TARGET RANGE:
+675
+TETHER RADIUS:
+825
+Active:
+Karma
+deals
+magic damage
+and
+tethers
+to the target enemy
+champion
+,
+monster
+or
+pet
+. If the tether is not broken after a short time, the target is dealt
+magic damage
+, briefly
+rooted
+, and
+revealed
+for a short time.
+Active:
+Karma
+deals
+magic damage
+to the target enemy
+champion
+,
+monster
+or
+pet
+and forms a
+tether
+between her and them for 2 seconds, during which they are
+revealed
+.
+Magic Damage:
+40 / 65 / 90 / 115 / 140
+(+ 45% AP)
+If the tether is not broken by the end of its duration, the target is dealt the same
+magic damage
+again and is
+rooted
+for a duration, during which they are
+revealed
+.
+Total Magic Damage:
+80 / 130 / 180 / 230 / 280
+(+ 90% AP)
+Root Duration:
+1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 seconds
+Edit
+Renewal
+Mantra
+Bonus:
+Focused Resolve's
+root
+is increased.
+Karma
+heals
+herself once on-cast, and again once the target is
+bound
+or dies while tethered.
+Mantra
+Bonus:
+Focused Resolve's
+root
+duration is increased.
+Karma
+heals
+for
+17%
+(+ 1% per 100 AP)
+of her
+missing
+health
+once on-cast, and again once the tether lasts its full duration or the target dies while tethered.
+Root Duration Increase:
+0.
+5
+/ 0.
+75
+/ 1 / 1.
+25
+seconds
+Total Root Duration:
+1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 (+
+0.
+5
+/ 0.
+75
+/ 1 / 1.
+25
+) seconds
+Renewal
+scales with
+Mantra's
+rank.
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies / Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Spell shield
+will block the tether's application and damage but not the aftereffects of one already applied.
+If
+Karma
+is
+tethered
+to multiple targets, the visual effects of all tethers will disappear at the end of the first tether's duration, but the other targets will remain tethered.
+(bug)
+If the target becomes
+untargetable
+,
+dies
+, or is no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost.
+If they move too far away during the cast time, however, the ability will cancel as normal but still go on cooldown and pay its cost.
+(bug)
+Summon Aery
+will still count as the target being damaged this way.
+(unexpected)
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies / Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Spell shield
+will block the tether's application and damage but not the aftereffects of one already applied.
+If
+Karma
+is
+tethered
+to multiple targets, the visual effects of all tethers will disappear at the end of the first tether's duration, but the other targets will remain tethered.
+(bug)
+On cast,
+Renewal
+is treated as 2
+abilities
+for
+Conqueror
+,
+Electrocute
+and
+Phase Rush
+, instead of 1.
+(bug)
+If the target becomes
+untargetable
+,
+dies
+, or is no longer in
+sight
+during the cast time, this ability will cancel but does not go on
+cooldown
+nor pay its cost.
+If they move too far away during the cast time, however, the ability will cancel as normal but still go on cooldown and pay its cost.
+(bug)
+Karma
+is still healed on-cast.
+Summon Aery
+will still count as the target being damaged this way.
+(unexpected)
+No video available.
+Edit
+Inspire
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+none
+TARGET RANGE:
+800
+Active:
+Karma
+applies a
+shield
+on herself or the target allied champion for a short time, which briefly grants
+bonus
+movement speed
+.
+Active:
+Karma
+grants a
+shield
+to herself or the target allied champion for 2.
+5
+seconds as well as
+40%
+bonus
+movement speed
+for 2 seconds.
+Shield Strength:
+80 / 130 / 180 / 230 / 280
+(+ 60% AP)
+Edit
+Defiance
+CAST TIME:
+none
+EFFECT RADIUS:
+700
+Mantra
+Bonus:
+Inspire's
+shield is increased, and
+Inspire
+spreads to surrounding allied champions at reduced power.
+Mantra
+- Active:
+Inspire
+grants a bonus amount of shielding.
+Inspire
+spreads to surrounding allied champions, granting them a
+shield
+for 2.
+5
+seconds and
+15%
+bonus
+movement speed
+for 2 seconds.
+Bonus Primary Target Shield:
+45 / 85 / 125 / 165
+(+ 45% AP)
+Total Primary Target Shield:
+80 / 130 / 180 / 230 / 280 (+
+45 / 85 / 125 / 165
+)
+(+ 105% AP)
+Secondary Target Shield:
+45 / 85 / 125 / 165
+(+ 45% AP)
+Defiance
+scales with
+Mantra's
+rank.
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Allies
+Inspire
+has a
+forgiveness radius
+of 175 units.
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Allies
+Defiance
+has a
+forgiveness radius
+of 175 units.
+No video available.
+Edit
+Mantra
+COOLDOWN
+:
+40 / 38 / 36 / 34
+CAST TIME:
+none
+Active:
+Karma
+empowers her next ability within a period to apply an additional effect.
+Karma
+begins the game with one rank in
+Mantra
+. Her empowered abilities scale based on
+Mantra's
+rank.
+Active:
+Karma
+empowers her next basic ability within 8 seconds for an additional effect.
+Karma
+begins the game with one rank in
+Mantra
+. Her empowered abilities scale based on
+Mantra's
+rank.
+Mantra can be used while affected by
+cast-inhibiting crowd control
+.
+"Sae Eleisa Tera Vi."
+Info
+Targeting input
+Auto
+Affects
+Self
+No additional details.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Karma (Collection)
+.
+Original
+01.02.2011
+No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost—both to her, and to the land she holds most dear.
+Rashida Clendening
+Jason Chan
+Loot eligible
+View in 3D
+Sun Goddess
+750
+01.02.2011
+An ageless being in whom the sun rises and sets, Karma is the key to an ancient prophecy spelling doom for the world. When she is overtaken by the moon, four titans will rise up from the depths of the earth, annihilating all life.
+Rashida Clendening
+Andrew Theophilopoulos
+Worldbreaker
+Loot eligible
+Legacy
+View in 3D
+Sakura
+520
+01.02.2011
+Rashida Clendening
+Jessica 'OwleyCat' Oyhenart, Jem Flores
+Legacy
+Loot eligible
+View in 3D
+Traditional
+975
+29.03.2013
+Created to capture the original feel of Karma, one of our first fully reworked champions.
+Danielle McRae
+Jessica 'OwleyCat' Oyhenart
+Traditional
+Loot eligible
+Legacy
+New voiceover
+New SFX/VFX
+View in 3D
+Order of the Lotus
+975
+01.10.2014
+Rashida Clendening
+Aleksandr Nikonov
+Order of the Lotus
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Warden
+750
+30.09.2015
+The Protectorate was an order dedicated to enforcing a rigid, unforgiving system of laws, in an attempt to slow the seemingly inevitable rise of the Magelords. Though the order itself was disbanded long ago, Wardens such as Karma still uphold its tenets… and guard its many secrets.
+Rashida Clendening
+Sixmorevodka Studio
+Warden
+Loot eligible
+View in 3D
+Winter Wonder
+1350
+14.12.2016
+A powerful sorceress at one with the natural world, Karma spreads snow like a soft blanket across the enchanted forests of the Winterlands. A loyal friend of the Poro King—wherever Karma goes, winter follows.
+Rashida Clendening
+Esben Lash Rasmussen
+Winter Wonder
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+•
+View Music
+Conqueror
+975
+23.04.2017
+Commemorating the 2017 Mid-Season Invitational in Brazil.
+Rashida Clendening
+Xu 'Crow God' Cheng
+Conqueror
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Conqueror Karma Chromas
+Golden
+Dark Star
+1350
+13.06.2019
+Karma was a galaxy-spanning civilization dedicated to pacifism and personal enlightenment, unceremoniously erased from reality and reborn as a star-consuming horror. Devouring entire galactic systems, she enforces a dread order upon the cosmos, meditating in the vast oceans of emptiness where once there were stars.
+Rashida Clendening
+Zeen Chin
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Dark Star Karma Chromas
+Aquamarine
+Meteorite
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Dawnbringer
+Special
+12.12.2019
+Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world.
+Rashida Clendening
+Clare Wong, West Studio
+Nightbringer and Dawnbringer
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Dawnbringer Karma Chromas
+Amethyst
+Catseye
+Paragon
+Peridot
+Rose Quartz
+Ruby
+Odyssey
+1350
+15.10.2020
+A High Priestess of the Templar Order, Karma has hired a group of offworld mercenaries to free a number of captured templars from the grip of Aatrox, an infamous and powerful crime lord. She has taken a more interventionist stance towards the rest of the universe following the loss and transformation of her former lover, Zed.
+Rashida Clendening
+Xuning Cui, Kudos Productions
+Odyssey
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Odyssey Karma Chromas
+Aquamarine
+Citrine
+Merc
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Turquoise
+Ruined
+1350
+21.01.2021
+Surviving the initial ruination of Ionia, Karma is ultimately lost during a second one led by Viego himself. With the Spirit of Ionia itself removed from the continent, the Ionian people must band together to save one another, even as Karma twists the souls of millions to a new, horrific purpose.
+Rashida Clendening
+Marie Magny, West Studio
+Ruined
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Ruined Karma Chromas
+Citrine
+Cursed
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Tranquility Dragon
+1350
+21.10.2021
+As Brand's corruption spread, Karma sought the power to restore peace. When her desperate search throughout the land failed, Karma was left with nowhere left to look but within. After months of quiet contemplation, the fabled Tranquility Dragon greeted her in a vision. She awoke with the dragon's gift, the power to bring tranquil peace to face Brand's raging violence.
+Rashida Clendening
+Yuhong Ding, West Studio
+Dragonmancers
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Tranquility Dragon Karma Chromas
+Amethyst
+Aquamarine
+Catseye
+Emberclaw
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Faerie Queen
+1820
+23.03.2023
+All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!
+Rashida Clendening
+Julia Yurtsev
+Faerie Court
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Faerie Queen Karma Chromas
+Catseye
+Emerald
+Obsidian
+Ruby
+Sapphire
+Winsome
+Infernal
+1350
+30.05.2024
+Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest.
+Rashida Clendening
+Huyy Nguyen, West Studio
+Infernal
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Infernal Karma Chromas
+Amethyst
+Aquamarine
+Catseye
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Turquoise
+Spirit Blossom
+1820
+25.06.2025
+Long ago, the First Spirit of the Lands shaped two sisters—born together, yet bound by different fates. For a time, she watched over them, but when her gaze turned elsewhere, one strayed, creating twisted life in monstrous masks. Faced with the cost of her neglect, the First Spirit vowed never to turn away again, binding herself to endless rebirth.
+Rashida Clendening
+Su Fu, Kudos Productions
+Spirit Blossom
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Spirit Blossom Karma Chromas
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.08
+Stats
+Base attack damage reduced to 49 from 51.
+Attack damage growth reduced to 3 from 3.
+3
+.
+Inspire
+Mana cost increased to 60 / 65 / 70 / 75 / 80 from 50 / 55 / 60 / 65 / 70.
+V26.07
+Defiance
+Bonus base shield reduced to 45 / 85 / 125 / 165 from 50 / 100 / 150 / 200.
+V25.24
+General
+Bug Fix:
+Disk piece animations no longer break until her next death after reviving via
+Guardian Angel's
+Rebirth.
+V25.13
+General
+Bug Fix:
+The symbol on her cape piece above her now properly plays its animations after the player has reconnected.
+V25.06
+Inner Flame
+Base damage reduced to 60 / 110 / 160 / 210 / 260 from 70 / 120 / 170 / 220 / 270.
+V25.S1.2
+Soulflare
+Bug Fix:
+Now properly benefits from
+Axiom Arcanist
+.
+V14.24
+Mantra
+Bug Fix:
+No longer reveals the user if cast while the cursor is near an enemy champion.
+V14.20
+Inspire
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+Defiance
+New Effect:
+Cast now has a forgiveness radius of 175 units.
+V14.13
+Mantra
+Bug Fix:
+Cooldown is now refunded if
+Soulflare
+kills a target.
+V14.12
+Inspire
+Bonus movement speed duration increased to 2 seconds from 1.
+5
+.
+Base shield increased to 80 / 130 / 180 / 230 / 280 from 80 / 125 / 170 / 215 / 260.
+Defiance
+Bonus base shield increased to 50 / 100 / 150 / 200 from 50 / 90 / 130 / 170.
+V14.9
+Inner Flame
+Slow increased to 40% from 35%.
+Defiance
+Secondary target bonus movement speed increased to 15% from 12%.
+Secondary target shielding increased to 100% of bonus shield from 90%.
+Secondary target base shield increased to 50 / 90 / 130 / 170 from 45 / 81 / 117 / 153.
+Secondary target AP ratio increased to
+45% AP
+from
+40.
+5
+% AP
+.
+V14.7
+Focused Resolve
+Root duration increased to 1.
+6
+/ 1.
+7
+/ 1.
+8
+/ 1.
+9
+/ 2 seconds from 1.
+4
+/ 1.
+55
+/ 1.
+7
+/ 1.
+85
+/ 2.
+Defiance
+Secondary target total shield strength changed to 90% of
+Defiance's
+bonus shield from 30% of
+Inspire's
+base shield plus 30% of
+Defiance's
+bonus shield.
+Secondary target base shield strength changed to 45 / 81 / 117 / 153 from 24 / 37.
+5
+/ 51 / 64.
+5
+/ 78 (+
+15 / 27 / 39 / 51
+).
+Secondary target AP ratio increased to
+40.
+5
+% AP
+from
+31.
+5
+% AP
+.
+V14.6
+Stats
+Mana growth reduced to 40 from 50.
+Mana regeneration growth increased to 0.
+8
+from 0.
+5
+.
+Gathering Fire
+Cooldown reduction changed to 4 seconds from 5.
+Inner Flame
+Mana cost changed to 40 / 50 / 60 / 70 / 80 from 45 at all ranks.
+Defiance
+Bonus base shield changed to 50 / 90 / 130 / 170 from 25 / 75 / 125 / 175.
+Mantra
+Cooldown increased to 40 / 38 / 36 / 34 seconds from 40 / 37 / 34 / 31.
+V14.4
+Focused Resolve
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+Renewal
+Tether now innately checks every 0.
+05
+seconds for valid range conditions, and no longer waits for every 8th server tick.
+V14.3
+Soulflare
+Explosion base damage changed to 40 / 130 / 220 / 310 from 35 / 140 / 245 / 350.
+Explosion AP ratio reduced to
+50% AP
+from
+70% AP
+.
+V14.2
+Stats
+Base health increased to 630 from 604.
+Inner Flame
+AP ratio increased to
+70% AP
+from
+50% AP
+.
+Inspire
+Base shield increased to 80 / 125 / 170 / 215 / 260 from 80 / 120 / 160 / 200 / 240.
+Shield AP ratio increased to
+60% AP
+from
+45% AP
+.
+V13.16
+Inner Flame
+AP ratio increased to
+50% AP
+from
+40% AP
+.
+Soulflare
+Explosion AP ratio increased to
+70% AP
+from
+60% AP
+.
+Mantra
+Cooldown reduced to 40 / 37 / 34 / 31 seconds from 40 / 38 / 36 / 34.
+V13.6
+Focused Resolve
+Bug Fix:
+VFX now properly follows the targeted enemy's movements.
+V12.23
+Mantra
+Removed:
+Duration is no longer extended by the casts of
+Focused Resolve
+or
+Inspire
+when they are cast while outside of range of the target.
+V12.10
+Stats
+Base health increased to 604 from 534.
+Health growth increased to 109 from 95.
+Armor growth increased to 5 from 3.
+8
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Renewal
+Base heal reduced to
+17%
+missing
+health
+from
+20%
+.
+Inspire
+Base shield reduced to 80 / 120 / 160 / 200 / 240 from 90 / 135 / 180 / 225 / 270.
+Shield AP ratio reduced to
+45% AP
+from
+50% AP
+.
+Defiance
+Bonus base shield reduced to 25 / 75 / 125 / 175 from 25 / 80 / 135 / 190.
+Bonus shield AP ratio reduced to
+45% AP
+from
+50% AP
+.
+V11.18
+Stats
+Base armor increased to 28 from 26.
+Inspire
+Base shield increased to 90 / 135 / 180 / 225 / 270 from 80 / 125 / 170 / 215 / 260.
+V11.16
+Gathering Fire
+Removed:
+Basic attacks against enemy champions no longer reduce
+Mantra's
+cooldown by 1 second.
+Mantra
+cooldown reduction from spells increased to 5 seconds at all levels from
+2 / 3.
+5
+/ 5 (based on level)
+.
+Inner Flame
+Cooldown changed to 9 / 8 / 7 / 6 / 5 seconds from 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6.
+Mana cost reduced to 45 from 55.
+Base damage reduced to 70 / 120 / 170 / 220 / 270 from 90 / 135 / 180 / 225 / 270.
+Soulflare
+Inner Flame
+bonus base damage increased to 40 / 100 / 160 / 220 from 25 / 75 / 125 / 175.
+Inspire
+Base shield increased to 80 / 125 / 170 / 215 / 260 from 80 / 120 / 160 / 200 / 240.
+Bonus movement speed reduced to 40% at all ranks from 40 / 45 / 50 / 55 / 60%.
+Defiance
+New Effect:
+Secondary targets now only receive
+12%
+bonus
+movement speed
+instead of the same amount as Inspire (
+40%
+).
+V11.14
+Stats
+Base attack damage reduced to 51 from 54.
+V11.12
+Traditional Karma
+Updated visual effects.
+V11.11
+General
+Updated visual effects.
+Inner Flame
+VFX updated to improve color range and reduce noise.
+Inspire
+VFX updated to improve color range and reduce noise.
+V11.7
+Defiance
+Bug Fix:
+Fixed a bug where it would not trigger
+Moonstone Renewer's
+Starlit Grace.
+V11.5
+Inner Flame
+Cooldown reduced to 8 / 7.
+5
+/ 7 / 6.
+5
+/ 6 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+V11.3
+Stats
+Base mana regeneration increased to 13 from 11.
+5
+.
+Inner Flame
+Mana cost reduced to 55 from 65.
+V11.1
+Stats
+Base attack damage increased to 54 from 53.
+544
+.
+Inspire
+Base shield increased to 80 / 120 / 160 / 200 / 240 from 80 / 110 / 140 / 170 / 200.
+V10.23
+Renewal
+Now has an "incoming health" UX added to the health bar, so the player can see how much health they will receive from
+Renewal
+.
+V10.21
+Gathering Fire
+Mantra
+cooldown reduction from spells increased to
+2 / 3.
+5
+/ 5 (based on level)
+seconds from
+2 / 3 / 4 (based on level)
+.
+Mantra
+cooldown reduction from basic attacks reduced to 1 second at all levels from
+1 / 1.
+5
+/ 2 (based on level)
+.
+Mantra
+Cooldown reduced to 40 / 38 / 36 / 34 seconds from 45 / 42 / 39 / 36.
+V10.16
+Inner Flame
+Mana cost changed to 65 at all ranks from 50 / 55 / 60 / 65 / 70.
+Cooldown increased to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+V10.2
+Inner Flame
+Base damage increased to 90 / 135 / 180 / 225 / 270 from 80 / 125 / 170 / 215 / 260.
+Focused Resolve
+Base damage increased to 40 / 65 / 90 / 115 / 140 from 30 / 55 / 80 / 105 / 130.
+V9.24b
+Soulflare
+Bug Fix:
+Corrected the tooltip to its actual value (60% AP).
+V9.24
+Inspire
+Base shield increased to 80 / 110 / 140 / 170 / 200 from 70 / 95 / 120 / 145 / 170.
+V9.19
+Inner Flame
+AP ratio reduced to
+40% AP
+from
+60% AP
+.
+V9.16
+Focused Resolve
+Bug Fix:
+Now properly lowers
+Mantra's
+cooldown while damaging enemy champions.
+V9.15
+Defiance
+Bonus shield strength reduced to 25 / 80 / 135 / 190 from 30 / 90 / 150 / 210.
+Bonus shield AP ratio reduced to
+50% AP
+from
+60% AP
+.
+V9.14
+Focused Resolve
+New Effect:
+Now grants true sight for the duration of the
+root
+.
+Renewal
+New Effect:
+Now grants true sight for the duration of the
+root
+.
+V9.13
+Inspire
+Bonus movement speed duration reduced to 1.
+5
+seconds from 2.
+5
+.
+V9.12
+Inner Flame
+Slow strength increased to 35% from 25%.
+Inspire
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 60 / 65 / 70 / 75 / 80.
+Bonus movement speed duration increased to 2.
+5
+seconds from 1.
+5
+.
+V9.6
+Traditional Karma
+Inspire
+Bug Fix:
+Voiceover no longer uses her base skin's audio.
+V8.24
+General
+New fast run animation added.
+V8.21
+Focused Resolve
+Root duration increased to 1.
+4
+/ 1.
+55
+/ 1.
+7
+/ 1.
+85
+/ 2 seconds from 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2.
+V8.14
+Stats
+Base mana regeneration increased to 11.
+5
+from 8.
+5
+.
+Mana regeneration growth reduced to 0.
+5
+from 0.
+8
+.
+Base armor increased to 26 from 20.
+384
+.
+Inner Flame
+Splash radius increased to 280 from 250.
+Soulflare
+Base detonation damage reduced to 35 / 140 / 245 / 350 from 50 / 150 / 250 / 350.
+V8.12
+Inspire
+Shield duration reduced to 2.
+5
+seconds from 4.
+Defiance
+Shield duration reduced to 2.
+5
+seconds from 4.
+V8.8
+Conqueror Karma
+Bug Fix:
+Unique particles have been restored for all of her spells
+V8.3
+Stats
+Base health regeneration reduced to 5.
+5
+from 5.
+624
+.
+V8.2
+Focused Resolve
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+V7.23
+Conqueror Karma
+and
+Winter Wonder Karma
+Soulflare
+Bug Fix:
+VFX are no longer cut off on elevated terrain.
+V7.22
+Stats
+Base health increased to 534 from 522.
+44
+.
+Health growth increased to 95 from 83.
+V7.20
+Gathering Fire
+Ability cooldown reduction increased to
+2 / 3 / 4 (based on level)
+seconds from
+2 / 2.
+5
+/ 3 (based on level)
+.
+Basic attack cooldown reduction increased to
+1 / 1.
+5
+/ 2 (based on level)
+seconds from
+1 / 1.
+25
+/ 1.
+5
+(based on level)
+.
+V7.18
+General
+Bug Fix:
+Now correctly has recommended item pages for both mid and support.
+V7.15
+Winter Wonder Karma
+Inspire
+Bug Fix:
+Is now better differentiated from
+Winter Wonder Lulu's
+Help, Pix!
+.
+Defiance
+Bug Fix:
+Is now better differentiated from
+Winter Wonder Lulu's
+Help, Pix!
+.
+V7.12
+Inspire
+Base shield strength reduced to 70 / 95 / 120 / 145 / 170 from 70 / 100 / 130 / 160 / 190.
+Defiance
+Percentage of original shield to nearby allied champions reduced to 30% from 50%.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+Conqueror Karma
+Bug Fix:
+Fixed channeling animation (ex. when capturing
+Skarner's
+Crystal Spires
+).
+V7.7
+General
+New splash artwork for
+Sun Goddess Karma
+,
+Sakura Karma
+and
+Traditional Karma
+. Adjusted splash artwork for
+Order of the Lotus Karma
+.
+V7.1
+Focused Resolve
+/
+Renewal
+Number of damage ticks reduced to 2 from 3.
+Base damage per tick increased to 30 / 55 / 80 / 105 / 130 from 20 / 36.
+7
+/ 53.
+3
+/ 70 / 86.
+7
+Damage per tick AP scaling increased to
+45% AP
++
+30% AP
+.
+Total damage unchanged.
+Renewal
+Bug Fix:
+Base tether visuals are no longer a funky color.
+Defiance
+Base shield strength reduced to 30 / 90 / 150 / 210 from 30 / 100 / 170 / 240.
+V6.24
+Soulflare
+Bug Fix:
+Fixed a spectator mode bug preventing
+Order of the Lotus Karma's
+Soulflare
+explosion circle indicator from displaying.
+V6.15
+Inspire
+Shield reduced to 70 / 100 / 130 / 160 / 190 from 80 / 110 / 140 / 170 / 200
+Removed:
+Can no longer target minions.
+Defiance
+Bonus movement speed reduced to 40 / 45 / 50 / 55 / 60% from 60% at all ranks.
+V6.7
+General
+Splash artwork for
+Sun Goddess Karma
+and
+Sakura Karma
+updated to the Chinese art.
+V6.6
+Defiance
+Base shield strength increased to 30 / 100 / 170 / 240 from 30 / 90 / 150 / 210.
+AP ratio increased to
+60% AP
+from
+30% AP
+.
+V6.2
+Focused Resolve
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 70 / 75 / 80 / 85 / 90.
+V5.22
+Stats
+Base mana regeneration increased to 8.
+5
+from 6.
+V5.17
+Focused Resolve
+Cooldown reduced to 12 seconds at all ranks from 16 / 15 / 14 / 13 / 12.
+V5.10
+Gathering Fire
+Mantra cooldown refund on spell hit increased to
+2 / 2.
+5
+/ 3 (based on level)
+seconds from 2 at all levels.
+Mantra cooldown refund on basic attack increased to
+1 / 1.
+25
+/ 1.
+5
+(based on level)
+seconds from 1 at all levels.
+Focused Resolve
+New Effect:
+Can target monsters.
+AP ratio increased to
+90% AP
+from
+60% AP
+.
+Renewal
+New Effect:
+Increases
+Focused Resolve
+'s root duration by 0.
+5
+seconds.
+Removed:
+75 / 150 / 225 / 300 +
+60% AP
+bonus damage
+Inspire
+Base shield strength reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 200 / 240.
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100.
+Cooldown reduced to 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds from 10 at all ranks.
+Defiance
+New Effect:
+Primary target gains 30 / 90 / 150 / 210 +
+30% AP
+shield health.
+Allied area-of-effect shield changed to 50% of primary target's from 30 / 70 / 110 / 150.
+Removed:
+60 / 140 / 220 / 300 +
+60% AP
+damage over time.
+V5.5
+Defiance
+Bug Fix:
+Fixed a bug where allied champions were granted the inspire portion of the shield, instead of half of the defiance damage.
+V4.17
+Soulflare
+Bug Fix:
+Area of effect visual fizzling when Karma dies.
+Mantra
+New Effect:
+Can now be cast while disabled.
+V4.5
+Stats
+Base armor increased to 14 from 10.
+V3.8
+Inner Flame
+Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+Explosion radius increased to 250 from 230.
+Focused Resolve
+Bug Fix:
+Not granting vision of rooted target.
+Renewal
+Heal changed to
+20% +
+1% per 100 AP
+missing health
+on-cast followed by the same amount over tether duration from
+25% missing health
+over time.
+Defiance
+Bug Fix:
+Allied area-of-effect shield not accounting for AP ratio.
+V3.7
+Soulflare
+New Effect:
+Slow area spawns directly under primary target.
+V3.6
+Inner Flame
+Base damage increased to 80 / 125 / 170 / 215 / 260 from 60 / 110 / 160 / 210 / 260.
+Focused Resolve
+Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 16 / 15.
+5
+/ 15 / 14.
+5
+/ 14.
+Inspire
+Cooldown reduced to 10 seconds from 12.
+Bonus movement speed increased to 40 / 45 / 50 / 55 / 60% from 20 / 30 / 40 / 50 / 60%.
+Mantra
+Cooldown reduced to 45 / 42 / 39 / 36 seconds from 45 at all ranks.
+V3.5 (Balance update)
+Gathering Fire
+Mantra
+on-spell cooldown reduction increased to 2 seconds at all levels from 1 / 1.
+5
+/ 2.
+Mantra
+on-hit cooldown reduction increased to 1 second at all levels from 0.
+5
+/ 0.
+75
+/ 1
+Inner Flame
+Detonation area-of-effect focus changed to point of impact from the center of impacted target.
+Focused Resolve
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Gathering Fire
+application changed to per-tick from on-cast.
+Ticks reduced to 3 from 6.
+Inspire
+Bonus movement speed duration increased to 1.
+5
+seconds from 1.
+25
+.
+Bug Fix:
+Tooltip displaying incorrect shield value (80 / 115 / 150 / 185 / 220 instead of the intended 80 / 120 / 160 / 200 / 240).
+Defiance
+Bonus movement speed increased to 60% at all ranks from 20 / 30 / 40 / 50 / 60%.(
+Inspire
+'s rank)
+Allied area-of-effect shield/haste range increased to 700 from 600.
+V3.5
+rework
+Full Relaunch
+General
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Karma
+.
+New voice over.
+New lore.
+Gathering Fire
+(Innate)
+Reduces Mantra's cooldown every time Karma damages an enemy with one of her abilities (Half-effect for Karma's basic-attacks).
+Inner Flame
+(Q)
+Fires a blast of energy that explodes upon enemy contact, dealing magic damage and slowing all enemies in the area.
+Mantra Bonus
+: deals additional magic damage and leaves a circle of flame at the impact area (or upon reaching maximum range), heavily slowing all enemies inside the circle. After a brief delay the circle erupts, dealing heavy magic damage to all enemies in the area.
+Focused Resolve
+(W)
+Links Karma to target enemy champion, revealing them and dealing magic damage over 2 seconds. If the link is not broken, the enemy is rooted.
+Mantra Bonus
+: Focused Resolve deals bonus magic damage over time and heals Karma for a percent of her missing health while linked to her target.
+Inspire
+(E)
+Target ally gains a shield, granting movement speed for a brief duration and absorbing damage.
+Mantra Bonus
+: the shield overflows with energy, dealing magic damage to all enemies around the shielded unit. Allied champions near the shielded unit gain half of that amount as a shield and are hasted.
+Mantra
+(Ultimate)
+Karma empowers her next ability within 8 seconds for an additional effect.
+Trivia
+Karma, the Enlightened One
+Karma was named after
+the eponymous cause-and-effect principle
+.
+Her title,
+The Enlightened One
+, references
+Gautama Buddha
+&
+Awakening
+.
+Mantra
+was named after
+the eponymous Hindu sacred utterances
+, from
+Indo-Iranic
+*mántram
+<
+PIE
+*
+men-
+[
+2
+]
+tro-
+m
+"instrument of thought".
+The 'translation' for
+Mantra's
+Ancient Ionian language was provided by Player Support Escalation Specialist 'Marowe'.
+Karma was the first champion to feature an '
+Art Spotlight
+' before release and the first to be
+fully relaunched
+.
+She was the fifth to have more than four abilities (the others being
+Elise
+,
+Gnar
+,
+Heimerdinger
+,
+Jayce
+,
+Lee Sin
+, and
+Nidalee
+).
+Like
+Jayce
+, Karma used to have six ranks on each basic ability and only one on her
+ultimate
+.
+Renewal's
+root has the longest duration in-game (3.
+25
+seconds with
+Focused Resolve
+and
+Mantra
+both fully-ranked).
+In the minigame
+Astro Teemo
+, the most expensive upgrade in the game that
+Teemo's
+can purchase, Soul Shield, is a reference to one of Karma's pre-rework
+skills
+of the same name.
+Karma, the Enlightened One
+In Karma's most current lore, Karma's spirit has lived countless lives only to be re-incarnated within new bodies, inspired by
+the eponynous concept
+in
+Dharmic religions
+.
+The name of her current incarnation,
+Darha
+, comes from Sanskrit adjective
+दृढ
+dṛḍhá
+<
+दृळ्ह
+dṛḷhá
+"
+firm
+, steadfast", sharing
+PIE
+root
+dʰer-
+"to uphold" with
+Dar
+ius
+.
+[
+3
+]
+[
+4
+]
+Karma was the fourth champion to feature two '
+Champion Spotlights
+' due to significant gameplay changes (the others being
+Ezreal
+,
+Katarina
+,
+Lee Sin
+, and
+Sivir
+)
+Inspire's
+speed buff reads “Vroom Vroom!”.
+Karma,
+Lee Sin
+,
+Sejuani
+, and
+Trundle
+are the only champions to feature a
+traditional
+skin representing them before their visual updates.
+Viktor's
+Machine Herald
+skin also represents him before his visual update, but doesn't have "traditional" in the name.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Burst
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Burst Mages
+aim to single out vulnerable targets by locking them down and following up with a devastating barrage of damage from range. They are strongest when using their full suite of spells executed perfectly to maximum effect, and most vulnerable when they cannot deliver.
+Examples
+Annie
+Syndra
+Veigar
+League of Legends content
+Enchanter
+Controllers
+are defensive casters that oversee the battlefield by protecting and opening up opportunities for their allies.
+Enchanters
+focus on amplifying their allies' effectiveness by directly augmenting them and defending them from incoming threats. Enchanters themselves are often quite fragile and bring relatively low damage to the table, meaning they really only shine when grouped together with others.
+Examples
+Janna
+Sona
+Soraka
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Mantra
+COOLDOWN:
+40 / 38 / 36 / 34
+Active:
+Karma
+empowers her next ability within a period to apply an additional effect.
+Karma
+begins the game with one rank in
+Mantra
+. Her empowered abilities scale based on
+Mantra's
+rank.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Inner Flame
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Karma
+fires a bolt in the target direction that explodes on the first enemy hit, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them.
+Soulflare
+Mantra
+Bonus:
+Inner Flame
+deals increased damage, and fires a larger bolt that also explodes at max range.
+The explosion briefly creates a field that
+slows
+enemies, which then ruptures to deal
+magic damage
+.
+League of Legends content
+Inner Flame
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+Active:
+Karma
+fires a bolt in the target direction that explodes on the first enemy hit, dealing
+magic damage
+to nearby enemies and briefly
+slowing
+them.
+Soulflare
+Mantra
+Bonus:
+Inner Flame
+deals increased damage, and fires a larger bolt that also explodes at max range.
+The explosion briefly creates a field that
+slows
+enemies, which then ruptures to deal
+magic damage
+.
+League of Legends content
+Focused Resolve
+COOLDOWN:
+12
+Active:
+Karma
+deals
+magic damage
+and
+tethers
+to the target enemy
+champion
+,
+monster
+or
+pet
+.
+If the tether is not broken after a short time, the target is dealt
+magic damage
+, briefly
+rooted
+, and
+revealed
+for a short time.
+Renewal
+Mantra
+Bonus:
+Focused Resolve's
+root
+is increased.
+Karma
+heals
+herself once on-cast, and again once the target is
+bound
+or dies while tethered.
+League of Legends content
+Focused Resolve
+COOLDOWN:
+12
+Active:
+Karma
+deals
+magic damage
+and
+tethers
+to the target enemy
+champion
+,
+monster
+or
+pet
+.
+If the tether is not broken after a short time, the target is dealt
+magic damage
+, briefly
+rooted
+, and
+revealed
+for a short time.
+Renewal
+Mantra
+Bonus:
+Focused Resolve's
+root
+is increased.
+Karma
+heals
+herself once on-cast, and again once the target is
+bound
+or dies while tethered.
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Root
+A unit that is
+rooted
+is unable to control its movement or activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Rooted
+units can still be displaced.
+Root
+is an
+immobilizing
+effect
+.
+Moving
+includes movement commands.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+True sight
+True Sight
+reveals units through
+Fog of War
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+References
+↑
+Karma's profile page
+at
+LeagueOfLegends.com
+↑
+http://www.palaeolexicon.com/Word/Show/28990/
+↑
+De Vaan, M.
+Etymological Dictionary of Latin
+(2008). p. 223
+↑
+Cheung, J.
+Etymological Dictionary of Iranian verbs
+(2007). p. 57-59

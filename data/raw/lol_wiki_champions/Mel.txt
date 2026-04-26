@@ -1,0 +1,2509 @@
+# Mel
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Mel
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+630
++99
+MP
+480
++28
+HP5
+6
++0.55
+MP5
+9
++0.9
+AR
+21
++5.2
+AD
+54
++3.3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+330
+Attack range
+550
+Attack speed
+Base AS
+0.625
+Windup%
+15.6%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Missile speed
+1600
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+85
+Acq. radius
+625
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Ability Haste
+-10
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Mel
+The Soul's Reflection
+Role(s):
+Middle
+,
+Support
+Store price:
+3150
+|
+975
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+2
+Mobility
+1
+Utility
+1
+Release date
+2025-01-23
+Last changed
+V26.08
+Class
+Artillery
+Legacy class
+Mage
+,
+Support
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Searing Brilliance
+Innate - Overwhelm:
+Mel's
+damaging
+basic attacks
+and
+abilities
+apply a
+stack
+of
+Overwhelm
+to enemies hit for a few seconds, stacking infinitely. Each stack stores
+magic damage
+; if the total stored damage would kill the target, the next stack will consume them all to detonate the damage.
+Innate:
+Mel's
+ability casts each generate stacks for a few seconds, up to a cap. Her next basic attack consumes all stacks to additionally fire an equal number of bolts dealing
+magic damage
+.
+Innate:
+Mel's
+basic attacks
+and
+abilities
+apply a
+stack
+of
+Overwhelm
+for each instance of damage they deal to enemies for 5 seconds, refreshing on
+subsequent damage instances
+and stacking infinitely.
+Overwhelm:
+Store
+50 / 60 / 70 / 80 (based on
+Golden Eclipse's rank)
+(+ 10% AP)
+magic damage
+on the affected enemy with the first stack, reduced
+「 to 50% 」
+「 to
+25 / 30 / 35 / 40 (based on
+Golden Eclipse's rank)
+(+ 5% AP)
+」
+against
+minions
+. For each stack, store an additional
+2 / 3 / 4 / 5 (based on
+Golden Eclipse's rank)
+(+ 0.
+75
+% AP)
+magic damage
+on the target. If the total
+post-mitigation damage
+stored exceeds the target's
+current
+health
+and
+shields
+, the next stack applied against them will consume them all to deal the stored damage.
+Innate - Searing Brilliance:
+Mel's
+ability casts each generate 3 stacks of
+Searing Brilliance
+for 5 seconds, refreshing on subsequent casts and stacking up to 9 times. Her next basic attack consumes all stacks of
+Searing Brilliance
+to additionally fire an equal number of blazing projectiles at the target. Each projectile deals
+8 – 32.
+59
+(based on level)
+(+ 4% AP)
+magic damage
+, for a total possible damage of
+72 – 293.
+29
+(based on level)
+(+ 36% AP)
+at maximum stacks.
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Projectile
+Blocked
+The first stack also benefits from the per-stack bonus stored damage.
+A threshold indicator for the currently stored damage is placed on a target's
+health bar
+, as well as a mark above their head, while any
+Overwhelm
+stacks are active. These are visible to
+Mel
+and her target(s).
+Whenever
+Golden Eclipse's
+damage would put them below
+Overwhelm's
+threshold, the mark will darken and glow more prominently.
+This does not take into account effects that would amplify the damage such as
+Coup de Grace
+.
+Just before
+Overwhelm
+stacks are consumed, targets have 5 additional stacks applied to them.
+(bug)
+These stacks are consumed immediately.
+Overwhelm
+stacks will
+not
+be consumed against
+Tryndamere's
+Undying Rage
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Overwhelm additional stack base damage changed to
+4 / 5 / 6 / 7 (based on
+Golden Eclipse's rank)
+.
+Edit
+Radiant Volley
+COST:
+70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+0.
+35
+TARGET RANGE:
+950
+EFFECT RADIUS:
+200
+•
+100
+SPEED:
+3800
+Spread
+:
+50
+Active:
+Mel
+concentrates a bombardment of luminous bolts that explode in an area, dealing
+magic damage
+.
+Active:
+Mel
+launches a barrage of luminous bolts at the target location over
+0.
+5
+seconds
+which distribute evenly in the area. Each bolt explodes upon landing to deal
+magic damage
+to nearby enemies, with all explosions after the first dealing reduced damage.
+Initial Explosion Magic Damage:
+60 / 85 / 110 / 135 / 160
+(+ 55% AP)
+Magic Damage per Subsequent Explosion:
+5 / 7 / 9 / 11 / 13
+(+ 5% AP)
+Number of Bolts:
+6 / 7 / 8 / 9 / 10
+Total Magic Damage:
+90 / 134 / 182 / 234 / 290
+(+ 85 / 90 / 95 / 100 / 105% AP)
+The bolts momentarily grant
+sight
+during their travel, while the explosions grant
+sight
+over their target area. Both can see through
+brush
+and
+terrain
+.
+Info
+Targeting input
+Location
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Enemies
+Damage classification
+Type
+AOE DOT damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will only block a single explosion.
+For the given number of
+Radiant Volley
+bolts, the spread will result in the same individual areas being affected over the duration
+invariably
+.
+Each individual missile is explicitly assigned an explosion location at a small offset from the cast location. This varies by missile, which results in their combined area of effect distributing over a total radius of [explosion radius + maximum spread] = 200 + 50 = 250 units.
+This means that the distribution area is not random.
+The order of bolts however, which will determine the order of individual areas to be affected per explosion,
+is
+random.
+Mel
+launching the missiles in the same arcing motion for every
+Radiant Volley
+cast does not correlate with which missile is being fired at the time. The height and gravity of each missile are irrelevant.
+Note that the combined area of effect may not always be the maximum possible (circle with radius of 250 units); this drawback diminishes with a higher number of bolts as the new missiles fill the gaps within.
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Rebuttal
+COST:
+80 / 60 / 40 / 20 / 0 Mana
+COOLDOWN:
+38 / 35 / 32 / 29 / 26
+CAST TIME:
+none
+EFFECT RADIUS:
+175
+Active:
+Mel
+briefly conjures a personal barrier with a
+shield
+and a burst of
+bonus
+move speed
+. All hostile
+projectiles
+from enemy champions that hit the barrier will rebound as her own projectile, retaining all the same features and converting to
+magic damage
+.
+Active:
+Mel
+forms a protective barrier around herself for 0.
+75
+seconds, granting herself a
+shield
+for the duration, and gaining
+40%
+bonus
+movement speed
+that decays over 0.
+75
+seconds. Additionally, all hostile
+projectiles
+sourced from enemy
+champions
+that collide with the barrier will be destroyed instantly before
+Mel
+fires the same projectiles as her own, either toward or in the direction of the
+original sources
+, or
+toward herself
+.
+Shield:
+80 / 110 / 140 / 170 / 200
+(+ 70% AP)
+Replicated projectiles have the
+same features
+that the original ones do, but they retain a ratio of the damage that the original ones would deal. Additionally, all of their damage is converted to
+magic damage
+, with
+physical damage
+instances being reduced to 70% before conversion.
+Replicated Projectile Magic Damage Modifier:
+40 / 45 / 50 / 55 / 60%
+(+ 5% per 100 AP)
+of the original damage
+Replicated Projectile Physical Damage Modifier:
+28 / 31.
+5
+/ 35 / 38.
+5
+/ 42%
+(+ 3.
+5
+% per 100 AP)
+of the original damage
+Info
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+See Notes
+Rebuttal's
+barrier will also instantly destroy missiles that are already within its radius when the ability is cast.
+The replicated missile will mimic all of the original missile's properties, which includes its range, width, speed, acceleration, angle (if a cone), height, and sight radius.
+Spell effects, as well as interactions with
+spell shield
+and
+projectile-interception
+effects, all vary based on the original missile that was replicated.
+The only exception to this is the copied missile's path, or trajectory, which is based on the
+targeting paradigm
+that the original missile used when fired by its source. The replicated missile acquires the original missile source as the target.
+If the original missile was fired by a
+unit
+or
+auto-targeted
+effect, the replicated missile will be fired as a homing missile with the target being the original missile source.
+Healing projectiles, such as
+Soraka's
+Rejuvenation
+and
+Sona's
+Aria of Perseverance
+, will instead target
+Mel
+.
+If the original missile was fired via any other targeting paradigm, the replicated missile will by default fire in the direction of the original missile source at the time of replication. This includes
+vector-targeted
+projectiles (currently only
+Viktor's
+Hextech Ray
+), for which the origin will always be
+Mel's
+center (since she cannot control the cast point).
+The replicated missile will mimic all of the functions of and copy the behavior of the original missile, unless otherwise stated. This includes every aspect and effect of the missile conforming to the attack or spell from which the missile originated.
+The scaling of the effects of the copied missile is calculated using the original missile source's attributes (namely their
+stats
+). The damage of the missile only benefits from
+Mel's
+damage modifiers
+and
+magic penetration
+, and not the original source's.
+The following missiles are destroyed, but not replicated:
+Draven's
+Whirling Death
+on its way back to him.
+Gnar's
+Boomerang Throw
+on its way back to him.
+Illaoi's
+Test of Spirit
+Sivir's
+Boomerang Blade
+on its way back to her.
+Sylas'
+Hijack
+Urgot's
+Mercy
+Xayah's
+Bladecaller
+and
+Featherstorm
+Zac's
+Stretching Strikes
+Missiles fired from
+auto-targeted
+abilities that target each unit in an area that isn't
+Mel
+Examples include
+Brand's
+Conflagration
+,
+Katarina's
+Death Lotus
+,
+Samira's
+Inferno Trigger
+, and
+Ryze's
+Spell Flux
+.
+The following abilities will be stopped short of their trajectory without replication:
+Azir's
+Emperor's Divide
+Syndra's
+Spheres
+thrown with her
+Scatter the Weak
+Mel
+may occasionally fail to attribute
+Echoes of Helia's
+Soul Siphon's
+damage projectile to herself.
+(bug)
+This can cause the enemy to be able to kill their own allies, and gain all the kill's
+rewards
+.
+Rebuttal
+will play distinct sound cues from destroying and replicating projectiles fired from specific types of abilities:
+Non-ultimate ability missile:
+Ultimate ability missile:
+Ability with global or near-global range missile:
+Map-Specific Differences
+ARAM
+differences
+edit
+Cooldown changed to 45 / 44 / 43 / 42 / 41 seconds.
+Arena
+differences
+edit
+Cooldown changed to 20 / 19.
+5
+/ 19 / 18.
+5
+/ 18 seconds.
+Edit
+Solar Snare
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN:
+11 / 10.
+5
+/ 10 / 9.
+5
+/ 9
+CAST TIME:
+0.
+25
+RANGE:
+1000
+EFFECT RADIUS:
+70
+•
+70
+•
+230
+•
+60
+•
+400
+SPEED:
+1100
+Active:
+Mel
+fires an orb that deals
+magic damage
+to enemies hit and
+roots
+them for a moment. The orb also emanates a field of solar radiation which deals
+magic damage
+and
+slows
+enemies within.
+Active:
+Mel
+fires an orb in the target direction that grants
+sight
+of its
+surroundings
+every 0.
+25
+seconds as it travels. Enemies hit by the orb are dealt
+magic damage
+and
+rooted
+for 1.
+5
+seconds.
+Orb Magic Damage:
+60 / 105 / 150 / 195 / 240
+(+ 70% AP)
+The orb emanates a field of solar radiation that additionally expands after a 0.
+5
+-second delay. Enemies within the field are dealt
+magic damage
+and
+slowed
+by 30% every 0.
+125
+seconds, lingering for 0.
+25
+seconds after exiting.
+Field Magic Damage per Tick:
+2 / 3.
+5
+/ 5 / 6.
+5
+/ 8
+(+ 1% AP)
+Field Magic Damage per Second:
+16 / 28 / 40 / 52 / 64
+(+ 8% AP)
+Both the orb and the field of
+Solar Snare
+deal 50% damage against
+minions
+.
+Orb Minion Magic Damage:
+30 / 52.
+5
+/ 75 / 97.
+5
+/ 120
+(+ 35% AP)
+Field Minion Magic Damage per Tick:
+1 / 1.
+75
+/ 2.
+5
+/ 3.
+25
+/ 4
+(+ 0.
+5
+% AP)
+Field Magic Damage per Second:
+8 / 14 / 20 / 26 / 32
+(+ 4% AP)
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Spell shield
+will only block the orb (
+root
+portion).
+Solar Snare's
+lollipop roots targets in its area without triggering spell shield.
+(bug)
+The initial impact of
+Solar Snare
+deals
+area damage
+, while the lingering damage over time deals
+persistent area damage
+.
+The slow debuff lasts for the same duration as its tick rate (0.
+125
+seconds).
+This ability will cast from wherever the caster is at the end of the cast time.
+Edit
+Golden Eclipse
+COST:
+100 Mana
+COOLDOWN:
+120 / 100 / 80
+CAST TIME:
+0.
+75
+TARGET RANGE:
+Global
+Passive:
+Overwhelm
+stores more damage.
+Active:
+Mel
+unleashes a radiant blast on all enemies affected by
+Overwhelm
+, dealing
+magic damage
+.
+Passive:
+Overwhelm
+stacks store more damage.
+Increased Stored Damage:
+10 / 20 / 30
+Stored Damage Increase per Stack:
+1 / 2 / 3
+Active:
+Mel
+unleashes a radiant blast on all enemies affected by
+Overwhelm
+, dealing
+magic damage
+to each of them. Enemies are also
+revealed
+for 1 second from the start of the cast time.
+Magic Damage:
+125 / 200 / 275
+(+ 30% AP)
+(+ 4 / 7 / 10
+(+ 4% AP)
+per
+Overwhelm
+stack on the target)
+An enemy champion affected by
+Overwhelm
+is required to cast this ability. The target does not have to be
+visible
+to be hit by this ability.
+"The wrath of the Medardas!"
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Golden Eclipse
+can be cast even if all affected targets are
+untargetable
+.
+(unexpected)
+Golden Eclipse
+does not deal damage to enemies that are
+untargetable
+by the time the cast time completes.
+Golden Eclipse
+cannot be cast if none of the affected targets are in
+Mel's
+realm (
+Death Realm
+).
+Golden Eclipse
+will only deal damage to targets in
+Mel's
+realm at the end of the cast.
+Whenever
+Golden Eclipse's
+damage would put a target below
+Overwhelm's
+threshold, it will use a
+different icon.
+Golden Eclipse
+will display the number of total stacks affecting all enemy champions in the HUD.
+Golden Eclipse
+sets the duration of
+Overwhelm
+stacks to 0.
+75
+seconds if they would run out during the cast time.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Mel (Collection)
+.
+Original
+23.01.2025
+Mel Medarda is the presumed heir of the Medarda family, once one of the most powerful in Noxus. In appearance she is a graceful aristocrat, but beneath the surface lies a skilled politician who makes it her business to know everything about everyone she meets. After an encounter with the mysterious Black Rose, Mel discovered the depths of her mother's deception and, for once, faced a situation potentially beyond her control. With newly awakened magical abilities, she sailed home in search of answers—and though many still seek to temper the light within her, Mel's soul remains forever defiant.
+Toks Olagundoye
+Bo 'chenbowow' Chen
+Loot eligible
+View in 3D
+•
+View Music
+Arcane Councilor
+1350
+23.01.2025
+Mel Medarda has always had a keen eye for potential—and in hextech, she saw power that would forever alter the face of Piltover. For most, this technology would be unobtainable, but with her influence on the Council, nothing escapes her grasp. With hextech at her fingertips, there is no telling what she'll be able to accomplish.
+Toks Olagundoye
+Julia Yurtsev
+Arcane
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Arcane Councilor Mel Chromas
+Catseye
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Prestige Winterblessed
+Special
+03.12.2025
+Daughter of a punishing Polaris, Mel was born with an innate ability to harness the Aurora's magic. But this blessing came at a cost: the life of her mother. Now, Mel carries the family's legacy in her own way, leading with compassion and rewarding those who prove their loyalty.
+Toks Olagundoye
+Francis Tneh, West Studio
+Winterblessed
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Prestige Winterblessed Mel Chromas
+Vivid
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.08
+Radiant Volley
+First explosion base damage reduced to 60 / 85 / 110 / 135 / 160 from 60 / 90 / 120 / 150 / 180.
+First explosion AP ratio reduced to
+55% AP
+from
+60% AP
+.
+Rebuttal
+Movement speed duration reduced to 0.
+75
+seconds from 1.
+5
+.
+Cooldown increased to 38 / 35 / 32 / 29 / 26 seconds from 35 / 32 / 29 / 26 / 23.
+V26.06
+Radiant Volley
+Bug Fix:
+Fixed a bug that caused it to go on cooldown after blocking
+Zac's
+Stretching Strikes
+with
+Rebuttal
+.
+V26.05
+Searing Brilliance
+Minion damage reduced to 50% from 60%.
+Radiant Volley
+Base damage per explosion increased to 5 / 7 / 9 / 11 / 13 from 5 / 6 / 7 / 8 / 9.
+Golden Eclipse
+Base damage increased to 125 / 200 / 275 from 100 / 150 / 200.
+V26.03
+- February 6th Hotfix
+Stats
+Health growth increased to 99 from 93.
+Searing Brilliance
+Projectile base damage increased to
+8 – 30 (based on level)
+from
+8 – 25 (based on level)
+.
+Projectile AP ratio increased to
+4% AP
+from
+3% AP
+.
+Rebuttal
+Shield AP ratio increased to
+70% AP
+from
+60% AP
+.
+Solar Snare
+Orb base damage increased to
+70% AP
+from
+60% AP
+.
+V26.03
+Stats
+Attack speed ratio increased to 0.
+625
+from 0.
+4
+.
+Searing Brilliance
+Projectile base damage reduced to
+8 – 25 (based on level)
+from
+8 – 50 (based on level)
+.
+Projectile AP ratio reduced to
+3% AP
+from
+5% AP
+.
+Removed:
+Overwhelm's
+marker is no longer displayed against non-champions.
+Bug Fix:
+Overwhelm
+is no longer consumed against champion pets if the attack is unempowered.
+Reduced the visual clutter by no longer displaying the passive mark on non-champions for enemies.
+Bug Fix:
+Fixed certain champion spawned units dying to Overwhelm from an unempowered basic attack.
+Bug Fix:
+Fixed an issue where she could destroy
+Yorick's
+Dark Procession
+with a single basic attack.
+Radiant Volley
+Cast time increased to 0.
+35
+seconds from 0.
+25
+.
+Channel time reduced 0.
+5
+seconds from 0.
+75
+.
+Area spread reduced to 25 from 30.
+Missile speed reduced to 3800 from 4500.
+Effect radius reduced to 200 units from 220.
+Damage type changed to persistent from area.
+Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+Minion damage increased to 100% from 75%.
+New Effect:
+The first explosion now deals 60 / 90 / 120 / 150 / 180
+(+ 60% AP)
+magic damage.
+Base damage per explosion reduced to 5 / 6 / 7 / 8 / 9 from 13 / 15.
+5
+/ 18 / 20.
+5
+/ 23.
+Total base damage increased to 90 / 132 / 176 / 222 / 270 from 78 / 114.
+75
+/ 151.
+5
+/ 188.
+25
+/ 225.
+AP ratio per explosion reduced to
+5% AP
+from
+8.
+5
+% AP
+.
+Total AP ratio increased to
+90 / 95 / 100 / 105 / 110% AP
+from
+51 / 59.
+5
+/ 68 / 76.
+5
+/ 85% AP
+.
+Rebuttal
+Removed:
+No longer grants invulnerability to non-turret damage for the duration of reflection.
+New Effect:
+Now shields her for 80 / 110 / 140 / 170 / 200
+(+ 60% AP)
+damage for the duration of reflection.
+New Effect:
+Reflected damage from physical damage spells is now reduced to 70% before converting to magic damage.
+New Effect:
+Now destroys projectiles that target each unit in an area instead of reflecting them when those projectiles aren't targeting Mel such as
+Death Lotus
+or
+Spell Flux
+.
+Bonus movement speed duration increased to 1.
+5
+seconds from 0.
+75
+.
+Reflection duration unchanged.
+Bonus movement speed increased to 40% from 30%.
+Solar Snare
+Orb radius reduced to 70 units from 80.
+Linger duration reduced to 0.
+25
+seconds from 0.
+5
+.
+Field radius reduced to 230 units from 260.
+Range reduced to 1000 units from 1050.
+Missile speed increased to 1100 from 1000.
+Root duration increased to 1.
+5
+seconds at all ranks from 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+/ 1.
+6
+.
+Orb base damage increased to 60 / 105 / 150 / 195 / 240 from 60 / 100 / 140 / 180 / 220.
+Field base damage per tick increased to 2 / 3.
+5
+/ 5 / 6.
+5
+/ 8 from 2 / 3.
+25
+/ 4.
+5
+/ 5.
+75
+/ 7.
+Cooldown reduced to 11 / 10.
+5
+/ 10 / 9.
+5
+/ 9 seconds from 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10.
+No longer visually pops at the end when descending terrain.
+Golden Eclipse
+Active per-stack AP ratio increased to
+4% AP
+from
+3.
+5
+% AP
+.
+V25.24
+Solar Snare
+Mana cost increased to 50 / 60 / 70 / 80 / 90 from 50 / 55 / 60 / 65 / 70.
+Orb base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 105 / 150 / 195 / 240.
+Base damage per tick reduced to 2 / 3.
+5
+/ 5 / 6.
+5
+/ 8 from 2 / 4 / 6 / 8 / 10.
+Field linger duration reduced to 0.
+5
+seconds from 0.
+75
+.
+V25.23
+Searing Brilliance
+Projectile base damage increased to
+8 – 50 (based on level)
+from
+8 – 33 (based on level)
+.
+Projectile AP ratio increased to
+5% AP
+from
+3% AP
+.
+Rebuttal
+Bug Fix:
+Reflecting
+Vel'Koz's
+Plasma Fission
+no longer resets the cooldown of
+Radiant Volley
+.
+Solar Snare
+Root duration reduced to 1.
+2
+/ 1.
+3
+/ 1.
+4
+/ 1.
+5
+/ 1.
+6
+seconds from 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+.
+V25.19
+Searing Brilliance
+Projectile base damage increased to
+8 – 33 (based on level)
+from
+8 – 25 (based on level)
+.
+Projectile AP ratio increased to
+3% AP
+from
+1% AP
+.
+V25.16
+Rebuttal
+Bug Fix:
+Reflecting a damaging ability that subsequently last hits an Elemental Drake no longer unintentionally causes her own
+Ocean Dragon stack
+buff to duplicate and activate multiple times automatically for the remainder of the game, ignoring its normal timer.
+Bug Fix:
+Reflecting any damaging ability at any point no longer allows her own
+Ocean Dragon Soul
+buff to trigger multiple times, once for each damage instance received during the effect, ignoring its normal lockout.
+V25.15
+Rebuttal
+Bug Fix:
+After reflecting
+Urgot's
+Fear Beyond Death's
+missile and affecting the initial target with the effect, casting
+Golden Eclipse
+within Fear Beyond Death's mark's duration no longer causes
+Mel
+to fail to cast Golden Eclipse and repeatedly expend its mana over the remaining mark duration.
+Bug Fix:
+No longer fails to reflect
+Zoe's
+Sleepy Trouble Bubble
+shortly after being hit by her basic attack or
+More Sparkles!
+attack.
+V25.14
+General
+Bug Fix:
+Restored VO for various events.
+V25.13
+Searing Brilliance
+Bug Fix:
+Damaging and killing an ally with any number of projectiles via an empowered attack while under the effects of
+Renata Glasc's
+Hostile Takeover
+no longer incorrectly credits
+Mel
+for the kill instead of Hostile Takeover's user.
+V25.10
+Searing Brilliance
+Bug Fix:
+No longer fails to apply Overwhelm stacks against
+Dr. Mundo's
+Goes Where He Pleases
+while its immunity is active.
+V25.08
+Stats
+Base health increased to 630 from 600.
+Searing Brilliance
+Projectile base damage increased to
+8 – 25 (based on level)
+from
+5 – 20 (based on level)
+.
+V25.05
+Rebuttal
+Bug Fix:
+No longer fails to destroy projectiles if the barrier is hit from certain angles.
+Solar Snare
+Bug Fix:
+DoT debuff no longer displays debug text.
+V25.04
+General
+Bug Fix:
+Fixed a bug that caused Mel's basic attacks to disable Nidalee's W.
+Spell indicators are now gold-colored.
+Radiant Volley
+Cast range reduced to 950 from 1000.
+Bolt speed reduced to 4500 from 5000.
+Bug Fix:
+Fixed a bug that caused the cooldown to reset when killing enemy champions affected by
+Twitch's
+Deadly Venom
+applied by
+Rebuttal
+.
+Rebuttal
+Duration reduced to 0.
+75
+seconds from 1 second.
+Mana cost increased to 80 / 60 / 40 / 20 / 0 from 60 / 45 / 30 / 15 / 0.
+Base damage modifier reduced to 40 / 45 / 50 / 55 / 60% from 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70%.
+Bug Fix:
+Some critical strike attacks no longer bypass the effect.
+Bug Fix:
+No longer always incorrectly reflects projectiles from
+Lulu's
+Pix, Faerie Companion
+back to Pix.
+Solar Snare
+Orb root duration reduced to 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+seconds from 1.
+75
+/ 1.
+875
+/ 2 / 2.
+125
+/ 2.
+25
+.
+Orb damage increased to 60 / 105 / 150 / 195 / 240 from 60 / 100 / 140 / 180 / 220.
+Orb AP ratio increased to
+60% AP
+from
+50% AP
+.
+Bug Fix:
+Both the orb and the field now properly apply as area damage instead of spell damage.
+Golden Eclipse
+Active per-stack AP ratio increased to
+3.
+5
+% AP
+from
+2.
+5
+% AP
+.
+Bug Fix:
+No longer illegally resets the ability's cooldown after
+reflecting
+Draven's
+Whirling Death
+.
+V25.S1.3
+General
+Adjusted facial expression.
+Bug Fix:
+Non-unique-event voicelines that trigger from
+Ambessa
+no longer fail to play more lines than one per event.
+Arcane Councilor Mel
+Dress is now whiter and brighter.
+Rebuttal
+Bug Fix:
+Reflected
+Ashe's
+Hawkshot
+no longer additionally grants vision to the original user's team.
+Bug Fix:
+Reflected
+Dark Cosmic Jhin's
+Lotus Trap
+now plays the correct SFX.
+Bug Fix:
+If
+Qiyana's
+Edge of Ixtal
+is reflected and that missile would apply her
+Royal Privilege
+, Mel no longer receives the innate effects of
+Royal Privilege
+for the rest of the game.
+V25.S1.2
+- January 25th Hotfix
+[
+2
+]
+[
+3
+]
+Searing Brilliance
+Overwhelm first stack AP ratio reduced to
+10% AP
+from
+25% AP
+.
+Radiant Volley
+Damage per explosion reduced to 13 / 15.
+5
+/ 18 / 20.
+5
+/ 23 from 13 / 16 / 19 / 22 / 25.
+Total damage reduced to 78 / 108.
+5
+/ 144 / 184.
+5
+/ 230 from 78 / 112 / 152 / 198 / 250.
+Golden Eclipse
+Overwhelm first stack bonus damage reduced to 60 / 70 / 80 from 60 / 77.
+5
+/ 95.
+Active first stack base damage reduced to 100 / 150 / 200 from 125 / 175 / 225.
+Active first stack damage AP ratio reduced to
+30% AP
+from
+40% AP
+.
+V25.S1.2
+- Added
+Searing Brilliance
+- Innate
+Innate:
+Mel's
+damaging basic attacks and abilities apply a
+stack
+of
+Overwhelm
+to enemies for 5 seconds, refreshing on subsequent applications and stacking infinitely.
+Overwhelm:
+Store
+50 / 65 / 80 / 95 (based on
+Golden Eclipse's rank)
+(+ 25% AP)
+magic damage
+on the affected enemy with the first stack, reduced
+「 to 60% 」
+「 to
+30 / 39 / 48 / 57 (based on
+Golden Eclipse's rank)
+(+ 15% AP)
+」
+against
+minions
+. For each stack, store an additional
+2 / 3 / 4 / 5 (based on
+Golden Eclipse's rank)
+(+ 0.
+75
+% AP)
+magic damage
+on the target. If the total
+post-mitigation damage
+stored would deal
+fatal damage
+to the target (including through
+shields
+), the next stack will consume them all to deal the damage.
+Innate - Searing Brilliance:
+Mel's
+ability casts each generate 3 stacks of
+Searing Brilliance
+for 5 seconds, refreshing on subsequent casts and stacking up to 9 times. Her next basic attack consumes all stacks of
+Searing Brilliance
+to additionally fire an equal number of blazing projectiles at the target. Each projectile deals
+5 – 20 (based on level)
+(+ 1% AP)
+magic damage
+.
+Radiant Volley
+- Q
+Active:
+Mel
+launches a barrage of 6 / 7 / 8 / 9 / 10 luminous bolts at the target location over
+0.
+7
+seconds
+which distribute evenly in the area. Each bolt explodes upon landing to deal 13 / 16 / 19 / 22 / 25
+(+ 8.
+5
+% AP)
+magic damage
+to nearby enemies, reduced to 75% against
+minions
+.
+The bolts momentarily grant
+sight
+during their travel, while the explosions grant
+sight
+over their target area. Both can see through
+brush
+and
+terrain
+.
+Cost:
+70 / 80 / 90 / 100 / 110 mana.
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds.
+Cast Time:
+0.
+25
+seconds,
+Speed:
+5000
+,
+Effect Radius:
+220
+/
+100
+,
+Spread
+:
+60.
+Rebuttal
+- W
+Active:
+Mel
+forms a protective barrier around herself for 1 second, becoming
+invulnerable
+to non-
+turret
+damage and gaining
+30% decaying
+bonus
+movement speed
+. All hostile non-turret
+projectiles
+that collide with the barrier will be destroyed instantly before
+Mel
+fires the same projectiles as her own, either toward or in the direction of the original sources, or toward herself.
+Replicated projectiles have the
+same features
+that the original ones do, but they retain 40 / 47.
+5
+/ 55 / 62.
+5
+/ 70%
+(+ 5% per 100 AP)
+of the damage that the original ones would deal, and all of their damage is converted to
+magic
+.
+Cost:
+60 / 45 / 30 / 15 / 0 mana.
+Cooldown:
+35 / 32 / 29 / 26 / 23 seconds.
+Cast Time:
+None,
+Effect Radius:
+175.
+Solar Snare
+- E
+Active:
+Mel
+fires an orb in the target direction that grants
+sight
+of its
+surroundings
+for 0.
+25
+seconds as it travels. Enemies hit by the orb are dealt 60 / 100 / 140 / 180 / 220
+(+ 50% AP)
+magic damage
+and
+rooted
+for a 1.
+75
+/ 1.
+875
+/ 2 / 2.
+125
+/ 2.
+25
+seconds.
+The orb emanates a field of solar radiation that additionally expands after a 0.
+5
+-second delay. Enemies within the field are dealt 2 / 4 / 6 / 8 / 10
+(+ 1% AP)
+magic damage
+and
+slowed
+by 30% every 0.
+125
+seconds, lingering for 0.
+75
+seconds after exiting.
+Both the orb and the field of
+Solar Snare
+deal 50% damage against
+minions
+.
+Cost:
+50 / 55 / 60 / 65 / 70 mana.
+Cooldown:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds.
+Cast Time:
+0.
+25
+seconds,
+Range:
+1050,
+Speed:
+1000,
+Effect Radius:
+80
+/
+80
+/
+260
+,
+Sight Radius:
+400.
+Golden Eclipse
+- R
+Passive:
+Overwhelm
+stacks store 15 / 30 / 45 (+ 1 / 2 / 3) more damage.
+Active:
+Mel
+unleashes a radiant blast on all enemies affected by
+Overwhelm
+, dealing
+magic damage
+equal to 125 / 175 / 225
+(+ 40% AP)
+(+ 4 / 7 / 10
+(+ 2.
+5
+% AP)
+per
+Overwhelm
+stack on the target) to each target. Enemies are also
+revealed
+for 1 second from the start of the cast time.
+An enemy champion affected by
+Overwhelm
+is required to cast this ability. The target does not have to be
+visible
+to be hit by this ability.
+Cost:
+100 mana.
+Cooldown:
+120 / 100 / 80 seconds.
+Cast Time:
+0.
+75
+seconds,
+Target Range:
+Global.
+Trivia
+Mel
+is one of 16 champions that infinitely scales at least one of their statistics or abilities:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Nasus
+,
+Senna
+,
+Shyvana
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Mel's case,
+Searing Brilliance
+infinitely stacks the damage of its pseudo-execution.
+To date, Mel is the first champion to release in
+Teamfight Tactics
+before
+League of Legends
+.
+She was in development for League of Legends prior to her release in Teamfight Tactics.
+[
+4
+]
+However, the
+Teamfight Tactics
+team was able to create unique, but more simplistic art for Mel for her debut in
+Into the Arcane
+before she was finished in League of Legends.
+[
+5
+]
+Rebuttal's
+barrier bears functional and visual similarity to
+Zelda's
+Reflection
+move (called "
+Nayru's Love
+") in the fighting videogame
+Super Smash Bros
+. The spell (also called
+Nayru's Love
+) was originally seen in
+Ocarina of Time
+.
+Mel's
+game designer,
+Riot Emizery
+, confirmed in an interview that this was not intentional, but rather a serendipitous coincidence.
+[
+6
+]
+Solar Snare's
+bears functional and visual similarity to
+Anduin's
+Chastise
+from
+Heroes of the Storm
+.
+Mel has a unique twirl animation for picking up a
+reflected
+dagger dropped by
+Katarina's
+Bouncing Blade
+specifically.
+Mel's
+Homeguard
+animation resembles the typical
+run
+of the famous character
+Naruto Uzumaki
+from the
+Naruto
+manga/anime.
+This is shared with
+Lucian
+and
+Zed
+.
+In
+V25.04
+, Mel became the second champion to have gold-colored spell indicators.
+The first one was
+Jayce
+in his
+Hammer Stance
+.
+Killing by an enemy
+Ambessa
+as Mel grants Ambessa the
+Took Long Enough
+cosmetic buff that reads:
+Mel has killed Ambessa. 'This is a new feeling. Pride in someone else. Finally.' - Ambessa Medarda
+This is a reference to DragonBall Z Abridged's
+Vegeta's Unyielding Rage
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Support
+Within a
+drafted team
+, the
+Support
+is one of the two champions assigned to the bottom lane alongside the
+Bottom Carry
+. This role's initial goal is to assist their more vulnerable team mate through the earliest stages of the game, and is a position that suits champions with either utility, disengage or high base damage.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Support
+is expected to fulfill the latter designation: consequently, the position is not suitable for champions that are highly dependent on item-based power spikes. The
+Support
+is also expected to be the primary contributor to the team's
+vision
+.
+Enchanters
+,
+Catchers
+,
+Wardens
+and
+Burst Mages
+are the most likely champions to be selected in the
+Support
+position.
+League of Legends content
+Artillery
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Artillery Mages
+are the masters of range, and they leverage that advantage to whittle down their opponents over time from great distances. In turn, Artillery Mages are severely punished when enemies finally succeed in closing in on them, due to their extreme fragility and limited mobility.
+Examples
+Jayce
+Xerath
+Ziggs
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Support (Legacy)
+Support
+refers to a broad roster of champions who support their allies. As this description is better suited to the champion's role within a drafted team, individual supports can vary wildly from champions that can create opportunities for their allies by disrupting the enemy, defensive casters whose abilities empower their allies and more durable champions that hold their team's front line.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Golden Eclipse
+COOLDOWN:
+120 / 100 / 80
+Passive:
+Overwhelm
+stores more damage.
+Active:
+Mel
+unleashes a radiant blast on all enemies affected by
+Overwhelm
+, dealing
+magic damage
+.
+League of Legends content
+Undying Rage
+COOLDOWN:
+120 / 100 / 80
+Active:
+Tryndamere
+becomes enraged, gaining
+Fury
+and a
+minimum health threshold
+for a few seconds.
+minimum health threshold
+:
+The target's health cannot be reduced below the threshold.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Brush
+Brush
+is a common terrain feature that obstructs
+sight
+for any unit outside of it.
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Omnivamp
+heals with one-third effectiveness for
+persistent area damage
+dealt to non-champions, as with
+persistent damage
+and
+area damage
+.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent area damage
+to a champion, as with
+persistent damage
+.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+persistent area damage
+, as with
+area damage
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Unit-targeted
+Unit-targeted
+is a targeting paradigm which requires a valid target within range to cast on. The target needs to be
+visible
+in order to use the effect. All
+basic attacks
+use
+unit-targeting
+.
+League of Legends content
+Auto-targeted
+Auto-targeted
+is a targeting paradigm that is autonomous; the source
+is not required
+to acquire a target, rather the ability or spell upon activation applies its effects by itself selectively. This type of targeting usually needs a sufficient target within range to be castable.
+League of Legends content
+Starcall
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+Active:
+Soraka
+calls down a star upon the target location that deals
+magic damage
+and briefly
+slows
+enemies hit. If this hits at least one enemy
+champion
+, the star dust returns to
+Soraka
+to grant her
+Rejuvenation
+for a short time.
+While
+Soraka
+has
+Rejuvenation
+,
+Astral Infusion
+will also grant
+Rejuvenation
+to the target ally.
+Rejuvenation
+: The target continually
+heals
+over time and gains
+bonus
+movement speed
+that decays over the duration.
+League of Legends content
+Aria of Perseverance
+COOLDOWN:
+10
+Active:
+Sona
+heals
+herself and projects a sound bolt that heals the most wounded allied champion nearby.
+Melody
+Bonus:
+Sona
+and tagged allied champions receive a brief
+shield
+.
+Sona
+gains a stack of
+Accelerando
+whenever she
+heals
+an ally or
+shields
+a minimum amount of damage for an ally with
+Aria of Perseverance
+.
+Power Chord
+– Diminuendo:
+Power Chord
+reduces the target's
+size
+and damage output for a short time.
+League of Legends content
+Vector-targeted
+Vector-targeted
+is a combination of two targeting paradigms:
+ground-targeting
+and
+direction-targeting
+. An
+ability
+that is of this distinct targeting type requires the source to first choose a location from which the effect will be cast, and then specify the direction of the correlated path.
+League of Legends content
+Hextech Ray
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Viktor
+fires an energy beam along the target path that deals
+magic damage
+to enemies hit.
+Augment
+:
+After a brief delay, the path explodes along the beam's wake, dealing
+magic damage
+to enemies hit.
+League of Legends content
+Whirling Death
+COOLDOWN:
+100 / 90 / 80
+Active:
+Draven
+hurls forth two massive axes that deal
+physical damage
+to enemies hit. This
+executes
+enemy
+champions
+with
+health
+that would be left within the current number of
+League of Draven
+stacks.
+Whirling Death
+can be recast while the axes are active, and does so automatically upon hitting an enemy
+champion
+or the edge of the map.
+Recast:
+Whirling Death
+slowly reverses direction and homes back to
+Draven
+, dealing
+physical damage
+to enemies hit.
+References
+↑
+Mel's profile page
+at
+LeagueOfLegends.com
+↑
+X — League of Legends Dev Team (24 January 2025)
+🚨MEL NERFS INCOMING🚨
+↑
+X — Riot Phroxzon (24 January 2025)
+Mel has made her debut on the Rift and we've been thrilled to see the player reception for her!
+↑
+Universe:The Art and Making of Arcane
+↑
+Mortdog on TFT Mel Art
+↑
+Mrs Chim Chim's interview with Riot Emizery
+(23:47)

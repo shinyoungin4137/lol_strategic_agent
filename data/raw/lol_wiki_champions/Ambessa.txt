@@ -1,0 +1,2750 @@
+# Ambessa
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Ambessa
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+630
++110
+Energy
+200
++0
+HP5
+8.5
++0.75
+Energy regen.
+50
+AR
+35
++4.9
+AD
+63
++3
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+335
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Windup%
+15.625%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+100
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Ambessa
+Matriarch of War
+Role(s):
+Top
+,
+Jungle
+Store price:
+3150
+|
+975
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2024-11-06
+Last changed
+V26.04
+Class
+Diver
+,
+Skirmisher
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Energy
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Drakehound's Step
+TARGET RANGE:
+175 - 350
+SPEED:
+770 / 830 / 890 / 950 (based on level)
++
+100% movement speed
+Innate:
+During any of
+Ambessa's
+ability
+lockouts
+, the player may right-click to select a location or target to
+dash
+toward after the lockout ends. An indicator appears on the ground denoting the direction and destination location.
+Innate:
+Casting an ability generates a
+stack
+of
+Medarda Maxim
+for a few seconds, up to 3 stacks. Basic attacks consume one stack to become empowered.
+Medarda Maxim:
+Ambessa's
+next
+basic attack
+gains
+range
+,
+bonus
+attack speed
+, deals
+bonus
+physical damage
+, and restores
+energy
+.
+Innate:
+During the
+lockout
+of
+Ambessa's
+abilities
+, inputting an
+attack or movement command
+causes her to
+dash
+to or
+towards
+the target or location, respectively, after the lockout ends. This dash cannot pass through terrain.
+Ambessa
+cannot dash
+while
+immobilized
+or
+grounded
+.
+Innate:
+Whenever
+Ambessa
+casts an ability, she generates a
+stack
+of
+Medarda Maxim
+after the ability's respective lockout for 4 seconds, refreshing with subsequent casts and stacking up to 3 times. Basic attacks consume one stack each to become empowered.
+Medarda Maxim:
+Ambessa's
+next
+basic attack
+on-attack
+is empowered to have an
+uncancellable windup
+, gain
+75
+bonus
+range
+and
+50%
+bonus
+attack speed
+, deal
+5 – 32.
+94
+(based on level)
+(+ 25%
+bonus
+AD)
+bonus
+physical damage
+, and restore
+40 / 55 / 70 (based on level)
+energy
+.
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Stacks of
+Medarda Maxim
+are consumed
+on-hit
+, so means of applying on-hit effects without attacking (eg.
+Guinsoo's Rageblade
+) will consume them without dealing
+bonus
+physical damage
+or restoring
+energy
+.
+(bug)
+Medarda Maxim
+stacks are granted the moment
+Ambessa
+is able to start her dash upon casting her abilities.
+If an Attack command has been queued during an ability lockout and both:
+the player issues a Hold (default
+J
+) or Stop (default
+S
+) command,
+and
+the acquired target is within
+Ambessa's
+attack range
+after the end of the lockout
+then
+Ambessa's
+dash will cancel.
+If
+Ambessa
+is
+immobilized
+or
+grounded
+during an ability's lockout, any attack or movement commands inputted during the lockout will not be buffered to cast at the end of the lockout, even if the crowd control has worn off by the time she is able to move (and thus dash).
+This also applies vice versa where she has successfully buffered an inputted attack or movement command but is afterwards affected with the aforementioned crowd control types during the remaining lockout time. This causes the buffer to be cancelled and the dash to fail to trigger as a consequence.
+Attack commands will not be buffered to cast at the end of the lockout even while
+grounded
+.
+If multiple attack and movement commands are inputted during the lockout of an ability, the most recent one is used for the dash's targeting.
+If the most recent input is not an attack or movement command, the dash will not trigger.
+In this case, the buffer for the previous attack/movement command was cancelled by a new non-attack/movement command such as an input for an ability cast.
+During
+Drakehound's Step
+, a visual indicator is visible to
+Ambessa
+displaying the eventual dash's direction and destination location.
+The number of available attacks empowered by
+Medarda Maxim
+are visible as pips under
+Ambessa's
+health bar
+, only visible to the player.
+The following table refers for interactions while
+Ambessa
+is
+dashing
+:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Disabled
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Edit
+Cunning Sweep
+COST:
+70 Energy
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+EFFECT RADIUS:
+275
+•
+135
+•
+400
+ANGLE:
+180°
+Active:
+Ambessa
+slashes with her twin drakehounds in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+increased
+against enemies hit by the outer edge. If this hits at least one enemy,
+Ambessa
+can cast
+Sundering Slam
+within the next few seconds.
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+, at the end of which she slashes with her twin drakehounds in a cone in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+doubled
+against enemies hit by the outer edge.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending, and
+Ambessa
+will perform the dash after her slash completes.
+Physical Damage:
+20 / 30 / 40 / 50 / 60
+(+ 30%
+bonus
+AD)
+(+ 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3%
+(+ 1.
+5
+% per 100
+bonus
+AD)
+of target's
+maximum
+health)
+Increased Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 60%
+bonus
+AD)
+(+ 2 / 3 / 4 / 5 / 6%
+(+ 3% per 100
+bonus
+AD)
+of target's
+maximum
+health)
+If this hits at least one enemy,
+Ambessa
+can cast
+Sundering Slam
+within the next 4 seconds.
+Against
+monsters
+,
+Cunning Sweep
+deals
+125
+bonus
+physical damage
+and the damage based on their health ratio is capped at
+100 – 323.
+53
+(based on level)
+.
+Edit
+Sundering Slam
+COST:
+70 Energy
+CAST TIME:
+none
+RANGE:
+650
+WIDTH:
+40
+Active:
+Ambessa
+slams her twin drakehounds in a line in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+increased
+against the first enemy.
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+, at the end of which she slams her twin drakehounds in a line in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+doubled
+against the first enemy hit.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending, and
+Ambessa
+will perform the dash after her slam completes.
+Physical Damage:
+25 / 37.
+5
+/ 50 / 62.
+5
+/ 75
+(+ 45%
+bonus
+AD)
+(+ 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3%
+(+ 2% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+Increased Physical Damage:
+50 / 75 / 100 / 125 / 150
+(+ 90%
+bonus
+AD)
+(+ 2 / 3 / 4 / 5 / 6%
+(+ 4% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+Against
+monsters
+,
+Sundering Slam
+deals
+150
+bonus
+physical damage
+and the damage based on their health ratio is capped at
+100 – 323.
+53
+(based on level)
+.
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Cunning Sweep
+will slash from wherever
+Ambessa
+is at the end of the lockout.
+If her facing direction changes before the lockout completes, the slash will be performed towards the new direction.
+The following table refers for interactions while
+Ambessa
+is locked out:
+Attacking
+Registers input for
+Drakehound's Step
+.
+Abilities
+Disabled
+Movement
+Registers input for
+Drakehound's Step
+.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Sundering Slam
+will slam from wherever
+Ambessa
+is at the end of the lockout.
+If her facing direction changes before the lockout completes, the slam will be performed towards the new direction.
+The following table refers for interactions while
+Ambessa
+is locked out:
+Attacking
+Registers input for
+Drakehound's Step
+.
+Abilities
+Disabled
+Movement
+Registers input for
+Drakehound's Step
+.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Cunning Sweep
+Arena
+differences
+edit
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Health ratio changed to
+1 / 1.
+375
+/ 1.
+75
+/ 2.
+125
+/ 2.
+5
+% of target's
+maximum
+health
+.
+Sundering Slam
+Arena
+differences
+edit
+Health ratio changed to
+1 / 1.
+375
+/ 1.
+75
+/ 2.
+125
+/ 2.
+5
+% of target's
+maximum
+health
+.
+No video available.
+Edit
+Repudiation
+COST:
+70 Energy
+COOLDOWN:
+18 / 17 / 16 / 15 / 14
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+Active:
+Ambessa
+briefly braces herself, then smashes the ground beneath her. If she performs
+Drakehound's Step's
+dash
+during
+Repudiation
+, she will smash the ground at her destination instead.
+Ambessa
+also gains a
+shield
+for a short duration upon cast. If the shield absorbs damage from a
+champion
+, large
+monster
+or
+turret
+during her bracing, the smash's damage is increased.
+Active:
+Ambessa
+braces herself for up to 0.
+5
+seconds, during which in the first 0.
+225
+seconds she is
+unable to act
+. After
+Ambessa
+finishes bracing, she smashes the ground beneath her, dealing
+physical damage
+to nearby enemies.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+25
+seconds of the lockout ending.
+Physical Damage:
+50 / 75 / 100 / 125 / 150
+(+ 50%
+bonus
+AD)
+Additionally,
+Ambessa
+shields
+herself at the time of cast for
+50 – 351.
+76
+(based on level)
+(+ 150%
+bonus
+AD)
+for 1.
+5
+seconds. If the shield mitigates any amount of damage taken from
+champions
+, large
+monsters
+, or
+turrets
+before
+Ambessa
+smashes the ground,
+Repudiation's
+damage is increased by 50%.
+Increased Physical Damage:
+75 / 112.
+5
+/ 150 / 187.
+5
+/ 225
+(+ 75%
+bonus
+AD)
+Ambessa
+will smash the ground at the end of
+Drakehound's Step's
+dash if she would finish bracing during it, and otherwise always smashes the ground from wherever she is at the end of the bracing time.
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Repudiation's
+bracing time is unaffected by the initiation of
+Drakehound's Step
+dash.
+Ambessa
+will smash the ground from wherever she is at the end of the bracing time even if the dash ends or completes its travel before the brace is finished.
+She will remain in place until the brace is finished in this case.
+If the brace would however finish during the dash, due to the specific timing of the dash's initiation,
+Ambessa
+will smash the ground at the end of the dash instead.
+This would apply in cases where the dash is initiated right before or shortly before the bracing is finished.
+Repudiation's
+shield buff and shield health on the health bar UI are not granted to and displayed on the caster on-cast, but rather only after a very short, inconsistent delay from the time of cast.
+(bug)
+The following table refers for interactions while
+Ambessa
+is locked out:
+Ambessa
+will smash the ground instantly upon entering
+resurrection
+.
+Attacking
+Registers input for
+Drakehound's Step
+.
+Abilities
+Other abilities may be cast in the last 0.
+275
+seconds of the brace after the lockout and are otherwise disabled in the first 0.
+225
+seconds. If
+Drakehound's Step's
+dash was buffered during the lockout, casting other abilities overrides the buffer with the new cast input.
+Movement
+Registers input for
+Drakehound's Step
+.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 20 / 19 / 18 / 17 / 16 seconds.
+Edit
+Lacerate
+COST:
+70 Energy
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+none
+EFFECT RADIUS:
+325
+Active:
+Ambessa
+spins her twin drakehounds around her, dealing
+physical damage
+to enemies hit and
+slowing
+them briefly. If
+Ambessa
+performs
+Drakehound's Step's
+dash
+after the spin, she will spin a second time upon arrival to apply the same effects.
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+and spins her twin drakehounds around her to deal
+physical damage
+to nearby enemies and
+slow
+them by 99% decaying over 1 second.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending; in either case, she will spin a second time at the end of the dash to apply the same effects at no additional cost.
+Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+Total Physical Damage:
+80 / 120 / 160 / 200 / 240
+(+ 100%
+bonus
+AD)
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Ambessa
+will cast the second spin of
+Lacerate
+from wherever she is at the end of the dash.
+She will spin a second time even if the dash is interrupted.
+The following table refers for interactions while
+Ambessa
+is locked out:
+Attacking
+Registers input for
+Drakehound's Step
+.
+Abilities
+Disabled
+Movement
+Registers input for
+Drakehound's Step
+.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+N/A
+Edit
+Public Execution
+COOLDOWN:
+130 / 115 / 100
+CAST TIME:
+0.
+55
+RANGE:
+1250
+WIDTH:
+65
+Passive:
+Ambessa
+gains
+armor penetration
+and
+heals
+for a percentage of the damage dealt by her active abilities.
+Active:
+Ambessa
+prepares a massive strike in a line in the target direction. She will seize the farthest enemy hit to
+blink
+behind them and
+suppress
+them, then crashes them into the ground, dealing
+physical damage
+and
+stunning
+them briefly.
+Ambessa
+is
+displacement immune
+over the preparation and the target's
+suppression
+.
+Passive:
+Ambessa
+gains
+armor penetration
+and
+heals
+herself for a percentage of the
+post-mitigation damage
+she deals to enemies with her active abilities. The healing effectiveness is reduced to 25% against
+minions
+and 40% against
+monsters
+.
+Armor Penetration:
+10 / 20 / 30%
+Healing Percentage:
+10 / 12.
+5
+/ 15%
+(+ 50% life steal)
+Minion Healing Percentage:
+2.
+5
+/ 3.
+125
+/ 3.
+75
+%
+(+ 12.
+5
+% life steal)
+Monster Healing Percentage:
+4 / 5 / 6%
+(+ 20% life steal)
+Active:
+Ambessa
+prepares a strike in a line in the target direction, then
+blinks
+behind the farthest enemy champion within the area and seizes them. If she
+successfully
+seizes the target,
+Ambessa
+attaches
+them to herself and
+suppresses
+them for 0.
+75
+seconds. While the target is suppressed, they are
+revealed
+and
+Ambessa
+picks them up off the ground before crashing them back down, afterwards dealing
+physical damage
+and
+stunning
+them for 0.
+4
+seconds.
+Physical Damage:
+150 / 250 / 350
+(+ 80%
+bonus
+AD)
+Ambessa
+is
+displacement immune
+and
+unable to act
+during the cast time and while the target is suppressed, lingering for 0.
+1
+seconds afterwards.
+Drakehound's Step's
+dash may be buffered during the cast time or lockout, as well as initiated within 0.
+275
+seconds of the lockout ending.
+"This ends in ruin!"
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Public Execution's
+attachment depends on the application of the
+suppression
+; if the suppression is not applied, neither is the attachment. Similarly, if the suppression is removed, so is the attachment.
+If the target resists the suppression by being
+immune to crowd control
+,
+displacement immune
+, or having a
+spell shield
+,
+Ambessa
+will not attach them to herself.
+She will be unable to apply the damage and stun in this case since the suppression was not applied in the first place.
+She will still
+blink
+to the target in this case.
+If the target removes the suppression by any means, including with an applicable
+cleanse
+effect or
+dispel
+, they will instantly detach themselves from
+Ambessa
+, which causes the ability to cancel immediately.
+She will fail to apply the damage and stun to the target since the suppression was removed from them early in this case.
+Her lockout and displacement immunity also ends prematurely in this case.
+If
+Ambessa
+would blink inside the
+attack range
+of an enemy
+turret
+, including the
+Nexus Obelisk
+,
+Public Execution
+will instead attempt to position her outside of it.
+Ambessa
+will
+reveal
+herself during the cast time if there is an enemy champion nearby.
+Ambessa
+will search for enemies in the direction she is facing at the end of cast time.
+This direction can be changed by
+Seraphine's
+Encore
+.
+(bug)
+If
+Ambessa
+successfully seizes a target, any regular movement commands issued before doing so are discarded upon the lockout ending.
+This does not affect movement orders issued during the lockout.
+Ambessa
+is also special cased to be immune to
+polymorphs
+while she is
+displacement immune
+.
+Public Execution
+will trigger a stack of
+Electrocute
+,
+Phase Rush
+, and
+Eclipse's
+Ever Rising Moon
+for the suppression application and the damage dealt.
+Public Execution
+will
+not
+queue
+Flash
+if
+Ambessa
+attempts to use the summoner spell during the cast time.
+(unexpected)
+The following table refers for interactions while
+Ambessa
+is in cast time and during the lockout:
+Attacking
+Registers input for
+Drakehound's Step
+.
+Abilities
+Disabled
+Movement
+Registers input for
+Drakehound's Step
+.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Ambessa (Collection)
+.
+Original
+06.11.2024
+All who know the name Medarda respect and fear the family's leader, Ambessa. As a Noxian general, she embodies a deadly combination of ruthless strength and fearless resolve in battle. Her role as matriarch is no different, requiring great cunning to empower the Medardas while leaving no room for failure or compassion. Embracing the merciless ways of the Wolf, Ambessa will do whatever it takes to protect her family's legacy, even at the cost of her own children's love.
+Ellen Thomas
+Jennifer Wuestling
+Loot eligible
+View in 3D
+•
+View Music
+Chosen of the Wolf
+1820
+06.11.2024
+Your chosen has arrived, dear Wolf. Those who came before her paved the way for this moment. The Medardas will mourn the loss of her and her unborn child… and yet I see a thread that ties her still to the living. Ambessa, the Matriarch of War. Does her destiny lie in Volrachnun?
+Ellen Thomas
+Bo 'chenbowow' Chen
+Chosen of the Wolf
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Transforming
+Chromas
+View in 3D
+•
+View Music
+Chosen of the Wolf Ambessa Chromas
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.04
+Cunning Sweep
+Bonus monster damage reduced to 125 from 150.
+V25.24
+- December 17th Hotfix
+Drakehound's Step
+Bonus AD ratio reduced to
+25%
+bonus
+AD
+from
+30%
+.
+Lacerate
+Bonus AD ratio changed to
+50%
+bonus
+AD
+at all ranks from
+40 / 45 / 50 / 55 / 60%
+.
+V25.23
+- November 19th Hotfix
+Drakehound's Step
+Bug Fix:
+Stacks of
+Medarda Maxim
+are once again consumed on-hit instead of at the start of the attack windup.
+[
+2
+]
+V25.23
+Drakehound's Step
+Bug Fix:
+Stacks of
+Medarda Maxim
+are now consumed at the start of the attack windup instead of on-hit, which means
+Ambessa
+no longer fails to consume a stack if the target dies during the attack windup.
+[Note: As a consequence of this change, while
+Ambessa
+has only one stack of Medarda Maxim, casting
+Cunning Sweep
+and
+Sundering Slam
+during an attack windup will interrupt the attack, while still consuming the stack.
+Lacerate
+can no longer be buffered during an attack windup if
+Ambessa
+only has one stack of Medarda Maxim.]
+Cunning Sweep
+Bonus monster damage increased to 150 from 125.
+Sundering Slam
+Bonus monster damage increased to 150 from 125.
+V25.21
+Drakehound's Step
+Bug Fix:
+Dash now properly paths through allied
+Azir's
+Emperor's Divide's
+soldiers.
+V25.19
+Drakehound's Step
+Bug Fix:
+No longer shows debug text in the attack buff tooltip.
+V25.15
+Public Execution
+Bug Fix:
+Hit no longer fails to generate
+Conqueror
+stacks.
+V25.11
+General
+Updated recommended items.
+[
+3
+]
+V25.05
+Lacerate
+Base damage per hit reduced to 40 / 60 / 80 / 100 / 120 from 40 / 65 / 90 / 115 / 140.
+V25.S1.3
+General
+Bug Fix:
+Voicelines that trigger from
+Mel
+are no longer missing their effect processing.
+Bug Fix:
+Non-unique-event voicelines that trigger from
+Mel
+no longer fail to play more lines than one per event.
+Drakehound's Step
+New Effect:
+If an Attack command has been queued during an ability lockout and both
+1
+) the player issues a Hold (default
+J
+) or Stop (default
+S
+) command and
+2
+) the acquired target is within
+Ambessa's
+attack range
+after the end of the lockout, then
+Ambessa's
+dash will cancel.
+Hold/Stop commands will now also properly invalidate the acquisition if the target is not within attack range under these conditions.
+V25.S1.2
+Drakehound's Step
+Bug Fix:
+No longer ignores
+block
+and
+dodge
+and can now properly miss while Ambessa is
+blinded
+.
+V14.24
+Drakehound's Step
+Bug Fix:
+Dash pathfinding no longer ignores
+Azir's
+Emperor's Divide
+.
+Repudiation
+Base shield reduced to
+50 – 320 (based on level)
+from
+85 – 350 (based on level)
+.
+Shield bonus AD ratio reduced to
+150%
+bonus
+AD
+from
+175%
+.
+Shield duration reduced to 1.
+5
+seconds from 2.
+Lacerate
+Bonus AD ratio reduced to
+40 / 45 / 50 / 55 / 60%
+bonus
+AD
+from
+40 / 50 / 60 / 70 / 80%
+.
+Total bonus AD ratio reduced to
+80 / 90 / 100 / 110 / 120%
+bonus
+AD
+from
+80 / 100 / 120 / 140 / 160%
+.
+V14.23
+Chosen of the Wolf Ambessa
+Bug Fix:
+Various VO events no longer fail to trigger.
+Bug Fix:
+Homeguard trail VFX now displays correctly.
+Drakehound's Step
+Bug Fix:
+Dash pathfinding no longer ignores champion-generated terrain.
+Bug Fix:
+Using
+Hextech Rocketbelt's
+Supersonic during
+Drakehound's Step
+but after issuing a movement order no longer causes
+Ambessa's
+pathing speed to remain locked at the value of Supersonic's dash speed for the duration required to reach the movement order's destination, whatever distance that may have been (or otherwise until the order completes by any means, such as being canceled by the player, immobilizing crowd control, displacement, etc), thus illegally allowing her to move at an extraordinary speed.
+[
+4
+]
+[Note: Ambessa's actual movement speed statistic did not change during this interaction.]
+Bug Fix:
+Dash can now properly be buffered and cast during
+Dash's
+travel.
+Sundering Slam
+Recast time increased to 4 seconds from 3.
+5
+.
+Public Execution
+Bug Fix:
+If the cast is successful, all movement orders issued before seizing the target are now discarded upon the lockout ending (target being slammed onto the ground).
+[Note: this does not affect any orders issued during the lockout.]
+V14.22
+- Added
+Drakehound's Step
+- Innate
+Innate:
+During the
+lockout
+of
+Ambessa's
+abilities, inputting an
+attack or movement command
+causes her to
+dash
+to or
+towards
+the target or location, respectively, after the lockout ends. This dash cannot pass through terrain.
+Ambessa
+cannot dash while
+immobilized
+or
+grounded
+.
+Innate:
+Whenever
+Ambessa
+casts an ability, she generates a stack of
+Medarda Maxim
+after the ability's respective lockout for 4 seconds, refreshing with subsequent casts and stacking up to 3 times.
+Medarda Maxim:
+Ambessa's
+next basic attack
+on-attack
+is empowered to have an
+uncancellable windup
+, gain
+75
+bonus
+range
+and
+50%
+bonus
+attack speed
+, and consume a stack to deal
+5 – 30 (based on level)
+(+ 30%
+bonus
+AD)
+bonus
+physical damage
+and restore
+40 / 55 / 70 (based on level)
+energy
+.
+Target Range:
+175
+/
+350
+,
+Speed:
+770 / 830 / 890 / 950 (based on level)
++
+100% movement speed
+.
+Cunning Sweep
+- Q1
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+, at the end of which she slashes with her twin drakehounds in a cone in the target direction, dealing 20 / 30 / 40 / 50 / 60
+(+ 30%
+bonus
+AD)
+(+ 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3%
+(+ 1.
+5
+% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+physical damage
+to enemies hit. The damage is
+doubled
+against enemies hit by the outer edge.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending, and
+Ambessa
+will perform the dash after her slash completes.
+If this hits at least one enemy,
+Ambessa
+can cast
+Sundering Slam
+within the next 3.
+5
+seconds.
+Against
+monsters
+,
+Cunning Sweep
+deals
+125
+bonus
+physical damage
+and the damage based on their health ratio is capped at
+100 – 300 (based on level)
+.
+Cost:
+70 energy.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Cast Time:
+None,
+Effect Radius:
+275
+/
+400
+.
+Sundering Slam
+- Q2
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+, at the end of which she slams her twin drakehounds in a line in the target direction, dealing 25 / 37.
+5
+/ 50 / 62.
+5
+/ 75
+(+ 45%
+bonus
+AD)
+(+ 1 / 1.
+5
+/ 2 / 2.
+5
+/ 3%
+(+ 2% per 100
+bonus
+AD)
+of the target's
+maximum
+health)
+physical damage
+to enemies hit. The damage is
+doubled
+against the first enemy hit.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending, and
+Ambessa
+will perform the dash after her slam completes.
+Against
+monsters
+,
+Sundering Slam
+deals
+125
+bonus
+physical damage
+and the damage based on their health ratio is capped at
+100 – 300 (based on level)
+.
+Cost:
+70 energy.
+Cast Time:
+None,
+Range:
+650,
+Width:
+40.
+Repudiation
+- W
+Active:
+Ambessa
+braces herself for up to 0.
+5
+seconds, during which in the first 0.
+225
+seconds she is
+unable to act
+. After
+Ambessa
+finishes bracing, she smashes the ground beneath her, dealing 50 / 75 / 100 / 125 / 150
+(+ 50%
+bonus
+AD)
+physical damage
+to nearby enemies.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+25
+seconds of the lockout ending.
+Ambessa
+additionally
+shields
+herself for
+85 – 350 (based on level)
+(+ 175%
+bonus
+AD)
+for 2 seconds upon cast. If the shield mitigates any amount of damage taken from
+champions
+, large
+monsters
+, or
+turrets
+before
+Ambessa
+smashes the ground,
+Repudiation's
+damage is increased by 50%.
+Ambessa
+will smash the ground at the end of
+Drakehound's Step's
+dash if she would finish bracing during it, and otherwise always smashes the ground from wherever she is at the end of the bracing time.
+Cost:
+70 energy.
+Cooldown:
+18 / 17 / 16 / 15 / 14 seconds.
+Cast Time:
+None,
+Effect Radius:
+325.
+Lacerate
+- E
+Active:
+Ambessa
+enters a 0.
+225
+-second
+lockout
+and spins her twin drakehounds around her to deal 40 / 65 / 90 / 115 / 140
+(+ 40 / 50 / 60 / 70 / 80%
+bonus
+AD)
+physical damage
+to nearby enemies and
+slow
+them by 99% decaying over 1 second.
+Drakehound's Step's
+dash may be buffered during the lockout or initiated within 0.
+275
+seconds of the lockout ending; in either case, she will spin a second time at the end of the dash to apply the same effects.
+Cost:
+70 energy.
+Cooldown:
+13 / 12 / 11 / 10 / 9 seconds.
+Cast Time:
+None,
+Effect Radius:
+325.
+Public Execution
+- R
+Passive:
+Ambessa
+gains 10 / 20 / 30%
+armor penetration
+and
+heals
+herself for 10 / 12.
+5
+/ 15%
+(+ 50% life steal)
+of the
+post-mitigation damage
+she deals to enemies with her active abilities, reduced to 25% against
+minions
+and 40% versus
+monsters
+.
+Active:
+Ambessa
+prepares a strike in a line in the target direction, then
+blinks
+behind the farthest enemy champion within the area and seizes them. If she successfully seizes the target,
+Ambessa
+attaches
+them to herself and
+suppresses
+them for 0.
+75
+seconds, during which she
+reveals
+them and picks them up off the ground to afterwards crash them back down, dealing 150 / 200 / 250 / 300 / 350
+(+ 80%
+bonus
+AD)
+physical damage
+and
+stunning
+them for 0.
+4
+seconds.
+Ambessa
+is
+displacement immune
+and
+unable to act
+during the cast time and while the target is suppressed, lingering for 0.
+1
+seconds afterwards.
+Drakehound's Step's
+dash may be buffered during the cast time or lockout, as well as initiated within 0.
+275
+seconds of the lockout ending.
+Cooldown:
+130 / 115 / 100 seconds.
+Cast Time:
+0.
+55
+seconds,
+Range:
+1250,
+Width:
+65.
+Trivia
+Ambessa is the second champion to be revealed for
+League of Legends
+,
+Wild Rift
+, and
+Legends of Runeterra
+around the same time, after
+Akshan
+.
+At the time, Ambessa was the only champion that was revealed to be announced in all games within the
+League of Legends
+IP
+, including
+Teamfight Tactics
+.
+Ambessa
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+,
+Zaahen
+, and
+Zed
+.
+Ambessa is the first
+non-Ionian
+champion to use
+energy
+.
+With
+Mel
+'s release, Ambessa is the first female champion to be a mother of another champion.
+There are playable champions which are mothers, but not of other playable champions, such as
+Rek'Sai
+.
+There are also champions which have known mothers, such as
+Smolder
+and
+Nunu
+, but their mothers are not playable champions themselves.
+Her buff flavortext reads:
+Medarda Maxim
+(
+Drakehound's Step
+stacks):
+"Don't pity the meek" — Medarda Family Motto
+D I S R E S P E C T
+(
+Sundering Slam
+ready):
+"Find out what it means to me." — Ambessa Medarda
+Antici—
+(
+Repudiation
+steadying):
+—pation
+This is a reference to Dr. Frank-N-Furter's
+iconic line
+in
+The Rocky Horror Picture Show
+comedy horror movie.
+Unfazed
+(
+Repudiation
+shield):
+"Some say the best defense is a good offense. Why pick when I have both." — Ambessa Medarda
+Pathetic
+(
+Lacerate
+slow):
+"You're a third rate fighter with fourth rate technique." — Ambessa Medarda
+[sic]
+This is a reference to
+Seto Kaiba's
+insult to
+Joey Wheeler
+in the
+Yu-Gi-Oh
+anime.
+Always Win Your Battles
+(
+Public Execution
+successful cast):
+"Defeat earns you nothing, I simply win." — Ambessa Medarda
+Some Advice
+(
+Public Execution
+suppression):
+"Don't be sorry, be better." — Ambessa Medarda
+This is similar to Kratos'
+quote
+in
+God of War (2018)
+video game. (
+Do not be sorry, be better.
+)
+Killing an enemy champion grants her a cosmetic buff that reads:
+"For you, the day the Medardas graced your village was the most important day of your life. But for me, it was Tuesday."
+This
+quotes
+M. Bison in
+Street Fighter
+, referring to himself instead.
+Being killed by an enemy
+Mel
+grants her the
+Took Long Enough
+cosmetic buff that reads:
+Mel has killed Ambessa. 'This is a new feeling. Pride in someone else. Finally.' - Ambessa Medarda
+This is a reference to DragonBall Z Abridged's
+Vegeta's Unyielding Rage
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Energy
+Energy
+is a resource designed to limit how much a champion is able to use their
+basic
+abilities during a set time frame rather than through the use of
+mana
+. It is represented by a
+yellow
+bar instead of
+blue
+.
+Energy
+has a maximum of
+200
+(except for
+Shen
+, with
+400
+), and regenerates rapidly, at a rate of
+10 energy
+per second. This means that energy champions are not at risk of depleting their resource over a long period of time, however the small capacity restricts the rapid usage of multiple spells.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking due to currently performing another action that must complete. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Immobilize
+Immobilized
+units cannot control their movement, becoming unable to input movement commands and use movement spells. The following crowd control effects
+immobilize
+the unit:
+Airborne
+Forced Action
+(
+Berserk
+,
+Charm
+,
+Flee
+,
+Taunt
+)
+Root
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+Impaired movement
+is a similar term that, in addition to the above, also refers to units that are
+slowed
+.
+League of Legends content
+Ground
+A unit that is
+grounded
+is unable to activate movement spells for the duration. This effect does not innately
+knockdown
+a target that is already performing a dash.
+Grounded
+units can still be displaced.
+Movement spells
+include all
+dash
+and
+blink
+abilities - including
+Recall
+/
+Empowered Recall
+and the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Dash
+, plus a number of additional cases.
+Ground
+is the only type of
+crowd control
+that is most commonly found in persistent area of effects, which will reapply the status effect continuously.
+Interrupts:
+Interrupts
+movement channels
+unless otherwise stated
+.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their basic attack windup.
+Unlike on-hit effects, on-attack effects do not require the user to land their basic attacks, only to finish their windup. Abilities that trigger on-attack effects will do so upon successfully hitting the target.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Sundering Slam
+Active:
+Ambessa
+slams her twin drakehounds in a line in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+increased
+against the first enemy.
+League of Legends content
+Drakehound's Step
+Innate:
+During any of
+Ambessa's
+ability
+lockouts
+, the player may right-click to select a location or target to
+dash
+toward after the lockout ends. An indicator appears on the ground denoting the direction and destination location.
+Innate:
+Casting an ability generates a
+stack
+of
+Medarda Maxim
+for a few seconds, up to 3 stacks. Basic attacks consume one stack to become empowered.
+Medarda Maxim:
+Ambessa's
+next
+basic attack
+gains
+range
+,
+bonus
+attack speed
+, deals
+bonus
+physical damage
+, and restores
+energy
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and
+dispel
+most
+debuffs
+upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Zaahen's
+Cultivation of War
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Cunning Sweep
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Ambessa
+slashes with her twin drakehounds in the target direction, dealing
+physical damage
+to enemies hit. The damage is
+increased
+against enemies hit by the outer edge.
+If this hits at least one enemy,
+Ambessa
+can cast
+Sundering Slam
+within the next few seconds.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+References
+↑
+Ambessa's profile page
+at
+LeagueOfLegends.com
+↑
+X — League of Legends Dev Team (19 November 2025)
+We're reverting the 25.23 bug fix for Ambessa's passive not dropping stacks if her target died mid-auto as the previous fix wasn't working as intended. We're currently working on a fix but do not yet have an ETA, we'll keep you all posted!
+↑
+YouTube —
+Riot Phreak: Patch 25.11 Garen PBE Preview
+↑
+Youtube — Vandiril (14 November 2024)
+Rocketbelt Ambessa needs a fix...

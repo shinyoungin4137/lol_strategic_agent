@@ -1,0 +1,2519 @@
+# Naafiri
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Naafiri
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+610
++105
+MP
+400
++55
+HP5
+6.25
++0.6
+MP5
+7.5
++1
+AR
+28
++4.2
+AD
+55
++2
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+125
+Attack speed
+Base AS
+0.663
+Windup%
+17.5%
+AS ratio
+0.625
+Bonus AS
++2.1
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+192
+Acq. radius
+400
+Special statistics
+Damage Dealt
++10%
+Damage Received
++0%
+Ability Haste
++10
+HP
+「 610 (+
+125
+) 」
+「
+610 – 2735
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Naafiri
+The Hound of a Hundred Bites
+Role(s):
+Middle
+Store price:
+675
+|
+585
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2023-07-19
+Last changed
+V26.04
+Class
+Assassin
+Legacy class
+Assassin
+,
+Fighter
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+We Are More
+STATIC COOLDOWN
+:
+30 / 25 / 20 / 15 / 10 (based on level)
+Innate:
+Naafiri
+periodically summons a
+Packmate
+that attacks the target of her attacks and
+abilities
+. Hitting
+champions
+or large
+monsters
+with abilities or killing enemies reduces the
+cooldown
+.
+Innate:
+Periodically,
+Naafiri
+summons a
+Packmate
+that fights alongside her. She may have up to
+2 / 3 / 4 / 5 (based on level)
+Packmates
+at a time.
+Naafiri
+summons the maximum number of
+Packmates
+when the game starts and upon
+respawning
+.
+Hitting
+champions
+or large
+monsters
+with
+abilities
+reduces the
+cooldown
+by 4 seconds. Killing enemies reduces it by 1 second.
+See
+Pets
+for full details on Packmates.
+"We are more!"
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Packmates
+do not count as abilities for triggering the cooldown reduction.
+Only the initial hit of
+Darkin Daggers
+counts for reducing
+We Are More's
+cooldown; the damage over time will not trigger the cooldown reduction.
+Both hits of
+Eviscerate
+will trigger the cooldown reduction.
+Map-Specific Differences
+Arena
+differences
+edit
+Packmate attack damage bonus AD ratio changed to
+6% of
+Naafiri's bonus
+AD
+.
+Cooldown reduction per hit changed to 7 seconds.
+Edit
+Darkin Daggers
+COST:
+50 / 60 / 70 / 80 / 90 Mana
+COOLDOWN
+:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+WIDTH:
+50
+SPEED:
+1700
+Active:
+Naafiri
+hurls a dagger that deals
+physical damage
+to enemies hit and inflicts a
+bleed
+that deals
+bonus
+physical damage
+over a short time.
+Darkin Daggers
+can be recast at no additional cost.
+Recast:
+Naafiri
+mimics the first cast's effects. If the target is already
+bleeding
+, they are also
+dealt
+the remaining
+bleed
+damage plus
+additional
+physical damage
+. If that target is also a
+champion
+,
+Naafiri
+will
+heal
+herself.
+Active:
+Naafiri
+hurls a dagger in the target direction that deals
+physical damage
+to enemies hit and inflicts them with a
+bleed
+that deals
+bonus
+physical damage
+every 0.
+5
+seconds over 5 seconds. The
+bleed
+executes
+minions
+and non-epic
+monsters
+if they would be damaged below
+30 – 70 (based on level)
+health
+.
+Darkin Daggers
+can be recast after 0.
+5
+seconds and within 4 seconds at no additional cost.
+Initial Physical Damage:
+35 / 40 / 45 / 50 / 55
+(+ 20%
+bonus
+AD)
+Bleed Physical Damage per Tick:
+3.
+5
+/ 6 / 8.
+5
+/ 11 / 13.
+5
+(+ 8%
+bonus
+AD)
+Total Bleed Physical Damage:
+35 / 60 / 85 / 110 / 135
+(+ 80%
+bonus
+AD)
+Total Physical Damage:
+70 / 100 / 130 / 160 / 190
+(+ 100%
+bonus
+AD)
+If the dagger hits a target that is already
+bleeding
+, they are instead
+dealt
+the remaining
+bleed
+damage plus
+additional bonus
+physical damage
+, with the
+base bonus
+damage increased by
+0% – 100% (based on target's
+missing
+health)
+and the
+scaling
+for the
+bonus
+damage increased by
+0% – 250% (based on target's
+missing
+health)
+. If that target is also a
+champion
+or large
+monster
+,
+Naafiri
+heals
+herself.
+Minimum Bonus Physical Damage:
+30 / 45 / 60 / 75 / 90
+(+ 40%
+bonus
+AD)
+Maximum Bonus Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 140%
+bonus
+AD)
+Minimum Total Physical Damage:
+100 / 145 / 190 / 235 / 280
+(+ 140%
+bonus
+AD)
+Maximum Total Physical Damage:
+130 / 190 / 250 / 310 / 370
+(+ 240%
+bonus
+AD)
+Heal:
+45 / 60 / 75 / 90 / 105
+(+ 40%
+bonus
+AD)
+Recast:
+Naafiri
+mimics the first cast's effects.
+Info
+Targeting input
+Direction
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time.
+Darkin Daggers
+calculates its additional damage based on missing health before applying the remaining bleed damage.
+Darkin Daggers'
+execute
+against minions considers both the damage of the initial hit of the dagger and any bleed tick for putting the target under the threshold.
+Map-Specific Differences
+Arena
+differences
+edit
+Initial base damage changed to 40 / 50 / 60 / 70 / 80.
+Bleed base damage changed to 40 / 80 / 120 / 160 / 200.
+Minimum bonus damage changed to 40 / 55 / 70 / 85 / 100.
+Maximum bonus damage changed to 80 / 110 / 140 / 170 / 200.
+Minimum bonus damage bonus AD ratio changed to
+45%
+bonus
+AD
+.
+Maximum bonus damage bonus AD ratio changed to
+160%
+bonus
+AD
+.
+Base heal changed to 80 / 102.
+5
+/ 125 / 147.
+5
+/ 170.
+Heal bonus AD ratio changed to
+60%
+bonus
+AD
+.
+Edit
+The Call of the Pack
+COST:
+60 Mana
+COOLDOWN
+:
+26 / 24 / 22 / 20 / 18
+CAST TIME:
+0.
+75
+Active:
+Naafiri
+goes on the hunt for a period, briefly becoming
+untargetable
+and
+vanishing
+her
+Packmates
+, gaining
+bonus
+attack damage
+and granting herself and her
+Packmates
+bonus
+move speed
+. She will also summon extra
+Packmates
+that last for the hunt's duration.
+Casting
+Hounds' Pursuit
+briefly extends The Call of the Pack's hunt duration.
+Active:
+Naafiri
+goes on the hunt for the next
+5 seconds
+, becoming
+untargetable
+for the first 1 second and
+vanishing
+all of her active
+Packmates
+in the first 0.
+9
+seconds. Her active
+Packmates
+will
+reappear
+near her after their vanish.
+After 1.
+25
+seconds into the hunt,
+Naafiri
+summons 2 additional
+Packmates
+that last for the remaining duration and can exceed
+We Are More's
+summon cap.
+While on the hunt,
+Naafiri
+gains
+20% AD
+bonus
+attack damage
+and grants herself and all
+Packmates
+bonus
+movement speed
+.
+Bonus Movement Speed:
+20 / 22.
+5
+/ 25 / 27.
+5
+/ 30%
+Casting
+Hounds' Pursuit
+extends The Call of the Pack's hunt duration by 1.
+75
+seconds, up to its original duration.
+Naafiri
+can move during The Call of the Pack's cast time.
+Info
+Targeting input
+Auto
+Affects
+Self
+While
+The Call of the Pack
+is active, it increases
+We Are More's
+summon cap to
+4 / 5 / 6 / 7 (based on level)
+.
+The order of additional
+Packmates
+that despawn is predetermined, most likely their internal spawn IDs. The ability does not consider which
+Packmates
+are the closest or healthiest.
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 16 / 15 / 14 / 13 / 12 seconds.
+Edit
+Eviscerate
+COST:
+40 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+none
+TARGET RANGE:
+250 – 450
+•
+650
+COLLISION RADIUS:
+50
+EFFECT RADIUS:
+230
+SPEED:
+900
+Active:
+Naafiri
+dashes
+to deal
+physical damage
+to enemies she passes through. Upon arrival, she explodes in a flurry of blades to deal
+physical damage
+to nearby enemies.
+Packmates
+briefly
+vanish
+and
+heal
+to full health.
+Active:
+Naafiri
+dashes
+in the target direction and deals
+physical damage
+to enemies she passes through. Upon arrival, she explodes in a flurry of blades to deal
+physical damage
+to nearby enemies.
+Dash Physical Damage:
+15 / 25 / 35 / 45 / 55
+(+ 40%
+bonus
+AD)
+Flurry Physical Damage:
+60 / 85 / 110 / 135 / 160
+(+ 80%
+bonus
+AD)
+Total Physical Damage:
+75 / 110 / 145 / 180 / 215
+(+ 120%
+bonus
+AD)
+Packmates
+vanish
+during the dash and
+reappear
+near
+Naafiri
+on her arrival. They are also
+healed
+to full health upon their reappearance.
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Packmates
+will not be affected by
+Eviscerate
+while under the effect of
+Hounds' Pursuit
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Dash base damage changed to 30 / 40 / 50 / 60 / 70.
+Dash AD ratio changed to
+55%
+bonus
+AD
+.
+Flurry base damage changed to 70 / 95 / 120 / 145 / 170.
+Flurry AD ratio changed to
+100%
+bonus
+AD
+.
+Edit
+Hounds' Pursuit
+COST:
+100 Mana
+COOLDOWN
+:
+110 / 95 / 80
+CAST TIME:
+none
+TARGET RANGE:
+900
+EFFECT RADIUS:
+2100
+SPEED:
+1800
+Active:
+Naafiri
+and her
+Packmates
+briefly
+channel
+to single out an enemy. They then
+dash
+together toward the target. Upon colliding with the target,
+Naafiri
+deals
+physical damage
+to the target and briefly
+slows
+them, whereas
+Packmates
+deal a small portion of that damage.
+Packmates
+are
+untargetable
+during their windup and dash. If
+Naafiri
+scores a
+champion
+takedown shortly after, she can recast
+Hounds' Pursuit
+once more within a duration at no cost.
+Recast:
+Naafiri
+immediately grants herself a
+shield
+, then performs the first cast's effects again.
+Active:
+Naafiri
+and her
+Packmates
+channel
+for 0.
+75
+seconds to single out the target enemy champion,
+revealing
+them in the duration. Upon completion of the channel, they
+dash
+to the target; upon arrival
+Naafiri
+deals
+physical damage
+and
+slows
+the target by 99% for 0.
+25
+seconds, whereas each
+Packmate
+deals 10% of that damage.
+Packmates
+become
+untargetable
+during their channel and dash.
+Physical Damage:
+150 / 250 / 350
+(+ 120%
+bonus
+AD)
+Physical Damage per
+Packmate
+:
+15 / 25 / 35
+(+ 12%
+bonus
+AD)
+If
+Naafiri
+scores a champion
+takedown
+within 7 seconds of cast, she triggers a pulse that grants
+sight
+of the
+surrounding area
+for 1 second and
+reveals
+enemy champions within for 4 seconds. She can also recast
+Hounds' Pursuit
+once from triggering this effect within 12 seconds at no cost.
+Recast:
+Naafiri
+immediately grants herself a
+shield
+for 3 seconds before mimicking the
+first cast's effects
+.
+Shield:
+100 / 150 / 200
+(+ 150%
+bonus
+AD)
+Target activation alert.
+Pulse alert.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Self, Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+Interrupted
+Disruption
+Interrupted
+Hounds' Pursuit's
+theoretical
+total
+physical damage
+from
+Packmates
+only
+, assuming
+Naafiri
+has the maximum number of them active and
+Hounds' Pursuit
+is always ranked at the earliest
+levels
+permitted (ranks 1 / 2 / 3 at levels 6 / 11 / 16):
+Levels 6–8:
+30
+(+ 24%
+bonus
+AD)
+/
+60
+(+ 48%
+bonus
+AD)
+.
+Levels 9–10:
+45
+(+ 36%
+bonus
+AD)
+/
+75
+(+ 60%
+bonus
+AD)
+.
+Level 11:
+75
+(+ 36%
+bonus
+AD)
+/
+125
+(+ 60%
+bonus
+AD)
+.
+Levels 12–14:
+100
+(+ 48%
+bonus
+AD)
+/
+150
+(+ 72%
+bonus
+AD)
+.
+Level 15:
+125
+(+ 60%
+bonus
+AD)
+/
+175
+(+ 84%
+bonus
+AD)
+.
+Levels 16–18:
+175
+(+ 60%
+bonus
+AD)
+/
+245
+(+ 84%
+bonus
+AD)
+.
+Naafiri
+marks the enemy champion targeted by
+Hounds' Pursuit
+in order to gain
+assist
+credit on them, lasting for the standard credit timer.
+Hound's Pursuit's
+cast and dash do not
+break stealth
+.
+(unexpected)
+Spell shield
+will block
+Naafiri's
+collision damage but cannot prevent collision damage from
+Packmates
+.
+Naafiri
+will track the target if they change locations, up to a maximum distance.
+She will dash to the target's previous location if they move too far away during the dash.
+Naafiri
+will be ordered to basic attack the target at the end of the dash.
+Naafiri
+will windup a basic attack while dashing.
+(unexpected)
+Packmates
+hitting the same target as
+Naafiri
+will count as dealing "additional" damage.
+The target is
+revealed
+for another 1.
+5
+seconds after the channel completes.
+The following table refers for interactions while
+Naafiri
+is
+channeling
+:
+If
+Naafiri's
+channel is interrupted, the
+Packmates'
+channels will be canceled as well.
+The channel is cancelled if the target dies or moves too far away, but not if they become
+untargetable
+.
+Type
+Channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Grounding effects
+Immobilizing effects
+Cast-inhibiting effects
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 70 / 60 / 50 seconds.
+Pets
+Packmate
+Bounty
+Gold
+3
+Exp
+0
+CS
+0
+Statistics
+Health
+80 – 335.
+65
+(based on level)
+Attack damage
+10 – 21.
+18
+(based on level)
+(+ 4%
+bonus
+AD)
+Attack speed
+100% of
+Naafiri's
+attack speed
+Attack range
+125
+Armor
+0 – 35.
+4
+(based on level)
+Magic resist
+0 – 35.
+4
+(based on level)
+Move speed
+100% of
+Naafiri's
+movement speed
+Gameplay radius
+25
+Pathing radius
+25
+Control type
+Naafiri's
+basic attacks and ability hits against enemies command
+Packmates
+to attack the target for 2 seconds. Subsequent hits against the same target will refresh the duration. Hitting a different target will switch their focus to them from the current target.
+Darkin Daggers
+will command them to attack the first
+visible
+target hit by the missile that is not a minion.
+The damage over time effect does not count for triggering this attack command, and thus will not refresh it.
+Eviscerate
+will command them to attack the nearest
+visible
+target hit by the flurry, prioritizing champions.
+Hounds' Pursuit
+will command them to attack the target upon collision of them, if they are
+visible
+.
+Target type
+Minion
+, does not count towards the minion kill tracking score
+On-hit effects
+Packmates'
+attacks are mitigated by
+dodge
+,
+block
+, and
+blind
+. They also deal 155% damage to
+monsters
+and 50% damage to
+structures
+.
+Spell effects
+Packmates'
+attacks apply
+spell effects
+as
+area damage
+.
+Protection
+Packmates
+take 200% damage from
+melee
+champion basic attacks,
+76% – 55% (based on level)
+damage from
+area damage
+, and 50% damage from non-epic monsters and minions.
+Turret
+attacks will instantly kill
+Packmates
+.
+Abilities
+Prey Drive
+After
+Naafiri
+casts an ability,
+Packmates
+deal
+「 30% increased damage 」
+「
+13 – 27.
+53
+(based on level)
+(+ 5.
+2
+%
+bonus
+AD)
+physical damage
+」
+on their next basic attack within 3 seconds. They can store up to 3 empowered attacks at a time.
+Pouncing Assault
+Packmates
+will
+dash
+to
+visible
+targets hit by
+Naafiri's
+basic attacks and abilities within 1300 units. They will also charge alongside
+Naafiri
+when she uses
+Hounds' Pursuit
+, becoming
+untargetable
+in the process.
+Recalling of the Pack
+When
+Naafiri
+casts
+The Call of the Pack
+or
+Eviscerate
+,
+Packmates
+vanish
+immediately. They will then reappear near her shortly afterwards.
+Replenish
+Packmates
+are
+healed
+to full health when they reappear from being vanished by
+Eviscerate
+.
+Agility
+Packmates
+gain
+bonus
+movement speed
+during
+The Call of the Pack
+.
+Minion Hunter
+Packmates
+will occasionally score the killing blow on nearby enemy minions that are below
+25 – 55 (based on
+Naafiri's
+level)
+health
+.
+This has an
+internal cooldown
+of 10 seconds.
+There is a minimum range of 300 units and a maximum range of 800 units around each
+Packmate
+for this effect to occur.
+Packmates
+will not perform this action while
+Naafiri
+is in
+brush
+.
+PENDING FOR TEST:
+Enemy vision of the brush may impact whether this behavior is enabled.
+Notes
+Packmates
+will die with
+Naafiri
+when she does.
+Packmates
+level up with
+Naafiri
+.
+Packmates
+dynamically override their attack speed and movement speed values with
+Naafiri's
+.
+Packmates
+cannot have their attack speed and movement speed values be modified on their own, with one exception:
+They gain a movement speed boost when approximately 400-450 or more units away from
+Naafiri
+while she moves away from them. The boost scales based on how far away she is, capping at a total of
+1000 movement speed
+with a proximity of 700 units.
+When
+Naafiri
+enters a
+brush
+,
+Packmates
+increase their
+movement speed
+to
+800
+and
+dash
+to the brush's location if it is within approximately 450 units. This dash can surpass terrain although the
+Packmates
+will not dash if they are not already within dash range. In that case, they will navigate and path around the terrain towards the brush.
+Packmates
+are summoned before
+Naafiri
+to the right, left, or backside of her and will follow her in an arrow-like formation that resembles a pack of wolves.
+If
+Naafiri
+enters
+stealth
+, her
+Packmates
+will do so as well.
+Whenever
+Naafiri
+blinks
+, the
+Packmates
+will do so as well, retaining their relative position to her at the new location.
+Packmates
+cannot perform
+Pouncing Assault
+while
+immobilized
+,
+grounded
+, or
+silenced
+, but they may still
+blink
+from
+The Call of the Pack
+and
+Eviscerate
+.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Naafiri (Collection)
+.
+Original
+20.07.2023
+Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin.
+Morla Gorrondona
+Terence 'Terrylefruit' Cantal
+Loot eligible
+View in 3D
+•
+View Music
+Soul Fighter
+1350
+20.07.2023
+Failed experiment! DEMA DOG! The Four-legged Fighter! This... creature... has almost as many titles as it does separate entities it can summon! Does it want revenge on its former masters? To take over the world? I don't know! I'm no dog mind reader! It's.... Naafiri!
+Morla Gorrondona
+Julia Yurtsev
+Soul Fighter
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Soul Fighter Naafiri Chromas
+Amethyst
+Catseye
+Emerald
+Jasper
+Limitless
+Obsidian
+Ruby
+Sapphire
+Turquoise
+PROJECT
+1350
+06.03.2024
+PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile.
+Morla Gorrondona
+Augusto Quirino, West Studio
+PROJECT
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+PROJECT: Naafiri Chromas
+Citrine
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Glizzy
+1350
+02.04.2025
+The bestest bud between two buns, Naafiri gives new meaning to the breed “wiener dog.”
+Morla Gorrondona
+Horace 'Hozure' Hsu
+Food Fight
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Glizzy Naafiri Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Warhound
+1350
+19.03.2026
+ALERT: Naafiri, alpha of the New Moon Pack, is active in the area. Once human, now wolf, she has proven to be intelligent and highly dangerous. Claims that wolves are "higher beings" and indoctrinates her followers through Quicksilver-induced lycanthropy. Naafiri preys on lone travelers and always hunts in a pack; do NOT pursue without backup.
+Morla Gorrondona
+Marie Magny, West Studio
+Warhounds
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Warhound Naafiri Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Trivia
+Naafiri
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Ambessa
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+,
+Zaahen
+, and
+Zed
+.
+Naafiri has a special joke animation which comes in a sequence of three animations, playing the next animation in the sequence once the appropriate key combination is pressed just as the previous animation ends.
+[
+2
+]
+The first animation plays by pressing
+Ctrl + 1
+twice, which shows Naafiri being pet on the head by a hand resembling the Legacy cursor.
+The second animation plays by pressing
+Ctrl + 2
+as the first animation ends, with Naafiri being petted on the neck before falling on her back.
+The third animation plays by pressing
+Ctrl + 3
+as the second animation ends, showing Naafiri being rubbed on the belly while still lying down. Pressing
+Ctrl + 3
+again during the end of the animation will allow it to be repeated again as many times as the player keeps pressing the key.
+Naafiri's Series 2
+Eternals
+make the following references:
+Let the Dogs Out
+is a reference to the song called
+Who Let The Dogs Out
+by
+Baha Men
+.
+What the dog doin?
+is a reference to the
+What the Dog Doin'
+meme.
+Naafiri's in-client biography is currently the only in-client biography to not include the subject champion's name.
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.04
+Stats
+Base health regeneration reduced to 6.
+25
+from 7.
+5
+.
+Health regeneration growth reduced to 0.
+6
+from 0.
+7
+.
+Darkin Daggers
+Mana cost changed to 50 / 60 / 70 / 80 / 90 from 55 / 60 / 65 / 70 / 75.
+Eviscerate
+Mana increased to 40 from 35.
+V26.03
+We Are More
+Monster damage increased to 155% from 135%.
+V25.19
+General
+New Effect / Bug Fix:
+To alleviate performance issues,
+Cappa Juice
+hats above 10 will no longer display on her
+Packmates
+.
+V25.11
+We Are More
+Bug Fix:
+Move orders no longer persist on Packmates if the player issues a move order within a tiny radius of their current position, allowing the ordered Packmates to freely leave Naafiri's radius of influence and remain at their destination location indefinitely so long as the player does not issue a new move order (which would subsequently cause the Packmates to re-calculate their distance from Naafiri's radius of influence and return to her).
+Hounds' Pursuit
+Bug Fix:
+Naafiri and her Packmates no longer ignore collision with
+Azir's
+Emperor's Divide
+during their dash, which would previously allow them to bypass the displacement.
+V25.10
+We Are More
+Packmate monster damage reduced to 135% from 155%.
+V25.09
+The Call of the Pack
+Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 22 / 21 / 20 / 19 / 18.
+Eviscerate
+Dash AD ratio reduced to
+40%
+bonus
+AD
+from
+50%
+.
+Hounds' Pursuit
+Undocumented - Removed:
+Her own and her
+Packmates'
+dash speed no longer scales with
+100% of Naafiri's
+total
+movement speed
+.
+Undocumented - Removed:
+Tooltip no longer mentions the window for unlocking the recast is timed.
+Actual effect unchanged.
+V25.07
+- April 2nd Hotfix
+Darkin Daggers
+Initial base damage reduced to 35 / 40 / 45 / 50 / 55 from 35 / 45 / 55 / 65 / 75.
+Total bleed base damage changed to 35 / 60 / 85 / 110 / 135 from 30 / 60 / 90 / 120 / 150.
+Bleed base damage per tick changed to 3.
+5
+/ 6 / 8.
+5
+/ 11 / 13.
+5
+from 3 / 6 / 9 / 12 / 15.
+Eviscerate
+Flurry base damage reduced to 60 / 85 / 110 / 135 / 160 from 60 / 90 / 120 / 150 / 180.
+Cooldown increased to 11 / 10 / 9 / 8 / 7 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+V25.07
+Stats
+Base health reduced to 610 from 635.
+Base armor reduced to 28 from 30.
+We Are More
+Packmate monster damage reduced to 155% from 165%.
+Bug Fix:
+Packmates no longer sometimes fail to dash alongside her during her abilities.
+Darkin Daggers
+Minion damage increased to 100% from 80%.
+The Call of the Pack
+Cooldown increased to 22 / 21 / 20 / 19 / 18 seconds from 20 / 19.
+5
+/ 19 / 18.
+5
+/ 18.
+Bug Fix:
+No longer creates a redundant buff icon.
+Hounds' Pursuit
+Bug Fix:
+Now properly crosses terrain when the target is beyond it.
+V25.06
+- March 19th Hotfix
+Stats
+Base attack damage reduced to 55 from 57.
+Base health regeneration reduced to 7.
+5
+from 9.
+Health regeneration growth reduced to 0.
+7
+from 0.
+9
+.
+V25.06
+- Gameplay Update
+Stats
+Base attack damage increased to 57 from 55.
+Attack damage growth reduced to 2 from 2.
+1
+.
+Armor growth reduced to 4.
+2
+from 4.
+7
+.
+Health growth reduced to 105 from 120.
+We Are More
+Maximum Packmates increased to
+2 / 3 / 4 / 5 (based on level)
+from
+2 / 3 (based on level)
+.
+Packmate base attack damage reduced to
+10 – 20 (based on level)
+from
+12 – 32 (based on level)
+.
+Packmate attack damage bonus AD ratio reduced to
+4%
+bonus
+AD
+from
+5%
+.
+Packmate health reduced to
+80 – 301 (based on level)
+from
+80 – 352 (based on level)
+.
+Packmate resistances reduced to
+0 – 30.
+6
+(based on level)
+from
+0 – 34 (based on level)
+.
+Packmate incoming area damage modifier increased to
+76% – 55% (based on level)
+from
+76% – 50% (based on level)
+.
+Packmate monster damage increased to 165% from 100%.
+Packmate attack command duration reduced to 2 seconds from 3.
+Undocumented:
+Packmate structure damage increased to 50% from 25%.
+Darkin Daggers
+Minion damage increased to 80% from 60%.
+The Call of the Pack
+(W)
+Swapped with
+Hounds' Pursuit
+.
+New Effect:
+Naafiri now becomes
+untargetable
+in the first second of the hunt's duration.
+Removed:
+No longer despawns any active Packmates.
+Removed:
+No longer spawns the maximum number of Packmates
+We Are More
+allows before spawning additional ones.
+New Effect:
+Any active Packmates are now
+vanished
+in the first 0.
+9
+seconds of the hunt.
+Additional Packmates summoned reduced to 2 at all ranks from 2 / 3 / 4.
+Hunt duration reduced to 5 seconds from 15.
+Hunt duration now begins at the start of the cast time, rather than afterwards.
+Removed:
+Bonus movement speed no longer decays over 4 seconds.
+Removed:
+Bonus movement speed is no longer reduced by 50% upon receiving non-minion damage.
+Bonus movement speed reduced to 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30% from 70 / 85 / 100%.
+Bonus movement speed duration increased to 5 seconds from 4.
+Removed:
+No longer grants a base amount of 5 / 15 / 25
+bonus
+attack damage.
+Bonus attack damage AD ratio changed to
+20% AD
+at all ranks from
+8 / 16 / 24% AD
+.
+Cooldown reduced to 20 / 19.
+5
+/ 19 / 18.
+5
+/ 18 seconds from 120 / 110 / 100.
+Mana cost reduced to 60 from 100.
+Removed:
+Her first basic attack or ability hit against a champion no longer grants her a 125 / 325 / 525
+(+ 50%
+bonus
+AD)
+shield
+for 3 seconds.
+Removed:
+No longer refreshes the hunt's duration and reapplies the effects (excluding Packmate summoning) upon scoring the first champion takedown within the duration.
+Removed:
+No longer grants sight of the surrounding 2100 units for 2 seconds and reveals enemy champions within for 4 seconds.
+Removed:
+No longer increases Packmates'
+maximum
+health by 25%
+.
+Removed:
+No longer restores Packmates' health to full upon cast and upon the hunt ending.
+Removed:
+No longer reduces
+We Are More's
+cooldown by 50%.
+Removed:
+No longer increases
+Hounds' Pursuit's
+cast range by 80 / 160 / 240.
+Eviscerate
+Cooldown reduced to 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7 seconds from 10 / 9.
+5
+/ 9 / 8.
+5
+/ 8.
+Target range increased to 450 units from 350.
+New Effect:
+Now dashes to cursor instead of always to maximum range.
+Terrain grace increased to 200 units from 150.
+Dash base damage reduced to 15 / 25 / 35 / 45 / 55 from 35 / 50 / 65 / 80 / 95.
+Hounds' Pursuit
+(R)
+Swapped with
+The Call of the Pack
+.
+New Effect:
+If Naafiri scores a champion takedown within 7 seconds of casting, she grants sight over a 2100 unit radius for 1 second and reveals enemy champions within for 4 seconds. Additionally, she is allowed to recast Hounds' Pursuit once in the next 12 seconds.
+New Effect:
+Upon recasting, Naafiri gains a 100 / 150 / 200
+(+ 150
+bonus
+AD)
+shield for 3 seconds.
+New Effect:
+Casting/recasting the ability now extends
+The Call of the Pack's
+duration by 1.
+75
+seconds (up to its maximum).
+New Effect:
+Dash speed now scales with
+100% of her movement speed
+.
+Cooldown increased to 110 / 95 / 80 seconds from 22 / 20 / 18 / 16 / 14.
+Mana cost increased to 100 at all ranks from 70 / 60 / 50 / 40 / 30.
+Target range changed to 900 units at all ranks from 700 / 760 / 820 / 880 / 940.
+Base damage changed to 150 / 250 / 350 from 30 / 70 / 110 / 150 / 190.
+Packmate base damage changed to 15 / 25 / 35 from 3 / 7 / 11 / 15 / 19.
+Damage bonus AD ratio increased to
+120%
+bonus
+AD
+from
+80%
+.
+Packmate damage bonus AD ratio increased to
+12%
+bonus
+AD
+from
+8%
+.
+Removed:
+Naafiri and her Packmates no longer collide with the first champion hit; they can only collide with the targeted enemy.
+Removed:
+Can no longer be cast on non-champion units.
+Removed:
+No longer refunds 50% of its cooldown if the channel is interrupted.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Assassin
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Assassins
+specialize in infiltrating enemy lines with their unrivaled mobility to quickly dispatch high-priority targets. Due to their mostly melee nature, Assassins must put themselves into dangerous positions in order to execute their targets. Luckily, they often have defensive tricks up their sleeves that, if used cleverly, allow them to effectively avoid incoming damage.
+Examples
+Akali
+Evelynn
+Zed
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Darkin Daggers
+COOLDOWN:
+9 / 8.
+5
+/ 8 / 7.
+5
+/ 7
+Active:
+Naafiri
+hurls a dagger that deals
+physical damage
+to enemies hit and inflicts a
+bleed
+that deals
+bonus
+physical damage
+over a short time.
+Darkin Daggers
+can be recast at no additional cost.
+Recast:
+Naafiri
+mimics the first cast's effects.
+If the target is already
+bleeding
+, they are also
+dealt
+the remaining
+bleed
+damage plus
+additional
+physical damage
+. If that target is also a
+champion
+,
+Naafiri
+will
+heal
+herself.
+League of Legends content
+Eviscerate
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Naafiri
+dashes
+to deal
+physical damage
+to enemies she passes through. Upon arrival, she explodes in a flurry of blades to deal
+physical damage
+to nearby enemies.
+Packmates
+briefly
+vanish
+and
+heal
+to full health.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Vanish
+In addition to granting
+untargetability
+,
+vanish
+briefly hides a unit from the game's renderer, which causes it to become completely undetectable and invisible even to effects such as
+Oracle Lens
+.
+Vanished
+units are not indicated to be visible on the mini map.
+Vanished
+units are
+unable to act
+. As with all untargetability,
+tethers
+will still persist on a target that
+vanishes
+.
+Vanish
+is not considered
+stealth
+and does not interact with
+sight
+effects.
+League of Legends content
+We Are More
+STATIC CD:
+30 / 25 / 20 / 15 / 10 (based on level)
+Innate:
+Naafiri
+periodically summons a
+Packmate
+that attacks the target of her attacks and
+abilities
+.
+Hitting
+champions
+or large
+monsters
+with abilities or killing enemies reduces the
+cooldown
+.
+League of Legends content
+Hounds' Pursuit
+COOLDOWN:
+110 / 95 / 80
+Active:
+Naafiri
+and her
+Packmates
+briefly
+channel
+to single out an enemy. They then
+dash
+together toward the target. Upon colliding with the target,
+Naafiri
+deals
+physical damage
+to the target and briefly
+slows
+them, whereas
+Packmates
+deal a small portion of that damage.
+Packmates
+are
+untargetable
+during their windup and dash.
+If
+Naafiri
+scores a
+champion
+takedown shortly after, she can recast
+Hounds' Pursuit
+once more within a duration at no cost.
+Recast:
+Naafiri
+immediately grants herself a
+shield
+, then performs the first cast's effects again.
+League of Legends content
+Blink
+A
+blink
+refers to a form of movement whereby a unit displaces from point A to B without traversing the space between.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Channel
+A
+channeled ability
+is an ability that can be prevented from reaching its conclusion, by the user themself and / or because of other effects.
+A
+charged
+ability has a channel that is toggled by two activations - the first begins the charging and the second will fire the ability. While using
+Quick cast
+, the player must keep the hotkey held down to charge the ability and release to fire. Unlike normal channels, the caster is still able to move freely and cast movement abilities, unless otherwise stated.
+A
+movement channel
+is a type of channel which also involves the caster moving from their position, usually in the form of traversal such as
+dashes
+and
+blinks
+. This means the crowd control effects
+ground
+and
+root
+, which both inhibit the activation of movement spells, can interrupt the channel.
+The following
+crowd control
+effects will
+interrupt
+all
+channels
+(except uninterruptible ones):
+Airborne
+Forced action
+(
+Charm
+,
+Flee
+,
+Taunt
+)
+Silence
+(
+Disrupt
+,
+Polymorph
+)
+Sleep
+Stasis
+Stun
+(
+Suspension
+)
+Suppression
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+True sight
+True Sight
+reveals units through
+Fog of War
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+References
+↑
+Naafiri's profile page
+at
+LeagueOfLegends.com
+↑
+How to give Naafiri the good pets

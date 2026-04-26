@@ -1,0 +1,2433 @@
+# Zaahen
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Zaahen
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+640
++114
+MP
+350
++55
+HP5
+7.5
++0.8
+MP5
+8.15
++0.75
+AR
+36
++5
+AD
+63
++4
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+345
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Windup%
+15.625%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+100
+Acq. radius
+600
+Special statistics
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Zaahen
+The Unsundered
+Role(s):
+Top
+,
+Jungle
+Store price:
+3150
+|
+975
+Style:
+Difficulty:
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+2
+Utility
+1
+Release date
+2025-11-19
+Last changed
+V26.06
+Class
+Skirmisher
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Cultivation of War
+STATIC COOLDOWN
+:
+300 / 240 / 180 / 120 (based on level)
+Innate:
+Zaahen's
+basic attacks
+and
+abilities
+against enemy
+champions
+grant him
+stacks
+of
+Determination
+, refreshing on subsequent damage to champions and stacking up to 12 times. Periodically, if
+Zaahen
+would take lethal damage while at maximum stacks of
+Determination
+, he will enter
+resurrection
+for a short time,
+healing
+himself over the duration and then reviving himself.
+Determination:
+For each stack,
+Zaahen
+gains
+bonus
+attack damage
+, increased greatly while at maximum stacks.
+Innate:
+Zaahen
+generates a
+stack
+of
+Determination
+for each enemy
+champion
+damaged by his
+basic attacks
+and
+abilities
+, lasting for 5 seconds, refreshing on subsequent triggers, and stacking up to 12 times. After the duration, the stacks expire by
+1 / 2 / 3 / 4 / 5 (based on seconds elapsed)
+every 0.
+5
+seconds.
+Determination:
+For each stack,
+Zaahen
+gains
+bonus
+attack damage
+equal to
+1.
+5
+% – 2.
+95
+% (based on level)
+AD
+. At maximum stacks,
+Zaahen
+becomes filled with
+Determination
+, causing him to double the bonus to
+36% – 70.
+87
+% (based on level)
+AD
+.
+Periodically, if
+Zaahen
+would take
+lethal damage
+while at maximum stacks of
+Determination
+, he refreshes its duration and enters
+resurrection
+for 4 seconds: becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. Additionally, he
+restores
+「
+30% / 45% / 60% / 75% (based on level)
+of his
+maximum
+health
+」
+「
+0.
+94
+% / 1.
+41
+% / 1.
+88
+% / 2.
+34
+% (based on level)
+of his
+maximum
+health
+every 0.
+125
+seconds 」
+over the duration. Afterwards, he revives himself and refreshes the duration of
+Determination
+.
+Info
+Targeting input
+Passive
+Affects
+Self
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+The bonus attack damage granted by
+Determination
+stacks will update dynamically with
+Zaahen's
+total attack damage.
+Determination
+stacks are generated per damage instance per champion damaged with
+Zaahen's
+attacks and abilities.
+The Darkin Glaive's
+initial cast empowered attack can generate a stack for each strike.
+Both passes of
+Dreaded Return
+can generate a stack.
+Both
+Aureate Rush's
+swing and
+Grim Deliverance's
+shockwave generate a stack for every champion hit.
+Ivern's
+Triggerseed
+generates a stack for every champion hit when cast on
+Zaahen
+.
+(bug)
+During the resurrection's health restoration,
+Zaahen's
+current
+health
+is set to a percentage of his
+maximum
+health
+equal to the cumulative amount of health restored on that restoration tick, for every single tick.
+In other words, his current health will always be overridden by the percentage of health he is supposed to have restored on every restoration tick, to prevent him from healing or restoring health by other sources.
+Upon the resurrection being triggered, all
+summoner spells
+that are not already on cooldown are placed on a 5-second
+cooldown
+.
+The
+untargetability
+from the resurrection does not
+destroy
+in-flight
+projectiles
+.
+Cultivation of War's
+resurrection takes priority over
+Guardian Angel's
+Rebirth
+, but grants priority to
+Zilean's
+Chronoshift
+.
+The resurrection does not activate if
+Zaahen
+is killed by the
+Nexus Obelisk
+.
+Invulnerability
+will prevent stacks from being generated, as no damage is dealt.
+Spell shield
+will not prevent stacks from being generated, even if no damage is dealt.
+(bug)
+Cultivation of War
+stacks additively
+with
+Infernal Might
+and
+Overlord's Bloodmail's
+Retribution
+.
+Determination
+stacks are displayed in a secondary resource bar under
+Zaahen's
+health bar
+.
+The bar is
+white
+at <4 stacks,
+yellow
+at ≥4 stacks and
+orange
+at ≥9 stacks.
+At maximum stacks, if the revive is available, the bar will be
+red
+and will remain
+red
+after
+Zaahen
+revives until he loses stacks again.
+(unexpected)
+There's a short delay between the stacks falling off and the removal of the revive. If
+Zaahen
+triggers it during this time, it will fail to go on cooldown.
+(bug)
+The following table refers for interactions while
+Zaahen
+is locked out during the resurrection:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Bonus attack damage per stack changed to
+1.
+5
+% – 3.
+72
+% (based on level)
+.
+Total bonus attack damage changed to
+36% – 89.
+22
+% (based on level)
+.
+Arena
+differences
+edit
+Attack damage per stack changed to
+1% – 2% (based on level)
+AD
+.
+Health
+restoration
+changed to
+30% / 35% / 40% / 45% (based on level)
+.
+Cooldown resets every round.
+Edit
+The Darkin Glaive
+COST:
+25 mana
+COOLDOWN
+:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+none
+Active:
+Zaahen's
+next
+basic attack
+strikes twice, dealing
+modified
+physical damage
+, applying
+on-hit
+effects and
+healing
+him based on
+his
+maximum
+health
+. Briefly after striking a target,
+The Darkin Glaive
+can be recast.
+Recast:
+Zaahen's
+next
+basic attack
+deals
+bonus
+physical damage
+and briefly
+knocks up
+the target.
+Active:
+Zaahen
+empowers his next
+basic attack
+within 4 seconds to have an
+uncancellable windup
+and gain
+25
+bonus
+range
+.
+On-attack
+, he strikes the target twice. If the target was a champion, minion, or monster, he also
+heals
+himself. The strikes deal
+modified
+physical damage
+and the heal is reduced to 50% against minions and monsters.
+Each strike applies
+on-hit
+effects and can
+critically strike
+for
+「
+(50% +
+15%
+)
+」
+「
+50%
+bonus
+critical damage
+」
+AD
+bonus
+physical damage
+.
+Total Physical Damage:
+15 / 30 / 45 / 60 / 75
+(+ 100% AD)
+(+ 20 / 25 / 30 / 35 / 40%
+bonus
+AD)
+Physical Damage per Hit:
+7.
+5
+/ 15 / 22.
+5
+/ 30 / 37.
+5
+(+ 50% AD)
+(+ 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+bonus
+AD)
+Champion Healing:
+5 / 6 / 7 / 8 / 9% of his
+maximum
+health
+Non-Champion Healing:
+2.
+5
+/ 3 / 3.
+5
+/ 4 / 4.
+5
+% of his
+maximum
+health
+After 1.
+5
+seconds of using the empowered attack,
+The Darkin Glaive
+can be recast within the next 4 seconds at no additional cost, modifying it with a new effect.
+Recast:
+Zaahen
+empowers his next basic attack within 4 seconds to have an
+uncancellable windup
+, gain
+25
+bonus
+range
+, deal
+bonus
+physical damage
+and
+knock up
+the target for 0.
+75
+seconds.
+Bonus Physical Damage:
+25 / 50 / 75 / 100 / 125
+(+ 20 / 25 / 30 / 35 / 40%
+bonus
+AD)
+The Darkin Glaive
+deals 200% damage against
+monsters
+.
+Both casts of The Darkin Glaive
+reset
+Zaahen's
+basic attack timer.
+Info
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Parries
+Blocked
+Spell shield
+will only block the knock up from the recast.
+Since the healing is granted on-attack, parrying effects will not prevent
+Zaahen
+from gaining the heal. Otherwise, parrying effects will negate all other aspects of
+The Darkin Glaive's
+attacks while consuming them.
+The ability will not heal against wards, plants, or structures.
+The first cast's double-strike attack:
+Rolls
+critical strike
+once for both strikes.
+Does not cause
+Zaahen
+to attack twice.
+Effects that trigger on-attack or interact with the attack windup will only trigger once and thus do not interact with
+The Darkin Glaive
+. (e.g.
+Lethal Tempo
+,
+Hail of Blades
+).
+Will consume
+Bone Plating
+once.
+(bug)
+If the first strike triggers the rune, the second one will get blocked by it.
+If the first strike is blocked by the rune, the second one will not.
+The 1.
+5
+-second delay is
+not
+"fuzzy" (it will never take up to another 0.
+25
+seconds) and so will never correctly sync up with
+Sheen
+like
+Camille's
+Precision Protocol
+.
+(unexpected)
+Tips & Tricks
+Due to the critical strike rolling behavior affecting both of
+The Darkin Glaive's
+first cast's attacks with the same outcome,
+Sundered Sky
+may synergize greatly with its effect when ready.
+Map-Specific Differences
+Arena
+differences
+edit
+Bonus AD ratio changed to
+10 / 20 / 30 / 40 / 50%
+bonus
+AD
+.
+Healing against champions changed to
+3 / 4 / 5 / 6 / 7% of his
+maximum
+health
+.
+Edit
+Dreaded Return
+COST:
+50 mana
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+CAST TIME:
+0.
+5
+TARGET RANGE:
+850
+WIDTH:
+70
+SPEED:
+2900
+•
+900
+Active:
+Zaahen
+extends his glaive in the target direction, dealing
+physical damage
+to enemies hit. Upon reaching maximum range, all enemies in the area are dealt
+physical damage
+,
+stunned
+briefly, and
+pulled
+toward
+Zaahen
+.
+Active:
+Zaahen
+extends his glaive in the target direction, dealing
+physical damage
+to enemies hit. Upon reaching maximum range, all enemies hit are dealt
+physical damage
+,
+stunned
+for 0.
+25
+seconds, and
+pulled
+225 units toward
+Zaahen
+.
+Initial Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+Subsequent Physical Damage:
+30 / 50 / 70 / 90 / 110
+(+ 30%
+bonus
+AD)
+Total Physical Damage:
+70 / 110 / 150 / 190 / 230
+(+ 80%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Spell shield
+will block both passes, as well as the second one individually if circumstances permit.
+Intercepting
+the initial projectile will instantly trigger
+Dreaded Return's
+pull.
+Displacement immunity
+will
+not
+resist the application of the
+stun
+.
+The projectile is shown on the minimap and
+Dreaded Return
+can be cast targeting the minimap.
+This ability will cast from wherever the caster is at the end of the cast time.
+Dreaded Return
+maintains its casting angle direction in relation to
+Zaahen
+if he moves during the cast time.
+Dreaded Return
+briefly provides
+vision
+over an area.
+PENDING FOR TEST:
+How big is the vision bubble and how long does it last?
+Edit
+Aureate Rush
+COST:
+40 mana
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+CAST TIME:
+none
+TARGET RANGE:
+350
+EFFECT RADIUS:
+375
+INNER RADIUS:
+200
+SPEED:
+900
+Active:
+Zaahen
+dashes
+to the target location. Upon arrival, he flourishes his glaive to deal
+physical damage
+to nearby enemies. Enemies hit by the outer edge are dealt
+increased physical damage
+and
+bonus
+magic damage
+.
+Active:
+Zaahen
+dashes
+to the target location. Upon arrival, he flourishes his glaive to deal
+physical damage
+to nearby enemies.
+Physical Damage:
+40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+Enemies hit by the outer edge are dealt
+50% increased physical damage
+and
+bonus
+magic damage
+, with the latter capped at 400 against
+monsters
+.
+Increased Physical Damage:
+60 / 90 / 120 / 150 / 180
+(+ 75%
+bonus
+AD)
+Bonus Magic Damage:
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6% of the target's
+maximum
+health
+Aureate Rush
+deals
+50
+bonus
+physical damage
+against monsters.
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Aureate Rush
+has no minimum dash range.
+If the dash is interrupted,
+Zaahen
+will fail to deal damage.
+Zaahen
+will, however, deal damage if the dash is interrupted at the very end, shortly before the damage would occur.
+[1]
+(bug)
+The mixed damage is applied in two instances, and the
+physical damage
+will be dealt first within the same game tick.
+If the
+physical damage
+finishes off the unit, the
+magic damage
+will not be dealt against it.
+(bug)
+The following table refers for interactions while
+Zaahen
+is dashing:
+Attacking
+Disabled
+Abilities
+The Darkin Glaive
+and its
+recast
+are usable.
+Dreaded Return
+and
+Grim Deliverance
+are disabled.
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+N/A
+Interrupted by
+Hextech Rocketbelt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Teleport
+Recall
+Mark
+Dash
+Disabled
+Hexflash
+Interrupted by
+Flash
+Interrupted by
+Death
+Tips & Tricks
+Aureate Rush's
+flourish can be performed quicker if the dash stops shortly.
+Map-Specific Differences
+Arena
+differences
+edit
+Cooldown changed to 12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds.
+Edit
+Grim Deliverance
+COST:
+100 mana
+COOLDOWN:
+110 / 95 / 80
+CAST TIME:
+0.
+5
+TARGET RANGE:
+10 - 600
+EFFECT RADIUS:
+550
+SPEED:
+2800
+Passive:
+Zaahen
+gains
+armor penetration
+.
+Active:
+Zaahen
+launches
+to the target location. He then slams his glaive, unleashing a shockwave that deals
+physical damage
+to nearby enemies and
+heals
+himself for a portion of the damage dealt to
+champions
+. While performing
+Grim Deliverance
+,
+Zaahen
+is
+cc-immune
+and gains damage reduction.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+Passive:
+Zaahen
+gains
+armor penetration
+.
+Armor Penetration:
+10 / 20 / 30%
+Active:
+Zaahen
+gains
+crowd control immunity
+over the cast time, then
+launches
+with
+displacement immunity
+into the air to the target location. He then slams his glaive down after a 0.
+6
+-second delay, unleashing a shockwave that deals
+physical damage
+to nearby enemies and
+heals
+him for each
+champion
+hit.
+Physical Damage:
+250 / 400 / 550
+(+ 200%
+bonus
+AD)
+Healing per Champion hit:
+82.
+5
+/ 132 / 181.
+5
+(+ 66%
+bonus
+AD)
+Zaahen
+is
+unable to act
+and gains 50%
+damage reduction
+from the start of the cast time. He retains these effects as well as the
+displacement immunity
+during the delay before the slam and for
+up-to an additional 0.
+25
+seconds
+afterwards.
+"SALVATION IN BLOODSHED!"
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+See Notes
+Grounded
+Disabled
+Knockdown
+See Notes
+The lockout, damage reduction, and displacement immunity may last for up to an additional 0.
+25
+seconds after the slam due to fuzziness.
+(unexpected)
+The healing per champion is equal to 33% of the damage numbers,
+not
+the damage dealt.
+(unexpected)
+Spell shield
+will block the damage but not the heal.
+(unexpected)
+If
+Zaahen
+blinks
+or has his dash otherwise interrupted while ascending into the air,
+Grim Deliverance's
+effects are canceled; he will not slam the ground and will not update his animations correctly, additionally, he will be able to move during the lockout.
+(bug)
+If
+Zaahen
+moves during the 0.
+6
+-second delay, he will slam down at his new location despite the indicator not moving.
+(bug)
+Zaahen
+will transition from having
+total crowd control immunity
+during the cast time, to having
+displacement immunity
+during the dash and the slam delay.
+The following table refers for interactions while
+Zaahen
+is in cast time and during the lockout:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 200 / 350 / 500.
+Bonus AD ratio changed to
+150%
+bonus
+AD
+.
+Armor penetration changed to 5 / 15 / 25%.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Zaahen (Collection)
+.
+Original
+19.11.2025
+A fallen god wielding both divine and profane power, Zaahen hunts his fellow Darkin while defying the corruption that threatens to consume him. Once willingly sealed within his glaive to stave off madness, he now walks free, noble in heart and vicious in purpose. Zaahen fights an eternal war within—but so long as he endures, he will rise above all who seek to bring Runeterra to ruin.
+Ash Rizi
+Bo 'chenbowow' Chen
+Loot eligible
+View in 3D
+•
+View Music
+Immortal Journey
+1350
+19.11.2025
+Wielding a divine glaive and sacred waters, the dragon king Zaahen ruled the eastern seas. But prophecy foretold that rage would drown his mercy, bringing deathly floods. Zaahen withdrew to the depths of his court… until a scholar dared to descend, seeking the truth of the god beneath the waves. Stirred, Zaahen now fights the ruin he was fated to unleash.
+Ash Rizi
+Rudy Siswanto
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Immortal Journey Zaahen Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Trivia
+Zaahen, the Unsundered
+Zaahen
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Ambessa
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+Cultivation of War
+directly references
+Yunara's
+Cultivation of Spirit
+.
+Zaahen's kit features several homages to
+Xin Zhao's
+, his host body.
+[
+2
+]
+The
+Determination
+portion of his passive,
+Cultivation of War
+shares its name with
+Xin Zhao's
+Determination
+.
+The Darkin Glaive
+is an empowered basic attack that knocks targets up, similar to
+Three Talon Strike
+.
+Dreaded Return
+is a thrusting ability reminiscent of
+Wind Becomes Lightning
+.
+Cultivation of War's
+buff tooltip reads "Knowing your passive is stacking fills you with Determination.", which might reference and serve as an homage to the 2015 videogame
+Undertale
+, in which the specific phrase "…fills you with determination" is stated often by the narrator throughout the game; the phrase has achieved meme status.
+Phreak
+also used the phrase "filled with Determination" in the official Zaahen champion spotlight.
+Cultivation of War
+is similar to
+Aatrox's
+old ability
+Blood Well
+, both abilities granting stat increases once their respective resource bars are filled, and resurrecting the user if they would take lethal damage.
+After his relaunch in patch
+V8.13
+,
+Aatrox
+would retain a form of resurrection in his
+World Ender
+ability, from which it would be inevitably removed in patch
+V9.14
+.
+The
+Seneschal Seal
+icon from
+Trials of Twilight: Act 1
+foreshadowed his silhouette during
+Grim Deliverance
+.
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.06
+Dreaded Return
+Second hit base damage reduced to 30 / 50 / 70 / 90 / 110 from 40 / 60 / 80 / 100 / 120.
+Second hit bonus AD ratio reduced to
+30%
+bonus
+AD
+from
+50%
+.
+Aureate Rush
+Bonus monster damage reduced to 50 from 75.
+V26.03
+The Darkin Glaive
+Monster damage increased to 200% from 175%.
+Aureate Rush
+Bonus monster damage increased to 75 from 50.
+Unknown Patch
+Cultivation of War
+Undocumented / Bug Fix:
+Can no longer be stacked by
+The Collector's
+Death.
+V25.24
+- December 17th Hotfix
+The Darkin Glaive
+Duration reduced to 4 seconds from 5.
+Recast duration reduced to 4 seconds from 5.
+Removed:
+No longer heals against wards, plants, or structures.
+Bonus AD ratio reduced to
+20 / 25 / 30 / 35 / 40%
+bonus
+AD
+from
+20 / 30 / 40 / 50 / 60%
+.
+Recast bonus AD ratio reduced to
+20 / 25 / 30 / 35 / 40%
+bonus
+AD
+from
+20 / 30 / 40 / 50 / 60%
+.
+Aureate Rush
+Outer edge bonus AD ratio reduced to
+75%
+bonus
+AD
+from
+100%
+.
+V25.24
+Cultivation of War
+Bug Fix:
+Amended multiple issues during the resurrection.
+The Darkin Glaive
+Cooldown increased to 10 / 9 / 8 / 7 / 6 seconds from 9 / 8 / 7 / 6 / 5.
+Monster damage increased to 175% from 150%.
+Undocumented / Bug Fix:
+Cooldown is now affected by basic ability haste.
+Aureate Rush
+Sweet spot magic damage reduced to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6% of target's
+maximum
+health
+from
+4 / 5 / 6 / 7 / 8%
+.
+Grim Deliverance
+Undocumented / Removed:
+No longer retains the
+crowd control immunity
+during the dash and the slam delay once the cast time completes.
+Undocumented / New Effect:
+Now grants
+displacement immunity
+during the dash and the slam delay.
+Note:
+Zaahen
+transitions from having
+total CC-immunity
+during the cast time to
+displacement immunity
+for the remainder of the ability's animation.
+V25.23
+- November 21st Hotfix
+[
+3
+]
+Cultivation of War
+Attack damage per stack reduced to
+1.
+5
+% – 2.
+8
+% (based on level)
+AD
+from
+1.
+5
+% – 3.
+3
+% (based on level)
+AD
+.
+The Darkin Glaive
+Primary bonus AD ratio reduced to
+20 / 30 / 40 / 50 / 60%
+bonus
+AD
+from
+30 / 40 / 50 / 60 / 70%
+bonus
+AD
+.
+Second cast base damage reduced to 25 / 50 / 75 / 100 / 125 from 30 / 60 / 90 / 120 / 150
+V25.23
+- November 19th Hotfix
+The Darkin Glaive
+Bug Fix:
+Dying during the first attack's cast no longer permanently replaces the ability slot with the second cast's effects.
+[
+4
+]
+V25.23
+- Added
+Cultivation of War
+- Innate
+Innate:
+Zaahen
+generates a
+stack
+of
+Determination
+for each enemy
+champion
+damaged by his
+basic attacks
+and
+abilities
+, lasting for 5 seconds, refreshing on subsequent triggers, and stacking up to 12 times. After the duration, the stacks expire by
+1 / 2 / 3 / 4 / 5 (based on seconds elapsed)
+every 0.
+5
+seconds.
+Determination:
+For each stack,
+Zaahen
+gains
+bonus
+attack damage
+equal to
+1.
+5
+% – 3.
+3
+% (based on level)
+AD
+. At maximum stacks, this is doubled to
+36% – 79.
+2
+% (based on level)
+AD
+.
+Periodically, if
+Zaahen
+would take
+lethal damage
+while at maximum stacks of
+Determination
+, he enters
+resurrection
+for 4 seconds: becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. Additionally, he
+restores
+「
+30% / 45% / 60% / 75% (based on level)
+of his
+maximum
+health
+」
+「
+0.
+94
+% / 1.
+41
+% / 1.
+88
+% / 2.
+34
+% (based on level)
+of his
+maximum
+health
+every 0.
+125
+seconds 」
+over the duration.
+Static Cooldown:
+300 / 240 / 180 / 120 (based on level)
+seconds.
+The Darkin Glaive
+- Q
+Active:
+Zaahen
+empowers his next
+basic attack
+within 5 seconds to have an
+uncancellable windup
+and gain
+25
+bonus
+range
+.
+On-attack
+, he strikes the target twice and
+heals
+himself for
+5 / 6 / 7 / 8 / 9% of his
+maximum
+health
+. The strikes deal 15 / 30 / 45 / 60 / 75
+(+ 100% AD)
+(+ 30 / 40 / 50 / 60 / 70%
+bonus
+AD)
+modified
+physical damage
+and the heal is reduced to 50% against non-champions.
+Each strike applies
+on-hit
+effects and can
+critically strike
+for
+「
+(50% +
+15%
+)
+」
+「
+50%
+bonus
+critical damage
+」
+AD
+bonus
+physical damage
+.
+After 1.
+5
+seconds of using the empowered attack,
+The Darkin Glaive
+can be recast within the next 5 seconds at no additional cost, modifying it with a new effect.
+Recast:
+Zaahen
+empowers his next basic attack within 5 seconds to have an
+uncancellable windup
+, gain
+25
+bonus
+range
+, deal 30 / 60 / 90 / 120 / 150
+(+ 30 / 40 / 50 / 60 / 70% AD)
+bonus
+physical damage
+and
+knock up
+the target for 0.
+75
+seconds.
+The Darkin Glaive
+deals 150% damage against
+monsters
+.
+Both casts of The Darkin Glaive
+reset
+Zaahen's
+basic attack timer.
+Cost:
+25 mana.
+Cooldown:
+9 / 8 / 7 / 6 / 5 seconds.
+Cast Time:
+None.
+Dreaded Return
+- W
+Active:
+Zaahen
+extends his glaive in the target direction, dealing 40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+physical damage
+to enemies hit. Upon reaching maximum range, all enemies hit are dealt the same
+physical damage
+,
+stunned
+for 0.
+25
+seconds, and
+pulled
+225 units toward
+Zaahen
+.
+Cost:
+50 mana.
+Cooldown:
+16 / 15 / 14 / 13 / 12 seconds.
+Cast Time:
+0.
+5
+seconds,
+Target Range:
+850,
+Width:
+70,
+Speed:
+2900
+/
+900
+.
+Aureate Rush
+- E
+Active:
+Zaahen
+dashes
+to the target location. Upon arrival, he flourishes his glaive to deal 40 / 60 / 80 / 100 / 120
+(+ 50%
+bonus
+AD)
+physical damage
+to nearby enemies.
+Enemies hit by the outer edge are dealt 60 / 90 / 120 / 150 / 180
+(+ 100%
+bonus
+AD)
+increased physical damage
+and
+4 / 5 / 6 / 7 / 8% of the target's
+maximum
+health
+bonus
+magic damage
+, with the latter capped at 400 against
+monsters
+.
+Aureate Rush
+deals
+50
+bonus
+physical damage
+against monsters.
+Cost:
+40 mana.
+Cooldown:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8 seconds.
+Cast Time:
+None,
+Target Range:
+350
+,
+Effect Radius:
+200
+/
+375
+200
+/
+375
+,
+Speed:
+900
+.
+Grim Deliverance
+- R
+Passive:
+Zaahen
+gains 10 / 20 / 30%
+armor penetration
+.
+Active:
+Zaahen
+launches
+into the air to the target location. He then slams his glaive down after a 0.
+6
+-second delay, unleashing a shockwave that deals 250 / 400 / 550
+(+ 200%
+bonus
+AD)
+physical damage
+to nearby enemies and
+heals
+himself for 33% of the
+pre-mitigation damage
+dealt to champions.
+Zaahen
+is
+unable to act
+and gains
+crowd control immunity
+and 50% damage reduction from the start of the cast time. He retains these effects until
+0.
+9
+seconds
+after the dash.
+Cost:
+100 mana.
+Cooldown:
+110 / 95 / 80 seconds.
+Cast Time:
+0.
+5
+seconds,
+Target Range:
+10
+/
+600
+,
+Effect Radius:
+550,
+Speed:
+2800
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Resurrection
+A unit that is protected by
+Resurrection
+will enter a revival state and
+dispel
+most
+debuffs
+upon taking
+fatal damage
+. After the state completes, the unit is revived.
+Resurrection
+effects do not count for kills or assists.
+Resurrection
+sources have a hierarchy, and will trigger in the following order:
+Zilean's
+Chronoshift
+Zaahen's
+Cultivation of War
+Guardian Angel
+Anivia's
+Rebirth
+and
+Zac's
+Cell Division
+Resurrection
+will always take precedence over
+zombie state
+effects. Entering
+resurrection
+does not cancel cast times.
+Renata Glasc's
+Bailout
+always takes priority over
+resurrection
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking due to currently performing another action that must complete. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+The Darkin Glaive
+COOLDOWN:
+10 / 9 / 8 / 7 / 6
+Active:
+Zaahen's
+next
+basic attack
+strikes twice, dealing
+modified
+physical damage
+, applying
+on-hit
+effects and
+healing
+him based on
+his
+maximum
+health
+.
+Briefly after striking a target,
+The Darkin Glaive
+can be recast.
+Recast:
+Zaahen's
+next
+basic attack
+deals
+bonus
+physical damage
+and briefly
+knocks up
+the target.
+League of Legends content
+Dreaded Return
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Zaahen
+extends his glaive in the target direction, dealing
+physical damage
+to enemies hit. Upon reaching maximum range, all enemies in the area are dealt
+physical damage
+,
+stunned
+briefly, and
+pulled
+toward
+Zaahen
+.
+League of Legends content
+Aureate Rush
+COOLDOWN:
+10 / 9.
+5
+/ 9 / 8.
+5
+/ 8
+Active:
+Zaahen
+dashes
+to the target location. Upon arrival, he flourishes his glaive to deal
+physical damage
+to nearby enemies.
+Enemies hit by the outer edge are dealt
+increased physical damage
+and
+bonus
+magic damage
+.
+League of Legends content
+Grim Deliverance
+COOLDOWN:
+110 / 95 / 80
+Passive:
+Zaahen
+gains
+armor penetration
+.
+Active:
+Zaahen
+launches
+to the target location. He then slams his glaive, unleashing a shockwave that deals
+physical damage
+to nearby enemies and
+heals
+himself for a portion of the damage dealt to
+champions
+.
+While performing
+Grim Deliverance
+,
+Zaahen
+is
+cc-immune
+and gains damage reduction.
+Cc-immunity
+:
+Crowd control
+cannot be applied during this time.
+League of Legends content
+Triggerseed
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Ivern
+can target an ally champion,
+Daisy
+, or himself to
+shield
+them for a short time.
+The target then explodes to deal
+magic damage
+and
+slow
+nearby enemies.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Projectile
+A
+projectile
+or
+missile
+is any entity not classified as a unit (
+champion
+,
+minion
+,
+monster
+, etc.
+) that travels at any given velocity.
+Moving units are
+not
+considered projectiles under any circumstance (
+including
+dashing
+units,
+airborne
+units, or units thrown by some abilities such as
+Force of Will
+or
+Roar of the Slayer
+.
+).
+Braum's
+Unbreakable
+,
+Mel's
+Rebuttal
+,
+Samira's
+Blade Whirl
+, and
+Yasuo's
+Wind Wall
+can block, destroy and / or stop projectiles.
+Some
+ranged
+basic attacks (
+including
+turrets
+) and abilities don't use projectiles and will bypass projectile-blocking effects.
+Some abilities will
+destroy
+all currently incoming homing projectiles.
+League of Legends content
+Chronoshift
+COOLDOWN:
+120 / 90 / 60
+Active:
+Zilean
+places a protective time rune on himself or the target allied champion for a few seconds.
+If the target would die, they enter
+resurrection
+for a short time, becoming
+invulnerable
+,
+untargetable
+, and
+unable to act
+. They are
+healed
+afterwards.
+League of Legends content
+Nexus Obelisk
+The
+Nexus Obelisk
+, (or
+Fountain Laser
+), is a turret that deals tons of damage, bypassing survival tools such as
+invulnerability
+and
+resurrection
+. A
+Nexus Obelisk
+presides over each team's spawn platform on most maps.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Stacks additively
+An effect that
+stacks additively
+can be calculated by adding the effects together.
+Most
+champion statistics
+that stack this way are expressed through flat numbers, but the stats can also be percentages. The following stats
+stack additively
+:
+Ability haste
+Ability power
+Armor
+Lethality and flat armor reduction
+Attack damage
+Attack speed
+Critical strike chance
+Critical strike damage
+Heal and shield power
+Health
+Health regeneration
+Life steal
+Magic resistance
+Flat magic penetration and
+reduction
+Mana
+Mana regeneration
+Omnivamp
+Physical vamp
+League of Legends content
+Ultra Rapid Fire (U.R.F.)
+Ultra Rapid Fire
+is a
+Featured Game Mode
+that takes place on
+Summoner's Rift
+with the same objective as
+Classic 5v5
+, except all
+champions
+benefit from the
+Awesome Buff of Awesomely Awesome Buffing
+that grants excessive ability haste and removes ability costs. The gameplay is
+explosive
+. The game mode can be played as
+All Random
+or
+Blind pick
+depending on the year.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+References
+↑
+Zaahen's profile page
+at
+LeagueOfLegends.com
+↑
+Phroxzon on Xin Zhao Homages in Zaahen's Kit
+↑
+X — Squad5lol Lead Champion Designer (21 November 2025)
+Zaahen hotfix
+↑
+Riot - PLEASE DISABLE ZAAHEN!

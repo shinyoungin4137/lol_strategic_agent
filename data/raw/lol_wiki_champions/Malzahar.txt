@@ -1,0 +1,2653 @@
+# Malzahar
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Malzahar
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+580
++101
+MP
+375
++28
+HP5
+6
++0.6
+MP5
+8
++0.8
+AR
+18
++4.7
+AD
+55
++3
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+335
+Attack range
+500
+Attack speed
+Base AS
+0.625
+Windup%
+19%
+AS ratio
+N/A
+Bonus AS
++1.5
+%
+Missile speed
+2000
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+303
+Acq. radius
+600
+Special statistics
+AR
+「 18 (+
+4.2
+) 」
+「
+18 – 89.
+4
+」
+Damage Dealt
+-10%
+Damage Received
++10%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-8%
+Damage Received
++8%
+Damage Dealt
++0%
+Damage Received
++0%
+Malzahar
+The Prophet of the Void
+Role(s):
+Middle
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+3
+Mobility
+1
+Utility
+2
+Release date
+2010-06-01
+Last changed
+V25.04
+Class
+Battlemage
+Legacy class
+Mage
+,
+Assassin
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Magic
+Abilities
+Edit
+Void Shift
+STATIC COOLDOWN
+:
+30 / 24 / 18 / 12 (based on level)
+Innate:
+Periodically,
+Malzahar
+gains
+Void Shift
+until he takes non-
+minion
+damage or negates a
+crowd control
+effect, to which it then lingers for a brief time before expiring.
+Void Shift's
+cooldown
+refreshes whenever
+Malzahar
+takes non-
+minion
+damage or is affected by a
+crowd control
+effect.
+Void Shift:
+Malzahar
+gains
+crowd control immunity
+and massive damage reduction.
+Innate:
+Periodically,
+Malzahar
+gains
+Void Shift
+until he takes non-
+minion
+damage or negates a
+crowd control
+effect, to which it then lingers for 0.
+25
+seconds before expiring.
+Void Shift:
+Malzahar
+gains
+crowd control immunity
+and 90% damage reduction.
+Void Shift's
+cooldown
+refreshes whenever
+Malzahar
+takes non-
+minion
+damage or is affected by a
+crowd control
+effect, and resets upon
+respawning
+.
+Info
+Targeting input
+Passive
+Affects
+Self
+Void Shift
+will not resist allied
+crowd control
+nor will it be deactivated by them.
+Void Shift
+will not mitigate
+true damage
+but the buff will still be consumed.
+It does not deactivate against the
+Nexus Obelisk
+.
+Shields
+will take priority over
+Void Shift
+, but the buff is always consumed, even if the shield fully mitigates the damage.
+(bug)
+However, if
+Malzahar
+has a
+spell shield
+and is hit by an effect that isn't negated by the
+spell shield
+, then if the
+shield
+fully mitigates the damage,
+Void Shift
+will not be consumed.
+Spell shields
+take priority over
+Void Shift
+for abilities that contain a
+crowd control
+effect.
+If the hostile ability does not contain a
+crowd control
+effect, then both
+Void Shift
+and the
+spell shield
+break simultaneously.
+(bug)
+Void Shift
+will specifically not deactivate if
+Malzahar
+eats
+Honeyfruit
+or is within a hostile
+Frozen Heart
+passive
+aura
+.
+Void Shift
+does not prevent
+Zoe's
+Sleepy Trouble Bubble's
+trap
+drowsy
+.
+[1]
+(unexpected)
+Void Shift
+will prevent
+Chum the Waters
+from attaching to him.
+Edit
+Call of the Void
+COST:
+60 / 65 / 70 / 75 / 80 Mana
+COOLDOWN:
+6
+CAST TIME:
+0.
+25
+TARGET RANGE:
+900
+EFFECT RADIUS:
+200
+Active:
+Malzahar
+opens two portals to the void at the target location that last a brief time, which then deal
+magic damage
+to enemies between and briefly
+silence
+them.
+Active:
+Malzahar
+opens two portals to the void centered at the target location, granting
+sight
+of the area in between. After 0.
+4
+seconds, enemies between the portals are dealt
+magic damage
+and
+silenced
+for a duration.
+Magic Damage:
+70 / 105 / 140 / 175 / 210
+(+ 55% AP)
+Silence Duration:
+1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds
+Info
+Targeting input
+Location
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Spell shield
+will prevent
+Call of the Void's
+refresh on
+Malefic Visions
+.
+Malefic Visions'
+debuff will also be removed.
+(unexpected)
+Map-Specific Differences
+ARAM
+differences
+edit
+Deals 80% damage to minions (60% total).
+Edit
+Void Swarm
+COST:
+40 / 45 / 50 / 55 / 60 Mana
+COOLDOWN:
+8
+CAST TIME:
+none
+TARGET RANGE:
+150
+Passive:
+Malzahar
+generates a stack of
+Zz'Rot Swarm
+when he casts another
+ability
+, up to a maximum.
+Active:
+Malzahar
+consumes all
+Zz'Rot Swarm
+stacks to summon a
+Voidling
+at the target location. Additional
+Voidlings
+are then summoned for each
+Zz'Rot Swarm
+stack consumed.
+Voidlings
+target nearby enemies and deal
+magic damage
+with their attacks, prioritizing those targeted by
+Malefic Visions
+and
+Nether Grasp
+.
+Passive:
+Malzahar
+generates a stack of
+Zz'Rot Swarm
+when he casts another
+ability
+, up to a maximum of 2.
+Active:
+Malzahar
+consumes all
+Zz'Rot Swarm
+stacks and, after a 0.
+5
+-second delay, summons a
+Voidling
+at the target location. Additional
+Voidlings
+are then summoned for each
+Zz'Rot Swarm
+stack consumed, with each
+Voidling
+being summoned 0.
+5
+seconds after the previous one.
+Voidling Duration:
+8 / 8 / 9 / 9 / 10 seconds
+Voidlings
+deal
+magic damage
+with their attacks, reduced by 50% against epic
+monsters
+and increased by 200% to enemy
+minions
+infected by
+Malefic Visions
+.
+Magic Damage:
+5 – 64.
+5
+(based on level)
+(+ 12 / 14 / 16 / 18 / 20)
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+Minion Damage:
+15 – 193.
+5
+(based on level)
+(+ 36 / 42 / 48 / 54 / 60)
+(+ 120%
+bonus
+AD)
+(+ 60% AP)
+See
+Pets
+for more details about Voidlings.
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Malzahar
+loses all
+stacks
+upon
+death
+.
+Zz'Rot Swarm
+stacks are gained per cast and not per ability activation. For example, if
+Malefic Visions
+is cast and the ability cancels under certain circumstances, a
+Zz'Rot Swarm
+stack will still be granted despite the ability's failure to complete.
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Voidling AP ratio changed to
+15% AP
+.
+ARAM
+differences
+edit
+Deals 80% damage to minions (60% total).
+Arena
+differences
+edit
+Voidling bonus AD ratio changed to
+60%
+bonus
+AD
+.
+Edit
+Malefic Visions
+COST:
+60 / 70 / 80 / 90 / 100 Mana
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+TARGET RANGE:
+650
+EFFECT RADIUS:
+500
+Active:
+Malzahar
+infects the target enemy's mind, continually dealing
+magic damage
+over a few seconds, which refreshes upon damaging them with
+Call of the Void
+or
+Nether Grasp
+. If the target dies while infected, they spread
+Malefic Visions
+onto the closest nearby enemy and
+Malzahar
+restores a portion of
+his
+maximum
+mana
+.
+Active:
+Malzahar
+infects the target enemy's mind, dealing
+magic damage
+every 0.
+25
+seconds over 4 seconds, which refreshes upon damaging them with
+Call of the Void
+or
+Nether Grasp
+.
+Malefic Visions
+executes
+minions
+if they would be damaged below
+10 – 30 (based on level)
+health
+.
+Total Magic Damage:
+80 / 115 / 150 / 185 / 220
+(+ 80% AP)
+Magic Damage Per Tick:
+5 / 7.
+1875
+/ 9.
+375
+/ 11.
+5625
+/ 13.
+75
+(+ 5% AP)
+If the target dies while infected, they spread
+Malefic Visions
+onto the closest nearby enemy and
+Malzahar
+restores
+2% of his
+maximum
+mana
+.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies
+Damage classification
+Type
+DOT damage
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Malefic Vision's
+cast is special cased to not be cancelled if the target becomes
+untargetable
+,
+dies
+, or is too far away or no longer in
+sight
+during the cast time.
+The debuff is not applied if the target is untargetable by the time the cast completes.
+Edit
+Nether Grasp
+COST:
+100 Mana
+COOLDOWN
+:
+140 / 110 / 80
+CAST TIME:
+0.
+005
+TARGET RANGE:
+700
+TETHER RADIUS:
+1250
+Active:
+Malzahar
+tethers
+to the target enemy champion,
+knocking them down
+. The tether lasts a short time, during which he
+channels
+to
+suppress
+and
+reveal
+the target, continually dealing them
+magic damage
+. Additionally, a
+Null Zone
+is opened beneath the target's location for a few seconds, which continually deals
+magic damage
+to enemies within.
+Active:
+Malzahar
+tethers
+to the target enemy champion,
+knocking them down
+. He then
+channels
+for up to 2.
+5
+seconds,
+suppressing
+and
+revealing
+the target and dealing them
+magic damage
+every 0.
+25
+seconds,
+revealing
+himself in the process.
+Total Magic Damage:
+125 / 200 / 275
+(+ 80% AP)
+Magic Damage Per Tick:
+12.
+5
+/ 20 / 27.
+5
+(+ 8% AP)
+Malzahar
+will continue to channel as long as the tether is not broken, even if the suppression is removed.
+Additionally, a
+Null Zone
+is opened beneath the target's location at the time of cast that lasts 5 seconds, dealing
+magic damage
+every 0.
+5
+seconds to enemies within, capped at 120 per tick against
+minions
+and
+monsters
+.
+Total Magic Damage:
+10 / 15 / 20%
+(+ 2.
+5
+% per 100 AP)
+of target's
+maximum
+health
+Magic Damage Per Tick:
+1 / 1.
+5
+/ 2%
+(+ 0.
+25
+% per 100 AP)
+of target's
+maximum
+health
+Null Zone will persist even if the channel is interrupted.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Minion Aggro
+Drawn
+Counters
+Spell shield
+See Notes
+Projectile
+Not Blocked
+Disruption
+Interrupted
+Applies
+persistent damage
+for the
+tether
+and
+persistent area damage
+to enemies within the
+Null Zone
+.
+Spell shield
+prevents both the tether and the
+Null Zone
+from appearing, however
+Malzahar
+will continue to
+channel
+.
+[2]
+The tether will not break if the target enters a
+zombie state
+or enters
+resurrection
+.
+As long as the target is within the tether radius, they will take the full tether damage over 2.
+5
+seconds even if they are not tethered due to the tether being broken early into the channel.
+(bug)
+This occurs regardless of how the tether was broken.
+If the target exits tether range they will stop taking damage, but can be damaged again by the remaining ticks if they re-enter the tether range within the duration.
+Removing the
+suppression
+will also remove the
+reveal
+.
+Malzahar
+places himself onto the ground and interrupts
+displacements
+affecting him upon starting the
+channel
+.
+If a target is currently being affected by
+Malefic Visions
+, casting
+Nether Grasp
+on them will grant 2 stacks toward effects such as
+Electrocute
+or
+Phase Rush
+.
+(bug)
+This is, correctly, not the case if
+Nether Grasp
+is cast before
+Malefic Visions
+.
+The following table refers for interactions while
+Malzahar
+is
+channeling
+:
+The channel will be interrupted if the tether is broken.
+Type
+Channel
+Attacking
+Disabled if attacking Nether Grasp target. Otherwise interrupts after 0.
+5
+seconds of channeling.
+Abilities
+Interrupts
+Movement
+Disabled for the first 0.
+5
+seconds. Interrupts afterwards.
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+Hextech Rocketbelt
+Interrupted by
+All item-actives not specified above interrupt
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+N/A
+Interrupted by
+Flash
+Teleport
+Recall
+Interrupted by
+Death
+Cast-inhibiting effects
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Beam AP ratio changed to
+60% AP
+.
+ARAM
+differences
+edit
+Null Zone
+deals 80% damage to minions (60% total).
+Pets
+Voidling
+Bounty
+Gold
+2
+Exp
+0
+Statistics
+Health
+65 – 201 (based on level)
+Magic damage
+5 – 64.
+5
+(based on level)
+(+ 12 / 14 / 16 / 18 / 20)
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+Attack speed
+0.
+665
+– 0.
+891
+(based on level)
+Attack range
+100
+Armor
+16 – 50 (based on level)
+Magic resist
+8 – 25 (based on level)
+Incoming damage modifier
+Turret and champion basic attacks will kill
+Voidlings
+regardless of their health.
+Move speed
+400
+Gameplay radius
+10
+Pathing radius
+20
+Control type
+Prioritize attacking
+Nether Grasp's
+target and enemies (champions have a higher priority than minions) infected by
+Malefic Visions
+, or the nearest target.
+Target type
+Minion
+, does not count towards the minion kill tracking score
+On-hit effects
+Voidlings'
+attacks can be mitigated by
+block
+,
+dodge
+, and
+blind
+, as well as stopped by
+Disarm
+.
+Spell effects
+Voidlings'
+basic attacks apply
+spell effects
+as
+area damage
+.
+Abilities
+Void Essence
+The Voidling deals 50% reduced damage to epic
+monsters
+and 200% increased damage to enemy
+minions
+infected by
+Malefic Visions
+.
+Notes
+Live
+Voidlings
+will gain all level-up bonuses when
+Malzahar
+levels up.
+The attacks of all
+Voidlings
+are considered to belong to the same cast instance.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Malzahar (Collection)
+.
+Original
+01.06.2010
+A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra’s salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient Icathia. Amidst the ruins of that land, he gazed into the dark heart of the Void itself, and was gifted new power and purpose. Malzahar now sees himself as a shepherd, empowered to bring others into the fold… or to release the voidling creatures that dwell beneath.
+Vic Mignogna
+Mike Azevedo
+Loot eligible
+View in 3D
+Vizier
+520
+01.06.2010
+Vic Mignogna
+Unknown artist
+Wonders of the World
+Loot eligible
+Legacy
+View in 3D
+Shadow Prince
+520
+01.06.2010
+Vic Mignogna
+Unknown artist
+Legacy
+Loot eligible
+View in 3D
+Djinn
+520
+01.02.2011
+Little is known about the djinn, misinformation leading many to seek out the dark, desolate corners of the world in hopes of finding one to grant their wildest wishes. Instead, they find themselves at the mercy of a powerful spirit that is neither good nor evil and has a penchant for possession.
+Vic Mignogna
+Unknown artist
+Fables
+Loot eligible
+View in 3D
+Overlord
+975
+19.09.2011
+Vic Mignogna
+Kienan 'Knockwurst' Lafferty
+Definitely Not
+Loot eligible
+New SFX/VFX
+View in 3D
+Snow Day
+975
+15.12.2014
+Prophets of doom love a snow day as much as anybody—perhaps even more, since Malzahar knows everything will one day be swallowed by the Void. Clad in fashionable winter gear and flanked by an army of voidling poros, he's ready to usher in the snowball apocalypse.
+Vic Mignogna
+Unknown artist
+Snow Day
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Snow Day Malzahar Chromas
+Golden
+Battle Boss
+1350
+08.08.2017
+A boss hailing from a long-forgotten game cabinet, Malzahar broke free from the last remaining copy of his game to invade nearby machines. Now he has made his way to Arcade World, shredding the code of his enemies with an army of intelligent viruses.
+Vic Mignogna
+Kelly Aleshire
+Arcade: Battle Bosses
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+•
+View Music
+Hextech
+Special
+18.10.2018
+Upon hearing that the origin of hextech lay in his homeland of Shurima, Malzahar ventured out into the wastes alone. There, after suffering a life-changing revelation, he became its greatest messenger, claiming to see prophecies of the coming of a second hextech renaissance.
+Vic Mignogna
+Xu 'Crow God' Cheng
+Hextech
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Worldbreaker
+1350
+09.04.2020
+With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains.
+Vic Mignogna
+Zhong Yang, Kudos Productions
+Worldbreaker
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Worldbreaker Malzahar Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sandstone
+Turquoise
+Beezahar
+1350
+04.03.2021
+Open your true mind, and beelieve.
+Vic Mignogna
+Foritis Wang, West Studio
+Bees!
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Beezahar Chromas
+Amethyst
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Sandstone
+Sapphire
+Debonair
+1350
+09.12.2021
+An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of.
+Vic Mignogna
+Jennifer Wuestling
+Debonair
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Debonair Malzahar Chromas
+Cerulean Club
+Citrine
+Emerald
+Obsidian
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Three Honors
+Special
+07.12.2022
+As the Order of Solace's leader, Malzahar wants to extend a gentle, guiding hand to all. It was only by following the tenets of the Three Honors that he was able to escape from a pit of cynicism, and while apathy may reign supreme, Malzahar will do whatever it takes to build a better world.
+Vic Mignogna
+Ina Wong, West Studio
+Three Honors
+Loot ineligible
+View in 3D
+Empyrean
+1350
+01.05.2024
+Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up.
+Vic Mignogna
+Chace Chen, Pandart Studio
+Empyrean
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Empyrean Malzahar Chromas
+Catseye
+Emerald
+Neon Facade
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Fatebreaker
+1350
+16.04.2025
+Malzahar has glimpsed an endless pattern in his dreams every night for as long as he can remember. Over time, his fascination turned to obsession. Only by stealing into the Palace of the Weave and unlocking the secrets of the Scholar's Fractal Library can he reveal the nature of his visions… and the true shape of fate.
+Vic Mignogna
+Huyy Nguyen, West Studio
+Fatemakers and Fatebreakers
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Fatebreaker Malzahar Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+For the expanded patch notes, see
+here
+.
+V25.04
+Malefic Visions
+Bug Fix:
+No longer instantly kills
+Zyra's
+plants
+.
+V25.S1.2
+Void Swarm
+New Effect:
+Live Voidlings now gain the level scaling bonuses when
+Malzahar
+levels up.
+Tooltip now notes the damage per rank and uses it when calculating the displayed Voidling damage numbers.
+Tooltip now properly uses stat growth instead of linear interpolation when calculating the displayed Voidling damage numbers.
+Malefic Visions
+Bug Fix:
+No longer sometimes fails to trigger
+Bloodletter's Curse's
+Vile Decay.
+V14.24
+Void Swarm
+Bug Fix:
+No longer reveals the user if cast while the cursor is near an enemy champion.
+V14.9
+Stats
+Selection radius increased to 120 units from 88.
+8889007568359
+.
+Call of the Void
+Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 80 at all ranks.
+Malefic Visions
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 15 / 13 / 11 / 9 / 7.
+Worldbreaker Malzahar
+Nether Grasp
+Bug Fix:
+Tether VFX now fires from his mouth as intended.
+V13.19
+Malefic Visions
+Bug Fix:
+Now properly spreads the debuff even if it was cast on a minion as it was dying.
+V13.16
+Malefic Visions
+Tick rate reduced to 1 per 0.
+25
+seconds from 1 per 0.
+5
+.
+Minion execute threshold reduced to
+10 – 30 (based on level)
+health
+from
+15 – 45 (based on level)
+health
+.
+V13.9
+Malefic Visions
+Bug Fix:
+Now properly spreads when it kills a minion.
+V13.4
+Malefic Visions
+Bug Fix:
+Now properly triggers
+Manaflow Band
+when it spreads to an enemy champion after having done so multiple times.
+V12.22
+Stats
+Mana growth increased to 28 from 27.
+5
+.
+V12.21
+Malefic Visions
+New Effect:
+Now executes minions below
+15 – 45 (based on level)
+health
+.
+V12.10
+Stats
+Base health increased to 580 from 510.
+Health growth increased to 101 from 87.
+Armor growth increased to 4.
+7
+from 3.
+5
+.
+Magic resistance growth increased to 1.
+3
+from 0.
+5
+.
+Void Shift
+Bug Fix:
+Crowd control immunity is no longer consumed by
+Blast Cones
+triggered by allies.
+V12.4
+Void Swarm
+Undocumented - Estimated / Bug Fix:
+Casting it no longer triggers a stack of
+Tear of the Goddess'
+Mana Charge.
+V11.24
+Void Shift
+Bug Fix:
+No longer is consumed or refreshed incorrectly under certain circumstances.
+V11.19
+Void Shift
+Bug Fix:
+Damage reduction no longer fails to reduce damage that subsequently triggered
+Night Harvester's
+Soulrend.
+V11.14
+Stats
+Base health reduced to 510 from 537.
+Call of the Void
+AP ratio reduced to
+55% AP
+from
+65% AP
+.
+V11.11
+Hextech Malzahar
+Bug Fix:
+Hitting him triggers more metallic sounds.
+Worldbreaker Malzahar
+Call of the Void
+Bug Fix:
+Fixed an SFX bug where the initial portion of the ability couldn't be heard if he casts the ability from Fog of War.
+V10.18
+General
+Updated visual effects.
+New basic attack missiles and hit effects.
+Void Shift
+Reduced some of the noise from the shield. Made it a bit brighter to match other spell shields.
+Call of the Void
+New quickcast indicator to better represent its actual hitbox. New missile and hit effects.
+Void Swarm
+New spawn effects and basic attacks.
+Malefic Visions
+New debuff effect and a beam effect when the debuff spreads to other enemies.
+Nether Grasp
+New beam, hit, and AoE effects, including a more thematic pool.
+Snow Day Malzahar
+Call of the Void
+New snowball VFX.
+Battle Boss Malzahar
+Call of the Void
+Updated to rotate spaceships to better match hitbox.
+Hextech Malzahar
+Call of the Void
+Updated to show hitbox more clearly.
+Worldbreaker Malzahar
+Call of the Void
+Updated to show hitbox more clearly.
+V10.15
+Void Swarm
+Bug Fix:
+Voidlings now properly trigger
+Manaflow Band
+.
+V10.11
+Malefic Visions
+Bug Fix:
+Debuff now properly spreads onto the closest target even after killing zombie
+Sion
+during the ability's effect.
+V9.23
+Void Swarm
+Gathering Swarm
+stacks renamed to
+Zz'Rot Swarm
+.
+V9.16
+Nether Grasp
+Bug Fix:
+Now adds a revealed marker to the target, including stealthed targets.
+V9.7
+Snow Day Malzahar
+Bug Fix:
+Buffs aura now properly follow the model during certain animations.
+V9.6
+Voidlings
+New Effect:
+Now triggers effects that are triggered by pets (i.e. on-ability-hit effects).
+It is also classified as basic attacks.
+V8.9
+Stats
+Base mana increased to 375 from 300.
+Mana growth reduced to 27.
+5
+from 55.
+Base mana regeneration increased to 8 from 6.
+Call of the Void
+Bug Fix:
+VFX no longer flicker.
+V8.8
+Battle Boss Malzahar
+Bug Fix:
+Recall VFX have been restored.
+V8.2
+Call of the Void
+AP ratio reduced to
+65% AP
+from
+80% AP
+.
+Malefic Visions
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Nether Grasp
+Cooldown increased to 140 / 110 / 80 seconds from 120 / 100 / 80.
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+Battle Boss Malzahar
+Void Swarm
+Bug Fix:
+SFX have been toned down and are now less noisy.
+Malefic Visions
+Bug Fix:
+SFX have been toned down and are now less noisy.
+V7.24
+Nether Grasp
+Base damage reduced to 125 / 200 / 275 from 125 / 225 / 325.
+AP ratio reduced to
+80% AP
+from
+110% AP
+.
+V7.22
+Stats
+Base health increased to 537 from 525.
+Health growth increased to 87 from 75.
+V7.19
+Void Swarm
+Bug Fix:
+Voidlings are no longer missing attack on-hit VFX.
+V7.17
+Void Shift
+Bug Fix:
+Now correctly blocks
+Fizz's
+Chum the Waters
+.
+Battle Boss Malzahar
+Bug Fix:
+Auto attack animation is no longer faster than his base model's.
+V7.15
+Void Shift
+Bug Fix:
+Purple overlay no longer hides
+Malzahar's
+skins when
+Void Shift
+is active.
+V7.12
+Call of the Void
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+Nether Grasp
+Beam base damage reduced to 125 / 225 / 325 from 125 / 250 / 375.
+Beam AP ratio reduced to
+110% AP
+from
+115% AP
+.
+Bug Fix:
+Quicksilver Sash
+and
+Mercurial Scimitar
+now properly purge only the suppression portion of
+Nether Grasp
+. Beam damage will continue to tick as long as
+Malzahar's
+target stays within a 1250-range.
+V7.11
+Call of the Void
+Cast time reduced to 0.
+25
+seconds from 0.
+5
+.
+New Effect:
+Now has a 0.
+4
+-seconds post-cast delay before firing.
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Void Swarm
+Mana cost increased to 40 / 45 / 50 / 55 / 60 from 40 at all ranks.
+Removed:
+Charge system.
+Now has a standard cooldown.
+Cooldown reduced to 8 seconds at all ranks from 20 / 19 / 18 / 17 / 16.
+New Effect:
+Malzahar
+gains a stack of
+Gathering Swarm
+when he casts another ability, up to a maximum of 2 stacks.
+Malzahar
+summons a Voidling, plus an additional Voidling per stack of
+Gathering Swarm
+, up to a maximum of 3 Voidlings per cast.
+Removed:
+Voidlings are no longer able to spawn additional Voidling.
+Cast range reduced to 150 from 450.
+Removed:
+Voidlings killed increasing the minion killed stat.
+Voidlings stats:
+Attack damage dealt changed to
+5 – 64.
+5
+(based on level)
+at all ranks from 30 / 35 / 40 / 45 / 50
+(+ 40%
+bonus
+AD)
+.
+Bonus magic damage dealt changed to 12 / 14 / 16 / 18 / 20
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+from 10 / 15 / 20 / 25 / 30
+(+ 20% AP)
+.
+Attack speed growth increased to 2% from 0%.
+Attack speed increased to
+0.
+665
+– 0.
+891
+(based on level)
+from 0.
+665
+at all levels.
+Both attack's components deal magic damage from attack damage dealt as physical damage and bonus damage dealt as magic damage.
+Duration reduced to 8 / 8 / 9 / 9 / 10 seconds from 12 at all ranks.
+Health increased to
+65 – 201 (based on level)
+from 3 (with modified damage).
+Armor changed to
+16 – 50 (based on level)
+from 30 at all levels.
+Magic resistance reduced to
+8 – 25 (based on level)
+from 50 at all levels.
+New Effect:
+Champions' and turrets' basic attacks will instantly kill Voidlings.
+All other damage will be reduced by armor and magic resistance normally.
+Gold reward reduced to
+2
+from
+5
+.
+Movement speed reduced to 400 from 451.
+Removed:
+Gaining 100%
+bonus
+movement speed when running toward priority targets.
+Removed:
+Movement speed reduced by distance from
+Malzahar
+.
+Removed:
+Dealing 50% reduced damage to monsters.
+New Effect:
+Now deals 50% reduced damage to
+epic
+monsters.
+Malefic Visions
+AP ratio increased to
+80% AP
+from
+70% AP
+.
+Nether Grasp
+New Effect:
+The beam attack to the main target now deals 125 / 250 / 375
+(+ 115% AP)
+over the duration.
+Target's maximum health ratio reduced to
+10 / 15 / 20% of target's
+maximum
+health
+from
+25 / 35 / 45% of target's
+maximum
+health
+.
+Target's maximum health AP ratio reduced to
+2.
+5
+% per 100 AP
+from
+7.
+5
+% per 100 AP
+.
+V7.9
+Stats
+Magic resistance growth increased to 0.
+5
+from 0.
+V7.8
+Stats
+Base armor reduced to 18 from 20.
+Void Swarm
+Voidling health reduced to 2 from 3.
+Voidling bounty reduced to
+5
+from
+10
+.
+V7.7
+Void Swarm
+Bug Fix:
+Lifesteal no longer applies when hitting voidlings.
+V7.3
+Void Swarm
+New Effect:
+Voidlings now spawn 0.
+35
+seconds after cast.
+New Effect:
+Now has a 1 second cooldown between 2 casts.
+New Effect:
+Past 600 distance, Voidlings move 10% more slowly for every 100 additional distance farther they are from
+Malzahar
+.
+V6.24
+Void Swarm
+Bug Fix:
+Voidlings
+now properly take damage from several damage types that weren't working properly.
+V6.23
+Void Swarm
+Mana cost reduced to 40 from 80.
+New Effect:
+Now utilizes a stock system and holds up to two charges.
+Current cooldown is now the recharge time.
+Voidling health changed to 3 from
+their current value (which was presumably 200 + (50 × level))
+.
+Physical damage changed to 30 / 35 / 40 / 45 / 50
+(+ 40%
+bonus
+AD)
+from
+30 / 32.
+5
+/ 35 / 37.
+5
+/ 40% AD
+.
+AP ratio increased to
+20% AP
+from
+10% AP
+.
+Voidlings having the ability to spawn other Voidlings after W cast reduced to 3 seconds from 8.
+Removed:
+Spawn an additional Voidling if a Voidling assists in killing a unit.
+New Effect:
+200%
+bonus
+damage to minions affected by
+Malefic Visions
+.
+Removed:
+200%
+bonus
+damage to minions
+below 20% health
+.
+Removed:
+50%
+bonus
+attack speed
+when the swarm has at least 3 Voidlings.
+New Effect:
+Voidlings now only gain bonus movement speed toward priority targets if they're within 600 units of
+Malzahar
+.
+V6.15
+Void Shift
+Cooldown increased to
+30 / 24 / 18 / 12 (based on level)
+seconds from
+30 / 18 / 10 / 6 (based on level)
+.
+Linger after taking damage or blocking a crowd control effect reduced to 0.
+25
+seconds from 1.
+V6.14
+Stats
+Movement speed reduced to 335 from 340.
+Attack range reduced to 500 from 550.
+V6.11
+Malefic Visions
+Bug Fix:
+Voidlings
+no longer get confused if a target afflicted by
+Malefic Visions
+enters brush.
+V6.10
+Void Shift
+Cooldown changed to to
+30 / 18 / 10 / 6 (based on level)
+seconds from
+23 – 6 (based on level)
+.
+Cooldown indicator is now also shown on buff bar.
+Bug Fix:
+Frozen Heart
+'s aura no longer pops it.
+May 9th Hotfix
+Call of the Void
+Mana cost increased to 80 at all ranks from 60.
+Void Swarm
+Mana cost increased to 80 from 60.
+Damage versus monsters reduced to 50% from 75.
+Nether Grasp
+Base damage reduced to
+5 / 7 / 9% of target's maximum health
+from 6 / 8 / 10.
+V6.9
+General
+New splash artwork for
+Original Malzahar
+.
+New ability icons
+Void Shift
+-
+New Innate
+If Malzahar has not taken damage nor been affected by crowd control in the last
+23 – 6 (based on level)
+seconds, he phases out, which lingers for 1 second after taking damage or blocking a crowd control effect. While phased out, Malzahar is immune to crowd control effects and takes 90% reduced damage. Damage from minions does not interact with Void Shift.
+Call of the Void
+Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 135 / 190 / 245 / 300.
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 80% AP)
+Silence duration reduced to 1 / 1.
+25
+/ 1.
+5
+/ 1.
+75
+/ 2 seconds from 1.
+4
+/ 1.
+8
+/ 2.
+2
+/ 2.
+6
+/ 3.
+Cooldown reduced to 6 seconds from 9.
+Mana cost reduced to 60 at all ranks from 80 / 85 / 90 / 95 / 100.
+Void Swarm
+-
+New W
+Malzahar spawns a
+Voidling
+at the target location, which lasts for 12 seconds. The first time a Voidling attacks a champion or large monster, or assists in killing a unit, Malzahar will spawn an additional Voidling with the same remaining duration that can in turn spawn an additional Voidling. This cannot happen if there is less than 4 seconds remaining. When three or more Voidling are active, they all gain
+50% bonus attack speed
+.
+Voidlings deal
+30 / 32.
+5
+/ 35 / 37.
+5
+/ 40% AD
+physical damage plus 10 / 15 / 20 / 25 / 30
+(+ 10% AP)
+bonus magic damage. The damage is reduced to 75% against monsters, and increased to 300% against minions below 25% of their maximum health.
+Voidlings will gain 100% bonus movement speed toward priority targets (denoted with †)
+Attack priority
+Target of
+Nether Grasp
+†
+Enemy champions affected by
+Null Zone
+†
+Enemies affected by
+Malefic Visions
+(prioritizing champions over minions) †
+Nearest target
+Removed:
+Malzahar's autoattack target priority
+Removed:
+Leash range
+Cost: 60 mana
+Cooldown: 20 / 19 / 18 / 17 / 16 seconds
+Range: 450
+Malefic Visions
+Base damage reduced 80 / 115 / 150 / 185 / 220 from 80 / 140 / 200 / 260 / 320.
+AP ratio reduced to
+(+ 70% AP)
+from
+(+ 80% AP)
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 75 / 90 / 105 / 120.
+Refund changed to
+2% maximum Mana
+from 10 / 14 / 18 / 22 / 26.
+New Effect:
+Damaging a target with
+Call of the Void
+or
+Nether Grasp
+will refresh the duration of Malefic Visions.
+Nether Grasp
+New Effect:
+A Null Zone is created on the floor beneath Malzahar's target, which lingers for 5 seconds.
+Removed:
+250 / 400 / 550
+(+ 130% AP)
+damage
+New Effect:
+Malzahar's target and all those in the Null Zone are damaged for
+6 / 8 / 10%
+(+ 1.
+5
+% per 100 AP)
+of target's maximum health
+each second.
+Trivia
+After the
+Battlemage
+update
+in
+V6.9
+, Malzahar's Voidlings had their color scheme changed from
+purple with yellow eyes
+to
+gray with purple eyes
+.
+Malzahar is one of the few champions to have a
+pet
+, the others being
+Annie
+,
+Elise
+,
+Heimerdinger
+,
+Ivern
+,
+Shaco
+, and
+Yorick
+.
+Malzahar and his
+Voidlings'
+dance references
+U Can't Touch This
+by
+MC Hammer
+.
+A side-by-side comparison for Malzahar's part can be seen
+here
+.
+A side-by-side comparison for his
+Voidlings'
+part can be seen
+here
+.
+He shares this dance (specifically his
+Voidlings'
+part) with
+Jayce
+.
+Upon the removal of
+Zz'Rot Portal
+in patch
+V9.23
+,
+Gathering Swarm
+stacks for
+Void Swarm
+was renamed to
+Zz'Rot Swarm
+to honor the item.
+This might indirectly imply that Malzahar's
+voidlings
+are a similar if not the same species as the
+Voidspawn
+that spawned from that item.
+Malzahar's
+Voidling
+had its assets reused for several
+rotating game modes
+.
+It was given a retexture and features as a monster in
+Invasion
+.
+Its animations were reused for the
+Cyte
+monster in
+Odyssey: Extraction
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Middle
+Within a
+drafted team
+, the
+Mid Laner
+is the champion assigned to the mid lane.
+Burst Mages
+,
+Artillery Mages
+, and
+Assassins
+are the most likely champions to be selected in the
+Mid Laner
+position.
+League of Legends content
+Battlemage
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+Battlemages
+(also known as Warlocks) get into the middle of the fray, seeking to wreak havoc upon the entire enemy team with their overwhelming sustained area damage. Due to their relatively short (but not melee) combat ranges and the need to burn down their opponents over time, Battle Mages have significant defensive capabilities that range from sustaining endlessly to literally defying death for a short period of time.
+Examples
+Rumble
+Swain
+Vladimir
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+Additional effects over the
+crowd control
+will not be prevented (e.g.
+Malzahar's
+Nether Grasp
+will not
+suppress
+but the
+tether
+still applies).
+League of Legends content
+True damage
+Applies:
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Nexus Obelisk
+The
+Nexus Obelisk
+, (or
+Fountain Laser
+), is a turret that deals tons of damage, bypassing survival tools such as
+invulnerability
+and
+resurrection
+. A
+Nexus Obelisk
+presides over each team's spawn platform on most maps.
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Sleepy Trouble Bubble
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Zoe
+kicks a bubble in the target direction that bursts upon the first enemy hit. At max range, it will linger as a trap for a few seconds that bursts upon enemy contact.
+The burst deals
+magic damage
+and briefly inflicts
+drowsy
+, which gradually
+slows
+them. Afterwards, the target falls
+asleep
+for a short time, during which they cannot act.
+If the target is attacked during
+Sleep
+by an enemy
+champion
+, large
+monster
+, or
+turret
+, they wake up and take
+bonus
+true damage
+equal to the attack, up to a cap.
+League of Legends content
+Drowsy
+A unit that is
+drowsy
+is
+slowed
+, and afterwards will fall
+asleep
+.
+Removing
+drowsy
+or being
+displacement immune
+or
+immune to crowd control
+at its end will prevent
+sleep
+from occurring.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Slow resist
+,
+slow immunity
+and slow removals (i.e -
+Decisive Strike
+) can be used to (respectively) weaken, prevent or remove the associated
+slow
+, however, it does not prevent from falling asleep after the duration.
+Tenacity
+gained while
+drowsy
+will still affect the duration of the
+sleep
+.
+League of Legends content
+Chum the Waters
+COOLDOWN:
+120 / 100 / 80
+Active:
+Fizz
+tosses a lure in the target direction that lands on the ground, attracting a shark that erupts after a short delay, dealing
+magic damage
+to nearby enemies,
+knocking them back
+and
+slowing
+them.
+The farther the lure flies, the larger the shark that is attracted, increasing the effects.
+The lure attaches to the first enemy champion that touches it,
+slowing
+them. The shark will
+knockup
+the target instead of knocking them back.
+League of Legends content
+Silence
+A unit that is
+silenced
+is unable to cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Interrupts:
+Interrupts all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Malefic Visions
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Malzahar
+infects the target enemy's mind, continually dealing
+magic damage
+over a few seconds, which refreshes upon damaging them with
+Call of the Void
+or
+Nether Grasp
+.
+If the target dies while infected, they spread
+Malefic Visions
+onto the closest nearby enemy and
+Malzahar
+restores a portion of
+his
+maximum
+mana
+.
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Nether Grasp
+COOLDOWN:
+140 / 110 / 80
+Active:
+Malzahar
+tethers
+to the target enemy champion,
+knocking them down
+. The tether lasts a short time, during which he
+channels
+to
+suppress
+and
+reveal
+the target, continually dealing them
+magic damage
+.
+Additionally, a
+Null Zone
+is opened beneath the target's location for a few seconds, which continually deals
+magic damage
+to enemies within.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+Swiftplay
+Swiftplay
+is
+Normal game
+queue for 5v5
+Classic
+Summoner's Rift
+.
+Players skip
+champion select
+by picking their champions beforehand in the lobby, then enter a game that has accelerated game rules (resulting in faster games overall)—such as gaining extra
+gold
+from nearby
+minion
+deaths,
+Rift Herald
+and
+Baron Nashor
+spawning earlier, faster item completion, and more!
+Swiftplay
+is currently being tested in the following
+regions
+: NA, LAN, LAS, EUW, EUNE, RU, BR, TR, TW, VN.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Call of the Void
+COOLDOWN:
+6
+Active:
+Malzahar
+opens two portals to the void at the target location that last a brief time, which then deal
+magic damage
+to enemies between and briefly
+silence
+them.
+League of Legends content
+Persistent damage
+Persistent damage
+is the damage type dealt by most damage-over-time (DoT)
+abilities
+.
+Persistent damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+References
+↑
+Malzahar's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,3121 @@
+# Yorick
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Yorick
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+650
++114
+MP
+300
++60
+HP5
+8
++0.8
+MP5
+7.5
++0.75
+AR
+36
++4.5
+AD
+62
++5
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Windup%
+20.625%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+80
+Select. radius
+125
+Pathing radius
+50
+Select. height
+190
+Acq. radius
+400
+Special statistics
+AR
+「
+32
+(+ 4.5) 」
+「
+32 – 108.
+5
+」
+AD
+「 62 (+
+4.3
+) 」
+「
+62 – 135.
+1
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-10%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Yorick
+Shepherd of Souls
+Role(s):
+Top
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+2
+Toughness
+2
+Control
+2
+Mobility
+1
+Utility
+2
+Release date
+2011-06-22
+Last changed
+V26.03
+Class
+Juggernaut
+Legacy class
+Fighter
+,
+Tank
+Resource
+Mana
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Shepherd of Souls
+EFFECT RADIUS:
+1000
+•
+2500
+Innate- Final Service:
+Enemies that die near
+Yorick
+will leave a
+grave
+, as well as those he kills or damages with
+Last Rites
+.
+Yorick
+can use
+Awakening
+and
+Mourning Mist
+to turn all
+graves
+into
+Mist Walkers
+that assist him in combat.
+Innate - The Cursed Horde:
+Mist Walkers
+will autonomously advance a lane upon entering combat within.
+Yorick
+can have up to 4
+Mist Walkers
+.
+Innate - Final Service:
+Whenever
+Yorick
+uses
+Last Rites
+to score the killing blow on any enemy or damage an enemy
+champion
+or large
+monster
+, he raises a
+grave
+at
+their location
+. Additionally, a grave is passively raised for every
+8th – 2nd (based on level)
+enemy that dies otherwise near him. Up to 4
+graves
+can exist at once, lasting until
+Yorick
+exits the general area or
+dies
+, with the furthest one always being replaced by the newest upon raising one over the limit.
+Yorick
+can use
+Awakening
+and
+Mourning Mist's
+mark to raise 1
+Mist Walker
+from each
+grave
+after a 1-second delay, consuming the
+graves
+in the process.
+Innate - The Cursed Horde:
+Up to 4
+Mist Walkers
+can be active at once near
+Yorick
+or near
+The Maiden
+, with the nearest one always being replaced by the newest upon raising one over the limit.
+See
+Pets
+for more details about
+Mist Walkers
+.
+Info
+Targeting input
+Passive
+Affects
+Self
+Damaging a large monster or champion with
+Last Rites
+will only spawn 1 grave, even if it kills them.
+Map-Specific Differences
+ARAM
+differences
+edit
+Deaths required for a grave changed to 5 at all levels.
+Arena
+differences
+edit
+New Effect:
+Now spawns a grave at a random location within 600 units every 8 seconds.
+Ghoul attack damage AD ratio changed to
+15% AD
+.
+Ghoul health changed to 70% value.
+Ability Preview Video
+Edit
+Last Rites
+COST:
+20 Mana
+COOLDOWN
+:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+CAST TIME:
+none
+Active:
+Yorick's
+next basic attack within a few seconds will gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and
+heal
+him based on
+his
+missing
+health
+. If there are at least 3
+graves
+nearby while
+Last Rites
+is active or on
+cooldown
+, he can cast
+Awakening
+.
+Active:
+Yorick
+empowers his next
+basic attack
+within 5 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+, deal
+bonus
+physical damage
+, and
+heal
+him. The heal is reduced by 50% against non-champions.
+Bonus Physical Damage:
+30 / 50 / 70 / 90 / 110
+(+ 50% AD)
+Heal:
+10 – 78 (based on level)
+(+ 6 / 7 / 8 / 9 / 10% of his
+missing
+health)
+Non-Champion Heal:
+5 – 39 (based on level)
+(+ 3 / 3.
+5
+/ 4 / 4.
+5
+/ 5% of his
+missing
+health)
+While there are at least 3
+graves
+nearby and
+Last Rites
+is active or on
+cooldown
+,
+Yorick
+can cast
+Awakening
+.
+Last Rites
+resets
+Yorick's
+basic attack timer.
+Edit
+Awakening
+CAST TIME:
+none
+RANGE:
+1000
+Active:
+Yorick
+summons
+Mist Walkers
+from the
+graves
+around him.
+Active:
+Yorick
+exhumes a
+Mist Walker
+under his command from each nearby
+grave
+.
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+No additional notes.
+Targeting input
+Proximity
+Target out-of-range override
+The ability will not cast
+Affects
+Self
+Awakening
+counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Mist Walkers
+update their
+statistics
+correspondingly to
+Yorick's
+during the periodic stat update, with the exception of their
+maximum health
+.
+Awakening
+cannot be cast without enough
+graves
+in
+range
+.
+Last Rites
+ARAM
+differences
+edit
+AD ratio changed to
+30% AD
+.
+Heal health ratio changed to
+4 / 5 / 6 / 7 / 8% of his
+missing
+health
+.
+Arena
+differences
+edit
+Heal health ratio changed to
+3 / 4 / 5 / 6 / 7% of his
+missing
+health
+.
+No video available.
+Edit
+Dark Procession
+COST:
+70 Mana
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+none
+TARGET RANGE:
+600
+EFFECT RADIUS:
+225
+•
+200
+Impassable perimeter:
+125
+-
+325
+Active:
+Yorick
+summons a destructible ring of spirits at the target location that
+knocks aside
+enemies hit. It remains as
+terrain
+against enemies for a few seconds.
+Active:
+Yorick
+summons a ring of spirits around the target location that arises after a 0.
+75
+-second delay,
+knocking aside
+enemies hit by the walls over 0.
+25
+seconds, though not through terrain. Within
+210-units
+, they are pulled inside; otherwise they are pushed away. The ring remains for 4 seconds as impassible
+terrain
+against enemies, granting
+sight
+inside the ring.
+Dark Procession
+can only be targeted by enemy
+champion
+basic attacks and
+turrets
+. The wall takes 1
+damage
+per attack from champions and is destroyed instantly from turret attacks.
+Wall Health:
+2 / 2 / 3 / 3 / 4
+Info
+Targeting input
+Location
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Enemies
+Counters
+Spell shield
+Not Blocked
+Dark Procession
+has a
+turret
+prioritization value of 6, equal to that of
+super minions
+.
+Yorick's
+other
+pets
+each have a lower prioritization value, allowing him to delay the turret from targeting the
+The Maiden
+or a
+Mist Walker
+for one attack.
+Dark Procession
+deals 0
+proc
+true damage
+to enemies it knocks aside, which triggers
+in-combat
+effects such as drawing turret and
+monster aggression
+,
+Sudden Impact
+or applying
+Elixir of Sorcery
+.
+The perimeter is made up of 18 units with 100
+pathing radius
+and 20
+gameplay radius
+each.
+Yorick
+marks any enemy champion within repeatedly while the cage persists in order to gain
+assist
+credit, lasting for the standard credit timer.
+Ability Preview Video
+Edit
+Mourning Mist
+COST:
+50 / 55 / 60 / 65 / 70 Mana
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+EFFECT RADIUS:
+1500
+Active:
+Yorick
+hurls a globule of Black Mist that splashes at the target location dealing
+magic damage
+to enemies. Enemy
+champions
+and
+monsters
+hit are also shortly
+slowed
+, and marked
+Cursed
+for a few seconds.
+Yorick
+and his summons gain
+bonus
+movement speed
+toward a
+Cursed
+target.
+Mist Walkers
+will leap to a nearby
+Cursed
+target and focus them.
+Cursed:
+The target has reduced
+armor
+. Nearby
+graves
+automatically raise a
+Mist Walkers
+.
+Active:
+Yorick
+hurls a globule of Black Mist that splashes across an area at the target location, dealing
+magic damage
+to enemies hit, down to a minimum threshold against
+minions
+, and capped against
+monsters
+. Enemy
+champions
+and
+monsters
+hit are
+slowed
+by 30% for 1.
+5
+seconds and marked as
+Cursed
+for 4 seconds.
+Magic Damage:
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+(+ 3% per 100 AP)
+of target's
+maximum
+health
+Minimum Minion Damage:
+70 / 105 / 140 / 175 / 210
+(+ 100% AP)
+Capped Monster Damage:
+50 / 75 / 100 / 125 / 150
+(+ 100% AP)
+Cursed:
+The target is
+revealed
+and inflicted with
+armor reduction
+, and continually raises a
+Mist Walker
+from each nearby
+grave
+, up to a maximum of 4.
+Yorick
+,
+Mist Walkers
+and the
+The Maiden
+gain
+bonus
+movement speed
+while facing nearby
+Cursed
+enemies.
+Mist Walkers
+will
+leap
+to nearby
+Cursed
+enemy champions and large monsters, attacking them upon arrival.
+Armor Reduction:
+13 / 16 / 19 / 22 / 25% of target's armor
+Bonus Movement Speed:
+18 / 21 / 24 / 27 / 30%
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Yorick
+will snap his facing direction towards the target location at the start of the cast time.
+The speed boost toward marked targetes does not require
+sight
+of them.
+The
+Mist Walkers
+do not
+leap
+if they are
+immobilized
+or
+grounded
+, or if the
+marked
+target is
+untargetable
+.
+The damage done by the
+Mist Walkers'
+leap shares a
+cast instance
+with
+Mourning Mist
+.
+Ability Preview Video
+Edit
+Eulogy of the Isles
+COST:
+100 Mana
+COOLDOWN
+:
+160 / 130 / 100
+CAST TIME:
+0.
+5
+TARGET RANGE:
+600
+Active:
+Yorick
+summons the
+Maiden of the Mist
+and a few
+Mist Walkers
+at the target location. The
+Maiden
+will automatically raise
+Mist Walkers
+from dead enemies, and mark her attack target with
+Touch of the Maiden
+.
+Eulogy of the Isles
+can be recast while the
+Maiden
+is active.
+Recast:
+Yorick
+sets the
+Maiden
+free, allowing her to push the nearest lane.
+Touch of the Maiden:
+Yorick's
+next basic attack will consume the mark to deal
+bonus
+magic damage
+by a portion of the
+target's
+maximum
+health
+.
+Active:
+Yorick
+summons the
+Maiden of the Mist
+over 1.
+5
+seconds
+, along with a number of
+Mist Walkers
+surrounding her at the target location, which remain on the battlefield until she or
+Yorick
+dies.
+Eulogy of the Isles
+can be recast once while the
+Maiden
+is alive after 10 seconds of the activation.
+Mist Walkers:
+2 / 3 / 4
+Recast:
+Yorick
+sets the
+Maiden
+free, allowing her to push the nearest
+lane
+until she dies.
+See
+Pets
+for more details about The
+Maiden of the Mist
+.
+"Behold the horrors of the Isles!"
+Maiden of the Mist:
+"The mist takes all!"
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Self
+See the
+Pets
+section below for more details about
+The Maiden of the Mist
+and
+Mist Walkers
+.
+The extra
+Mist Walkers
+spawn 250 units from the
+Maiden
+summon location.
+The
+Maiden
+updates her stats when
+Yorick's
+stats
+change, and as
+Eulogy of the Isles
+is ranked up.
+When
+Yorick
+dies,
+The Maiden
+rapidly loses portions of her
+maximum
+health
+over 3 seconds until she dies.
+The loss of
+maximum
+health
+occurs in 0.
+6
+-second intervals, in which she loses 20% on the first, 25% on the second, 33.
+3
+% on the third, 50% on the fourth, and 100% on the fifth.
+Yorick
+will snap his facing direction towards the target location at the start of the cast time.
+Map-Specific Differences
+Swiftplay
+differences
+edit
+Damage from Maiden of the Mist's attacks against
+turrets
+changed to 30%.
+Bonus damage against marked targets changed to
+1.
+5
+/ 1.
+75
+/ 2% of target's
+maximum
+health
+.
+Arena
+differences
+edit
+Maiden health changed to 70% value.
+Pets
+Mist Walker
+Bounty
+Gold
+2
+Exp
+0
+CS
+0
+Statistics
+Health
+100 – 331.
+35
+(based on level)
+(+ 15% of
+Yorick's
+bonus
+health)
+Attack damage
+15 – 113.
+33
+(based on level)
+(+ 20% of
+Yorick's
+bonus
+AD)
+Attack speed
+0.
+54
+– 0.
+96
+(based on level)
+Attack range
+125
+Armor
+0
+Magic resist
+0
+Move speed
+325
+Gameplay radius
+1
+Pathing radius
+20
+Control type
+Autonomous
+Target type
+Minion
+, does not count towards creep score
+On-hit effects
+Mist Walkers'
+attacks are mitigated by
+dodge
+,
+block
+, and
+blind
+. They also deal 60% damage against
+monsters
+and 50% damage against
+turrets
+.
+Spell effects
+Mist Walkers'
+basic attacks apply
+spell effects
+as
+area damage
+, including
+leaping
+to
+marked
+enemies.
+Protection
+Mist Walkers
+receive 60% damage from lane
+minions
+;
+66% – 40% (based on level)
+damage from
+area of effect
+abilities; 200% damage from
+melee
+champion
+basic attacks
+; and they are instantly killed by a
+turret
+shot.
+Abilities
+Endless March
+Mist Walkers
+remain near
+Yorick
+(preferably 200 units behind him) until they enter combat in a lane, whereupon they proceed along the lane and attack any enemy in their path.
+Frenzied
+While within 1500 units of an enemy marked as
+Cursed
+by
+Mourning Mist
+,
+Mist Walkers
+benefit from the ability's
+bonus
+movement speed
+, and have the ability to
+leap
+to
+marked
+enemy
+champions
+and large
+monsters
+, dealing
+100% of their AD
+upon arrival. While
+Mist Walkers
+are targeting a unit due to this effect, an exclamation mark indicator will be visible over their head.
+Hasted
+While
+Mist Walkers
+are within
+1600 units of
+Yorick
+, they gain
+60
+bonus
+movement speed
+and benefit from
+Yorick's
+flat movement speed
+bonuses.
+Phase Rush
+is a percentual exception. Summons gain
+bonus
+movement speed
+when returning to
+Yorick
+. This movement speed bonus is based on the distance between
+Yorick
+and the summon.
+Notes
+If
+Mist Walkers
+are attacking a jungle monster when
+Yorick
+casts
+Recall
+, they will continue attacking it until his channel completes, after which they withdraw to him, or they die.
+Unlike other
+pets
+,
+Mist Walkers
+are not prioritized by turrets over
+siege minions
+, though they are prioritized over the
+Maiden of the Mist
+.
+Mist Walkers
+will level up with
+Yorick
+when he does.
+Mist Walkers
+will
+blink
+to
+Yorick's
+location after he completes a
+Teleport
+channel.
+The attacks of
+Mist Walkers
+belong to separate cast instances.
+The damage done by the
+Mist Walkers'
+leap shares a
+cast instance
+with
+Mourning Mist
+.
+Maiden of the Mist
+Bounty
+Gold
+50
+Exp
+0
+Statistics
+Health
+1050 – 3700 (based on level)
+(+ 60% of
+Yorick's
+bonus
+health)
+Magic damage
+50 / 75 / 100
+(+ 30% of
+Yorick's
+bonus
+AD)
+Attack speed
+1.
+0
+Attack range
+600
+Armor
+30 – 100 (based on level)
+Magic resist
+30 – 100 (based on level)
+Move speed
+300
+Gameplay radius
+20
+Pathing radius
+40
+Control type
+Autonomous
+Target type
+Minion
+On-hit effects
+The
+Maiden of the Mist's
+attacks are mitigated by
+dodge
+and
+blind
+, but not mitigated by
+block
+. They also deal 50% damage against
+turrets
+.
+Spell effects
+The
+Maiden of the Mist's
+basic attacks apply spell effects as
+area damage
+.
+Protection
+The
+Maiden of the Mist
+takes 30% damage from
+lane minions
+.
+Abilities
+Natural Recovery
+The
+Maiden of the Mist
+regenerates
+2.
+5
+health
+per second.
+Endless March
+The
+Maiden of the Mist
+is permanently
+ghosted
+and follows
+Yorick
+(preferably idle within 100 units of the location 500 units behind him), leashing back to him if he moves
+1200
+units away from her.
+Touch of the Maiden
+The
+Maiden of the Mist's
+attacks against an enemy champion apply a mark, which is lost from the current target whenever
+Yorick
+commands her to a new target or her acquisition of that current target otherwise ends.
+Yorick's
+next basic attack or
+Mourning Mist
+hit against the marked target consumes the mark to deal
+bonus
+magic damage
+equal to
+2 / 2.
+5
+/ 3% of the target's
+maximum
+health
+, capped at 30 against
+monsters
+.
+Undead Army
+Whenever a nearby enemy dies while there are fewer than 4
+Mist Walkers
+under the
+Maiden of the Mist's
+command, she raises another
+Mist Walker
+from that enemy's corpse.
+Frenzied
+While nearby an enemy marked as
+Cursed
+by
+Mourning Mist
+, the
+Maiden of the Mist
+benefits from the ability's
+bonus
+movement speed
+, and actively seeks to assist
+Yorick
+if he is nearby and in combat with an enemy champion. While the
+Maiden of the Mist
+is targeting a
+Cursed
+unit, an exclamation mark indicator will be visible over her head.
+Hasted
+While the
+Maiden of the Mist
+is within
+2000 units of
+Yorick
+, she gains
+60
+bonus
+movement speed
+and benefits from
+Yorick's
+flat movement speed
+bonuses.
+Notes
+Unlike other
+pets
+, the
+Maiden of the Mist
+is not prioritized by turrets over any type of
+minion
+.
+The
+Maiden of the Mist
+will level up with
+Yorick
+when he does.
+The
+Maiden of the Mist
+will
+blink
+to
+Yorick's
+location after he completes a
+Teleport
+channel.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Yorick (Collection)
+.
+Original
+22.06.2011
+The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick’s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.
+Daniel Riordan
+Victor '3rdColossus' Maury
+Loot eligible
+View in 3D
+•
+View Music
+Undertaker
+520
+22.06.2011
+The Undertaker is a wretched creature, cursed to shoulder every secret his city has buried. These old, unhappy things tear constantly at his mind, which is itself infected by his queen's unending ambition.
+Daniel Riordan
+Mike Azevedo
+Omen of the Dark
+Loot eligible
+New SFX/VFX
+View in 3D
+Pentakill
+975
+22.06.2011
+Yorick was resurrected with the undying soul of heavy metal inside him for the singular purpose of joining PENTAKILL and melting faces with his bass guitar. He can also summon an army of roadie ghouls, a handy trick for any seasoned stage performer.
+Daniel Riordan
+Pan Chengwei
+Pentakill
+Loot eligible
+New SFX/VFX
+View in 3D
+•
+View Music
+Arclight
+1350
+02.10.2017
+The once-great king Yorick, given the gifts of power and immortality in an age long past, left his mighty kingdom to enforce the will of the divine. Hundreds of years later he returned, his lands naught but dust and ruins, and in his sorrow was consumed by madness.
+Daniel Riordan
+Alex 'alexplank' Flores
+Arclight
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Meowrick
+1350
+27.03.2019
+A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff.
+Daniel Riordan
+Choe HeonHwa
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Meowrick Chromas
+Catseye
+Obsidian
+Pearl
+Rainbow
+Ruby
+Sandstone
+Turquoise
+Resistance
+1350
+12.11.2020
+With the rise of the Battlecast armies, Yorick found to his horror that the living minds Viktor fused to his machines bound the souls of his victims to their machine bodies. Harnessing his ability to command the dead, Yorick now raises destroyed and defeated Battlecast husks in an attempt to free all these souls from their machine prisons.
+Daniel Riordan
+Zuoan Dong, Kudos Productions
+Battlecast
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Resistance Yorick Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Pentakill Lost Chapter
+1350
+09.09.2021
+All hail, Yorick, the Four-String Fanatic! He bestrides the realms of the living and the dead, and knows the fate that comes to all mortal things. It pays to beware the honorable man...
+Daniel Riordan
+Terence 'Terrylefruit' Cantal, West Studio
+Pentakill III: The Lost Chapter
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Pentakill III: Lost Chapter Yorick Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Spirit Blossom
+1350
+06.10.2022
+The Ashen Caretaker was once a man who, alongside a timid fawn, tended to a sacred forest with the utmost care—until it burned to the ground before his eyes. His heart, too, crumbled to ash, for it had forgotten death gives rise to new blooms. Now the flowers he tends seem to blister in flames unseen, his gardeners now howling creatures of the night.
+Daniel Riordan
+Jeremy Chong, West Studio
+Spirit Blossom
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Spirit Blossom Yorick Chromas
+Citrine
+Emerald
+Night Blossom
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Dark Star
+1350
+23.10.2024
+A somber titan from a long-dead galaxy, Yorick plants a garden of nothingness wherever he roams. He memorializes existence in silence, cultivating a grave in the negative space where matter once bloomed.
+Daniel Riordan
+Nathaniel Himawan, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Dark Star Yorick Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Quasar
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+High Noon
+1350
+14.05.2025
+Father Yorick can still feel the whisper of his lost love's stifled breath against his neck. He can't forget the blood on her veil, nor the shot that stole her away, ringing in the vault of the church. But fleeing into the heatsick West ain't enough to outrun her ghost. He shoulders her coffin and ambles onward, warm revolvers dancing in his nightmares.
+Daniel Riordan
+Pandart Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+High Noon Yorick Chromas
+Catseye
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.03
+General
+Bug Fix:
+Fixed an issue where his joke VO couldn't be triggered.
+V25.19
+Shepherd of Souls
+Bug Fix:
+Mist Walkers
+spawned as Yorick exited
+Mordekaiser's
+Death Realm
+no longer remain alive indefinitely in the Death Realm.
+V25.13
+Stats
+Base armor reduced to 36 from 39.
+V25.12
+Shepherd of Souls
+Mist Walker bonus attack speed changed to
+8% – 80% (based on level)
+bonus
+attack speed
+from
+100% of Yorick's
+bonus
+attack speed
+.
+Last Rites
+Base damage reduced to 30 / 50 / 70 / 90 / 110 from 30 / 55 / 80 / 105 / 130.
+V25.10
+Shepherd of Souls
+Bug Fix:
+Mist Walkers no longer deal an inconsistent amount of damage to monsters.
+V25.09
+Shepherd of Souls
+Mist Walker monster damage reduced to 60% from 70%.
+Eulogy of the Isles
+Undocumented / New Effect:
+The Maiden now follows Yorick into
+Mordekaiser's
+Death Realm
+.
+V25.08
+Shepherd of Souls
+Mist Walker monster damage increased to 70% from 60%.
+Mist Walker incoming non-epic monster damage modifier increased to 100% from 60%.
+Bug Fix:
+Mist Walkers are now properly able to leap to targets beyond terrain when commanded via
+Mourning Mist
+.
+Mourning Mist
+Removed:
+No longer deals 70 / 105 / 140 / 175 / 210
+(+ 70% AP)
+base damage.
+New Effect:
+Now deals
+6 / 6.
+5
+/ 7 / 7.
+5
+/ 8%
+(+ 3% per 100 AP)
+of the target's
+maximum
+health
+damage. This is capped at 50 / 75 / 100 / 125 / 150
+(+ 100% AP)
+against monsters and has a minimum damage of 70 / 105 / 140 / 175 / 210
+(+ 100% AP)
+against minions.
+Eulogy of the Isles
+Removed:
+The Maiden can no longer mark non-champion units.
+V25.07
+- April 4th Hotfix
+[
+2
+]
+Shepherd of Souls
+Mist Walker incoming minion damage modifier increased to 60% from 40%.
+Mist Walker incoming non-epic monster damage modifier increased to 60% from 40%.
+Bug Fix:
+Mist Walkers' leap attack now correctly deals 60% damage against monsters when commanded via
+Mourning Mist
+.
+Mourning Mist
+Slow duration reduced to 1.
+5
+seconds from 2.
+Bonus movement speed reduced to 18 / 21 / 24 / 27 / 30% from 30% at all ranks.
+Armor reduction reduced to 13 / 16 / 19 / 22 / 25% from 18 / 21 / 24 / 27 / 30%.
+Eulogy of the Isles
+Maiden mark monster damage cap reduced to 30 from 50.
+V25.07
+- April 2nd Hotfix
+Shepherd of Souls
+Mist Walker monster damage reduced to 60% from 100%.
+Mist Walker base attack damage increased to
+15 – 100 (based on level)
+from
+15 – 75 (based on level)
+.
+Last Rites
+Heal health ratio increased to
+6 / 7 / 8 / 9 / 10%
+missing
+health
+from
+4 / 5 / 6 / 7 / 8%
+.
+V25.07
+- Gameplay Update
+Stats
+Armor growth reduced to 4.
+5
+from 5.
+2
+.
+Shepherd of Souls
+Nearby deaths per grave reduced to
+8 – 2 (based on level)
+from
+12 / 6 / 2 (based on level)
+.
+Changed to every 5th on ARAM.
+Mist Walker base attack damage changed to
+15 – 75 (based on level)
+from
+4 – 90 (based on level)
+.
+Now uses stat growth.
+Mist Walker AD ratio reduced to
+20% of Yorick's
+bonus
+AD
+from
+20% of Yorick's
+total
+AD
+.
+Mist Walker base health increased to
+110 – 300 (based on level)
+from
+110 – 212 (based on level)
+.
+Now uses stat growth.
+Mist Walker health ratio reduced to
+15% of Yorick's
+bonus
+health
+from
+20% of Yorick's
+maximum
+health
+.
+Mist Walker base attack speed reduced to 0.
+5
+at all levels from
+0.
+54
+– 1.
+22
+(based on level)
+.
+Attack speed ratio unchanged at 0.
+5
+.
+New Effect:
+Mist Walker attack speed now scales with
+100% of Yorick's
+bonus
+attack speed
+.
+Mist Walker incoming non-epic monster damage modifier reduced to 40% from 50%.
+Removed:
+Mist Walkers no longer receive 50% damage from
+epic
+monsters.
+New Effect:
+Mist Walkers now receive 40% damage from lane minions.
+Removed:
+Mist Walkers are no longer instantly killed by single-target champion spells.
+Still instantly killed by turret attacks.
+New Effect:
+Mist Walkers now receive 200% damage from melee champion basic attacks.
+Mist Walker incoming area damage modifier changed to
+66% – 40% (based on level)
+from 50% at all levels.
+New Effect:
+Pinging the ability now displays in chat the number of Mist Walkers alive
+near
+Yorick
+and overall on the map.
+New Effect:
+When Yorick casts
+Recall
+, Mist Walkers no longer stop attacking jungle monsters and withdraw to him.
+Bug Fix:
+Mist Walker leaps via
+Mourning Mist
+now target units instead of locations. Previously this caused them to sometimes fail to reach their target over terrain.
+Undocumented:
+Mist Walker leaps via
+Mourning Mist
+are no longer additionally tagged as
+basic damage
+.
+Bug Fix:
+Attacks from different Mist Walkers that occur simultaneously or in quick succession due to regular commands and the leap granted by
+Mourning Mist
+now correctly apply as separate instances for the purposes of
+Black Cleaver's
+Carve.
+Bug Fix:
+Mist Walkers now properly update their stats on Yorick's level-up.
+Last Rites
+AD ratio increased to
+50% AD
+from
+40% AD
+.
+Cooldown reduced to 6 / 5.
+5
+/ 5 / 4.
+5
+/ 4 seconds from 7 / 6.
+25
+/ 5.
+5
+/ 4.
+75
+/ 4.
+New Effect:
+Now also raises a grave if it damages a champion or large monster.
+Killing a target with the spell will only raise 1 grave.
+Mourning Mist
+Removed:
+Globule no longer deals
+15% of the target's
+current
+health
+.
+New Effect:
+Globule now deals 70 / 105 / 140 / 175 / 210
+(+ 100% AP)
+base damage.
+Globule AP ratio increased to
+100% AP
+from
+70% AP
+.
+Removed:
+Globule no longer has a
+minimum
+damage of 70 / 105 / 140 / 175 / 210
+(+ 70% AP)
+.
+Removed:
+Globule no longer has a monster damage cap of 70 / 105 / 140 / 175 / 210.
+Removed:
+While the mark is active, Mist Walkers no longer deal
+20%
+bonus
+damage
+for the next 8 attacks against the target.
+New Effect:
+While the mark is active, now reduces the target's armor by 18 / 21 / 24 / 27 / 30%.
+Bonus movement speed increased to 30% from 20%.
+Eulogy of the Isles
+Maiden base attack damage increased to 50 / 75 / 100 from 0 / 10 / 40.
+Maiden AD ratio reduced to
+30% of Yorick's
+bonus
+AD
+from
+50% of Yorick's
+total
+AD
+.
+Maiden base health increased to
+1050 – 3150 (based on level)
+from
+400 – 1650 (based on level)
+.
+Maiden health ratio reduced to
+60% of Yorick's
+bonus
+health
+from
+60% of Yorick's
+maximum
+health
+.
+V25.06
+Mourning Mist
+Monster damage cap reduced to 70 / 105 / 140 / 175 / 210 from 300 at all ranks.
+V25.05
+Eulogy of the Isles
+Mark monster damage cap reduced to 50 from 100.
+V25.S1.3
+Shepherd of Souls
+Bug Fix:
+Mist Walker attacks against champions no longer trigger minion call-for-help against the summoner (if in valid range).
+V25.S1.2
+Shepherd of Souls
+Bug Fix:
+Teleport's
+/
+Unleashed Teleport's
+dash now transports his Mist Walkers to the target location.
+V25.S1.1
+Eulogy of the Isles
+Undocumented / Bug Fix:
+Maiden's attacks now once again trigger
+Malignance's
+Hatefog.
+V14.24
+Shepherd of Souls
+New Effect:
+Mist Walker attacks are no longer inconsistently applied as different counts of damage instances, depending on their source (i.e.
+Mourning Mist
+vs
+Shepherd of Souls
+grave vs
+Eulogy of the Isles'
+initial cast).
+[
+3
+]
+Dark Procession
+Bug Fix:
+No longer reveals the user if cast while the cursor is near an enemy champion.
+V14.23
+General
+Bug Fix:
+Basic attack SFX while attacking the same target as
+Maiden
+is no longer audible through the Fog of War.
+V14.21
+Shepherd of Souls
+Mist Walker base attack damage changed to
+4 – 90 (based on level)
+from
+2 – 88 (based on level)
+.
+Mist Walker AD ratio reduced to
+20% AD
+from
+25% AD
+.
+Undocumented:
+Mist Walkers no longer stack
+Spear of Shojin's
+Focused Will.
+Undocumented:
+Mist Walker damage is now properly amplified from
+Spear of Shojin's
+Focused Will.
+Mourning Mist
+Bug Fix:
+Restored cast VO.
+Eulogy of the Isles
+Undocumented:
+Maiden's attacks no longer apply ultimate effects (e.g.
+Malignance's
+Hatefog).
+Undocumented:
+Maiden's attacks no longer refresh
+Conqueror
+or grant stacks.
+V14.16
+Eulogy of the Isles
+New Effect:
+Maiden's attacks now apply ultimate effects (i.e.
+Malignance's
+Hatefog).
+V14.5
+Mourning Mist
+Bonus Mist Walker damage reduced to 20% from 30%.
+Eulogy of the Isles
+Maiden armor increased to
+30 – 90 (based on level)
+from
+10 – 50 (based on level)
+.
+Maiden magic resistance increased to
+30 – 90 (based on level)
+from
+10 – 50 (based on level)
+.
+Removed:
+No longer takes 50% damage from area spells.
+Bug Fix:
+Maiden's percent maximum health damage no longer incorrectly bypasses
+block
+.
+V14.3
+Shepherd of Souls
+Summon leash range reduced to 1600 from 2000.
+New Effect:
+Summons now gain bonus movement speed when returning to him. This movement speed bonus is based on the distance between
+Yorick
+and the summon.
+Last Rites
+Removed:
+Heal is no longer doubled when
+below
+50% health
+.
+New Effect:
+Heal now scales with
+4 / 5 / 6 / 7 / 8%
+missing
+health
+.
+New Effect:
+Heal is halved against non-champions.
+Mana cost reduced to 20 from 25.
+Mourning Mist
+Cast time reduced to 0.
+25
+seconds from 0.
+33
+.
+Eulogy of the Isles
+Bonus damage against marked targets reduced to
+2 / 2.
+5
+/ 3% of target's
+maximum
+health
+from
+3 / 6 / 9%
+.
+Mark damage cap against monsters reduced to 100 at all ranks from 200 / 300 / 400.
+Removed:
+Mark damage no longer has a 2 second cooldown.
+V14.2
+General
+Now replaces
+Aftershock
+with
+Grasp of the Undying
+.
+Now replaces
+Glacial Augment
+with
+First Strike
+.
+V13.15
+Eulogy of the Isles
+Maiden base health changed to
+400 – 1650 (based on level)
+from 350 / 1100 / 3300.
+Maiden health ratio reduced to
+60% of
+Yorick's maximum
+health
+from
+75%
+.
+New Effect:
+The Maiden now has
+10 – 50 (based on level)
+armor and magic resistance.
+New Effect:
+The Maiden now regenerates 2.
+5
+health per second.
+V13.14
+Shepherd of Souls
+Bug Fix:
+Damage of
+Mist Walker
+leap attacks from
+Mourning Mist
+and
+Maiden of the Mist's
+basic attacks no longer incorrectly apply life steal.
+V13.5
+Mourning Mist
+Bonus Mist Walker damage reduced to 30% from 40%.
+V12.16
+Shepherd of Souls
+Bug Fix:
+Mist Walkers no longer improperly defer minion aggro to the caster upon using a leap attack triggered by
+Mourning Mist
+against champions.
+V12.12
+Shepherd of Souls
+Mist Walker base health increased to
+110 – 212 (based on level)
+from
+100 – 185 (based on level)
+.
+Mist Walker health ratio increased to
+20% of
+Yorick's maximum
+health
+from
+15%
+.
+Mist Walker base movement speed increased to 325 from 300.
+Mourning Mist
+Maiden of the Mist chase range reduced to 1200 units from 1600.
+Eulogy of the Isles
+Maiden of the Mist base health increased to 350 / 1100 / 3300 from 300 / 1000 / 3000.
+Maiden of the Mist health ratio increased to
+75% of
+Yorick's maximum
+health
+from
+70%
+.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 114 from 100.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Last Rites
+Base heal reduced to
+10 – 68 (based on level)
+from
+12 – 82 (based on level)
+.
+Dark Procession
+Bug Fix:
+Fixed minor VFX inconsistencies.
+Mourning Mist
+Bug Fix:
+Fixed minor VFX inconsistencies.
+V12.5
+Eulogy of the Isles
+Bug Fix:
+Maiden of the Mist now properly displays an icon on the minimap.
+Bug Fix:
+Maiden of the Mist and Mist Walkers now properly disappear when the caster dies.
+V12.4
+Maiden of the Mist
+New Effect:
+Maiden now gains
+ghosting
+while active.
+V11.23
+Mourning Mist
+Bug Fix:
+AP ratio is now properly displayed in the tooltip.
+V11.21
+Last Rites
+New Effect:
+Now trigger spell effects when dealing damage.
+V11.8
+- April 13th Hotfix
+Eulogy of the Isles
+Bug Fix:
+Towers now properly prioritize damaging Yorick's Maiden instead of minions when she attacks enemy champions while Yorick is not in the tower's range.
+V11.8
+Shepherd of Souls
+Mist Walker base attack damage reduced to
+2 – 88 (based on level)
+from
+2 – 99 (based on level)
+.
+Mist Walker AD ratio reduced to
+25% AD
+from
+30% AD
+.
+Bug Fix:
+Tooltip now notes the proper amount of health Mist Walkers are summoned with.
+Mourning Mist
+Removed:
+Mist Walkers no longer deal 100% bonus damage on their attack after leaping to champions and large monsters.
+New Effect:
+Marked enemies now take 40% bonus damage for 8 attacks from Mist Walkers for the duration of the debuff.
+Eulogy of the Isles
+New Effect:
+Turrets now prioritize minions over the Maiden of the Mist.
+V11.7
+Dark Procession
+Undocumented/Bug Fix:
+Fixed a bug where the ring was a valid target for
+Teleport
+if greater than 3000 units away.
+Mourning Mist
+New Effect:
+Marked enemy champions and large monsters now continuously Awaken nearby graves (up to the maximum of 4).
+New Effect:
+Mist Walkers now deal 200% damage when they leap to marked enemy champions and large monsters.
+Targeting type changed to
+Location Clamped
+from
+Area
+.
+If targeting outside of range, now immediately casts to max range, instead of walking into target range to cast.
+V10.24
+Resistance Yorick
+Eulogy of the Isles
+Bug Fix:
+No longer automatically moves above him when he recalls.
+V10.23
+Stats
+Mana growth increased to 60 from 40.
+V10.15
+Eulogy of the Isles
+Bug Fix:
+Maiden of the Mist now properly triggers
+Manaflow Band
+.
+V10.14
+General
+Recommended items now includes jungle items if the player has
+Smite
+equipped.
+V10.13
+Last Rites
+Bug Fix:
+Mist Walkers are now able to properly activate
+Manaflow Band
+.
+Eulogy of the Isles
+Maiden leash distance reduced to 600 units from 900.
+V10.6
+Shepherd of Souls
+New Effect:
+Large monsters that die near
+Yorick
+now leave a
+grave
+.
+New Effect:
+Mist Walkers now take 50% damage from monsters.
+V9.12
+General
+Adjusted splash artwork for
+Pentakill Yorick
+.
+V9.6
+Shepherd of Souls
+New Effect:
+Mist Walkers now trigger effects that are triggered by pets (i.e. on-ability-hit effects).
+Their attacks are also classified as basic attacks.
+V9.5
+Eulogy of the Isles
+Maiden of the Mist base damage reduced to 0 / 10 / 40 from 10 / 20 / 40.
+Bonus damage against Maiden of the Mist's target reduced to
+3 / 6 / 9% of target's
+maximum
+health
+from
+5 / 7.
+5
+/ 10%
+.
+V9.2
+- January 28th Hotfix
+Eulogy of the Isles
+Bug Fix:
+Cooldown no longer resets if the Maiden dies the instant
+Yorick
+sets her free.
+V9.2
+Shepherd of Souls
+Removed:
+Mist Walkers no longer deal 60% reduced damage when they are too far from
+Yorick
+.
+Deaths required for a grave reduced to
+12 / 6 / 2 (based on level)
+from
+12 / 8 / 4 (based on level)
+.
+ARAM-Specific Balancing:
+Deaths required for a grave reduced to 2 from 4.
+Mist Walker kill gold reduced to
+2
+from
+5
+.
+Mourning Mist
+Undocumented:
+Mist Walker reaction radius increased to 1500 from 1400.
+Bug Fix:
+Mist Walkers and the Maiden no longer sometimes fail to target an enemy hit by
+Mourning Mist
+.
+Eulogy of the Isles
+Removed:
+Maiden of the Mist no longer deal 33.
+3
+% reduced damage when she is too far from
+Yorick
+.
+Maiden of the Mist base health reduced to 300 / 1000 / 3000 from 700 / 1500 / 4000.
+Maiden of the Mist health ratio increased to
+70% of
+Yorick's
+maximum
+health
+from
+30%
+.
+New Effect:
+The Maiden no longer begins autonomously pushing a lane when far from Yorick. Instead, she'll leash back to him. While following
+Yorick
+, the Maiden of the Mist will leash back to
+Yorick
+if he moves 900 units away from her.
+New Effect:
+After 10 seconds,
+Eulogy of the Isles
+can be recasted to set the Maiden free, but can't get her back once he does. She'll push the nearest lane until she dies.
+V8.23
+- November 21st Hotfix
+General
+Bug Fix:
+Mistwalkers and The Maiden no longer draw minion aggro onto
+Yorick
+if they damage an enemy champion. The turret aggro portion of the fix is still in place.
+V8.23
+General
+Bug Fix:
+Mistwalkers and The Maiden now draw minion and turret aggro onto
+Yorick
+if they damage an enemy champion.
+V8.21
+- October 25th Hotfix
+Shepherd of Souls
+Bug Fix:
+Fixed a bug where Mistwalkers were dealing less damage than intended.
+V8.17
+Shepherd of Souls
+Mist Walker base attack damage changed to
+2 – 99 (based on level)
+from
+2 – 100 (based on level)
+.
+V8.12
+General
+Mist Walkers and the Maiden now update their stats when
+Yorick's
+stats change.
+Last Rites
+Cooldown reduced to 7 / 6.
+25
+/ 5.
+5
+/ 4.
+75
+/ 4 seconds from 7 / 6.
+5
+/ 6 / 5.
+5
+/ 5.
+V7.24
+Stats
+Base attack damage reduced to 62 from 65.
+V7.22
+Stats
+Base attack damage increased to 65 from 57.
+Base armor increased to 39 from 30.
+Last Rites
+New Effect:
+Can now affects turrets.
+V7.14
+Shepherd of Souls
+New Effect:
+Mist Walkers now immediately attack upon
+Mourning Mist's
+dash.
+Mist Walker base attack damage changed to
+2 – 100 (based on level)
+from
+10 – 95 (based on level)
+.
+Mourning Mist reaction radius increased to 1400 from 1000.
+Grave despawn range increased to 2000 from 1600.
+Eulogy of the Isles
+Cooldown reduced to 160 / 130 / 100 seconds from 160 / 150 / 140.
+Maiden health increased to 700 / 1500 / 4000 from 700 / 1500 / 3000.
+V7.11
+Shepherd of Souls
+Removed:
+Killing Mist Walkers no longer increases CS.
+Dark Procession
+Removed:
+Killing the wall no longer increases CS.
+V7.10
+Shepherd of Souls
+New Effect:
+Mist Walkers no longer perish when they move too far away from
+Yorick
+or the
+Maiden
+.
+Last Rites
+New Effect:
+If it kills a unit when
+Yorick
+has max graves, the furthest grave will now be replaced rather than no grave being spawned.
+Eulogy of the Isles
+New Effect:
+The Maiden's stats now increase when
+Yorick
+puts another skill point into
+Eulogy of the Isles
+, rather than remaining unchanged until Yorick summons her again.
+V7.7
+Dark Procession
+Bug Fix:
+Lifesteal no longer applies when hitting the wall.
+V7.6
+Last Rites
+Bug Fix:
+When the empowered basic attack crits, the basic attack portion of the damage is now properly modified, rather than the bonus damage.
+V7.5
+Maiden of the Mist
+Bug Fix:
+Fixed a bug where it consumed
+Pantheon's
+Aegis Protection
+as intended, but dealt damage anyway.
+V6.23
+Dark Procession
+Yorick
+once again walks into range to cast
+Dark Procession
+, rather than casting it at max range in the target direction.
+V6.21
+Eulogy of the Isles
+If
+Yorick
+summons
+the Maiden
+inside of a lane, she'll start pushing that lane.
+V6.20
+General
+Mistwalkers
+and
+the Maiden
+will now teleport with
+Yorick
+if they were following him (does not occur if they were pushing a lane).
+Shepherd of Souls
+Threshold for summoning graves set to 4 on
+Howling Abyss
+.
+Dark Procession
+Will now cast at his maximum range if
+Dark Procession
+is cast outside of its maximum range.
+Mourning Mist
+Removed:
+Minions marking.
+Now only marks champions and monsters.
+V6.18
+Full Relaunch
+Title changed to
+the Shepherd of Lost Souls
+from
+the Gravedigger
+.
+Complete visual upgrade across all skins.
+New splash artwork for
+Original Yorick
+and
+Undertaker Yorick
+.
+Adjusted splash artwork for
+Pentakill Yorick
+.
+New voiceover.
+New lore.
+Shepherd of Souls
+-
+New I
+The Cursed Horde:
+Yorick can have up to four Mist Walkers in his service at once. Mist Walkers decay if they move too far from either Yorick or the Maiden of the Mist.
+Final Service:
+A grave is occasionally created when enemy minions or neutral monsters die near Yorick, and all enemy champions that die near him leave a grave.
+Last Rites
+-
+New Q
+Active:
+Yorick's next basic attack deals bonus damage and restores some health. If Last Rites kills a target, it creates a grave. If there are at least three graves nearby and Last Rites is on cooldown, Yorick can instead cast
+Awakening
+to raise Mist Walkers from the graves.
+Dark Procession
+-
+New W
+Active:
+Yorick summons a destructible wall of corpses that encircles a target area for a few seconds.
+Mourning Mist
+-
+New E
+Active:
+Yorick hurls a globule of Mist that deals magic damage, applies a slow, and marks a target. Yorick and Mist Walkers get a movement bonus when heading toward marked targets.
+Eulogy of the Isles
+-
+New R
+Active:
+Yorick summons the Maiden of the Mist with her own personal Mist Walkers. The Maiden moves and attacks on her own. When Yorick attacks the Maiden's target, he'll deal bonus magic damage based on the enemy's maximum health. The damage is capped at 300 against monsters.
+The Maiden of the Mist takes 30% damage from
+lane minions
+.
+Trivia
+Yorick, Shepherd of Souls
+Yorick is named after
+the deceased court jester
+from
+Hamlet
+by
+William Shakespeare
+.
+His surname
+Mori
+references the Latin phrase
+memento mori
+"be mindful of dying", befitting his association with death and lost souls.
+His current weapon is based on the Chinese
+monk's spade
+.
+Internally, Yorick's summons are called "ghouls", which was their name in his previous version. The
+Maiden
+is referred to as "big ghoul".
+Yorick, the Gravedigger
+Due to
+David 'Phreak' Turley
+being delayed on a flight back from
+DreamHack
+(Sweden) Yorick became the first champion to be released before his '
+Champion Spotlight
+'.
+Yorick's ability names are references to the
+Four Horsemen of the Apocalypse
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Last Rites
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+Active:
+Yorick's
+next basic attack within a few seconds will gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and
+heal
+him based on
+his
+missing
+health
+.
+If there are at least 3
+graves
+nearby while
+Last Rites
+is active or on
+cooldown
+, he can cast
+Awakening
+.
+Awakening
+Active:
+Yorick
+summons
+Mist Walkers
+from the
+graves
+around him.
+League of Legends content
+Last Rites
+COOLDOWN:
+6 / 5.
+5
+/ 5 / 4.
+5
+/ 4
+Active:
+Yorick's
+next basic attack within a few seconds will gain
+bonus
+range
+, deal
+bonus
+physical damage
+, and
+heal
+him based on
+his
+missing
+health
+.
+If there are at least 3
+graves
+nearby while
+Last Rites
+is active or on
+cooldown
+, he can cast
+Awakening
+.
+Awakening
+Active:
+Yorick
+summons
+Mist Walkers
+from the
+graves
+around him.
+League of Legends content
+Mourning Mist
+COOLDOWN:
+12 / 11 / 10 / 9 / 8
+Active:
+Yorick
+hurls a globule of Black Mist that splashes at the target location dealing
+magic damage
+to enemies. Enemy
+champions
+and
+monsters
+hit are also shortly
+slowed
+, and marked
+Cursed
+for a few seconds.
+Yorick
+and his summons gain
+bonus
+movement speed
+toward a
+Cursed
+target.
+Mist Walkers
+will leap to a nearby
+Cursed
+target and focus them.
+Cursed:
+The target has reduced
+armor
+. Nearby
+graves
+automatically raise a
+Mist Walkers
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Death
+Death
+occurs when a unit's
+health
+is reduced to zero, thereby being killed. The unit can no longer act and is removed or becomes a corpse.
+On player death, they can view the
+death recap
+and the
+shop
+to purchase items, and some
+item actives
+can be used while dead.
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Spellblade
+Spellblade
+is a unique
+named item effect
+that grants additional effects to the next
+on-hit
+trigger after casting a champion ability.
+The following items grant
+Spellblade
+:
+Sheen
+Bloodsong
+Dusk and Dawn
+Essence Reaver
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Airborne
+A unit that is knocked
+airborne
+undergoes a
+forced displacement
+in a specified direction, to a specific point, or for a set duration at its current location, during which it is also unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+.
+Airborne
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+), and all
+channeled and charged
+abilities. The accompanying
+displacement
+overrides all other previous
+displacements
+, including
+dashes
+and other
+airborne
+effects.
+Reduction:
+The
+duration
+of
+airborne
+and its
+forced movement
+execution time is unaffected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+,
+displacement immunity
+, and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+The forced movement that is applied alongside
+airborne
+effects cannot be removed by cleanses, which innately disables attacking and moving and can be overridden by
+dashing
+,
+blinking
+or
+lunging
+.
+Cleansing
+effects, with the exceptions of
+Milio's
+Breath of Life
+,
+Cleanse
+,
+Mikael's Blessing
+, and
+Quicksilver
+, remove the
+airborne
+status effect.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Turret
+A
+turret
+, also called a
+tower
+, is a fortification that defends a part of territory. It provides vision of the area and autonomously fires homing bolts at nearby enemies, establishing a defensive ground for allies.
+Turrets are most notable in
+Classic
+, defending against waves of enemy
+Minions
+from their ultimate goal of destroying the nexus. Champions work to destroy enemy turrets to push their assault into the enemies' territory. Turrets visually fall apart as they take damage.
+League of Legends content
+Pet
+A
+pet
+is a
+unit summoned by a champion
+to assist them on the battlefield.
+League of Legends content
+Eulogy of the Isles
+COOLDOWN:
+160 / 130 / 100
+Active:
+Yorick
+summons the
+Maiden of the Mist
+and a few
+Mist Walkers
+at the target location. The
+Maiden
+will automatically raise
+Mist Walkers
+from dead enemies, and mark her attack target with
+Touch of the Maiden
+.
+Eulogy of the Isles
+can be recast while the
+Maiden
+is active.
+Recast:
+Yorick
+sets the
+Maiden
+free, allowing her to push the nearest lane.
+Touch of the Maiden:
+Yorick's
+next basic attack will consume the mark to deal
+bonus
+magic damage
+by a portion of the
+target's
+maximum
+health
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+True damage
+Applies:
+Omnivamp
+Mitigated by:
+Damage shields
+Invulnerability
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+References
+↑
+Yorick's profile page
+at
+LeagueOfLegends.com
+↑
+X — League of Legends Dev Team (4 April 2025)
+Micropatch Nerf: Yorick was a still bit too effective at burying enemies. We've made a few adjustments to decrease his power overall.
+↑
+Reddit — u/J-Colio (20 March 2022)
+Tip: The different methods ghouls can spawn which count as different spells for items and runes
+Retrieved 2024-12-17 02:16 UTC

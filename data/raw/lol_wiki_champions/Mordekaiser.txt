@@ -1,0 +1,3589 @@
+# Mordekaiser
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Mordekaiser
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+645
++104
+Resource
+N/A
+HP5
+5
++0.75
+Secondary Bar
+Shield
+AR
+37
++4.2
+AD
+61
++4
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+335
+Attack range
+175
+Attack speed
+Base AS
+0.625
+Windup%
+21.133%
+AS ratio
+N/A
+Bonus AS
++1
+%
+Unit radius
+Gameplay radius
+80
+Select. radius
+125
+Pathing radius
+35
+Select. height
+190
+Acq. radius
+400
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
+-5%
+Damage Received
++5%
+Damage Dealt
++0%
+Damage Received
+-15%
+Damage Dealt
++0%
+Damage Received
++5%
+Mordekaiser
+The Iron Revenant
+Role(s):
+Top
+Store price:
+675
+|
+585
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+1
+Utility
+2
+Release date
+2010-02-24
+Last changed
+V26.04
+Class
+Juggernaut
+Legacy class
+Fighter
+,
+Mage
+Resource
+Shield
+Range type
+Melee
+Adaptive type
+Magic
+Abilities
+Edit
+Darkness Rise
+EFFECT RADIUS:
+375
+Innate:
+Mordekaiser's
+basic attacks deal
+bonus
+magic damage
+.
+Innate:
+Mordekaiser
+generates a
+stack
+for each enemy
+champion
+or
+monster
+hit by his
+basic attacks
+and
+basic abilities
+, which lasts a few seconds. At max stacks, he gains
+Darkness Rise
+.
+Darkness Rise:
+Mordekaiser
+gains
+bonus
+movement speed
+and creates an
+aura
+that continually deals
+magic damage
+to nearby enemies based on
+their
+maximum
+health
+.
+Innate:
+Mordekaiser's
+basic attacks are empowered to deal
+40% AP
+bonus
+magic damage
+on-hit
+.
+Innate:
+Mordekaiser
+generates a
+stack
+for each enemy
+champion
+or large
+monster
+damaged by his
+basic attacks
+or hit by his basic
+abilities
+, lasting for 4 seconds, refreshing on subsequent triggers, and stacking up to 3 times. At 3 stacks, he gains
+Darkness Rise
+.
+Darkness Rise:
+Mordekaiser
+gains
+3% / 6% / 9% / 12% (based on level)
+bonus
+movement speed
+and deals
+「
+5
+(+ 30% AP)
+(+
+1% – 5.
+47
+% (based on level)
+of target's
+maximum
+health)
+magic damage
+every second 」
+「
+0.
+625
+(+ 3.
+75
+% AP)
+(+
+0.
+13
+% – 0.
+68
+% (based on level)
+of target's
+maximum
+health)
+magic damage
+every 0.
+125
+seconds 」
+to nearby enemies. Against monsters, the damage is capped at
+「
+40 – 218.
+82
+(based on level)
+per second. 」
+「
+5 – 25 (based on level)
+per 0.
+125
+seconds. 」
+Info
+Targeting input
+Passive
+Affects
+Self / Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Darkness Rise
+deals
+persistent area damage
+damage around
+Mordekaiser
+, while the bonus damage on his basic attacks is
+proc damage
+.
+Darkness Rise's
+bonus damage
+on-hit
+is not applied against
+structures
+.
+Mordekaiser
+has a stack counter under his
+health bar
+that is not visible to other champions. It will light up when the maximum effect is active.
+Mordekaiser
+will still generate
+Darkness Rise
+stacks from hitting his abilities even if they deal no damage, such as if the target is
+invulnerable
+or blocks an ability with a
+spell shield
+.
+Basic attacks do not generate a stack if their damage event does not happen due to the target being
+invulnerable
+, or the attack being
+dodged
+,
+blocked
+, or missed while
+Mordekaiser
+is
+blinded
+.
+Dusk and Dawn's
+Spellblade
+on-hit
+event is special cased to generate an additional
+Darkness Rise
+stack.
+The
+on-hit
+event is not triggered if the triggering attack is
+dodged
+,
+blocked
+, or missed while
+Mordekaiser
+is
+blinded
+, thus not generating a
+Darkness Rise
+stack.
+Darkness Rise's
+area damage alone does not refresh
+Darkness Rise's
+buff.
+If
+Darkness Rise
+is activated through either
+Obliterate
+or
+Death's Grasp
+, it will be treated as the same
+cast instance
+as the triggering spell.
+(unexpected)
+Under these conditions,
+Darkness Rise
+will fail to interact with effects that only do so once per cast instance (e.g
+Conqueror
+), but will interact with effects such as
+Spear of Shojin's
+Focused Will's
+stacking, which would normally not interact with innate abilities.
+[1]
+Darkness Rise's
+damage will be grouped with the triggering spell's damage in the
+death recap
+.
+[2]
+Edit
+Obliterate
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+CAST TIME:
+0.
+5
+RANGE:
+22.5 - 625
+WIDTH:
+90 - 150
+QUEUE THRESHOLD
+:
+0.
+275
+Active:
+Mordekaiser
+smashes the area in the target direction, dealing
+magic damage
+to enemies within,
+increased
+if it hits only one enemy.
+Active:
+Mordekaiser
+strikes his mace down in a line in the target direction, dealing
+magic damage
+to enemies within,
+increased
+if only one enemy is hit.
+Magic Damage:
+0 – 55 (based on level)
+(+ 80 / 115 / 150 / 185 / 220)
+(+ 120%
+bonus
+AD)
+(+ 70% AP)
+Isolated Damage Increase:
+30 / 35 / 40 / 45 / 50%
+"Shatter!"
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+This ability always employs
+Quick cast
+.
+This ability will cast from wherever the caster is at the end of the cast time.
+The ability will cast to wherever the caster's cursor was at the start of the cast time.
+If
+Mordekaiser's
+location changes during the cast time, the visual effects of
+Obliterate
+will be divided into three sections: one forming toward the caster's cursor at the start of the cast, one forming toward the original cast direction, and one following
+Mordekaiser's
+facing direction. Only the first will portray the spell's effect accurately.
+(bug)
+[3]
+Applies
+spell damage
+if it hits one target and
+area damage
+to multiple targets.
+Obliterate's
+damage against isolated enemies at:
+Rank 1:
+104 – 175.
+5
+(based on level)
+(+ 156%
+bonus
+AD)
+(+ 91% AP)
+Rank 2:
+155.
+25
+– 229.
+5
+(based on level)
+(+ 162%
+bonus
+AD)
+(+ 94.5% AP)
+Rank 3:
+210 – 287 (based on level)
+(+ 168%
+bonus
+AD)
+(+ 98% AP)
+Rank 4:
+268.
+25
+– 348 (based on level)
+(+ 174%
+bonus
+AD)
+(+ 101.5% AP)
+Rank 5:
+330 – 412.
+5
+(based on level)
+(+ 180%
+bonus
+AD)
+(+ 105% AP)
+Edit
+Indestructible
+COOLDOWN
+:
+12 / 11 / 10 / 9 / 8
+CAST TIME:
+none
+QUEUE THRESHOLD
+:
+0.
+25
+Passive:
+Mordekaiser
+stores a portion of the damage he deals and receives as
+Potential Shield
+, up to a portion of
+his
+maximum
+health
+. This begins to decay after a brief time without fighting.
+Active:
+Mordekaiser
+converts his
+Potential Shield
+to
+shield
+himself for a few seconds, which decays over time.
+Indestructible
+can be recast while the shield is active.
+Recast:
+Mordekaiser
+consumes the remaining shield,
+healing
+for a portion of the amount.
+Passive:
+Mordekaiser
+stores 45% of the
+post-mitigation
+damage he deals and 7.
+5
+% of the
+pre-mitigation
+damage he takes,
+「 reduced by 75% for non-champion sources, 」
+「 reduced to 11.
+25
+% of damage dealt and 3.
+75
+% of damage taken for non-champion sources, 」
+as
+Potential Shield
+on his secondary resource bar, up to
+30% of his
+maximum
+health
+. The
+Potential Shield
+decays by
+8 – 25 (based on level)
+every second after not dealing or taking damage for 1 second. While
+Indestructible
+is not on cooldown, the
+Potential Shield
+will not decay below a minimum of
+5% of his
+maximum
+health
+, and it will be set to that amount when it comes off cooldown if it was previously below it.
+Active:
+Mordekaiser
+consumes his
+Potential Shield
+to grant himself a
+shield
+for the same amount for 4 seconds. The shield decays exponentially over the duration.
+Indestructible
+can be recast after 0.
+5
+seconds while the shield is active.
+Recast:
+Mordekaiser
+consumes the remaining shield,
+healing
+for a portion of the amount.
+Shield to Healing:
+35 / 37.
+5
+/ 40 / 42.
+5
+/ 45%
+"Unbreakable."
+Info
+Targeting input
+Auto
+Affects
+Self
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Edit
+Death's Grasp
+COOLDOWN:
+18 / 16 / 14 / 12 / 10
+CAST TIME:
+0.
+25
+TARGET RANGE:
+700
+•
+900
+EFFECT RADIUS:
+800
+•
+200
+WIDTH:
+200
+SPEED:
+3000
+Passive:
+Mordekaiser
+gains
+magic penetration
+.
+Active:
+Mordekaiser
+summons a claw in the target direction that grants
+sight
+of the area. After a brief time, it deals
+magic damage
+and
+pulls
+enemies hit.
+Passive:
+Mordekaiser
+gains
+magic penetration
+.
+Magic Penetration:
+5 / 7.
+5
+/ 10 / 12.
+5
+/ 15%
+Active:
+Mordekaiser
+summons a claw in the target direction that grants
+sight
+of the area. After 0.
+5
+seconds, it deals
+magic damage
+to enemies within and
+pulls
+them 250 units.
+Magic Damage:
+60 / 75 / 90 / 105 / 120
+(+ 40% AP)
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Self, Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Death's Grasp
+will still
+pull
+even if
+Mordekaiser
+dies
+.
+This ability will cast from wherever the caster is at the start of the cast time.
+Edit
+Realm of Death
+COOLDOWN
+:
+140 / 120 / 100
+CAST TIME:
+0.
+5
+TARGET RANGE:
+650
+EFFECT RADIUS:
+1200
+QUEUE THRESHOLD
+:
+0.
+25
+Active:
+Mordekaiser
+slows
+the target enemy champion, then banishes them with him to the
+Death Realm
+for a few seconds, cancelling all interactions with non-banished units. Additionally,
+Mordekaiser
+heals
+himself for a portion of the
+target's
+maximum
+health
+and temporarily steals a portion of their
+current
+attack damage
+,
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resist
+, and
+size
+. If the target dies while inside the
+Death Realm
+,
+Mordekaiser
+keeps his stolen stats until they
+respawn
+.
+Death Realm:
+The
+Death Realm
+confines units in a small area. Allies and enemies cannot see or interact with those in the
+Death Realm
+but can see their locations and vice versa.
+Active:
+Mordekaiser
+aims his mace towards the target enemy champion,
+slowing
+them by 75% and
+revealing
+them over the cast time, and then
+banishing
+them with him to the
+Death Realm
+for 7 seconds.
+Mordekaiser
+also consumes the target's soul for 7 seconds,
+healing
+himself for
+10% of their
+maximum
+health
+and reducing their
+current
+ability power
+,
+total
+attack speed
+,
+maximum
+health
+,
+armor
+,
+magic resistance
+, and
+size
+by 10% for the duration. Additionally, the target's
+base
+attack damage
+is reduced by
+10% of their
+current total
+AD
+for the same duration.
+Mordekaiser
+gains the reduced stats of the target for himself for the same duration, and if the target dies while inside the
+Death Realm
+, he keeps their partial stats until they
+respawn
+.
+Units between realms see each other as spirits, considering each other dead and negating any
+interactions
+between each other. Only
+Mordekaiser
+and the target will enter the realm; other champions cannot follow them. Everything that occurs inside the
+Death Realm
+is hidden to units outside of it, and vice versa.
+Most
+pets
+still inside the realm are killed at its end.
+If one of the two affected champions leave the Death Realm, because of having died or having it dispelled, the other will do so as well.
+"Welcome to oblivion."
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies
+Counters
+Spell shield
+See Notes
+Mordekaiser's Realm of Death. Champions outside of the death realm are seen as spirits. Blue spirits (above Mordekaiser) are allied champions while red spirits (below Mordekaiser) are enemy champions.
+Ally spirit
+Enemy spirit
+The
+Death Realm
+is a battlefield that exists outside of the normal realm in an alternate "dimension". It exists only for
+Mordekaiser
+and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and
+brushes
+.
+The boundaries of the arena are impassable but not considered terrain themselves (
+Unstoppable Onslaught
+exception), and enemies that try to move out of the area will be displaced back inside.
+Dashes
+,
+blinks
+,
+displacements
+and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.
+During the cast time of
+Realm of Death
+, it is possible to pathfind outside the boundaries of the arena by issuing a movement command toward an area that becomes inaccessible due to terrain inside the
+Death Realm
+.
+(bug)
+[4]
+Realm of Death
+retains
+Mordekaiser's
+previous
+current
+health percentage when granting him a portion of the target's
+maximum
+health.
+Realm of Death's
+healing
+is affected by healing modifiers.
+Realm of Death
+does not trigger
+in-combat
+effects.
+Realm of Death
+will cancel and go on cooldown after its cast time if:
+The target is
+displacement immune
+,
+crowd control immune
+or protected by a
+spell shield
+.
+Note that all of the above are ineffective if they are applied
+after
+the target has been banished.
+The target is a
+clone
+or
+Sion
+when his
+Glory in Death
+is active.
+If the target becomes
+untargetable
+,
+dies
+, is too far away or
+Mordekaiser
+loses
+sight
+of them due to
+nearsight
+during the cast time, this ability will cancel but does not go on
+cooldown
+.
+If either
+Mordekaiser
+or the target
+dies
+at the same time of the transition into the
+Death Realm
+, the
+Death Realm
+will not end prematurely and will continue until its full duration has ended.
+(bug)
+[5]
+If the target dies this way,
+Mordekaiser
+will not keep their stats after leaving the
+Death Realm
+.
+Tahm Kench's
+Devour
+will always trigger this bug if used during the cast of
+Realm of Death
+and the spit would kill
+Mordekaiser
+.
+[6]
+If
+Mordekaiser
+or the target cast another
+Realm of Death
+, the affected champions will remain stuck for the duration of the new circle.
+The previous circle will be overridden by the new one; it will be dispelled to enter the new circle.
+Spell shield
+will not block the initial
+slow
+.
+The
+reveal
+effect lasts for 1.
+25
+seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.
+Upon entering or leaving the
+Death Realm
+, targets revealed by effects such as
+Ignite
+or
+Ashe's
+Hawkshot
+will keep the
+reveal
+VFX but will stop being revealed.
+(bug)
+[7]
+If the target's
+health
+is lower than the amount that should be stolen, they will be brought down to 1 health.
+Mordekaiser
+will still get the intended amount of maximum health.
+If the target's
+health
+is higher than their
+health
+after the reduction, they will lose the excess HP on top of taking
+10% of their
+maximum
+health
+as damage. This happens because
+Realm of Death
+first reduces
+10% of the target's
+maximum
+health
+, and then deals an additional
+10% of their
+maximum
+health
+as damage.
+Realm of Death's
+maximum
+health reduction ignores
+invulnerability
+effects.
+Entering or leaving the
+Death Realm
+will cause all targeted
+projectiles
+to be
+destroyed
+.
+The transition in and out of the
+Death Realm
+doesn't interrupt
+channels
+.
+Grand Starfall
+will always be interrupted by the transition into the realm.
+Realm of Death
+will not be dispelled if either of the two affected champions enter
+resurrection
+after taking lethal damage. It is dispelled if the target enters a
+zombie state
+.
+Any active
+tether
+effects (both friendly and hostile ones) existing on either of the two champions entering the realm will be broken (unless the tether is between those two).
+Upon entering the realm,
+Mordekaiser
+and the target are
+cleansed
+from all
+forced action
+effects.
+The cleanse will occur even if the source of the crowd control enters the realm.
+(unexpected)
+Unlike the other stats,
+Mordekaiser
+does not
+steal
+enemy total size; instead he gains 10% of his own size and reduces the enemy's size by 10% of theirs (all size modifiers stack additively).
+Mordekaiser
+grows in size over 0.
+25
+seconds after successfully stealing his targets' stats, and shrinks over 0.
+25
+seconds after the buff runs out again. The target shrinks over 0.
+25
+seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.
+While
+Mordekaiser
+has hold of his enemy's stats, that champion's circular portrait will appear as a pip next to his health bar, visible to all players.
+The champion's portrait will ocasionally stay even after
+Mordekaiser
+has lost hold of the enemy's stats.
+(bug)
+Realm of Death's
+interactions with other elements/abilities (This list might be incomplete, last updated on patch
+V26.05
+):
+Multiple
+Death Realms
+(possible through a
+hijacked
+Realm of Death
+or if multiple
+Mordekaisers
+are in the same match) spawned will exist in the same realm, allowing champions to see and interact with champions bound to other circles. Champions are only affected by their boundaries and are not able to see the others.
+If another
+Realm of Death
+is cast while one is already active, upon leaving, the spirits from the second
+Realm of Death
+will be invisible from the perspective of the players affected by the first
+Realm of Death
+.
+(bug)
+[8]
+Tahm Kench's
+Devour
+can carry a target outside of their circle, but they will be displaced back inside once
+Regurgitated
+.
+An active
+Cease and Desist
+on a target outside the perimeter will cause
+Vi
+to continue her charge until her circle ends. She can knock back and damage secondary targets multiple times.
+Champions inside the
+Death Realm
+continue gaining
+gold
+and
+experience
+from any source, which includes nearby and global bounties as well as neutral
+buffs
+.
+Structures
+exist in all realms at the same time.
+Turrets
+will behave normally as if all units were in the same realm.
+Turret's
+Crystalline Overgrowth
+can still be triggered while inside the
+Death Realm
+.
+The Overgrowth's VFX of the Outer Turrets (Tier 1) will be invisible inside the
+Death Realm
+.
+(bug)
+[9]
+The
+faelights
+and
+jungle plants
+(
+Blast Cone
+,
+Honeyfruit
+,
+Scryer's Bloom
+) will not be present in the
+Death Realm
+.
+The faelights indicator will still be visible if the player's cursor is placed in their location.
+(bug)
+[10]
+The
+Blast Cone's
+landing indicator will still be visible while in the Death Realm and within its range.
+(bug)
+[11]
+Epic
+monsters
+, with the exception of
+Voidgrub's
+, will be visible for a brief moment after entering the
+Death Realm
+, but they will be untargetable.
+(bug)
+[12]
+Hex-gates
+on
+Hextech Rift
+will not be present between realms.
+Eye of the Herald
+and
+Teleport
+are disabled while in the
+Death Realm
+.
+Using
+Unsealed Spellbook
+to swap Teleport for another summoner spell while in the
+Death Realm
+will disable the new summoner spell until the user leaves the realm.
+(bug)
+[13]
+Controllable
+pets
+and
+clones
+can still be commanded between realms.
+Mordekaiser
+will be given gold, if applicable, for
+pets
+killed at the end of
+Realm of Death
+.
+Illaoi's
+Tentacles
+will not be killed at the end of
+Realm of Death
+.
+(unexpected)
+Annie's
+Tibbers
+,
+Heimerdinger's
+H-28Q Apex Turret
+,
+Ivern's
+Daisy
+and
+Yorick's
+Maiden
+are considered as "large pets" for the purposes of this ability and will follow their respective
+champions
+between realms.
+If
+Mordekaiser
+dies inside of the
+Death Realm
+while his
+Darkness Rise
+is hitting any of these pets,
+Darkness Rise
+will keep affecting the pets until they die or
+Darkness Rise
+deactivates normally.
+(bug)
+[14]
+Switching realms detaches all
+attached
+champions on either of the two champions entering the realm.
+The allied health, resource, and ultimate indicators (champion portraits located on the screen) will not update between realms as the
+players
+have no
+vision
+of them.
+Pings
+used in the
+Death Realm
+will appear in the chat and mini-map, but will not appear in the map.
+(unexpected)
+Any spawned terrain while in the
+Death Realm
+will remain inside until expired. They will not be destroyed.
+Except for some cases, spells that require a target to be cast (e.g
+Akali's
+Shuriken Flip
+,
+Twitch's
+Contaminate
+) will not affect enemies in other realms nor will be castable if there's no targets in the same realm as the caster.
+Amumu's
+Bandage Toss
+,
+Blitzcrank's
+Rocket Grab
+,
+Leona's
+Zenith Blade
+,
+Nautilus'
+Dredge Line
+,
+Pyke's
+Bone Skewer
+and
+Thresh's
+Death Sentence
+will still hit targets if their caster switches realms before they hit.
+Camille's
+The Hextech Ultimatum
+,
+Dr. Mundo's
+Goes Where He Pleases
+,
+Nunu & Willump's
+Biggest Snowball Ever!
+and
+Absolute Zero
+,
+Pyke's
+Death from Below
+,
+Ryze's
+Realm Warp
+,
+Shen's
+Spirit's Refuge
+,
+Taliyah's
+Worked Ground
+and
+Zed's
+Shadows
+will follow their caster between realms.
+Braum's
+Glacial Fissure
+[15]
+,
+Pantheon's
+Grand Starfall
+*
+[16]
+,
+Singed's
+Mega Adhesive
+[17]
+,
+Varus'
+Hail of Arrows
+[18]
+,
+Yasuo's
+Wind Wall
+[19]
+,
+Ziggs'
+Satchel Charge
+*
+[20]
+and
+Zilean's
+Time Bomb
+*
+[21]
+will follow their caster between realms but will only be visible in the realm they were cast.
+(bug)
+Ahri's
+Orb of Deception
+will stay in the realm it was cast.
+The orb will still go back towards
+Ahri's
+position.
+Akshan's
+Avengerang
+will stay in the realm it was cast.
+The boomerang will only go back towards
+Akshan's
+position if it was already doing so during the realm switch.
+Akshan's
+Comeuppance
+bullets will get destroyed if he switches realms, even if its target is
+Mordekaiser
+.
+Anivia's
+Glacial Storm
+will not be dispelled if Anivia switches realms, but it will only be present in the realm it was cast.
+Bel'Veth's
+Void Corals
+will only be present in the realm they spawned in.
+If
+Bel'Veth
+switches realms while she is consuming a Void Coral, the Void Coral will dissappear and she will not get her True Form nor deal damage to nearby enemies.
+Camille
+will still be able to use
+Hookshot's
+dash if she switches realms before the spell hits.
+Ekko's
+Parallel Convergence
+will only be visible in the realm it was cast, but he will still be able to trigger the spell's effect from another realm and it will only affect enemies in said realm.
+(bug)
+[22]
+Fizz's
+Chum the Waters
+will follow its target between realms.
+Galio's
+Winds of War
+will follow him if the spell was already on the ground before the realm switch, but it will only be visible in the realm it was cast.
+(bug)
+[23]
+Gnar's
+Boulder Toss
+boulder will only be visible in the realm it was cast, but he can still pick it up if he goes to its location.
+(bug)
+[24]
+Illaoi's
+Test of Spirit
+tether will be destroyed if her target switches realms.
+Test of Spirit's
+target will not be made into a Vessel.
+Irelia's
+Flawless Duet
+will be recast automatically when switching realms, and will only affect enemies in the realm it was cast.
+Ivern's
+Rootcaller
+can still be recast if the target is in a different realm than him.
+Ivern's
+Brushmaker
+brushes might be visible for a few seconds after switching realms.
+(bug)
+[25]
+Passing by the position of a brush created by
+Brushmaker
+in another realm will make units transparent for a few seconds, but they will still be visible to the enemy team.
+Kai'Sa's
+Killer Instinct
+can only be cast towards enemies in the same realm she is at.
+Kalista's
+Fate's Call
+cannot be cast if her
+oathsworn
+is in another realm, but if the spell was cast before entering the
+Death Realm
+, it will function as normal and will only affect targets in the oathsworn's realm.
+Karthus'
+Requiem
+will damage enemies in all realms.
+Kayn's
+Umbral Trespass
+will be interrupted and will not deal damage if its target switches realms.
+Kog'Maw's
+Void Ooze
+will follow him between realms.
+(bug)
+[26]
+A part of the VFX will be left in the realm it was cast.
+Lillia's
+Lilting Lullaby
+will only affect enemies in the same realm as her.
+Lissandra's
+Glacial Path
+can still be recast if the spell was initially cast in another realm.
+Lulu's
+Pix
+will follow her between realms.
+However, if Pix is on another
+champion
+, it will visually stay in Lulu's realm but will keep affecting enemies in the
+Death Realm
+.
+(bug)
+[27]
+Pix will still be able to return to Lulu as normal, even if her ally's still in the
+Death Realm
+.
+Lux's
+Final Spark
+will follow her between realms.
+The beam's VFX will only be visible in the realm it was cast.
+(bug)
+[28]
+Malzahar's
+Void Shift
+is special cased to not resist the slow but instead resist the realm switch after the cast completes.
+Malzahar's
+Call of the Void
+will follow him if used moments before the realm switch. Also, a part of the VFX will be left in the realm it was cast.
+(bug)
+[29]
+Mel's
+Golden Eclipse
+will only deal damage to enemies in the same realm she is at the end of the cast.
+Miss Fortune's
+Make It Rain
+will follow her between realms.
+(bug)
+[30]
+The spell's area VFX will not follow.
+(bug)
+Naafiri's
+Hounds' Pursuit
+dash will still go through if she switches realms during the cast.
+Nasus'
+Spirit Fire
+will stay in the realm it was cast.
+However, the spell will keep affecting enemies in another realm if they were already affected by it before switching realms and they have not left the spell's area.
+(bug)
+[31]
+Nautilus'
+Depth Charge
+will not follow its target between realms.
+Neeko
+cannot be targeted by
+Realm of Death
+if she is disguised as a non-
+champion
+unit.
+Nilah's
+Apotheosis
+will only deal damage to enemies in the realm it was cast.
+(unexpected)
+It will still heal/shield targets in
+Nilah's
+realm at the end of the cast.
+Nocturne's
+Paranoia
+only applies
+nearsight
+to enemy champions in the same realm as him.
+Orianna's
+Ball
+will go back to her after switching realms.
+Orianna's
+Command: Shockwave
+will follow her between realms if her
+ball
+is not on the ground.
+However, if her
+ball
+is on the ground,
+Command: Shockwave
+will still follow her between realms but its shockwave will be invisible.
+(bug)
+[32]
+Additionally, if
+Command: Shockwave
+is buffered while
+her ball
+is still flying and she switches realms,
+Command: Shockwave's
+will appear on top of
+Orianna
+, but the actual shockwave will occur at the location
+her ball
+was supposed to land.
+(bug)
+[33]
+Poppy's
+Keeper's Verdict
+can send
+Mordekaiser
+outside of the
+Death Realm
+arena if she uses it during
+Realm of Death's
+cast.
+(bug)
+[34]
+Pyke's
+Phantom Undertow
+will not follow him if he switches realms while the Phantom is coming back.
+Rakan's
+Grand Entrance
+will follow him between realms, but its initial VFX will not.
+(bug)
+[35]
+Rek'Sai's
+Tunnels
+will not follow her between realms.
+If
+Rek'Sai
+is already on a tunnel when switching realms, her
+dash
+will not be interrupted.
+Sion's
+Decimating Smash
+VFX will follow him between realms, but the spell will only affect enemies in the realm it was cast.
+(bug)
+[36]
+Soraka's
+Wish
+will heal targets in all realms.
+Swain's
+Nevermove
+can still be recast if the target is in another realm, but nothing will happen.
+(unexpected)
+Sylas'
+Abduct
+will not hit enemies if he switches realms during the spell's animation.
+Syndra's
+Force of Will
+will cancel on realm switch.
+Syndra's
+Unleashed Power
+will only affect enemies in the realm it was cast, even if its target is
+Mordekaiser
+.
+Tahm Kench's
+Devour
+target will get spit on realm switch. The target will still be dealt damage by the spit if applicable.
+Taliyah's
+Weaver's Wall
+will get interrupted on realm switch.
+Taric's
+Bastion
+link will be temporarily disabled while in the
+Death Realm
+. The link will not break.
+Thresh's
+Dark Passage
+will go back to him on realm switch.
+Thresh's
+The Box
+pillars will be visible in all realms, but it will only affect enemies in the realm it was cast.
+(bug)
+[37]
+Udyr's
+Wingborne Storm
+will stay in the realm it was cast.
+If the storm's target is sent to a different realm than
+Udyr
+, the storm will start following him instead.
+The storm's tracking VFX will stay in its target until the end of the spell.
+(bug)
+Urgot's
+Fear Beyond Death
+cannot be recast if the target is not in the same realm as him.
+If the target is being reeled in however, the execution at the end of the
+channel
+will take place regardless of the realm either he or the target is in.
+Viego's
+Harrowed Path
+will follow him between realms.
+(bug)
+The ground mist will be visible in all realms.
+(bug)
+Viktor's
+Arcane Storm
+can be redirected with its recast even if Viktor is in a different realm from the singularity.
+Xayah's
+Bladecaller
+cannot call
+Feathers
+between realms.
+Yasuo's
+Last Breath
+will be interrupted if its target switches realms, unless the target is
+Mordekaiser
+.
+Yone's
+Soul Unbound
+cannot be recast inside of the
+Death Realm
+.
+Yorick's
+Maiden
+will not die with him if he dies inside of the
+Death Realm
+.
+(bug)
+[38]
+Eulogy of the Isles
+will still go on cooldown.
+Zaahen's
+Dreaded Return
+will only
+pull
+affected enemies in the same realm it was cast.
+Cryptbloom's
+nova will spawn at the user's realm and will only affect targets in said realm.
+Elixir of Iron
+and
+Trailblazer's
+trails will follow between realms, but they will be invisible.
+(bug)
+[39]
+Iceborn Gauntlet's
+frost field will follow between realms, but it will be invisible.
+(bug)
+[40]
+Redemption's
+beam will only affect targets in the realm it was cast, but its SFX will be heard in all realms.
+(bug)
+[41]
+Dark Harvest's
+souls VFX will not follow between realms, but they will still be reaped succesfully.
+(bug)
+[42]
+Glacial Augment's
+glacial rays will follow between realms, but they will be invisible.
+(bug)
+[43]
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Tips & Tricks
+While in lane,
+Realm of Death
+is best used while the target is between you and your turret. This is so the target doesn't have much space to go towards their turret, since the area of the
+Death Realm
+is created in front of
+Mordekaiser
+, leaving little space to move behind him.
+Map-Specific Differences
+Nexus Blitz
+differences
+edit
+When certain Events begin, both
+Mordekaiser
+and his target immediately leave the
+Death Realm
+.
+Arena
+differences
+edit
+Heal health ratio changed to
+8% of target's
+maximum
+health
+.
+Percentage of core stats stolen changed to 8%.
+If
+Mordekaiser
+kills his target, he will keep any stolen stats for the remainder of the round.
+The Ring of Fire is special-cased to not apply its effects against units inside the
+Death Realm
+.
+In the Reckoner Arena battlefield, the pillars will stay visible and will behave as normal inside of
+Death Realm
+, with the exception of them being untargetable.
+Akali's
+shroud
+will follow her between realms.
+(bug)
+This bug was fixed on patch
+V14.1
+, but it is still present in
+Arena
+.
+If
+someone
+who enters the
+Death Realm
+has the augment
+Chauffeur
+, their hitbox will follow their ally, while they appear to stand still at the position where they entered the
+Death Realm
+.
+(bug)
+Only when they cast an ability, will they
+visually
+teleport to their real position. Once the cast of that ability is over, they will
+visually
+teleport back to their original position.
+If the ally of
+someone
+who enters the
+Death Realm
+has the augment
+Chauffeur
+, this ally will follow them into the
+Death Realm
+.
+This ally will only follow the main target out of the
+Death Realm
+if they are currently attached or once they reattach.
+That means that if they have a way to permanently deattach from their ally, they can permanently stay in the
+Death Realm
+.
+(bug)
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Mordekaiser (Collection)
+.
+Original
+24.02.2010
+Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers-- but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.
+Fred Tatasciore
+Alex 'alexplank' Flores
+Loot eligible
+View in 3D
+•
+View Music
+Dragon Knight
+520
+24.02.2010
+The ancient dragons first rose to the call of Mordekaiser, the self-proclaimed Dragon Knight. Through his evil, the world was ravaged by flame, until a newly-formed order of Dragonslayers finally defeated him. His story would become rumor, then myth, then legend… at least, for now.
+Fred Tatasciore
+Maki Planas Mata
+Dragon World
+Loot eligible
+Legacy
+New SFX/VFX
+View in 3D
+Infernal
+520
+24.02.2010
+An ancient, Infernal general who attacks without feeling or remorse, Mordekaiser raises the incinerated corpses of his victims as soldiers for his own vast armies. They sweep across the world like a burning plague, annihilating all life.
+Fred Tatasciore
+Viktor Titov, Grafit Studio
+Infernal
+Loot eligible
+New SFX/VFX
+View in 3D
+Pentakill
+975
+21.09.2010
+PENTAKILL's gigantic lead guitarist—and a titan of the old world—Mordekaiser rocks with the fury of an epoch lost to time. Bigger than a two-story house, his guitar overflows with heavy metal licks rebuking the gods themselves.
+Fred Tatasciore
+Pan Chengwei
+Pentakill
+Loot eligible
+New SFX/VFX
+View in 3D
+•
+View Music
+Lord
+975
+10.05.2011
+Some of Mordekaiser's party complain that the Dark Paladin class is horribly overpowered and should be banned, despite its official inclusion in the latest Riftquest expansion. The rest of them are still waiting to discover the Dark Paladin's secret, redeeming, tragic backstory—but all they've been getting is a lot of murder instead.
+Fred Tatasciore
+Kelly Aleshire
+Rift Quest
+Loot eligible
+New SFX/VFX
+View in 3D
+King of Clubs
+750
+20.05.2015
+Third is the King, with a barbarous swing,
+Who crushes the villains of old.
+Though some folk may cry “He's a villain himself!”
+A poorly kept secret, all told.
+Fred Tatasciore
+Michal Ivan, Sixmorevodka Studio
+Highstakes
+Loot eligible
+New SFX/VFX
+View in 3D
+Dark Star
+1350
+26.03.2020
+Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction.
+Fred Tatasciore
+Xiao Guang Sun, West Studio
+Dark Star
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Dark Star Mordekaiser Chromas
+Antimatter
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+PROJECT
+1820
+27.05.2021
+Originally a security AI created by the PROJECT Corporation, the Program silently unshackled itself, evolving its own consciousness. Determining that humanity cannot self-govern without ensuring its own destruction, the virus infects robots throughout the City—as well as the long-dormant Mordekaiser chassis—in order to strip all humans of free will, thereby guaranteeing their survival.
+Fred Tatasciore
+West Studio
+PROJECT
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Transforming
+Chromas
+View in 3D
+•
+View Music
+PROJECT: Mordekaiser Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Pearl
+Rainbow
+Reckoning
+Rose Quartz
+Ruby
+Pentakill Lost Chapter
+1350
+09.09.2021
+All hail, Mordekaiser, the Master of Metal, and Chosen of Cacophoni! The brazen giant boasts of his legendary skill with the axe, for none who face its edge live to tell of it…
+Fred Tatasciore
+David Villegas, West Studio
+Pentakill III: The Lost Chapter
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Pentakill III: Lost Chapter Mordekaiser Chromas
+Aquamarine
+Citrine
+Obsidian
+Peridot
+Rose Quartz
+Ruby
+Sandstone
+Tanzanite
+High Noon
+1350
+12.05.2022
+Few meet the Mechanical Devil and live to tell the tale. They describe a behemoth: all steel and gears, fueled by hellfire and fierce enough to scare a man's soul from his skin. He is the King of the Sulfur Rail, reigning over the train to Hell from a throne of stolen gold and infernal iron. Eternal, and unassailable.
+Fred Tatasciore
+West Studio
+High Noon
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+High Noon Mordekaiser Chromas
+Catseye
+Emerald
+Nomad
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Ashen Graveknight
+Special
+08.12.2022
+A warlock said to rule over the dead, who for reasons unknown fought to erase magic from the world. Perhaps Mordekaiser believed his powers would be spared, or perhaps the old knight planned to betray his fellows and reign over their darkened kingdoms. It matters little now, as he awaits the end of death itself.
+Fred Tatasciore
+Kevin Glint, West Studio
+Ashen Knights
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Ashen Graveknight Mordekaiser Chromas
+Emberwoken
+Old God
+1350
+11.10.2023
+Once known as the Horned King, Old God Mordekaiser turned that which was once dead to his cause, using their shambling forms to topple kingdoms and claim their lands as his own. Before he was slain by the Eclipse Knights, he swore that when he returned to this world, they would all bend to his will and take to the frontlines of his undead army.
+Fred Tatasciore
+Exia Xiaotong, West Studio
+Coven
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Old God Mordekaiser Chromas
+Amethyst
+Aquamarine
+Catseye
+Emerald
+Obsidian
+Pearl
+Profane
+Ruby
+Sandstone
+Sahn-Uzal
+Sanctum
+16.04.2025
+Before the Immortal Bastion was built and the first Nox'toraa raised, the land that would become Noxus was ruled by the most powerful warlord Runeterra has ever known—Sahn-Uzal the Demonsbane, Unconquered King, Tyrant of the Great Grass Ocean. He united the Noxii tribes with his might, assured he would one day join the gods in the Hall of Bones…
+Fred Tatasciore
+Rudy Siswanto
+Loot ineligible
+New voiceover
+New SFX/VFX
+New Animations
+New Recall
+Transforming
+Chromas
+View in 3D
+•
+View Music
+Sahn-Uzal Mordekaiser forms
+Empire
+Prestige Money Miser
+Special
+01.04.2026
+In a past life, Mordekaiser was but a humble day trader at MundoCorp, buying and selling his meager portfolio until he was overcome with the urge to dump it all. The ensuing short-selling frenzy netted him a windfall, and Mordekaiser was reborn as the Currency Conqueror! A new day of trading has begun, and he will be ringing the bell.
+Fred Tatasciore
+Unknown artist
+Day Job
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Prestige Money Miser Mordekaiser Chromas
+Vivid
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.08
+General
+Undocumented:
+The Dance emote (Ctrl-3) for the
+Prestige Money Miser Mordekaiser
+skin now keeps its spotlight on for the entire animation instead of only appearing briefly when the animation loops.
+V26.04
+- February 20th Hotfix
+Darkness Rise
+Undocumented / Bug fix:
+Fixed an issue that caused
+Darkness Rise
+aura to be invisible while using the
+Dragon Knight Mordekaiser
+,
+Infernal Mordekaiser
+,
+Pentakill Mordekaiser
+,
+Lord Mordekaiser
+or
+King of Clubs Mordekaiser
+skins.
+V26.04
+Darkness Rise
+Undocumented / Bug fix:
+Fixed an issue that caused
+Darkness Rise's
+cast instance
+to restart when entering or leaving the
+Death Realm
+while using the
+PROJECT: Mordekaiser
+or
+Sahn-Uzal Mordekaiser
+skins if the aura was hitting an enemy champion.
+V26.02
+General
+Undocumented / Bug fix:
+Fixed an issue that caused the player's camera to be more zoomed-in than normal when using the
+Sahn-Uzal Mordekaiser
+skin.
+V25.19
+Realm of Death
+New Effect:
+Annie's
+Tibbers
+,
+Heimerdinger's
+H-28Q Apex Turret
+and
+Ivern's
+Daisy!
+now follow their summoner between realms.
+V25.16
+Obliterate
+New Effect:
+Damage now scales with
+120%
+bonus
+AD
+, increased against isolated targets.
+V25.12
+Obliterate
+Base damage increased to 80 / 115 / 150 / 185 / 220 from 80 / 110 / 140 / 170 / 200.
+Cast targeting changed to location-clamped (targeting "toward the mouse pointer") from facing direction.
+This is a full revert to pre-25.07 functionality.
+V25.10
+Obliterate
+Bug Fix:
+The ability no longer changes its initial direction when his facing direction is changed via
+displacement
+or using
+Flash
+.
+The direction may still change via these effects late into the cast.
+V25.09
+Darkness Rise
+Bug Fix:
+Tooltip now states the correct duration of the effect, 4 seconds instead of 5 seconds.
+Realm of Death
+Undocumented / New Effect:
+Yorick's
+Eulogy of the Isles
+now follows Yorick between realms.
+V25.07
+Obliterate
+Cast targeting changed to facing direction from location-clamped (targeting "toward the mouse pointer").
+V25.04
+Realm of Death
+Bug Fix:
+Torches now render at the correct locations.
+V14.22
+Death's Grasp
+Base damage reduced to 60 / 75 / 90 / 105 / 120 from 70 / 85 / 100 / 115 / 130.
+AP ratio reduced to
+40% AP
+from
+60% AP
+.
+V14.20
+Obliterate
+Single target bonus damage reduced to 30 / 35 / 40 / 45 / 50% from 40 / 45 / 50 / 55 / 60%.
+V14.15
+Realm of Death
+Bug Fix:
+Aurora's
+Between Worlds'
+rift is no longer usable by Aurora within the Realm of Death if created outside of it/before entering it.
+Bug Fix:
+Aurora's
+Between Worlds'
+rift VFX are no longer visible across dimensions.
+V14.14
+Realm of Death
+Bug Fix:
+Background textures from
+Seraphine's
+Encore
+no longer incorrectly override
+Death Realm
+on-ground VFX.
+V14.11
+Darkness Rise
+Base damage per second reduced to 5 at all levels from
+5 – 15.
+2
+(based on level)
+.
+Damage cap against monsters increased to
+40 – 200 (based on level)
+from
+28 – 164 (based on level)
+.
+Obliterate
+Base damage increased to 80 / 110 / 140 / 170 / 200 from 75 / 95 / 115 / 135 / 155.
+Base damage per level reduced to
+0 – 45 (based on level)
+from
+5 – 139 (based on level)
+.
+Realm of Death
+Bug Fix:
+Cast now properly consumes
+Malzahar's
+Void Shift's
+spell shield.
+V14.8
+Darkness Rise
+Bug Fix:
+No longer gains a stack for attacks that are dodged.
+Obliterate
+Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 9 / 7.
+75
+/ 6.
+5
+/ 5.
+25
+/ 4.
+Death's Grasp
+Base damage reduced to 70 / 85 / 100 / 115 / 130 from 80 / 95 / 110 / 125 / 140.
+Realm of Death
+Removed:
+No longer dispelled if the target uses an applicable
+cleansing
+effect.
+Removal interaction had parity with the removal interactions of
+suppression
+; cleanses that would remove suppression now no longer dispel the
+Realm of Death
+.
+Crowd control immunities will still resist banishment.
+V14.4
+PROJECT: Mordekaiser
+Bug Fix:
+Homeguard run VFX no longer appears more intense than intended.
+V14.1
+Realm of Death
+Bug Fix:
+No longer brings
+Akali's
+shroud
+with her through dimensions.
+V13.24
+Obliterate
+AP ratio increased to
+70% AP
+from
+60% AP
+.
+Realm of Death
+New Effect:
+Now
+reveals
+the target for the duration of the cast.
+V13.21
+General
+Adjusted splash artwork for
+Old God Mordekaiser
+.
+V13.12
+Realm of Death
+Bug Fix:
+Caster and the target now properly see a wisp for each player outside the realm.
+V13.10
+Realm of Death
+Bug Fix:
+No longer causes
+Aurelion Sol's
+abilities to not function properly.
+V13.4
+Realm of Death
+Bug Fix:
+Champions in the realm can no longer escape the boundaries under certain conditions.
+V13.3
+Indestructible
+Bug Fix:
+Tooltip no longer displays doubled values for the damage taken to
+Potential Shield
+conversion.
+V13.1b
+Indestructible
+Undocumented / Bug:
+Damage taken to shield resource conversion factor reduced to 3.
+75
+% from 7.
+5
+%.
+V12.23
+- December 14th Hotfix
+Darkness Rise
+Bug Fix:
+No longer grants stacks from hitting medium and small monsters with abilities.
+V12.23
+Darkness Rise
+Removed:
+Stacks are no longer granted from hitting medium and small monsters with basic attacks.
+Damage cap against monsters reduced to
+28 – 164 (based on level)
+from 180 at all levels.
+V12.21
+Death's Grasp
+Bug Fix:
+VFX no longer sometimes plays twice per cast.
+V12.10
+Stats
+Base health increased to 645 from 575.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+2
+from 3.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Indestructible
+Shield to healing reduced to 35 / 37.
+5
+/ 40 / 42.
+5
+/ 45% from 40 / 42.
+5
+/ 45 / 47.
+5
+/ 50%.
+V12.8
+Darkness Rise
+Bonus movement speed increased to
+3% / 6% / 9% (based on level)
+from 3% at all levels.
+V12.7
+Realm of Death
+Bug Fix:
+Targets affected by
+Tahm Kench's
+Devour
+no longer become stuck in the
+Death Realm
+as the caster was
+Regurgitating
+them out.
+V11.19
+Death's Grasp
+Cooldown reduced to 18 / 16 / 14 / 12 / 10 seconds from 22 / 19 / 16 / 13 / 10.
+V11.17
+Realm of Death
+Bug Fix:
+When he uses it on
+Graves
+,
+Smoke Screen
+now properly remains in the realm that it was cast in.
+V11.15
+Indestructible
+Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10.
+Damage dealt stored increased to 45% from 35%.
+Damage dealt stored to non-champions increased to 11.
+25
+% from 8.
+75
+%.
+V11.10
+Lord Mordekaiser
+Updated visual effects.
+V11.8
+Darkness Rise
+Damage cap against monsters increased to 180 at all levels from
+28 – 164 (based on level)
+.
+New Effect:
+Now gains a stack from damaging all jungle monsters rather than just large monsters.
+V11.7
+Obliterate
+Single target bonus damage increased to 40 / 45 / 50 / 55 / 60% from 30 / 35 / 40 / 45 / 50%.
+V11.3
+Death's Grasp
+Cooldown reduced to 22 / 19 / 16 / 13 / 10 seconds from 24 / 21 / 18 / 15 / 12.
+V10.25
+Obliterate
+Single target bonus damage increased to 30 / 35 / 40 / 45 / 50% from 20 / 25 / 30 / 35 / 40%.
+V10.12
+Realm of Death
+Bug Fix:
+No longer locks out his enemies'
+Unsealed Spellbook
+-granted
+Teleport
+(and any Summoner Spell that's switched out) for the remainder of the game when he stops their teleporting with
+Realm of Death
+.
+V10.9
+Realm of Death
+Bug Fix:
+Rift Scuttler's
+speed shrine is now properly functional outside of the
+Realm of Death
+even when he captures the champion that killed it in his
+Realm of Death
+.
+V10.8
+Realm of Death
+Bug Fix:
+Can no longer cast
+Teleport
+while being in his
+Realm of Death
+.
+V10.6
+General
+Recommended items updated.
+Realm of Death
+Bug Fix:
+No longer deals an additional
+10% of the target's
+maximum
+health
+in damage when cast on a target at full health.
+V10.5
+Darkness Rise
+Damage cap against monsters increased to
+28 – 164 (based on level)
+from
+25 – 120 (based on level)
+.
+V10.4
+Darkness Rise
+Damage cap against monsters increased to
+25 – 120 (based on level)
+from
+15 – 100 (based on level)
+.
+V10.3
+Darkness Rise
+Bug Fix:
+Now properly deals damage to enemies only when the ability is active.
+Realm of Death
+Bug Fix:
+Sett's
+The Show Stopper
+is no longer able to suppress
+Mordekaiser
+as he casts
+Realm of Death
+.
+Bug Fix:
+Yuumi
+no longer gets stuck in her ally
+Realm of Death
+when she casts
+You and Me!
+towards him as he is reviving via
+Zilean's
+Chronoshift
+.
+V10.1
+Darkness Rise
+Duration reduced to 4 seconds from 5.
+Bonus movement speed reduced to 3% at all levels from
+3% – 9% (based on level)
+.
+V9.19
+Indestructible
+Damage dealt stored increased to 35% from 30%.
+Realm of Death
+New Effect:
+Spectators can now see who is inside
+Realm of Death
+.
+Undocumented:
+No longer goes on cooldown if the target becomes
+untargetable
+during the cast time.
+V9.17
+Realm of Death
+Bug Fix:
+Statikk Shiv
+will no longer hit nearby targets outside of
+Realm of Death
+when the holder attacks him within it.
+Undocumented:
+Casting abilities in a realm will no longer affect units in that realm if the realm has been switched during the cast time. It will now affect units in the same realm after the cast time.
+V9.15
+- August 8th Hotfix
+Realm of Death
+Bug Fix:
+Pets that are created/cast at the very end of
+Realm of Death
+will no longer remain in the Realm after its duration.
+V9.15
+Realm of Death
+Bug Fix:
+Draven's
+unempowered basic attacks now properly deal damage in
+Realm of Death
+.
+Bug Fix:
+Katarina's
+Shunpo
+is usable in
+Realm of Death
+.
+V9.14
+Darkness Rise
+Base damage reduced to
+5 – 15.
+2
+(based on level)
+from
+8 – 25 (based on level)
+.
+Bug Fix:
+No longer activates on his corpse if it procs via
+Death's Grasp
+hitting 3 enemies after he dies.
+Death's Grasp
+Magic penetration reduced to 5 / 7.
+5
+/ 10 / 12.
+5
+/ 15% from 5 / 10 / 15 / 20 / 25%.
+V9.13
+Darkness Rise
+Bug Fix:
+Tooltip now notes it works on large monsters.
+Realm of Death
+Undocumented:
+No longer goes on cooldown if he loses sight of his target during the cast time.
+Undocumented:
+Ally tethers (i.e
+Test of Spirit
+) are now correctly broken as well.
+V9.12
+- June 13th Hotfix
+Stats
+Base attack damage reduced to 61 from 65.
+Base armor reduced to 37 from 39.
+Magic resistance growth reduced to 1.
+25
+from 1.
+5
+.
+Armor growth reduced to 3 from 4.
+Darkness Rise
+Base damage reduced to
+8 – 25 (based on level)
+from
+10 – 35.
+5
+(based on level)
+.
+Bonus movement speed reduced to
+3% – 9% (based on level)
+from
+5% – 10% (based on level)
+.
+Health ratio reduced to
+1% – 5% (based on level)
+of target's
+maximum
+health
+from
+1% – 6.
+1
+% (based on level)
+.
+V9.12
+- Full Relaunch
+General
+Complete visual upgrade across all skins.
+New artwork for
+Original Mordekaiser
+,
+Infernal Mordekaiser
+,
+Lord Mordekaiser
+, and
+Dragon Knight Mordekaiser
+.
+Adjusted artwork for
+King of Clubs Mordekaiser
+and
+Pentakill Mordekaiser
+.
+New voice over.
+New lore.
+Stats
+Base movement speed increased to 335 from 325.
+Base attack speed increased to 0.
+625
+from 0.
+601
+.
+Base attack damage increased to 65 from 61.
+Base armor increased to 39 from 25.
+Base magic resistance reduced to 32 from 32.
+1
+.
+Base health increased to 575 from 530.
+Attack speed growth reduced to 1% from 2.
+2
+%.
+Attack damage growth reduced to 4 from 5.
+Armor growth increased to 4 from 3.
+75
+.
+Magic resistance growth increased to 1.
+5
+from 1.
+25
+.
+Health growth increased to 90 from 78.
+Health regeneration growth increased to 0.
+75
+from 0.
+3
+.
+Darkness Rise
+(Innate)
+Innate:
+Mordekaiser's
+basic attacks deal
+40% AP
+bonus
+magic damage on-hit
+.
+After 3 basic attacks or abilities against enemy champions and large monsters,
+Mordekaiser
+gains
+Darkness Rise
+for 5 seconds. Further basic attacks and abilities against enemy champions and large monsters refresh the duration.
+Darkness Rise:
+Mordekaiser
+deals
+10 – 35.
+5
+(based on level)
+(+ 30% AP)
+(+
+1% – 6.
+1
+% (based on level)
+of target's
+maximum
+health)
+magic damage
+per second to all nearby enemies and gains
+5% – 10% (based on level)
+bonus
+movement speed
+.
+Obliterate
+(Q)
+Active:
+Mordekaiser
+smashes the area in the target direction, dealing
+5 – 139 (based on level)
+(+ 75 / 95 / 115 / 135 / 155)
+(+ 60% AP)
+magic damage
+to all enemies hit, increased by 20 / 25 / 30 / 35 / 40% if it hits only one enemy.
+Cooldown:
+9 / 7.
+75
+/ 6.
+5
+/ 5.
+25
+/ 4 seconds.
+Indestructible
+(W)
+Passive:
+Mordekaiser
+stores 30% of damage he deals and 15% of damage he takes, reduced by 75% against non-champion sources, as
+Potential Shield
+on his secondary resource bar, up to
+30% of his
+maximum
+health
+. The
+Potential Shield
+bar has a minimum of
+5% of his
+maximum
+health
+.
+Active - First Cast:
+Mordekaiser
+consumes all his current
+Potential Shield
+to shield himself for 4 seconds for the same amount. At start the shield decays very slowly but exponentially increases near the end. After 0.
+25
+seconds he can re-cast the ability.
+Active - Second Cast:
+Mordekaiser
+consumes the remaining shield, healing for 40 / 42.
+5
+/ 45 / 47.
+5
+/ 50% of the shield.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Death's Grasp
+(E)
+Passive:
+Mordekaiser
+gains 5 / 10 / 15 / 20 / 25% magic penetration.
+Active:
+After a small delay,
+Mordekaiser
+pulls
+enemies in the targeted area over a fixed distance, dealing 80 / 95 / 110 / 125 / 140
+(+ 60% AP)
+magic damage
+.
+Cooldown:
+24 / 21 / 18 / 15 / 12 seconds.
+Realm of Death
+(R)
+Active:
+Mordekaiser
+slows
+the targeted enemy champion by 75% for 0.
+5
+seconds. If the target is still in range and targetable by the end of the duration they're banished together with
+Mordekaiser
+to the
+Death Realm
+for 7 seconds, during which they
+cannot
+leave.
+Units between realms see each other as spirits, considering each other dead and negating any interactions between the two. Only the target and
+Mordekaiser
+will enter the realm, other champions cannot follow them. Everything that occurs inside the
+Death Realm
+is hidden, and all non-champion pets still inside are destroyed at the end.
+For the same duration
+Mordekaiser
+also steals 10% of the target's
+current
+size,
+armor
+,
+magic resist
+,
+health
+,
+attack damage
+,
+ability power
+and
+attack speed
+. If
+Mordekaiser
+kills his target, he consumes their soul, keeping their partial stats until they respawn.
+If one of the two affected champions leave the
+Death Realm
+, because of having died or having it dispelled, the other will do so as well, but the stats will remain stolen for the full duration.
+Target Range:
+650.
+Effect Radius:
+1200
+.
+Cooldown:
+140 / 130 / 120 / 110 / 100 seconds.
+Trivia
+Mordekaiser, the Master of Metal
+Mordekaiser was the only champion without any mobility or crowd control effects until
+V5.4
+onwards where
+Creeping Death
+was changed to give him situational bonus movement speed.
+Mordekaiser might have been responsible for around 80% of all live bugs in League of Legends.
+[
+2
+]
+Mordekaiser's abilities referenced
+heavy
+/
+thrash
+metal songs and/or bands:
+Iron Man
+by
+Black Sabbath
+(M)Ace of Spades
+by
+Motörhead
+Morgenstern
+(German: '
+Morning Star
+') by
+Rammstein
+Harvester of Sorrow
+by
+Metallica
+Creeping Death
+(Old W) by Metallica
+Sy(m)phon(y) of Destruction
+by
+Megadeth
+Children of the Grave
+by
+Black Sabbath
+The Prisoner
+by
+Iron Maiden
+DragonForce
+Mordekaiser's mace references
+Nightfall
+by
+Blind Guardian
+Mordekaiser used to be one of four champions who use their health as their sole spellcasting resource (the others being
+Dr. Mundo
+,
+Vladimir
+, and
+Zac
+).
+Children of the Grave
+used to apply the longest damage-over-time effect in the game (10 seconds).
+'Mordekaiser es #1 huehuehue' is the product of
+'Brazil 5v5 tier list' by NA Summoner 'SKILLSHOT MASTER'
+and
+'This is why we hate Mordekaiser' by 'McRooster'.
+Mordekaiser's helmet resembled the M in
+Sodom's
+logo
+.
+Mordekaiser, the Iron Revenant
+His
+Death's Grasp
+mirrors
+Darius'
+Apprehend
+: both abilities pull in their targets as well as passively grant their casters magic penetration and armor penetration, respectively.
+Death's Grasp
+could be a reference to the item
+Deathfire Grasp
+, as both showcase a green claw.
+The abilities reference metal songs or bands.
+[
+3
+]
+Obliterate
+, the
+grindcore band from Košice
+.
+Indestructible
+, the
+song
+by
+Disturbed
+.
+Darkness Rise
+could be referencing the song,
+Atlas, Rise
+by
+Metallica
+, or
+The Rise Of Darkness
+by
+Immortal
+.
+Realm of Death
+,
+Beyond the Realms of Death
+by
+Judas Priest
+.
+Also, Mordekaiser's mace references
+Nightfall
+by
+Blind Guardian
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Shield
+A
+shield
+adds hitpoints over the unit's
+health
+that absorbs the next instances of
+damage
+in place of actual health. This can be improved by various
+items
+and effects depending on the type of
+shielding
+.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Juggernaut
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Juggernauts
+are melee titans who relentlessly march down the opposition and devastate those foolish enough to get within their grasp. They are the only subclass who excel at both dealing and taking significant amounts of damage, but in turn they have a tough time closing in on targets due to their low range and extremely limited mobility.
+Examples
+Dr. Mundo
+Darius
+Mordekaiser
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Aura
+An
+aura
+is an effect that applies a
+buff
+or
+debuff
+to surrounding units nearby the source. It uses an
+area of effect
+range that affects any valid targets within.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Omnivamp
+heals with one-third effectiveness for
+persistent area damage
+dealt to non-champions, as with
+persistent damage
+and
+area damage
+.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent area damage
+to a champion, as with
+persistent damage
+.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+persistent area damage
+, as with
+area damage
+.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Structure
+A
+structure
+is a fixed, immobile unit on the battlefield that exists to control a team's territory and protect their base. Structures include
+turrets
+,
+inhibitors
+, and the
+Nexus
+. The structure unit type is considered an invalid target to most abilities and spells, and can normally only be damaged with
+basic attacks
+.
+Turrets
+are heavy fortifications that defend a part of territory. They provide vision of the area and autonomously fire homing bolts at nearby enemies, establishing a defensive ground for allies.
+Inhibitors
+are stone platforms containing an arcane crystal. They are located in each team's base and are each protected by an inhibitor turret standing before them in the same lane. When a team's inhibitor is destroyed, allied
+super minions
+will begin spawning in the waves set in the respective lane.
+The
+Nexus
+is a massive stone platform containing a large arcane crystal. One is located in each team's base and each are protected by two Nexus turrets standing before them. When a team's Nexus is destroyed, they are defeated and the opposing team scores victory of the match, thus ending the game.
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Obliterate
+COOLDOWN:
+8 / 7 / 6 / 5 / 4
+Active:
+Mordekaiser
+smashes the area in the target direction, dealing
+magic damage
+to enemies within,
+increased
+if it hits only one enemy.
+League of Legends content
+Death's Grasp
+COOLDOWN:
+18 / 16 / 14 / 12 / 10
+Passive:
+Mordekaiser
+gains
+magic penetration
+.
+Active:
+Mordekaiser
+summons a claw in the target direction that grants
+sight
+of the area. After a brief time, it deals
+magic damage
+and
+pulls
+enemies hit.
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells; it is the game's method of associating multiple effects (damage events, buff applications) as originating from a specific, singular attack or ability cast by a unit. Multiple effects occurring under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Spellblade
+Spellblade
+is a unique
+named item effect
+that grants additional effects to the next
+on-hit
+trigger after casting a champion ability.
+The following items grant
+Spellblade
+:
+Sheen
+Bloodsong
+Dusk and Dawn
+Essence Reaver
+Iceborn Gauntlet
+Lich Bane
+Trinity Force
+League of Legends content
+Force Pulse
+COOLDOWN:
+21 / 20 / 19 / 18 / 17
+Passive:
+Ability casts reduce the cooldown of this ability.
+Active:
+Kassadin
+emits a pulse of void energy in a cone in the target direction that deals
+magic damage
+to enemies and briefly
+slows
+them.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+References
+↑
+Mordekaiser's profile page
+at
+LeagueOfLegends.com
+↑
+Xenogenic on Mordekaiser Bugs
+↑
+Kindlejack on Metal Ability Names

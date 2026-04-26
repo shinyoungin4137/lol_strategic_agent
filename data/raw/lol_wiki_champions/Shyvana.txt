@@ -1,0 +1,2666 @@
+# Shyvana
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Shyvana
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+625
++100
+Resource
+N/A
+HP5
+7
++0.65
+Secondary Bar
+Fury
+(100)
+AR
+35
++4
+AD
+62
++3
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+350
+Attack range
+150
+Attack speed
+Base AS
+0.625
+Windup%
+19.737%
+AS ratio
+0.69
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+100
+Acq. radius
+600
+Special statistics
+Damage Dealt
++0%
+Damage Received
+-5%
+HP
+「 625 (+
+90
+) 」
+「
+625 – 2155
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++2%
+Damage Dealt
+-15%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Shyvana
+The Half-Dragon
+Role(s):
+Jungle
+Store price:
+1575
+|
+790
+Style:
+Difficulty:
+Damage
+2
+Toughness
+2
+Control
+1
+Mobility
+2
+Utility
+1
+Release date
+2011-11-01
+Last changed
+V26.08
+Class
+Diver
+Legacy class
+Fighter
+,
+Mage
+Resource
+Fury
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Scalemail
+Innate:
+Shyvana
+generates
+Scalemail
+stacks
+from scoring
+takedowns
+against certain enemies. Large
+monsters
+and large
+minions
+grant a stack, while enemy
+champions
+and epic
+monsters
+grant more.
+Scalemail:
+For each stack,
+Shyvana
+gains
+bonus
+armor
+and
+bonus
+magic resist
+.
+Innate:
+Shyvana
+generates
+Scalemail
+stacks
+from scoring
+takedowns
+against certain enemies. Large
+monsters
+and large
+minions
+grant 1 stack, while enemy
+champions
+and epic
+monsters
+grant 3.
+Scalemail:
+For each stack,
+Shyvana
+gains
+0.
+3
+bonus
+armor
+and
+0.
+3
+bonus
+magic resistance
+.
+Info
+Targeting input
+Passive
+Affects
+Self
+Each
+Scalemail
+stack is worth
+12
+.
+0.
+3
+armor
+is worth
+6
+.
+0.
+3
+magic resistance
+is worth
+6
+.
+Map-Specific Differences
+ARAM
+differences
+edit
+Alternative Innate:
+While alive,
+Shyvana
+gains
+1.
+5
+bonus
+armor
+,
+1.
+5
+bonus
+magic resistance
+, and
+0.
+2
+bonus
+Fury regeneration
+whenever a large minion dies within 1400 units of her, or when she is healed by a health relic's area of effect on the enemy's side of the map.
+Nexus Blitz
+differences
+edit
+Alternative Innate:
+Shyvana
+gains
+2
+bonus
+armor
+,
+2
+bonus
+magic resistance
+and
+0.
+05
+bonus
+Fury regeneration
+whenever she or her allies kill nearby epic monsters, jungle monsters, and
+Rift Scuttler
+.
+Arena
+differences
+edit
+Additionally gain 3 stacks of Scalemail per round.
+Stats changed to
+1.2
+bonus
+armor
+and
+0.8
+bonus
+magic resistance
+per stack.
+Edit
+Emberstrike
+COOLDOWN
+:
+10 / 9 / 8 / 7 / 6
+CAST TIME:
+none
+EFFECT RADIUS:
+275
+Passive:
+Shyvana's
+basic attacks
+on-hit
+will reduce
+Emberstrike's
+current
+cooldown
+, and deal
+bonus
+magic damage
+based on the
+target's
+maximum
+health
+.
+Active:
+Each cast empowers
+Shyvana's
+next
+basic attack
+within a few seconds to trigger an additional exclusive effect.
+Emberstrike
+can be recast shortly after the attack.
+First Cast:
+Shyvana's
+slashes her claws, blasting a cone that deals
+physical damage
+to enemies hit.
+Second Cast:
+Shyvana
+slams her tail, dealing the same damage to the target and surrounding enemies.
+Dragon Form
+Bonus — Third Cast:
+Shyvana
+bites ferociously, dealing
+true damage
+.
+Passive:
+Shyvana's
+basic attacks
+on-hit
+will reduce
+Emberstrike's
+current
+cooldown
+by 1 second, and deal
+bonus
+magic damage
+equal to
+1%
+(+ 1.
+1
+% per 100
+bonus
+AD)
+(+ 1.
+1
+% per 100 AP)
+of the target's
+maximum
+health
+. Against non-champions, this effect deals a minimum of 10 and is capped at 200.
+Active:
+Emberstrike
+can be cast twice in
+Human Form
+and thrice in
+Dragon Form
+. Each cast empowers
+Shyvana's
+next
+basic attack
+within 6 seconds to have an
+uncancellable windup
+and trigger an additional exclusive effect. After 1.
+5
+seconds of using an
+Emberstrike
+attack, or immediately following a basic attack, the ability can be recast within and
+up to
+the next 4 seconds each time, before it incurs its
+cooldown
+.
+Shyvana
+gains
+50
+bonus
+range
+on all of her basic attacks while
+Emberstrike
+is active. The attacks deal
+10
+bonus
+physical damage
+against monsters.
+First Cast:
+Shyvana's
+slashes her claws, blasting a cone in the target's direction that deals
+modified
+physical damage
+to enemies hit. The damage to the primary target is affected by
+critical strike
+modifiers.
+Area Physical Damage:
+10 / 15 / 20 / 25 / 30
+(+ 110% AD)
+(+ 25% AP)
+Second Cast:
+Shyvana
+slams her tail, dealing the same damage to the target and surrounding enemies.
+Dragon Form
+Bonus — Third Cast:
+Shyvana
+takes a bite out of the target, dealing
+modified
+true damage
+. This damage is not affected by
+critical strike
+modifiers.
+True Damage:
+15 / 22.
+5
+/ 30 / 37.
+5
+/ 45
+(+ 165% AD)
+(+ 37.
+5
+% AP)
+All casts
+reset
+Shyvana's
+basic attack timer.
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Applies
+spell damage
+to the primary target (attack target) and
+area damage
+to secondary targets. The passive on-hit damage applies
+proc damage
+.
+Spell shield
+will
+not
+block any damage nor be consumed by the strikes.
+The true damage is always equal to 150% of the
+pre-mitigation
+physical damage.
+Blind
+will negate the damage to the primary target, but not to any secondary targets.
+PENDING FOR TEST:
+Interaction with parrying effects (
+dodge
+,
+block
+).
+Only the last cast of
+Emberstrike
+puts
+Shyvana's
+basic attack on cooldown.
+In
+Human Form
+, only Q2 will put it on cooldown; in
+Dragon Form
+, only Q3 will.
+This results in the same functionality as
+Leona's
+Shield of Daybreak
+and
+Volibear's
+Thundering Smash
+, effectively being a triple/quintuple attack reset.
+Edit
+Inferno Aegis
+COOLDOWN
+:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12
+CAST TIME:
+none
+EFFECT RADIUS:
+350
+Active:
+Shyvana
+shields
+herself for a short time, with the shield strength increased for every nearby enemy champion. While it holds, she gains
+bonus
+move speed
+, increased while facing enemy champions.
+Inferno Aegis
+can be recast while the shield holds and does so automatically after it expires or is broken.
+Recast:
+Shyvana
+consumes the shield to explode, dealing
+magic damage
+to nearby enemies.
+Active:
+Shyvana
+shields
+herself for 2.
+5
+seconds, with the shield strength increased by 30% for every nearby enemy champion. While it holds, she gains
+25%
+bonus
+movement speed
+, increased to
+43.
+75
+%
+while facing
+visible
+enemy champions.
+Shield Strength:
+60 / 80 / 100 / 120 / 140
+(+ 5%
+maximum
+health)
+Increased shield per champion:
+18 / 24 / 30 / 36 / 42
+(+ 1.
+5
+%
+maximum
+health)
+After 1 second,
+Inferno Aegis
+can be recast while the shield holds and does so automatically after it expires or is broken.
+Recast:
+Shyvana
+consumes the shield to explode, dealing
+magic damage
+to nearby enemies.
+Magic Damage:
+80 / 100 / 120 / 140 / 160
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+Dragon Form
+Bonus:
+If the explosion hits an enemy champion,
+Shyvana
+heals
+herself for
+75 – 214.
+71
+(based on level)
+(+ 10%
+bonus
+AD)
+(+ 5% AP)
+, increased by
+0% – 100% (based on her
+missing
+health)
+for a maximum heal of
+150 – 429.
+41
+(based on level)
+(+ 20%
+bonus
+AD)
+(+ 10% AP)
+.
+Info
+Targeting input
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+No additional details.
+Edit
+Molten Burst
+COOLDOWN:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10
+CAST TIME:
+0.
+25
+•
+0.
+3333
+EFFECT RADIUS:
+150
+•
+300
+WIDTH:
+120
+•
+100
+SPEED:
+1600
+•
+1575
+Active:
+Shyvana
+launches a fireball that explodes upon colliding with the first enemy or reaching maximum range, dealing
+magic damage
+to enemies hit and
+slowing
+them for a moment.
+Dragon Form
+Bonus:
+The fireball is wider, can pass through enemies, and deals increased damage. Upon hitting an enemy
+champion
+or large
+monster
+, or reaching maximum range, the fireball sets an explosion that applies the same effects.
+Molten Burst
+will also scorch the ground it touches beneath, enemies within a scorched field are continually dealt
+magic damage
+.
+Active:
+Shyvana
+launches a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing
+magic damage
+to enemies hit and
+slowing
+them for 2 seconds.
+Magic Damage:
+80 / 110 / 140 / 170 / 200
+(+ 35%
+bonus
+AD)
+(+ 70% AP)
+Slow Strength:
+20 / 25 / 30 / 35 / 40%
+Dragon Form
+Bonus:
+The fireball is wider, can pass through enemies, and deals 25% increased damage. Upon hitting an enemy
+champion
+or large
+monster
+, and after reaching maximum range, the fireball sets an explosion upon the targets struck and at the location that applies the same effects.
+Molten Burst
+will also scorch the ground it touches beneath for 2 seconds. Enemies within a scorched field are dealt
+3.
+75
+/ 5 / 6.
+25
+(based on level)
+(+ 1.
+25
+% AP)
+magic damage
+every 0.
+25
+seconds, for a total maximum damage of
+30 / 40 / 50 (based on level)
+(+ 10% AP)
+.
+Enemies may be damaged by only one scorched field at a time. Subsequent explosions against the same target deal 50% damage.
+Increased/Explosion Magic Damage:
+100 / 137.
+5
+/ 175 / 212.
+5
+/ 250
+(+ 43.
+75
+%
+bonus
+AD)
+(+ 87.
+5
+% AP)
+Subsequent Explosion Damage:
+50 / 68.
+75
+/ 87.
+5
+/ 106.
+25
+/ 125
+(+ 21.
+875
+%
+bonus
+AD)
+(+ 43.
+75
+% AP)
+Info
+Targeting input
+Direction
+/
+Location
+Target out-of-range override
+While in
+Dragon Form
+, target at maximum range (clamped)
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+The fireball applies
+area damage
+. In
+Dragon Form
+, the explosion applies
+area damage
+and the scorched field deals
+persistent area damage
+.
+In
+Dragon Form
+, both areas of effect will be centered on the first champion struck, not at the location the missile collided with them.
+Molten Burst
+will fail to go on cooldown if its cast time starts in
+Dragon Form
+and ends in
+Human Form
+.
+(bug)
+This ability will cast from wherever the caster is at the end of the cast time.
+Map-Specific Differences
+Ultra Rapid Fire
+differences
+edit
+Explosion base damage changed to
+75 – 195 (based on level)
+.
+Arena
+differences
+edit
+On-hit damage health ratio changed to
+2% of target's
+maximum
+health
+.
+On-hit bonus AD ratio changed to
+0.
+5
+% per 100
+bonus
+AD
+.
+Dragon Form
+fireball bonus AD ratio changed to
+80%
+bonus
+AD
+.
+Edit
+Dragon's Descent
+COST:
+3.
+3
+Dragon Fury
+every 0.
+5
+seconds
+CAST TIME:
+0.
+25
+TARGET RANGE:
+400 - 1050
+Passive - Fury:
+Shyvana
+generates
+Fury
+every second while in
+Human Form
+, and also generates
+Fury
+from her basic attacks and abilities when they deal damage.
+Active:
+Shyvana
+transforms into
+Dragon Form
+and
+dashes
+with
+displacement immunity
+, breathing fire in a cone that deals
+magic damage
+to enemies hit and briefly
+fears
+them.
+Dragon Form
+:
+Shyvana
+gains
+bonus
+health
+,
+bonus
+attack range
+, and increased
+size
+. Her abilities are empowered to apply an additional effect. She maintains
+Dragon Form
+at a recurring cost of
+Dragon Fury
+, returning to
+Human Form
+once all
+Dragon Fury
+has been depleted.
+Passive - Fury:
+Shyvana
+generates
+Dragon Fury
+every 0.
+5
+seconds while in
+Human Form
+. Her
+basic attacks
+and
+abilities
+also generate
+1.
+25
+Dragon Fury
+for each enemy damaged, up to once per enemy per
+cast instance
+and increased
+「 by 200% 」
+「 to
+3.
+75
+」
+during
+Dragon Form
+. Against non-champions damaged by abilities, the generated amount is reduced to
+「 25%. 」
+「
+0.
+3125
+and
+0.
+9375
+Dragon Fury
+during
+Human Form
+and
+Dragon Form
+, respectively. 」
+Shyvana
+gains 1%
+bonus
+Dragon Fury
+generation from all sources per 1
+ultimate haste
+.
+Shyvana
+gains
+100 Dragon Fury
+upon learning
+Dragon's Descent
+.
+Dragon Fury Generation per 0.5 Seconds:
+0.
+25
+/ 0.
+375
+/ 0.
+5
+Dragon Fury Generation per Second:
+0.
+5
+/ 0.
+75
+/ 1
+Active:
+Shyvana
+transforms into
+Dragon Form
+and
+flies
+with
+displacement immunity
+in the target direction, breathing fire in a cone along the way that deals
+magic damage
+to enemies hit and
+fears
+them for 0.
+75
+seconds, as well as
+slows
+them by 99% for the same duration.
+Magic Damage:
+150 / 250 / 350
+(+ 100% AP)
+Dragon Form
+:
+Shyvana
+gains
+bonus
+health
+,
+bonus
+attack range
+, and increased
+size
+. Her basic abilities are empowered to apply an additional effect. She maintains
+Dragon Form
+at a recurring cost of
+Dragon Fury
+, returning to
+Human Form
+once all
+Dragon Fury
+has been depleted.
+Bonus Health:
+150 / 250 / 350
+Bonus Range:
+25 / 50 / 75
+Size Increase:
+5 / 12.
+5
+/ 20%
+100 Dragon Fury
+is required to cast this ability.
+Info
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Dragon's Descent's
+displacement immunity
+begins from the start of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+Tips & Tricks
+Because of how
+ultimate haste
+interacts with
+Shyvana's
+fury generation, it has a bigger effect than haste has on abilities with a regular cooldown.
+Dragon's Descent
+essentially has a cooldown of 200 / 133.
+333
+/ 100 seconds, reduced by 0.
+625
+/ 0.
+4167
+/ 0.
+3125
+for each damaging basic attack and ability hit, increased to 2.
+5
+/ 1.
+67
+/ 1.
+25
+against champions.
+It also essentially lasts for 15 seconds, increased by 0.
+140625
+for each basic attack and ability hit, increased to 0.
+5625
+against champions.
+Normally, with 100 haste, the only effect would be the cooldown getting reduced by 50% to 100 / 66.
+667
+/ 50, but because 100 ultimate haste grants
+Shyvana
+an extra 100%
+bonus
+fury generation from
+all
+sources, this also increases how much the "cooldown" is reduced by basic attacks and abilities to 1.
+25
+/ 0.
+8333
+/ 0.
+625
+for non-champions and 5 / 3.
+33
+/ 2.
+5
+for champions.
+This is the opposite effect to abilities with cooldown reductions that scale with haste (e.g.
+Master Yi's
+Alpha Strike
+), which instead lower the reduction amount with haste. This happens because ultimate haste increases fury generation from
+all
+sources instead of only increasing her passive fury generation.
+Additionally, this also affects the duration increase per basic attack or ability the same way, amounting to an extra 0.
+28125
+against non-champions and 1.
+125
+against champions.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Shyvana (Collection)
+.
+Original
+01.11.2011
+Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.
+Karen Strassman
+Fortune 'Fortuneee' K
+Loot eligible
+View in 3D
+•
+View Music
+Shyvana Ironscale
+750
+01.11.2011
+It made sense that Shyvana wanted to play a powerful dragon in Riftquest, but what surprised her party more was the joyful penchant for destruction that the game brought out in their staunchly disciplined friend. Descending upon the battlefield with glee, Shyvana Ironscale's roar alone sends enemies and figurines flying (and sometimes her allies, too).
+Karen Strassman
+Unknown artist
+Rift Quest
+Loot eligible
+View in 3D
+Boneclaw
+520
+01.11.2011
+Many hunters claim Shyvana holds an unfair advantage when it comes to slaying the giant beasts that roam the land. Shyvana herself cares little about their opinions, preferring instead to channel her rage into her true form—a massive, fire-breathing dragon… that proves the hunters' point.
+Karen Strassman
+Unknown artist
+Prehistoric Hunters
+Loot eligible
+View in 3D
+Darkflame
+975
+28.05.2012
+With her humanity burned away by the Darkflame, Shvyana wreaks havoc upon the battlefield. It is said that any enemy touched by her flame will have their very soul incinerated by its dark magics.
+Karen Strassman
+Unknown artist
+Legacy
+Loot eligible
+New SFX/VFX
+View in 3D
+Ice Drake
+975
+29.04.2013
+From the desolate reaches of the North, a dormant drake lay in rest. Upon Shyvana's arrival this behemoth awakened from its slumber and imbued her with the power of the frozen wastes. Now she stalks the tundra, searching for any foolish enough to cross her path.
+Karen Strassman
+Katie 'TeaTime' De Sousa
+Blackfrost
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Worlds 2014
+975
+13.10.2014
+Celebrating Worlds 2014 in Korea.
+Karen Strassman
+Brandon 'Madspartan' Liao
+World Championship
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Worlds 2014 Shyvana Chromas
+Golden
+Super Galaxy
+1350
+25.05.2016
+By far the most experienced of the entire Super Galaxy team, Shyvana is the leader her teammates sorely need. A transfer pilot from a different (but just as hyperbolically named) defense force, she does sometimes find herself at odds with her allies as much as her enemies—and periodically questions if the ten percent salary bonus was actually worth it.
+Karen Strassman
+Xu 'Crow God' Cheng
+Super Galaxy
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+View in 3D
+Ruined
+1350
+21.01.2021
+Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance.
+Karen Strassman
+Jeremy 'Jermu' Anninos
+Ruined
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Ruined Shyvana Chromas
+Citrine
+Cursed
+Emerald
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Immortal Journey
+1350
+16.08.2023
+For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality.
+Karen Strassman
+Su Fu, Kudos Productions
+Immortal Journey
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Immortal Journey Shyvana Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.08
+Dragon's Descent
+Bug Fix:
+Fixed a bug that caused the progress towards her ultimate to not display correctly when pinged.
+V26.07
+Emberstrike
+Bug Fix:
+Fixed a bug that caused her to lose SFX for all casts in both Human and Dragon form when using certain skins.
+Dragon's Descent
+Removed:
+No longer gains 0.
+015
+fury per second per 1 ultimate haste.
+New Effect:
+Now gains 1% bonus fury generation per 1 ultimate haste.
+V26.06
+- March 18th Hotfix
+Scalemail
+Bonus resistances per stack reduced to 0.
+3
+from 0.
+4
+.
+Emberstrike
+On-hit damage bonus AD ratio reduced to
+1.
+1
+% per 100
+bonus
+AD
+from
+1.
+7
+%
+.
+On-hit damage AP ratio reduced to
+1.
+1
+% per 100 AP
+from
+1.
+3
+%
+.
+On-hit cooldown reduction reduced to 1 second from 1.
+25
+.
+Inferno Aegis
+Base heal reduced to
+75 – 200 (based on level)
+from
+100 – 250 (based on level)
+.
+Molten Burst
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 200 / 240.
+Bonus AD ratio reduced to
+35%
+bonus
+AD
+from
+50%
+.
+Dragon's Descent
+Fear duration reduced to 0.
+75
+seconds from 1.
+V26.06
+- Full Relaunch
+General
+New splash artwork for
+Original Shyvana
+,
+Shyvana Ironscale
+,
+Boneclaw Shyvana
+, and
+Darkflame Shyvana
+.
+Adjusted splash artwork for
+Ice Drake Shyvana
+,
+Worlds 2014 Shyvana
+,
+Super Galaxy Shyvana
+,
+Ruined Shyvana
+, and
+Immortal Journey Shyvana
+.
+Shyvana Ironscale
+Skin renamed to Shyvana Ironscale from Ironscale Shyvana.
+Stats
+Undocumented:
+Base health reduced to 625 from 665.
+Undocumented:
+Health growth reduced to 100 from 104.
+Undocumented:
+Base armor reduced to 35 from 38.
+Undocumented:
+Armor growth reduced to 4 from 4.
+55
+.
+Undocumented:
+Magic resistance growth increased to 2.
+05
+from 1.
+5
+.
+Undocumented:
+Base health regeneration reduced to 7 from 8.
+5
+.
+Undocumented:
+Health regeneration growth reduced to 0.
+65
+from 0.
+8
+.
+Undocumented:
+Base attack damage reduced to 62 from 66.
+Undocumented:
+Base attack speed reduced to 0.
+625
+from 0.
+658
+.
+Undocumented:
+Attack speed growth reduced to 2% from 2.
+5
+%.
+Undocumented:
+Attack range increased to 150 units from 125.
+Scalemail
+- Innate
+Innate:
+Shyvana
+generates
+Scalemail
+stacks
+from scoring
+takedowns
+against certain enemies. Large
+monsters
+and large
+minions
+grant 1 stack, while enemy
+champions
+and epic
+monsters
+grant 3.
+Scalemail:
+For each stack,
+Shyvana
+gains
+0.
+4
+bonus
+armor
+and
+0.
+4
+bonus
+magic resistance
+.
+Emberstrike
+- Q
+Passive:
+Shyvana's
+basic attacks
+on-hit
+deal
+bonus
+magic damage
+equal to
+1%
+(+ 1.
+7
+% per 100
+bonus
+AD)
+(+ 1.
+3
+% per 100 AP)
+of the target's
+maximum
+health
+. Against non-champions, this damage deals a minimum of 10 and is capped at 200. Additionally, her basic attacks
+on-hit
+reduce the
+remaining
+cooldown
+of
+Emberstrike
+by 1.
+25
+seconds.
+Active:
+Shyvana
+empowers her next
+basic attack
+within 6 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+and trigger a blast in the target's direction that deals 10 / 15 / 20 / 25 / 30
+(+ 110% AD)
+(+ 25% AP)
+modified
+physical damage
+to enemies hit in a cone.
+Emberstrike's
+damage to the primary target is affected by
+critical strike
+modifiers. After 1.
+5
+seconds of using the empowered attack, or immediately after her next basic attack,
+Shyvana
+can recast
+Emberstrike
+within and
+up to
+the next 4 seconds.
+First Recast:
+Shyvana
+mimics the first cast's effects, instead creating the blast around the primary target.
+Dragon Form
+Bonus:
+After 1.
+5
+seconds of using the recast's empowered attack, or immediately after her next basic attack,
+Shyvana
+can recast
+Emberstrike
+a second time within and
+up to
+the next 4 seconds.
+Second Recast:
+Shyvana
+empowers her next
+basic attack
+within 6 seconds to have an
+uncancellable windup
+, gain
+50
+bonus
+range
+and cause her to bite the target, dealing them 15 / 22.
+5
+/ 30 / 37.
+5
+/ 45
+(+ 165% AD)
+(+ 37.
+5
+% AP)
+modified
+true damage
+. This attack cannot
+critically strike
+.
+Emberstrike's
+empowered attack deals 10
+bonus
+damage to monsters.
+All Emberstrike casts
+reset
+Shyvana's
+basic attack timer.
+Cooldown:
+10 / 9 / 8 / 7 / 6 seconds (starts post-effect).
+Cast Time:
+None,
+Effect Radius:
+275
+.
+Inferno Aegis
+- W
+Active:
+Shyvana
+grants herself a
+shield
+for 60 / 80 / 100 / 120 / 140
+(+ 5%
+maximum
+health)
+for 2.
+5
+seconds, increased by 30% for every nearby enemy
+champion
+. While the shield holds, she gains
+25%
+bonus
+movement speed
+, increased to
+43.
+75
+%
+while facing
+visible
+enemy
+champions
+.
+After 1 second,
+Inferno Aegis
+can be recast while the shield holds and does so automatically after it expires or is broken.
+Recast:
+Shyvana
+consumes the shield to unleash an explosion around her, dealing 80 / 100 / 120 / 140 / 160
+(+ 40%
+bonus
+AD)
+(+ 20% AP)
+magic damage
+to all nearby enemies.
+Dragon Form
+Bonus:
+If the recast's explosion hits an enemy
+champion
+,
+Shyvana
+heals
+for
+100 – 267.
+65
+(based on level)
+(+ 10%
+bonus
+AD)
+(+ 5% AP)
+, increased by
+0% – 100% (based on
+missing
+health)
+for a maximum heal of
+200 – 535.
+29
+(based on level)
+(+ 20%
+bonus
+AD)
+(+ 10% AP)
+.
+Cooldown:
+14 / 13.
+5
+/ 13 / 12.
+5
+/ 12 seconds (starts on-cast).
+Cast Time:
+None,
+Effect Radius:
+350
+.
+Molten Burst
+- E
+Active:
+Shyvana
+launches a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 80 / 120 / 160 / 200 / 240
+(+ 50%
+bonus
+AD)
+(+ 70% AP)
+magic damage
+to all nearby enemies and
+slowing
+them by 30 / 35 / 40 / 45 / 50% for 2 seconds.
+Dragon Form
+Bonus:
+Molten Burst's
+fireball damage is increased by 25%. The fireball is wider, can pass through enemies, and scorches the ground along its path for 2 seconds. Upon hitting an enemy champion or large monster, or reaching maximum range, the fireball triggers an explosion centered around the target or location that deals the same damage to nearby enemies and applies the same slow. The explosion also scorches the ground in the same radius for 2 seconds. Enemies within a scorched field are  dealt
+3.
+75
+/ 5 / 6.
+25
+(based on level)
+(+ 1.
+25
+% AP)
+magic damage
+every 0.
+25
+seconds, for a total maximum damage of
+30 / 40 / 50 (based on level)
+(+ 10% AP)
+. Enemies may be damaged by only one scorched field at a time. Subsequent explosions that hit the same target deal 50% damage.
+Cooldown:
+12 / 11.
+5
+/ 11 / 10.
+5
+/ 10 seconds.
+Cast Time:
+0.
+25
+/
+0.
+3333
+,
+Effect Radius:
+150
+/
+300
+,
+Width:
+120
+/
+100
+,
+Speed:
+1600
+/
+1575
+.
+Dragon's Descent
+- R
+Passive - Fury:
+Shyvana
+generates
+0.
+5
+/ 0.
+75
+/ 1
+(+ 0.
+015
+per 1
+ultimate haste
+)
+Dragon Fury
+per second while in
+Human Form
+. Her basic attacks and abilities also generate
+1.
+25
+Dragon Fury
+for every enemy they hit, up to once per enemy per
+cast instance
+and increased
+「 by 200% 」
+「 to
+3.
+75
+」
+during
+Dragon Form
+. Against non-champions hit by abilities, the generated amount is reduced to
+「 25%. 」
+「
+0.
+3125
+and
+0.
+9375
+Dragon Fury
+during
+Human Form
+and
+Dragon Form
+, respectively. 」
+Shyvana
+gains
+100 Dragon Fury
+upon learning
+Dragon's Descent
+.
+Active:
+Shyvana
+transforms into
+Dragon Form
+and
+flies
+with
+displacement immunity
+in the target direction, exhaling a wave of fire in a
+frontal
+cone along the way that deals 150 / 250 / 350
+(+ 100% AP)
+magic damage
+to enemies struck and
+fears
+them for 1 second.
+Dragon Form
+:
+Shyvana
+gains 150 / 250 / 350
+bonus
+health
+, 25 / 50 / 75
+bonus
+attack range
+, and 5 / 12.
+5
+/ 20% increased
+size
+. Her basic abilities are also empowered to apply an additional effect. She maintains
+Dragon Form
+at a recurring cost of
+Dragon Fury
+, returning to
+Human Form
+once all
+Dragon Fury
+has been depleted.
+100 Dragon Fury
+is required to cast this ability.
+Cost:
+3.
+3
+Dragon Fury
+every 0.
+5
+seconds.
+Cast Time:
+0.
+25
+seconds,
+Target Range:
+400
+/
+1050
+.
+Trivia
+Shyvana, the Half-Dragon
+Shyvana is
+voiced
+by
+Karen Strassman
+.
+Cassiopeia
+,
+Fiora
+and
+Zyra
+are also voiced by the same voice actress.
+Shyvana's dance references
+RIVER
+by
+AKB48
+.
+A side-by-side comparison can be seen
+HERE
+and
+HERE
+.
+Shyvana's resource was misnamed 'Dragon's Blood' in her champion preview.
+Shyvana's dragon form resembles a
+wyvern
+.
+Shyvana was the first champion since
+Kog'Maw
+to not feature a League Judgement after they were discontinued (except
+Varus
+).
+Shyvana, the Half-Dragon
+Shyvana
+is one of 16 champions that infinitely scales at least one of their statistics or abilities:
+Aurelion Sol
+,
+Bard
+,
+Bel'Veth
+,
+Cho'Gath
+,
+Draven
+,
+Kindred
+,
+Mel
+,
+Nasus
+,
+Senna
+,
+Sion
+,
+Smolder
+,
+Swain
+,
+Sylas
+,
+Thresh
+, and
+Veigar
+.
+In Shyvana's case,
+Scalemail
+infinitely stacks her
+armor
+and
+magic resistance
+.
+Shyvana
+is one of 11 champions that can change shape, altering some or all of their abilities:
+Elise
+,
+Gnar
+,
+Jayce
+,
+Kayn
+,
+Kled
+,
+Nidalee
+,
+Rek'Sai
+,
+Sylas
+,
+Viego
+, and
+Yunara
+.
+In Shyvana's case,
+Dragon's Descent
+transforms her into her
+Dragon Form
+, gaining
+bonus
+health
+,
+bonus
+attack range
+, increased
+size
+and empowered basic abilities.
+Shyvana is
+voiced
+by
+Karen Strassman
+.
+Cassiopeia
+,
+Fiora
+and
+Zyra
+are also voiced by the same voice actress.
+Shyvana's dragon form resembles a quadrupedal
+european dragon
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Mage (Legacy)
+Mages
+are offensive casters that seek to cripple and burn down the opposition through their potent spells.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Takedown
+Takedown
+refers to a
+kill
+or
+assist
+being acceptable, with the type of enemy specified in each use case.
+Takedown
+is associated with triggering a
+passive
+effect, or timed effects shortly after scoring.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Nexus Blitz
+An explosive game mode known as Nexus Blitz. Traverse down one of two different paths in order to attack your enemy at their weakest point. Work with your allies to siege the enemy base and destroy their Nexus!
+Regular Modes
+Classic 5v5
+Custom
+Maps
+Temple of Lily and Lotus
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+Dragon's Descent
+Passive - Fury:
+Shyvana
+generates
+Fury
+every second while in
+Human Form
+, and also generates
+Fury
+from her basic attacks and abilities when they deal damage.
+Active:
+Shyvana
+transforms into
+Dragon Form
+and
+dashes
+with
+displacement immunity
+, breathing fire in a cone that deals
+magic damage
+to enemies hit and briefly
+fears
+them.
+Dragon Form
+:
+Shyvana
+gains
+bonus
+health
+,
+bonus
+attack range
+, and increased
+size
+. Her abilities are empowered to apply an additional effect. She maintains
+Dragon Form
+at a recurring cost of
+Dragon Fury
+, returning to
+Human Form
+once all
+Dragon Fury
+has been depleted.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Shield of Daybreak
+COOLDOWN:
+5
+Active:
+Leona
+illuminates her shield, causing her next
+basic attack
+within a few seconds to deal
+bonus
+magic damage
+and briefly
+stun
+the target.
+League of Legends content
+Thundering Smash
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Volibear
+becomes
+ghosted
+and gains
+bonus
+movement speed
+for a few seconds, increased while facing an enemy champion.
+During this time, his next basic attack will
+dash
+to the target, dealing
+bonus
+physical damage
+and briefly
+stunning
+them.
+References
+↑
+Shyvana's profile page
+at
+LeagueOfLegends.com

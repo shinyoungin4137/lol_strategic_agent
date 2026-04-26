@@ -1,0 +1,2478 @@
+# Yunara
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Yunara
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+590
++110
+MP
+275
++45
+HP5
+4
++0.55
+MP5
+7.5
++0.75
+AR
+25
++4.4
+AD
+55
++2.5
+MR
+30
++1.3
+Crit. DMG
+200%
+MS
+325
+Attack range
+575
+Attack speed
+Base AS
+0.65
+Windup%
+16.255%
+AS ratio
+N/A
+Bonus AS
++2
+%
+Missile speed
+2500
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+30
+Select. height
+125
+Acq. radius
+800
+Special statistics
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Yunara
+The Unbroken Faith
+Role(s):
+Bottom
+Store price:
+3150
+|
+975
+Style:
+Difficulty:
+Damage
+3
+Toughness
+1
+Control
+1
+Mobility
+2
+Utility
+0
+Release date
+2025-07-16
+Last changed
+V26.01
+Class
+Marksman
+Legacy class
+Marksman
+Resource
+Mana
+Range type
+Ranged
+Adaptive type
+Physical
+Abilities
+Edit
+Vow of the First Lands
+Innate:
+Yunara's
+critical strikes
+deal
+bonus
+magic damage
+.
+Innate:
+Yunara's
+critical strikes
+deal
+10%
+(+ 10% per 100 AP)
+bonus
+magic damage
+.
+Info
+Targeting input
+Passive
+Affects
+Self, Enemies
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Magic
+Counters
+Parries
+Missing
+PENDING FOR TEST:
+Interaction with parry effects (
+dodge
+,
+block
+and
+blind
+.
+Edit
+Cultivation of Spirit
+COST:
+30 Mana + 8 Unleash Stacks
+CAST TIME:
+none
+EFFECT RADIUS:
+300
+SPEED:
+10000
+•
+2000
+QUEUE THRESHOLD
+:
+0.
+05
+Passive:
+Yunara's
+basic attacks
+deal
+bonus
+magic damage
+on-hit
+and generate
+stacks
+of
+Unleash
+on-attack
+, stacking up to a cap upon which she can cast
+Cultivation of Spirit
+.
+Active:
+Yunara
+unleashes for a few seconds: her basic attacks gain
+bonus
+attack speed
+, deal
+additional bonus
+magic damage
+, and spread to deal
+physical damage
+to enemies near the target.  The spread attack will apply
+life steal
+and
+on-hit
+effects, and can
+critically strike
+.
+Passive:
+Yunara's
+basic attacks
+deal
+bonus
+magic damage
+on-hit
+. While this ability is inactive, her basic attacks
+on-attack
+generate a
+stack
+of
+Unleash
+for 6 seconds, increased to 2 stacks against
+champions
+. The stacks refresh on subsequent attacks, stack up to 8 times, and expire one by one every 0.
+5
+seconds after the duration.
+Passive Bonus Magic Damage:
+5 / 10 / 15 / 20 / 25
+(+ 20% AP)
+Active:
+Yunara
+unleashes for 5 seconds: gaining
+bonus
+attack speed
+, dealing
+additional bonus
+magic damage
+on-hit
+, and augmenting her basic attacks to have increased missile speed, a 40% lower
+windup
+time, and an
+uncancellable windup
+. Her basic attacks are also empowered to spread to each enemy near the target, dealing
+30% AD
+physical damage
+.
+Each spread attack
+applies
+life steal
+and
+on-hit
+effects, with on-hit damage reduced to 30% effectiveness, and will
+critically strike
+for
+(200% +
+30%
+)
+damage if the triggering attack does. Spread attacks deal 250% damage against
+minions
+below 30%
+maximum
+health
+.
+Bonus Attack Speed:
+20 / 30 / 40 / 50 / 60%
+Active Bonus Magic Damage:
+5 / 10 / 15 / 20 / 25
+(+ 20% AP)
+Combined Bonus Magic Damage:
+10 / 20 / 30 / 40 / 50
+(+ 40% AP)
+Active Increased Minion Damage:
+12.
+5
+/ 25 / 37.
+5
+/ 50 / 62.
+5
+(+ 50% AP)
+Combined Increased Minion Damage:
+25 / 50 / 75 / 100 / 125
+(+ 100% AP)
+Cultivation of Spirit
+resets
+Yunara's
+basic attack timer. Targets do not have to be
+visible
+to be hit by the spread attacks.
+Info
+Targeting input
+Auto
+Affects
+Self, Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Magic
+Counters
+Spell shield
+Not Blocked
+Parries
+Missing
+Projectile
+Blocked
+Cultivation of Spirit's
+damage classifications:
+Proc damage
+for the passive and active on-hit damage.
+Basic damage
+for the spread attack damage.
+Spread attacks will still deal damage even if
+Yunara
+misses her basic attack due to
+blind
+.
+PENDING FOR TEST:
+Spread attack interaction with parrying effects (
+dodge
+,
+block
+)
+There is no limit to the number of enemies the empowered attacks can spread to.
+Yunara's
+secondary resource bar gives various context for
+Cultivation of Spirit
+. It is visible to the player only.
+While
+Cultivation of Spirit
+is not active, the bar shows her current
+Unleash
+stacks. It is colored white while below maximum stacks and yellow while at maximum stacks.
+After
+Cultivation of Spirit
+is cast, the bar counts down the buff's duration.
+This is also true during
+Transcend One's Self
+, which means that the bar effectively also counts down the duration of her
+Transcendent State
+.
+If
+Yunara
+begins an
+attack windup
+toward the end of the active effects' duration and its launch would take place after it, the effects' duration is extended equal to the attack's windup time, once at most.
+Since the buff ends right after launching
+Cultivation of Spirit's
+attack and its effects have already been determined, this allows it to both spread to nearby enemies and generate a stack of
+Unleash
+.
+Each bolt from
+Runaan's Hurricane's
+Wind's Fury
+may trigger its own spread attack (despite the spread attacks not being an on-hit effect).
+Tips & Tricks
+While
+Cultivation of Spirit
+has no cooldown, the ability has a minimum downtime that is the time it takes for
+Yunara
+to generate 8 stacks.
+Against champions, this downtime is 6.
+15
+seconds at
+Yunara's
+base attack speed (
+0.
+65
+), 20 seconds at minimum attack speed (
+0.
+2
+), and 1.
+33
+seconds at maximum attack speed (
+3.
+003
+).
+Against non-champions, this downtime is 12.
+31
+seconds at
+Yunara's
+base attack speed (
+0.
+65
+), 40 seconds at minimum attack speed (
+0.
+2
+), and 2.
+66
+seconds at maximum attack speed (
+3.
+003
+).
+These can be further decreased with effects that allow exceeding the attack speed cap or reset the attack timer.
+Edit
+Arc of Judgment
+COST:
+60 mana
+COOLDOWN:
+10
+CAST TIME:
+0.
+45
+– 0.
+225
+(based on
+bonus
+attack speed)
+RANGE:
+1150
+EFFECT RADIUS:
+150
+WIDTH:
+120
+SPEED:
+2150
+•
+150
+Active:
+Yunara
+launches a spinning prayer bead that briefly slows down upon hitting an enemy. The initial hit against each enemy deals
+magic damage
+and
+slows
+the target, and the bead continually deals
+magic damage
+to nearby enemies. Upon reaching maximum range, the bead expands and lingers briefly.
+Active:
+Yunara
+launches a spinning prayer bead in the target direction that briefly grants
+sight
+of its
+surroundings
+as it travels. The bead slows down significantly while colliding with an enemy, lingering as it travels and resetting its remaining duration; upon reaching maximum range, it will expand and linger in place for 1 second regardless of enemies hit.
+The initial hit against each enemy before the bead's expansion deals
+magic damage
+and
+slows
+them by 99% decaying over 1.
+5
+seconds. While lingering, the bead deals 15% of the impact damage as
+magic damage
+to nearby enemies every 0.
+25
+seconds.
+Initial Magic Damage:
+55 / 95 / 135 / 175 / 215
+(+ 85%
+bonus
+AD)
+(+ 50% AP)
+Linger Magic Damage per Tick:
+8.
+25
+/ 14.
+25
+/ 20.
+25
+/ 26.
+25
+/ 32.
+25
+(+ 12.
+75
+%
+bonus
+AD)
+(+ 7.
+5
+% AP)
+Total Expanded Damage:
+33 / 57 / 81 / 105 / 129
+(+ 51%
+bonus
+AD)
+(+ 30% AP)
+Arc of Judgment
+deals
+50% / 75% / 100% (based on level)
+damage against
+minions
+and
+executes
+them if they would be killed by 6 more damage instances from the linger effect.
+Edit
+Arc of Ruin
+COOLDOWN:
+10
+CAST TIME:
+0.
+6
+– 0.
+45
+(based on
+bonus
+attack speed)
+RANGE:
+1150
+WIDTH:
+120
+Active:
+Yunara
+fires a beam of spirit magic in the target direction that deals
+magic damage
+to enemies and
+slows
+them for a short duration.
+Arc of Ruin
+is upgraded from
+Arc of Judgment
+during
+Yunara's
+Transcendent State
+.
+Active:
+Yunara
+fires a beam of spirit magic in the target direction that deals
+160 / 320 / 480 (based on
+Transcend One's Self's
+Rank)
+(+ 120%
+bonus
+AD)
+(+ 75% AP)
+magic damage
+to enemies hit and
+slows
+them by 99% decaying over 1 second, as well as granting
+sight
+of the
+surrounding area
+.
+This ability
+benefits from ultimate ability effects
+and is the upgraded version of
+Arc of Judgment
+during
+Transcendent State
+.
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Magic
+Counters
+Spell shield
+See Notes
+Projectile
+Blocked
+Applies
+area damage
+for the initial hit and
+persistent area damage
+for the lingering effect.
+Spell shield
+can block either the initial hit or one damage tick of the lingering effect.
+This ability will cast from wherever the caster is at the end of the cast time.
+Arc of Judgment
+can hit an enemy more than once with the initial damage as well with the lingering effect (both while not expanded and while expanded).
+The bead can hit an enemy multiple times if they collide with it again while it is in flight.
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Not Blocked
+Arc of Ruin
+grants
+sight
+of its surroundings during the cast time and for
+0.
+3
+seconds
+afterwards.
+This ability will cast from wherever the caster is at the end of the cast time.
+Arc of Ruin
+does not trigger ultimate
+cast
+effects, such as
+Experimental Hexplate's
+Overdrive
+,
+Zeke's Convergence's
+Frostfire Tempest
+and
+Cloud Dragon Soul's
+increased movement speed.
+Developer's Note:
+This is intended.
+No video available.
+Edit
+Kanmei's Steps
+COST:
+40 Mana
+COOLDOWN
+:
+9
+CAST TIME:
+none
+EFFECT RADIUS:
+2000
+QUEUE THRESHOLD
+:
+0.
+05
+Active:
+Yunara
+briefly becomes
+ghosted
+and gains
+bonus
+move speed
+, increased while facing an enemy
+champion
+.
+Active:
+Yunara
+becomes
+ghosted
+and gains
+bonus
+movement speed
+for 1.
+5
+seconds. The
+movement speed
+is 50% more effective while facing a nearby
+visible
+enemy
+champion
+.
+Bonus Move Speed:
+30 / 35 / 40 / 45 / 50%
+Increased Bonus Move Speed:
+45 / 52.
+5
+/ 60 / 67.
+5
+/ 75%
+Edit
+Untouchable Shadow
+COOLDOWN:
+9
+CAST TIME:
+none
+TARGET RANGE:
+225 - 450
+•
+550
+SPEED:
+1350 / 1500 / 1650 (based on
+Transcend One's Self's
+Rank)
+QUEUE THRESHOLD
+:
+0.05
+Active:
+Yunara
+dashes
+in the target direction.
+Untouchable Shadow
+is upgraded from
+Kanmei's Steps
+during
+Yunara's
+Transcendent State
+.
+Active:
+Yunara
+dashes
+in the target direction.
+Untouchable Shadow
+resets
+Yunara's
+basic attack timer.
+Arc of Ruin
+can be cast during the dash. This ability
+benefits from ultimate ability effects
+and is the upgraded version of
+Kanmei's Steps
+during
+Transcendent State
+.
+Targeting input
+Auto
+Affects
+Self
+No additional details.
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Self
+Counters
+Grounded
+Disabled
+Knockdown
+Interrupted
+Untouchable Shadow
+does not trigger ultimate
+cast
+effects, such as
+Experimental Hexplate's
+Overdrive
+,
+Zeke's Convergence's
+Frostfire Tempest
+and
+Cloud Dragon Soul's
+increased movement speed. This is intended.
+Kanmei's Steps
+ARAM
+differences
+edit
+Regular bonus movement speed changed to 40 / 45 / 50 / 55 / 60%.
+No video available.
+Edit
+Transcend One's Self
+COST:
+100 Mana
+COOLDOWN
+:
+100 / 90 / 80
+CAST TIME:
+none
+Passive:
+Arc of Ruin's
+damage and
+Untouchable Shadow's
+dash speed are increased.
+Active:
+Yunara
+enters
+Transcendent State
+for some time.
+Transcendent State:
+Yunara
+gains
+Cultivation of Spirit's
+active effect,
+Arc of Judgment
+and
+Kanmei's Steps
+are upgraded into
+Arc of Ruin
+and
+Untouchable Shadow
+.
+Kanmei's Steps'
+and
+Arc of Judgment's
+cooldowns are reset and reduced, respectively, upon both entering and exiting the state.
+Passive:
+Arc of Ruin's
+base damage and
+Untouchable Shadow's
+dash speed scale with
+Transcend One's Self's
+rank.
+Arc of Ruin Base Damage:
+160 / 320 / 480
+Untouchable Shadow Dash Speed:
+1350 / 1500 / 1650
+Active:
+Yunara
+enters
+Transcendent State
+for 15 seconds, during which each of her basic abilities is empowered:
+Cultivation of Spirit
+:
+Automatically becomes active at no cost, with the duration increased to
+Transcendent State's
+.
+Arc of Judgment
+:
+Upgraded into
+Arc of Ruin
+, which has no cost and has its
+remaining
+cooldown
+reduced by 80% upon both entering and exiting the state.
+Kanmei's Steps
+:
+Upgraded into
+Untouchable Shadow
+, which has no cost and has its
+cooldown
+reset upon both entering and exiting the state.
+"Relentless fortitude!"
+Info
+Targeting input
+Auto
+Affects
+Self
+An ongoing
+Kanmei's Steps'
+effect is not lost when quickly replaced by
+Untouchable Shadow
+.
+Cultivation of Spirit
+is cast alongside
+Transcend One's Self
+. If the former was not already active, this will also grant its
+attack reset
+.
+The attack reset does
+not
+originate from
+Transcend One's Self
+nor is
+Transcend One's Self
+tagged as granting one itself (e.g. for the purposes of
+Hail of Blades
+).
+Transcend One's Self
+cannot be cast again while active.
+Map-Specific Differences
+ARAM
+differences
+edit
+Cooldown changed to 80 / 70 / 60 seconds.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Yunara (Collection)
+.
+Original
+16.07.2025
+Unwavering in her devotion to lonia, Yunara has spent centuries cloistered away in the spirit realm honing her skills with the Aion Er'na, a legendary Kinkou relic. Despite all she has sacrificed, Yunara's vow to rid the land of disharmony and strife remains unbroken, as does her faith. But the world that now awaits her—and the shadow of an ancient threat risen once more—will test every ounce of her resolve.
+Leader Looi
+Horace 'Hozure' Hsu
+Loot eligible
+View in 3D
+Spirit Blossom Springs
+1350
+16.07.2025
+Yunara's sense of purpose consumes her, tensing her body and mind with an ever-tightening grip. Her friend Ahri knew only one thing could relieve such tension: the magical steam of Spirit Blossom Springs. Though Yunara was hesitant, she ultimately accepted, in order to expand her mind and meditate on what's next.
+Leader Looi
+Jennifer Wuestling
+Spirit Blossom Springs
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Spirit Blossom Springs Yunara Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Trivia
+Yunara, the Unbroken Faith
+Yunara
+is one of 11 champions that can change shape, altering some or all of their abilities:
+Elise
+,
+Gnar
+,
+Jayce
+,
+Kayn
+,
+Kled
+,
+Nidalee
+,
+Rek'Sai
+,
+Shyvana
+,
+Sylas
+, and
+Viego
+.
+In Yunara's case,
+Transcend One's Self
+allows her to shapeshift, enhancing her basic abilities.
+Her buff flavor text reads:
+Too Early
+(
+Cultivation of Spirit
+active):
+"You're a thousand years too early for this fight." — Yunara
+This is a reference to
+a common trope
+in media.
+The Wonderful and Dynamic Prayer Bead
+(
+Arc of Judgment
+slow):
+"Take this prayer bead and eat it." — Yunara
+This might be a reference to
+a popular meme
+from the
+Death Note
+anime.
+Must go Fast!
+(
+Kanmei's Steps
+active):
+You thought you could outrun me! — Yunara
+This might be referencing
+Sonic X
+.
+Even Further Beyond
+(
+Transcend One's Self
+active):
+Congratulations, you work for The Kinkou Order now. — Yunara
+This is a reference to Goku's
+iconic line
+from the
+Dragon Ball Z
+anime.
+Going Somewhere?
+(
+Arc of Ruin
+slow):
+"All according to Kinkou-ku!" — Yunara
+This is a reference to
+a popular meme
+from a
+Death Note
+fansub.
+Keep Up!
+(
+Untouchable Shadow
+dash):
+"Every journey begins with a single step. But a fight begins when you catch me." — Yunara
+Her dance is a reference to the Season 2 opening for
+Mashle: Magic and Muscles
+.
+A side-by-side comparison can be viewed
+here
+.
+Yunara's
+Cultivation of Spirit
+attack has the second highest missile speed on an attack out of any champion, at 10000.
+Aphelios'
+Severum
+attacks have the highest speed, at 92400.
+Her exclusive Augment in
+Arena
+,
+Quest: Three Sacred Treasures
+, is named after the
+Imperial Regalia of Japan
+.
+Its effect is based on a version of
+Arc of Ruin
+during development that deals
+physical
+and
+magic damage
+.
+She is one of two champions with 0 points at a skill by the client classification,
+Zeri
+being the other.
+In both cases, their Utility rating is 0.
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.01
+Cultivation of Spirit
+Bonus attack speed reduced to 20 / 30 / 40 / 50 / 60% from 25 / 35 / 45 / 55 / 65%.
+Arc of Ruin
+Base damage reduced to
+160 / 320 / 480 (based on
+Transcend One's Self's
+Rank)
+from
+175 / 350 / 525 (based on
+Transcend One's Self's
+Rank)
+.
+Bonus AD ratio reduced to
+120%
+bonus
+AD
+from
+150%
+.
+V25.24
+General
+Bug Fix:
+Restored voice line for killing Varus.
+V25.21
+Cultivation of Spirit
+Bug Fix:
+Stack counter is now visible to spectators in Spectator Mode.
+Arc of Judgment
+Impact base damage increased to 55 / 95 / 135 / 175 / 215 from 5 / 30 / 55 / 80 / 105.
+Impact AD ratio changed to
+85%
+bonus
+AD
+from
+85%
+total
+AD
+.
+Linger damage is now 60% of impact damage instead of explicit.
+Linger base damage per second increased to 33 / 57 / 81 / 105 / 129 from 5 / 20 / 35 / 50 / 65.
+Linger AD ratio per second changed to
+51%
+bonus
+AD
+from
+40%
+total
+AD
+.
+Linger AP ratio per second increased to
+30% AP
+from
+25% AP
+.
+Arc of Ruin
+Base damage increased to
+175 / 350 / 525 (based on
+Transcend One's Self's
+Rank)
+from
+50 / 200 / 350
+.
+AD ratio changed to
+150%
+bonus
+AD
+from
+175%
+total
+AD
+.
+Kanmei's Steps
+Removed:
+Bonus movement speed no longer decays over the duration.
+Cooldown increased to 9 seconds from 7.
+5
+.
+Bug Fix:
+Increased bonus movement speed when facing enemies is now properly removed upon turning away (and re-gained upon facing them again).
+Untouchable Shadow
+Cooldown increased to 9 seconds from 7.
+5
+.
+V25.18
+- September 11th Hotfix
+Stats
+Base health increased to 590 from 575.
+Base attack damage increased to 55 from 53.
+V25.18
+Stats
+Base health reduced to 575 from 600.
+Base attack damage reduced to 53 from 56.
+Cultivation of Spirit
+Bug Fix:
+Remedied multiple issues related to using Cleave items (
+Tiamat
+& upgrades).
+Kanmei's Steps
+Bonus movement speed reduced to 30 / 35 / 40 / 45 / 50% from 50 / 55 / 60 / 65 / 70%.
+Duration reduced to 1.
+5
+seconds at all ranks from 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+.
+V25.17
+Cultivation of Spirit
+Bug Fix:
+On-hit damage on spread attacks caused by
+Runaan's Hurricane's
+Wind's Fury bolts that hit the primary target now properly apply at reduced effectiveness instead of full effectiveness (as if a primary attack hit them).
+Bug Fix:
+Runaan's Hurricane's
+Wind's Fury bolt damage is no longer incorrectly also modified by
+Cultivation of Spirit's
+reduced on-hit effectiveness on each of the bolts' primary targets.
+Bug Fix:
+Item on-hit effects no longer fail to deal damage on valid targets when a sufficiently large number of spread attacks are taking place simultaneously.
+Bug Fix:
+Item on-hit effects which stack now gain and consume stacks at the correct timing and can no longer sometimes trigger twice per individual hit when a sufficiently large number of spread attacks are taking place simultaneously.
+V25.16
+Cultivation of Spirit
+Bug Fix:
+No longer applies
+spell effects
+against the main target while active.
+Bug Fix:
+VFX no longer splits to invalid targets that are within the spread radius.
+[Note: This has no gameplay effect.]
+V25.15
+General
+Adjusted attack animations to better incorporate her beads.
+Added more visual effects to
+Transcend One's Self
+to better indicate that its effects are active.
+Vow of the First Lands
+Bug Fix:
+Shadowflame's
+Cinderbloom now properly triggers on the ability's damage.
+Cultivation of Spirit
+Bug Fix:
+Is now correctly tagged as a basic attack reset for the purposes of
+Hail of Blades
+.
+Undocumented / Bug Fix:
+Spread attack no longer applies spell effects.
+Arc of Judgment
+Bug Fix:
+In the Chinese Simplified and Traditional localizations, no longer displays incorrect values.
+Untouchable Shadow
+Bug Fix:
+Is now correctly tagged as a basic attack reset for the purposes of
+Hail of Blades
+.
+Transcend One's Self
+Bug Fix:
+Axiom Arc's
+Flux no longer reduces its cooldown twice upon triggering the effect.
+V25.14
+- Added
+Stats
+Health: 600 (+ 110)
+Health regeneration: 4 (+ 0.
+55
+)
+Mana: 275 (+ 45)
+Mana regeneration: 7.
+5
+(+ 0.
+75
+)
+Armor: 25 (+ 4.
+4
+)
+Magic resistance: 30 (+ 1.
+3
+)
+Attack damage: 56 (+ 2.
+5
+)
+Attack speed: 0.
+65
+(+ 2%, 0.
+65
+ratio)
+Movement speed: 325
+Basic attack range: 575
+Gameplay radius: 65
+Pathing radius: 30
+Selection radius: 100
+Selection height: 125
+Acquisition radius: 800
+Vow of the First Lands
+- Innate
+Innate:
+Yunara's
+critical strikes
+deal
+10%
+(+ 10% per 100 AP)
+bonus
+magic damage
+.
+Cultivation of Spirit
+- Q
+Passive:
+Yunara's
+basic attacks deal 5 / 10 / 15 / 20 / 25
+(+ 20% AP)
+bonus
+magic damage
+on-hit
+. While this ability is inactive, her basic attacks
+on-attack
+generate a stack of
+Unleash
+for 6 seconds, increased to 2 stacks against
+champions
+. The stacks refresh on subsequent attacks, stack up to 8 times, and expire by one every 0.
+5
+seconds after the duration.
+Active:
+Yunara
+unleashes for 5 seconds: gaining 25 / 35 / 45 / 55 / 65%
+bonus
+attack speed
+, dealing 5 / 10 / 15 / 20 / 25
+(+ 20% AP)
+additional bonus
+magic damage
+on-hit
+, and augmenting her basic attacks to fly faster, have a 40% lower
+windup
+time, and an
+uncancellable windup
+. Her basic attacks are also empowered to spread to each enemy near the target, dealing
+30% AD
+physical damage
+.
+Each spread attack
+applies lifesteal
+and
+on-hit
+effects (30% for on-hit damage), and will
+critically strike
+if the triggering attack does. Spread attacks deal 250% damage against
+minions
+below 30%
+maximum
+health
+.
+Cultivation of Spirit
+resets
+Yunara's
+basic attack timer. Targets do not have to be
+visible
+to be hit by this ability.
+Cost:
+30 mana + 8 Unleash Stacks.
+Cast Time:
+None,
+Effect Radius:
+300,
+Speed:
+10000
+/
+2000
+,
+Queue Threshold:
+0.
+05
+seconds.
+Arc of Judgment
+- W
+Active:
+Yunara
+launches a spinning prayer bead in the target direction that briefly grants
+sight
+of its
+surroundings
+as it travels. The bead slows down significantly while colliding with an enemy, lingering as it travels and resetting its remaining duration; upon reaching maximum range, it will expand and linger in place for 1 second regardless of enemies hit.
+The initial hit against each enemy before the bead's expansion deals 5 / 30 / 55 / 80 / 105
+(+ 85% AD)
+(+ 50% AP)
+magic damage
+and
+slows
+them by 99% decaying over 1.
+5
+seconds. While lingering, the bead deals 1.
+25
+/ 5 / 8.
+75
+/ 12.
+5
+/ 16.
+25
+(+ 10% AD)
+(+ 6.
+25
+% AP)
+magic damage
+to nearby enemies every 0.
+25
+seconds.
+Arc of Judgment
+deals
+50% / 75% / 100% (based on level)
+damage against
+minions
+and
+executes
+them if they would be killed by 6 more damage instances from the linger effect.
+Cost:
+60 mana.
+Cooldown:
+10 seconds.
+Cast Time:
+0.
+45
+– 0.
+225
+(based on
+bonus
+attack speed)
+,
+Effect Radius:
+150
+,
+Range:
+1150,
+Width:
+120,
+Speed:
+1150.
+While under the effects of
+Transcend One's Self
+, this ability becomes
+Arc of Ruin
+:
+Active:
+Yunara
+fires a beam of spirit magic in the target direction that deals
+50 / 200 / 350 (based on
+Transcend One's Self's
+Rank)
+(+ 175% AD)
+(+ 75% AP)
+magic damage
+to enemies hit and
+slows
+them by 99% decaying over 1 second, as well as granting
+sight
+of the
+surrounding area
+.
+This ability benefits from ultimate ability effects and is the upgraded version of
+Arc of Judgment
+during
+Transcendent State
+.
+Cooldown:
+10 seconds.
+Cast Time:
+0.
+6
+– 0.
+45
+(based on
+bonus
+attack speed)
+,
+Range:
+1150,
+Width:
+120.
+Kanmei's Steps
+- E
+Active:
+Yunara
+becomes
+ghosted
+and gains 50 / 55 / 60 / 65 / 70%
+bonus
+movement speed
+decaying over 1.
+5
+/ 1.
+75
+/ 2 / 2.
+25
+/ 2.
+5
+seconds. The
+movement speed
+is 50% more effective while facing a nearby
+visible
+enemy
+champion
+.
+Cost:
+40 mana.
+Cooldown:
+7.
+5
+seconds (starts on cast).
+Cast Time:
+None,
+Effect Radius:
+2000
+,
+Queue Threshold:
+0.
+05
+seconds.
+While under the effects of
+Transcend One's Self
+, this ability becomes
+Untouchable Shadow
+:
+Active:
+Yunara
+dashes
+in the target direction.
+Untouchable Shadow
+resets
+Yunara's
+basic attack timer.
+Arc of Ruin
+can be cast during the dash. This ability benefits from ultimate ability effects and is the upgraded version of
+Kanmei's Steps
+during
+Transcendent State
+.
+Cooldown:
+7.
+5
+seconds.
+Cast Time:
+None,
+Target Range:
+225
+–
+450
+/
+550
+,
+Speed:
+1350 / 1500 / 1650 (based on
+Transcend One's Self's
+Rank)
+,
+Queue Threshold:
+0.
+05
+seconds.
+Transcend One's Self
+- R
+Passive:
+Arc of Ruin's
+base damage and
+Untouchable Shadow's
+dash speed scale with
+Transcend One's Self's
+rank.
+Active:
+Yunara
+enters
+Transcendent State
+for 15 seconds, during which each of her basic abilities is empowered:
+Cultivation of Spirit
+:
+Automatically becomes active at no cost, with the duration increased to
+Transcendent State's
+.
+Arc of Judgment
+:
+Upgraded into
+Arc of Ruin
+, which has no cost and has its
+remaining
+cooldown
+reduced by 80% upon both entering and exiting the state.
+Kanmei's Steps
+:
+Upgraded into
+Untouchable Shadow
+, which has no cost and has its
+cooldown
+reset upon both entering and exiting the state.
+Cost:
+100 mana.
+Cooldown:
+100 / 90 / 80 seconds.
+Cast Time:
+None.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Bottom
+Within a
+drafted team
+, the
+Bottom Carry
+is one of the two champions assigned to the bottom lane alongside the
+Support
+. Being the most vulnerable, the
+Bottom Carry
+has to acquire as much gold as possible to purchase key items that will greatly increase their fighting potential.
+Within a duo lane, the optimal strategy for earning gold is to designate a single champion to
+farm
+while the other is recommended to purchase an
+economy item
+. The
+Bottom Carry
+is expected to fulfill the former designation: the position is made for champions that highly depend on item-based power spikes.
+Marksmen
+are the most likely champions to be selected in the
+Bottom Carry
+position.
+League of Legends content
+Marksman
+Marksmen
+(formerly "Carries") excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger. Although Marksmen have the ability to stay relatively safe by kiting their foes, they are very fragile and are extremely reliant on powerful item purchases to become true damage threats.
+At present, Marksmen do not have any official subclasses. The following have been considered:
+Demolisher
+Scrapper
+Examples
+Ashe
+Ezreal
+Lucian
+Kai'Sa
+Jhin
+League of Legends content
+Marksman (Legacy)
+Marksman
+(formerly known as 'Carry') excel at dealing reliable sustained damage at range (usually through basic attacks) while constantly skirting the edge of danger.
+League of Legends content
+Mana
+Mana
+(also known as
+MP
+) is a
+stat
+that is the resource of many
+champions
+necessary to cast most of their
+abilities
+. Mana can be restored via
+mana regeneration
+and some
+abilities
+,
+items
+,
+runes
+, and
+buffs
+.
+Mana
+is represented in-game by the blue bar within the HUD, indicating the champion's
+current
+mana and
+maximum
+mana.
+Current
+mana is reduced by expenditure through paying an ability's mana
+cost
+.
+League of Legends content
+Ranged
+Ranged
+champions have a basic attack
+range
+usually beyond 300 units. Many deal damage through projectiles, which are subject to mitigating effects like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for ranged characters.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Proc damage
+Proc damage
+is damage type assigned to most
+on-hit
+effects. It is worth noting that many seeming on-hit effects are actually classified as
+ability damage
+and so will trigger
+ability effects
+. Some forms of on-hit damage, such as by
+Blade of the Ruined King
+and
+Spellblade
+, also benefit from
+life steal
+.
+Proc damage
+does not interact with most other effects, such as
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Magic damage
+Applies:
+Bloodletter's Curse's
+Vile Decay (only via
+abilities
+)
+Morellonomicon's
+and
+Oblivion Orb's
+Grievous Wounds
+Omnivamp
+Triggers:
+Hexdrinker's
+and
+Maw of Malmortius'
+Lifeline
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Magic resistance
+Magic shields
+League of Legends content
+Dodge
+Dodging
+an instance of damage will
+skip
+its damage event entirely, preventing it from being taken and effects that trigger from damage.
+Dodge
+takes precedence over
+block
+, but not
+blind
+.
+Effects that
+dodge
+damage will only
+dodge
+instances that are
+dodgeable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+dodged
+, unless otherwise stated.
+This effect is exclusive to
+Jax's
+Counter Strike
+and
+Nilah's
+Jubilant Veil
+.
+League of Legends content
+Block
+Blocking
+an instance of damage will reduce its value to
+0
+, but does not prevent effects that trigger from damage.
+Blind
+and
+dodge
+take precedence over
+block
+.
+Effects that
+block
+damage will only
+block
+instances that are
+blockable
+. Note that these are specified in the ability details on the Wiki.
+Basic attacks and abilities that apply on-hit effects are always
+blocked
+, unless otherwise stated.
+This effect is exclusive to
+Shen's
+Spirit's Refuge
+and is similar though mechanically different to
+Dodge
+.
+League of Legends content
+Blind
+A unit that is
+blinded
+will
+miss
+their
+basic attacks
+for the duration, comparable to attacking a target that is able to
+dodge
+or
+block
+, but not mechanically similar.
+Missed
+basic attacks will fail to deal damage and apply
+on-hit
+effects, with the exception of some
+empowered basic attacks
+.
+Blind
+does not prevent the unit from declaring attacks, unlike
+Disarm
+.
+Interrupts:
+Does not interrupt any actions, but will prevent
+on-hit effects
+from being triggered by basic attacks.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+.
+Removal:
+Removed by
+Cleanses
+with the exception of
+Mikael's Blessing
+.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their basic attack windup.
+Unlike on-hit effects, on-attack effects do not require the user to land their basic attacks, only to finish their windup. Abilities that trigger on-attack effects will do so upon successfully hitting the target.
+League of Legends content
+Critical strike
+Critical strike
+refers to an effect that deals increased damage under specific circumstances, denoted as
+critical strike damage
+. The most common form of critical strike occurs on
+basic attacks
+, which triggers based on
+critical strike chance
+.
+By default, a critical strike deals 200% of the normal damage. Critical damage modifiers such as
+Infinity Edge
+can increase this percentage.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+League of Legends content
+Applies life steal
+"Applies life steal"
+is a
+damage tag
+that gives a non-
+basic attack
+spell the property of applying
+life steal
+from its damage, which basic attacks do by default.
+This tag is located on some
+abilities
+that apply
+spell effects
+(e.g.
+Samira's
+Flair
+and
+Inferno Trigger
+) and
+items
+that deal damage
+on-hit
+.
+Life steal
+does not have a penalty for
+area of effect
+abilities and is always applied to the damage dealt at 100% effectiveness, unless otherwise specified. Unlike
+Vamp
+, the
+"applies life steal"
+tag applies life steal directly and does not
+heal
+based on damage dealt and the life steal
+stat
+. Therefore healing modifiers that affect
+life steal
+also affect abilities with the
+"applies life steal"
+tag.
+League of Legends content
+Minion
+Minions
+are autonomous units that spawn periodically from their nexus and advance along the lanes toward the enemy nexus. They
+basic attack
+any enemy unit or structure they find in their way, but can be killed for
+gold
+.
+There are four kind of
+minions
+:
+melee minions
+,
+caster minions
+,
+siege minions
+and
+super minions
+.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Sight
+Sight
+is a property of
+units
+,
+structures
+, certain
+summoner spells
+,
+items
+, and
+abilities
+that represents a team possessing vision of a target area or unit. It is always
+center range
+. A line of vision cannot extend beyond terrain or an unrevealed brush.
+Sight
+can also refer to an effect that makes a unit visible regardless of the fog of war or
+brush
+, allowing them to be targeted.
+Standard sight
+cannot see
+stealthed
+units, but
+True Sight
+can.
+Nearsight
+is a
+crowd control
+debuff that inhibits
+sight
+; allied vision is lost in addition to a reduced sight radius.
+Obscured vision
+is similar to
+sight
+in a way that it can observe units, but does not render units
+targetable
+, rather it exposes their position and informs of their presence.
+Unobstructed vision
+is a form of
+sight
+that allows a unit to be able to see their full vision radius, ignoring any obstructions that would otherwise restrict visibility.
+All effects that use
+unit-targeting
+require
+sight
+of the target. Delayed
+unit-targeted
+attacks and spells can cancel if
+sight
+of the selected target is suddenly lost.
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Basic damage
+Basic damage
+is the damage dealt by most basic attacks, and a select few abilities. Most sources of
+basic damage
+have the
+physical damage
+sub-type, but this is not guaranteed.
+Many effects are triggered whenever you deal an instance of
+basic damage
+. For example:
+Wit's End
+,
+Blade of the Ruined King
+and
+Tiamat
+.
+Plated Steelcaps
+will mitigate incoming
+basic damage
+on the user.
+Life steal
+and
+omnivamp
+heal for a percentage of
+basic damage
+dealt.
+Basic damage
+is negated by
+dodge
+and
+block
+.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Transcend One's Self
+COOLDOWN:
+100 / 90 / 80
+Passive:
+Arc of Ruin's
+damage and
+Untouchable Shadow's
+dash speed are increased.
+Active:
+Yunara
+enters
+Transcendent State
+for some time.
+Transcendent State:
+Yunara
+gains
+Cultivation of Spirit's
+active effect,
+Arc of Judgment
+and
+Kanmei's Steps
+are upgraded into
+Arc of Ruin
+and
+Untouchable Shadow
+.
+Kanmei's Steps'
+and
+Arc of Judgment's
+cooldowns are reset and reduced, respectively, upon both entering and exiting the state.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Slow
+A unit that is
+slowed
+has reduced
+movement speed
+for the duration.
+Slows
+based on a percentage value cannot reduce a target below
+110 movement speed
+. Some
+slows
+will instead modify the target's
+movement speed
+to a static value, which may not be further reduced nor increased.
+Only the slow with the highest value is taken into movement speed calculations. All additional slows are ignored until the higher-valued slow wears off. The strength of slows may amplify or decay over their duration. Slows of the same debuff cannot stack and will instead refresh on each application unless otherwise stated.
+Negative
+slow
+values will increase the unit's
+movement speed
+instead.
+Interrupts:
+Does not interrupt any actions.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+The
+strength
+is reduced by
+slow resist
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+slow immunity
+.
+Removal:
+Removed by
+Cleanses
+,
+Garen's
+Decisive Strike
+,
+Master Yi's
+Highlander
+and
+Nunu's
+Biggest Snowball Ever!
+.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+Arc of Judgment
+COOLDOWN:
+10
+Active:
+Yunara
+launches a spinning prayer bead that briefly slows down upon hitting an enemy. The initial hit against each enemy deals
+magic damage
+and
+slows
+the target, and the bead continually deals
+magic damage
+to nearby enemies.
+Upon reaching maximum range, the bead expands and lingers briefly.
+League of Legends content
+Area damage
+Area damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that can hit targets within a zone.
+Area damage
+applies
+spell effects
+by default.
+Area damage
+does not trigger
+Muramana's
+Shock
+; only
+spell damage
+can.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 10% upon dealing an instance of
+area damage
+to a champion.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+area damage
+.
+Many
+champion summoned units
+such as
+Elise's
+Spiderlings
+,
+Naafiri's
+Packmates
+, and
+Yorick's
+Mist Walkers
+take reduced damage from
+area damage
+effects.
+Omnivamp
+heals with 33.
+3
+% effectiveness on instances of
+area damage
+against non-champions.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Persistent area damage
+Persistent area damage
+is technically not a separate type of damage, but rather a hybrid classification that is applied to some spells.
+In situations where
+persistent damage
+and
+area damage
+would have conflicting outputs, the conflict is resolved by choosing the weakest possible outcome.
+Omnivamp
+heals with one-third effectiveness for
+persistent area damage
+dealt to non-champions, as with
+persistent damage
+and
+area damage
+.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 5% upon dealing an instance of
+persistent area damage
+to a champion, as with
+persistent damage
+.
+Jax's
+Counter Strike
+grants him 25% damage reduction against all incoming
+persistent area damage
+, as with
+area damage
+.
+References
+↑
+Yunara's profile page
+at
+LeagueOfLegends.com

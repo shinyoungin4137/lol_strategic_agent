@@ -1,0 +1,4481 @@
+# Kled
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Kled & Skaarl
+are a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Kled1
+Base statistics
+Edit
+HP
+810
++142.82352941176
+Resource
+N/A
+HP5
+6
++0.75
+Secondary Bar
+Courage
+(100)
+AR
+35
++5.2
+AD
+65
++3.5
+MR
+28
++2.05
+Crit. DMG
+200%
+MS
+345
+Attack range
+125
+Attack speed
+Base AS
+0.625
+Windup%
+17.5%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+140
+Pathing radius
+35
+Select. height
+140
+Acq. radius
+750
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Arena
+differences
+edit
+General
+New Effect:
+Now passively gains
+0 – 200 (based on level)
+increased
+base
+health
+, attributed to
+Kled's
+health
+.
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Kled & Skaarl
+The Cantankerous Cavalier
+Role(s):
+Top
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+3
+Utility
+1
+Release date
+2016-08-10
+Last changed
+V25.16
+Class
+Skirmisher
+Legacy class
+Fighter
+,
+Tank
+Resource
+Courage
+Range type
+Melee
+Adaptive type
+Physical
+Kled
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Kled2
+Base statistics
+Edit
+HP
+410
++84
+Resource
+N/A
+HP5
+6
++0.75
+Secondary Bar
+Courage
+(100)
+AR
+35
++5.2
+AD
+65
++3.5
+MR
+28
++2.05
+Crit. DMG
+200%
+MS
+305
+Attack range
+250
+Attack speed
+Base AS
+0.625
+Windup%
+17.5%
+AS ratio
+N/A
+Bonus AS
++3.5
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+100
+Pathing radius
+35
+Select. height
+85
+Acq. radius
+750
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Arena
+differences
+edit
+General
+New Effect:
+Now passively gains
+0 – 200 (based on level)
+increased
+base
+health
+, attributed to
+Kled's
+health
+.
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
+-10%
+Damage Dealt
++0%
+Damage Received
++0%
+Kled
+The Cantankerous Cavalier
+Role(s):
+Top
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+3
+Toughness
+2
+Control
+1
+Mobility
+2
+Utility
+1
+Release date
+2016-08-10
+Last changed
+V25.16
+Class
+Skirmisher
+Legacy class
+Fighter
+,
+Tank
+Resource
+Courage
+Range type
+Melee
+Adaptive type
+Physical
+Kled's
+real
+base
+stats are not actually changed while he is
+dismounted
+.
+Editor's Note:
+They are, however, listed here as such for the purpose of convenience.
+Abilities
+Edit
+Skaarl, the Cowardly Lizard
+SPEED:
+400
+lunge range:
+200
+Innate:
+Kled
+rides his semi-trusty steed,
+Skaarl
+, whom takes damage for him while he is
+Mounted
+. When
+Skaarl's
+health depletes,
+Kled
+dismounts,
+cleansing
+from all
+crowd control
+.
+Kled
+remains
+Dismounted
+until he returns to the
+summoning platform
+, but can restore
+Skaarl's
+Courage
+by fighting enemies. At maximum
+Courage
+,
+Kled
+becomes
+Mounted
+with a portion of
+Skaarl's
+health.
+Dismounted:
+Kled
+gains
+bonus
+movement speed
+while moving toward enemy champions, but his basic attacks deal less damage to champions.
+Bear Trap on a Rope
+is replaced with
+Pocket Pistol
+, and
+Kled
+cannot cast his other abilities.
+Innate:
+Kled
+rides his semi-trusty mount,
+Skaarl
+. While
+Mounted
+, all damage dealt to the duo is suffered by
+Skaarl
+, who has
+400 – 1556.
+76
+(based on level)
+base
+health
+; additional sources of health are applied to
+Skaarl's
+maximum
+health
+. Effects based on percentage health consider
+Kled
+and
+Skaarl's
+combined
+maximum
+health
+.
+Being reduced below
+0 health
+causes
+Skaarl
+to flee, forcing
+Kled
+to be
+Dismounted
+, with all damage in excess of
+Skaarl's
+health being ignored. Upon dismounting,
+Kled
+lunges
+in the direction of the allied
+Nexus
+, though
+not through terrain
+, while
+cleansing
+himself of all
+crowd control
+and becoming
+unable to act
+,
+untargetable
+, and
+immune to crowd control
+for 0.
+5
+seconds.
+Dismounting
+resets the
+cooldown
+and charges of
+Pocket Pistol
+.
+While
+Kled
+is
+Dismounted
+, his
+base
+health
+and
+movement speed
+are reduced; however, he gains
+bonus
+movement speed
+while moving toward enemy champions. Additionally, he gains
+bonus
+attack range
+, and his attacks deal
+85% / 90% / 95% / 100% (based on level)
+damage to champions.
+Bear Trap on a Rope
+is replaced with
+Pocket Pistol
+, while
+Jousting
+and
+Chaaaaaaaarge!!!
+become unusable.
+While
+Mounted
+,
+healing
+and
+health regeneration
+will first replenish
+Skaarl's
+health and will only apply to
+Kled's
+health while
+Skaarl
+is at
+full
+health.
+For more details, check the
+Dismounted
+part of the ability.
+Info
+Targeting input
+Passive
+Affects
+Self
+Kled
+and
+Skaarl's
+health bar
+is split in two segments, representing each of them respectively.
+While
+Mounted
+,
+Kled's
+health is visually rounded up while
+Skaarl's
+health is rounded down.
+While
+Dismounted
+,
+Kled's
+health is visually rounded down while
+Skaarl's
+health is rounded up.
+Excess damage dealt to
+Skaarl
+counts for the purposes of effects based on damage dealt (eg.
+Death's Dance's
+Ignore Pain
+,
+Stormsurge's
+Stormraider
+, item damage trackers).
+(unexpected)
+If
+Skaarl's
+health is reduced below 0 by an attack or ability with multiple damage instances, subsequent damage instances from the same
+cast instance
+are reduced to 0 damage.
+The Collector's
+Death
+is special cased to not affect
+Kled
+while he is
+Mounted
+, regardless of the duo's combined
+current
+health
+.
+If
+Skaarl's
+health is reduced below 0 by
+Eclipse's
+Ever Rising Moon
+,
+Kled
+will take the triggering attack's damage.
+(unexpected)
+While
+untargetable
+,
+Kled
+rapidly
+destroys
+enemy projectiles targeting him.
+Kled's
+gameplay radius
+does not change when becoming
+Mounted
+or
+Dismounted
+, even though his model size changes visually.
+Kled
+does not receive damage from
+Illaoi's
+Test of Spirit
+,
+Kayn's
+Umbral Trespass
+, or being
+Regurgitated
+by
+Tahm Kench
+while dismounting.
+(bug)
+Dismounting removes
+Speed Shrine's
+movement speed
+buff from
+Kled
+and prevent him from regaining it for the next 5 seconds, even if he remounts or enters the shrine again.
+(bug)
+The
+lunge
+can pass through
+player-generated terrain
+.
+(unexpected)
+Buying
+items
+while
+Kled
+and
+Skaarl's
+combined
+current
+health
+is lower than
+Kled's
+maximum
+health
+will cause
+Kled
+to dismount upon
+undoing
+the purchase and potentially lose
+health
+.
+(bug)
+PENDING FOR TEST:
+Dismounting with a
+spell shield
+sometimes consumes the spell shield and negates the effects of dismounting.
+(bug)
+[
+2
+]
+If
+Kled
+would be
+executed
+while
+Mounted
+, he is instead only
+Dismounted
+.
+The following table refers for interactions while
+Kled
+is lunging:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Hextech Rocketbelt
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+ARAM
+differences
+edit
+Removed:
+No longer generates
+Courage
+while at the allied
+spawn
+.
+Arena
+differences
+edit
+The
+base
+health
+gained from the global Arena Stat Adjustments buff is considered
+bonus
+health
+(bug)
+and assumed by
+Skaarl
+instead of
+Kled
+.
+Always revives
+mounted
+.
+PENDING FOR TEST:
+Which
+health
+values do
+Kled
+and
+Skaarl
+revive with at each level?
+Frayed Nerves
+duration changed to 15 seconds.
+Bonus resistances per nearby enemy changed to 40%.
+New Effect:
+Attacking a
+Power Flower
+grants 15
+Courage
+.
+Edit
+Bear Trap on a Rope
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+CAST TIME:
+0.
+25
+RANGE:
+800 •
+60
+WIDTH:
+90
+TETHER RADIUS:
+625
+SPEED:
+1600
+Active:
+Kled
+throws a bear trap in the target direction that deals
+physical damage
+to enemies hit and forms a
+tether
+against the first
+champion
+or
+large monster
+hit,
+revealing
+them. The tether shrinks over a brief time, after which
+Kled
+pulls
+the target, dealing
+physical damage
+, and briefly
+slowing
+them.
+Active:
+Kled
+throws a bear trap in the target direction that deals
+physical damage
+to enemies hit, increased to 150% against
+minions
+, small
+pets
+, and small
+monsters
+. The bear trap collides with the first enemy
+champion
+, large pet, or large monster hit,
+revealing
+them for 2.
+5
+seconds, and forming a
+tether
+between
+Kled
+and the target for 1.
+75
+seconds.
+Physical Damage:
+30 / 55 / 80 / 105 / 130
+(+ 60%
+bonus
+AD)
+Minion and Small Monster Damage:
+45 / 82.
+5
+/ 120 / 157.
+5
+/ 195
+(+ 90%
+bonus
+AD)
+The tether's radius shrinks over its duration, and if it is not broken before then,
+Kled
+pulls
+the target
+150
+units toward him, deals
+physical damage
+and
+slows
+them for 2.
+5
+seconds.
+Physical Damage:
+60 / 110 / 160 / 210 / 260
+(+ 120%
+bonus
+AD)
+Total Physical Damage:
+90 / 165 / 240 / 315 / 390
+(+ 180%
+bonus
+AD)
+Slow:
+30 / 35 / 40 / 45 / 50%
+Bear Trap on a Rope can be cast while
+Jousting
+.
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Applies
+spell damage
+to enemy champions, large monsters and large pets, while applying
+area damage
+to all other enemy units.
+This ability will cast from wherever the caster is at the end of the cast time.
+The visual effect of
+Bear Trap on a Rope
+will appear at
+Kled's
+height at the end of cast time and may not portray its
+projectile
+accurately if
+Kled
+is
+dismounting
+at the end of cast time.
+PENDING FOR TEST:
+Is the same true if
+Kled
+is
+airborne
+?
+In addition to its
+projectile
+,
+Bear Trap on a Rope
+will check for enemy champions, large monsters and large pets within a 60-unit center-to-edge radius area from the projectile's origin point.
+The projectile interacts with projectile-blocking effects but the area check doesn't.
+Tibbers
+,
+Daisy
+and
+The Maiden
+are considered
+large pets
+.
+All other pets are considered small pets for the purposes of this ability.
+Bear Trap on a Rope
+will not
+pull
+the target if they are in
+stasis
+.
+The tether cannot be broken within the first
+0.
+25
+seconds of its application.
+Rek'Sai's
+Void Rush
+will break the tether upon the beginning of its cast time.
+(bug)
+The pull damage is updated dynamically based on
+Kled's
+current attack damage.
+Count Kledula
+has no sound cue for when the tether is broken.
+(bug)
+The damage is also increased to 150% against
+Neeko
+disguised as a
+ward
+.
+Tips & Tricks
+When
+dismounting
+while attempting to cast
+Bear Trap on a Rope
+, players should input movement commands to avoid unintentionally buffering
+Pocket Pistol
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Bear Trap on a Rope
+cooldown changed to 9 / 8 / 7 / 6 / 5 seconds.
+Ability Preview Video
+Edit
+Violent Tendencies
+COOLDOWN
+:
+13 / 12 / 11 / 10 / 9
+Passive:
+Kled
+periodically gains
+Violent Tendencies
+, which starts expiring upon his next basic attack.
+Violent Tendencies:
+Kled
+gains
+bonus
+attack speed
+for his next 4 basic attacks within a few seconds. The final attack deals
+additional
+physical damage
+based on the
+target's
+maximum
+health
+.
+Passive:
+Kled
+periodically gains
+Violent Tendencies
+, which starts expiring upon his next
+basic attack
+.
+Violent Tendencies:
+Kled
+gains
+150%
+bonus
+attack speed
+on his next 4 basic attacks within 4 seconds. The fourth attack is empowered to deal
+additional
+physical damage
+. The damage based on the target's health is capped at 200 against
+monsters
+.
+Violent Tendencies'
+current
+cooldown
+is reduced by 0.
+5
+seconds
+on-hit
+, increased to 1.
+5
+against champions.
+Additional Physical Damage:
+20 / 30 / 40 / 50 / 60
+(+ 4.
+5
+/ 5 / 5.
+5
+/ 6 / 6.
+5
+%
+(+ 2% per 100
+bonus
+AD)
+(+ 0.
+4
+% per 100
+bonus
+health)
+of target's
+maximum
+health)
+Against
+structures
+, the fourth attack deals modified
+additional
+physical damage
+.
+Structure Additional Damage:
+62 – 96.
+41
+(based on level)
+(+ 0 / 15 / 30 / 45 / 60)
+Info
+Targeting input
+Passive
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Violent Tendencies'
+additional damage is applied as a separate damage instance from the attack that triggers it.
+This causes
+Black Cleaver's
+Carve
+to be applied twice.
+(unexpected)
+This damage instance is applied before the damage of the attack.
+Violent Tendencies'
+additional damage is tagged as
+basic damage
+and
+spell damage
+, which allows it to trigger spell effects.
+The additional damage
+applies
+life steal
+.
+Attacking a
+plant
+or
+ward
+will not activate
+Violent Tendencies
+.
+Attacking either while
+Violent Tendencies
+is already active will still consume an attack.
+Kled
+gains
+attack speed
+even on non-
+Violent Tendencies
+attacks as long as the ability is not on cooldown.
+While affected by
+Silence
+or
+Forced Actions
+, the animations and sounds of
+Kled's
+first 3
+Violent Tendencies
+attacks are replaced with default ones.
+(bug)
+The first and third attack will  instead play
+critical strike
+animations if they strike critically.
+Learning
+Violent Tendencies
+will cancel
+Kled's
+ongoing
+attack windup
+.
+(bug)
+In contrast,
+Violent Tendencies
+coming off cooldown during an ongoing attack windup will not cancel it.
+Successfully finishing the basic attack will then cause
+Violent Tendencies
+to begin expiring, but will not count as one of the 4 attacks.
+Tips & Tricks
+Players should consider when they want to learn
+Violent Tendencies
+to avoid "wasting" its cooldown.
+Ability Preview Video
+Edit
+Jousting
+COOLDOWN
+:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+none
+TARGET RANGE:
+550
+•
+765
+SPEED:
+600 +
+100% movement speed
+Active:
+Skaarl
+dashes
+in the target direction, dealing
+physical damage
+to enemies she passes through and marking enemy
+champions
+hit. The mark
+reveals
+the target for a short time, during which
+Jousting
+can be recast.
+Recast:
+Skaarl
+consumes the mark to
+dash
+through the marked target.
+Active:
+Skaarl
+dashes
+in the target direction, though not through terrain, dealing
+physical damage
+to enemies she passes through and
+pulling
+minions
+,
+pets
+and small
+monsters
+hit towards her.
+Physical Damage:
+35 / 60 / 85 / 110 / 135
+(+ 55%
+bonus
+AD)
+Upon hitting an enemy
+champion
+or large monster,
+Skaarl
+dashes
+a fixed 350 units through them, marking them for 3 seconds, during which they are
+revealed
+. After the dash ends, the duo gain
+50%
+bonus
+movement speed
+for 1 second.
+Jousting
+can be recast after 0.
+5
+seconds of the first dash ending while the target is marked.
+Recast:
+Skaarl
+consumes the mark to
+dash
+through the marked target, applying the same effects as the first cast though being able to dash through terrain.
+Total Physical Damage:
+70 / 120 / 170 / 220 / 270
+(+ 110%
+bonus
+AD)
+The mark will remain even if the target dies, and ends prematurely if the duo are too far away or
+Kled
+dismounts
+.
+Bear Trap on a Rope
+and
+Chaaaaaaaarge!!!
+can be cast during either of the dashes.
+Info
+Targeting input
+Direction
+/
+Auto
+Affects
+Enemies
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Jousting
+will go on cooldown at the end of its first dash, but its cooldown cannot be reduced by cooldown refunding effects such as
+Transcendence
+while its mark is active.
+(bug)
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+Casting
+Chaaaaaaaarge!!!
+during
+Jousting
+will not interrupt the dash.
+The mark is removed at 765 range center-to-edge, which allows
+Kled
+to attempt to cast
+Jousting
+while outside of maximum range.
+(bug)
+Attempting to recast
+Jousting
+while outside of maximum range will make
+Kled
+path 550 units in the direction of the mark and consume the mark without casting the ability.
+When recasting
+Jousting
+,
+Skaarl
+will
+Dash
+to the marked target's location at the time of recasting, then
+Dash
+another
+200
+units.
+The
+200
+unit dash cannot pass through terrain.
+If the marked target's location at the time of recasting happens to be inside terrain,
+Jousting
+will end upon reaching terrain.
+The speed of the dashes is not updated dynamically during the dash.
+The first dash can pass through terrain if
+Kled
+is already inside that terrain.
+The first dash can enter terrain within a short radius.
+This allows
+Kled
+to sometimes pass through
+Yorick's
+Dark Procession
+with the first cast of
+Jousting
+.
+(bug)
+PENDING FOR TEST:
+the first dash's terrain forgiveness radius
+Jousting
+can be recast even while the marked target is
+untargetable
+or
+dead
+.
+If the marked target dies shortly after being marked, the mark will not be visible.
+(bug)
+Jousting
+cannot affect
+Neeko
+disguised as a
+ward
+.
+(bug)
+PENDING FOR TEST:
+Jousting's
+hitbox, minion pull direction, speed and range
+The following table refers for interactions while
+Kled
+is dashing:
+Attacking
+Disabled
+Abilities
+Allowed
+Movement
+Disabled
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+All summoner spells are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Interrupted by
+Death
+Ability Preview Video
+Edit
+Chaaaaaaaarge!!!
+COOLDOWN
+:
+140 / 125 / 110
+CAST TIME:
+none
+TARGET RANGE:
+500 - (3500 / 4000 / 4500)
+SPEED:
+1000
+•
+600
+search range:
+500
+•
+800
+Active:
+Kled
+&
+Skaarl
+become
+ghosted
+and
+unstoppably
+charge to a location, building up
+bonus
+movement speed
+and
+shield
+and leaving a draft in their wake that grants
+Mr. Kled's Wild Ride
+to allies that follow the draft.
+Skaarl
+dashes
+to the first enemy champion encountered,
+knocking them back
+, and dealing
+magic damage
+based on travel time.
+Mr. Kled's Wild Ride:
+Gain a large amount of
+movement speed
+.
+Active:
+Kled
+&
+Skaarl
+charge toward the target location, automatically navigating terrain along the way, during which they are
+ghosted
+,
+immune to crowd control
+and
+revealed
+to enemy
+champions
+in a
+1250
+radius. If the charge does not complete within 15 seconds, it will end prematurely. The charge is interrupted instantly if
+Kled
+dismounts
+during it.
+While charging, the duo gain an initial
+shield
+, plus an additional amount for every 0.
+25
+seconds of traveling, up to a cap at 2 seconds. The shield lasts for 2 seconds upon finishing the charge. Additionally, the duo trails a directional draft in their wake, lasting 9 seconds. Allied units other than lane
+minions
+following the draft gain
+Mr. Kled's Wild Ride
+. After 0.
+5
+seconds of charging, the duo gain
+bonus
+movement speed
+every 0.
+25
+seconds
+, up to
+950
+total
+movement speed
+over 3 seconds.
+Total Shield:
+200 / 300 / 400
+(+ 300%
+bonus
+AD)
+Initial Shield:
+40 / 60 / 80
+(+ 60%
+bonus
+AD)
+Shield Per Instance:
+20 / 30 / 40
+(+ 30%
+bonus
+AD)
+Mr. Kled's Wild Ride:
+While in
+champion combat
+, gain
+40%
+bonus
+movement speed
+. After not being in champion combat for 3 seconds, if
+Kled
+is charging, gain
+bonus
+movement speed
+up to
+Kled's current
+movement speed
+; otherwise gain up to
+650
+total
+movement speed
+.
+Kled
+&
+Skaarl
+will
+dash
+toward the first
+visible
+enemy champion
+in range of the charge
+,
+revealing
+the target during the dash and colliding with the first visible enemy champion in their path to deal
+magic damage
+, increased by
+0% – 200% (based on charge time)
+,
+knock them back
+150 units, though
+not through terrain
+, and end the charge.
+Minimum Magic Damage:
+4 / 6 / 8%
+(+ 3% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Maximum Magic Damage:
+12 / 18 / 24%
+(+ 9% per 100
+bonus
+AD)
+of target's
+maximum
+health
+Charge alert.
+Info
+Targeting input
+Location
+Target out-of-range override
+Walk in range of the target location to cast
+Affects
+Self, Enemies, Allies
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+See Notes
+The Charge
+While charging, if any out of
+sight
+enemy
+champions
+were within
+500
+range of
+Kled
+during the last
+second
+,
+Kled
+locks on to the closest visible enemy champion within
+800
+range in his facing direction, and begins dashing toward them.
+During the charge the duo gain (950 − (
+starting
+movement speed
+)) ÷ 12 × (time ÷ 0.
+25
+)
+bonus
+movement speed
+The bonus movement speed is not affected by
+movement speed caps
+.
+The charge will not give any movement speed to the duo if they have more than
+「 1440 raw movement speed 」
+「 950 after movement speed soft caps 」
+.
+The trail will not give
+Kled
+and his allies any movement speed out-of-champion-combat if they have more than
+「 840 raw movement speed 」
+「 650 after movement speed soft caps 」
+.
+Movement speed is granted by facing the direction of the draft and lasts for
+0.
+528
+seconds
+upon exiting the trail or facing another direction.
+Voidmites
+, and
+Bel'Veth's
+Void Remora
+are considered to be lane
+minions
+for the purpose of
+Mr. Kled's Wild Ride
+.
+Kled
+will re-path if his current path is blocked by a newly created terrain (either player created or by the
+Mountainous Rift
+).
+The charge will continue towards the target location even if
+Kled's
+location changes drastically.
+Kled
+will mark his path with an indicator visible to him and his allies.
+Kled's
+pathing indicator will not account for changes in
+Kled's
+pathing.
+Kled's
+pathing indicator will sometimes display a path different from his real path.
+(bug)
+[1]
+Kled's
+shield
+generation is based upon a global 0.
+25
+second timer, not based on when the ability is cast or when it ends.
+(unexpected)
+For example, this means that
+Kled
+will take an additional 0.
+25
+seconds to generate the maximum shield amount if the ability was cast immediately after the last tick of the global timer.
+For example, this means that
+Kled's
+shield will expire 0.
+25
+seconds sooner if his charge ends immediately before the next tick of the global timer.
+Axiom Arcanist
+only increases the first instance of shield gained.
+(bug)
+The Dash
+If
+Kled
+passes over the charge's target location, the charge will end even during the dash.
+(bug)
+If the charge ends before, or during the dash, the dash will not:
+Generate a shield;
+Trail a directional draft, applying
+Mr. Kled's Wild Ride
+;
+Disable summoner spells and items.
+Kled
+sometimes fails to lock on to valid targets in range.
+(bug)
+[2]
+Experimental Hexplate's
+Overdrive
+,
+Fiendhunter Bolts'
+Opening Barrage
+, and
+Zeke's Convergence's
+Frostfire Tempest
+trigger at the end of the charge or at the end of the dash, whichever comes last, even if the charge ends before or during the dash.
+Kled
+and
+Skaarl
+will track the target if they change locations.
+They will dash to the target's previous location if the target moves beyond
+2500
+units of the dash's beginning location.
+If the target moves
+2500
+or more units away from
+Kled
+and
+Skaarl
+during the dash, it will be interrupted.
+If the dash does not complete within 9 seconds,
+Kled
+and
+Skaarl
+will continue to track their target, but will be able to cast spells, and will not be able to collide with enemy champions.
+While dashing,
+Kled
+will mark his target with an indicator visible to both teams.
+The damage dealt is based on time spent traveling before the beginning of the dash.
+It is possible for
+Kled
+to briefly lose his
+crowd control immunity
+while colliding with an enemy champion, which can cause the
+dash
+, and its subsequent damage and
+displacement
+to be interrupted.
+(bug)
+[3]
+Units knocked back by
+Chaaaaaaaarge!!!
+knockback
+can pass through terrain if it is
+player-generated
+, or if they are already inside it.
+(unexpected)
+The
+airborne
+debuff is removed early when the forced movement stops.
+Buffering Interactions
+Nothing can be buffered during the charge.
+Movement and attack commands, as well as
+Bear Trap on a Rope
+and
+Jousting
+can be buffered during the dash.
+Interaction Tables
+The following table refers for interactions while
+Kled
+is charging:
+Ghost
+is also disabled,
+contrary to the table below
+.
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Allowed, but cannot input movement commands.
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+Interrupted by
+N/A
+Interrupted by
+N/A
+The following table refers for interactions while
+Kled
+is dashing:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+N/A
+Disabled
+All summoner spells are disabled
+Interrupted by
+N/A
+Interrupted by
+N/A
+Every summoner spell is disabled, but summoner spells that aren't disabled while
+Kled
+is charging will not visually appear disabled.
+(bug)
+No summoner spells or items are disabled if the charge ends before or during the dash.
+(bug)
+Tips & Tricks
+Since
+movement speed
+lost from
+slows
+is not regained if they expire while
+Kled
+is charging, it's advised for players to wait for short duration slows (eg.
+Voltaic Cyclosword's
+Firmament
+) to expire before casting
+Chaaaaaaaarge!!!
+.
+If unsure which path
+Kled
+will take while charging, players can order him to move to the desired location and see his path on the minimap.
+Kled
+would need to start charging with less than
+-250
+total
+movement speed
+in order to accelerate faster than
+Sion's
+Unstoppable Onslaught
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Flash
+is not disabled during the charge.
+Cooldown changed to 60 / 45 / 30 seconds.
+Maximum shield value is now 181.
+82
+/ 272.
+73
+/ 363.
+64
+(+ 272.
+73
+%
+bonus
+AD)
+.
+Maximum shield value is now achieved
+0.
+75
+– 1
+seconds into the charge, beginning with
+40%
+and gaining another 20% of the maximum shield amount every 0.
+25
+seconds.
+Critical Healing
+only increases the first instance of shield gained.
+(bug)
+Casting
+Chaaaaaaaarge!!!
+counts as a
+dash
+for the purpose of
+Chauffeur
+.
+Kled
+will still
+attach
+to his ally after 1.
+5
+seconds of casting, even if he is charging.
+Chaaaaaaaarge's!!!
+dash does not count as a dash for the purpose of
+Chauffeur
+, and will be interrupted once
+Kled
+becomes attached.
+(bug)
+Ability Preview Video
+Edit
+Dismounted
+EFFECT RADIUS:
+1200
+/
+1400
+Innate:
+While
+Dismounted
+,
+Kled
+suffers all damage taken and is vulnerable to
+death
+.
+Kled's
+base health
+cannot be improved through any means, his
+movement speed
+is reduced, and his
+basic attacks
+against
+champions
+deal less
+physical damage
+. However,
+Kled
+gains a large amount of
+bonus
+movement speed
+when facing
+visible
+enemy champions,
+bonus
+armor
+and
+bonus
+magic resistance
+, and he has the ability to restore
+Skaarl's
+Courage
+to
+mount
+again.
+Courage:
+Kled gains a large amount of
+Courage
+by
+basic attacking
+champions and a small amount when killing
+minions
+, or attacking
+structures
+or epic
+monsters
+. At 100
+Courage
+,
+Skaarl
+returns and
+Kled
+becomes
+Mounted
+.
+Kled's
+own
+health
+is preserved through re-mounting. Entering the
+fountain
+will always restore
+Courage
+and return
+Skaarl
+. Outside of the fountain,
+Kled
+cannot gain
+Courage
+for 30 seconds after re-mounting.
+Innate:
+Kled
+is only vulnerable to
+death
+while
+Dismounted
+.
+Kled
+has
+410 – 2061.
+86
+(based on level)
+base
+health
+, which is not improved by sources of
+bonus
+health
+, his
+movement speed
+is reduced
+「 by
+40
+」
+「 to
+305
+」
+, and he gains
+125
+total
+attack range
+. Effects based on percentage health consider
+Kled
+and
+Skaarl's
+combined
+maximum
+health
+, meaning that a
+Dismounted
+Kled
+is never considered to be at
+full
+health.
+Kled
+gains
+70 – 165 (based on level)
+bonus
+movement speed
+while facing and
+after attacking
+nearby
+visible
+enemy
+champions
+, but his
+basic attacks
+against them are reduced to
+85% / 90% / 95% / 100% (based on level)
+AD
+physical damage
+. He also gains
+bonus
+armor
+and
+bonus
+magic resistance
+equal to 4
+(+ 1% of
+bonus
+health)
+, increased by 30% for each nearby
+visible
+enemy champion, up to a maximum of 10
+(+ 2.
+5
+%
+bonus
+health)
+resistances. Additionally, he gains the ability to restore
+Skaarl's
+Courage
+to
+mount
+again.
+Innate - Courage:
+Kled
+gains 15
+Courage
+after completing a basic attack against a champion and 5
+Courage
+for lane
+minion
+kills and when basic attacking
+structures
+or epic
+monsters
+. He can also restore
+Courage
+from hitting enemies with
+Pocket Pistol
+. Upon reaching 100
+Courage
+,
+Skaarl
+instantly restores
+40% / 50% / 60% / 70% (based on level)
+of her
+maximum
+health
+and reunites with
+Kled
+over 0.
+25
+seconds, after which he consumes all
+Courage
+to become
+Mounted
+and the duo become
+unable
+to declare basic attacks or cast their
+abilities
+for 0.
+25
+seconds.
+Mounting up
+resets the
+cooldowns
+of
+Bear Trap on a Rope
+and
+Jousting
+.
+While at the allied
+fountain
+, 25
+Courage
+is generated every 0.
+25
+seconds. If reuniting outside of the fountain,
+Skaarl
+gets
+Frayed Nerves
+, which prevents
+Kled
+from gaining
+Courage
+for 30 seconds. Being within the fountain while
+Dismounted
+removes
+Frayed Nerves
+.
+The current status of
+Kled's
+own health is preserved between subsequent dismounts.
+Info
+Targeting input
+Passive
+Affects
+Self
+Counters
+Parries
+Blocked
+Clones
+are considered to be champions for all of this ability's effects.
+Voidmites
+, and
+Bel'Veth's
+Void Remora
+are
+not
+considered to be lane
+minions
+for the purpose of
+courage
+generation.
+The
+movement speed
+reduction will apply to
+Kled's
+bonus
+movement speed.
+If his
+bonus
+movement speed would be reduced below 0, his
+base
+movement speed is reduced instead equal to the remaining reduction, or by the full amount if he has no
+bonus
+movement speed.
+Kled
+will retain the
+bonus
+movement speed
+buff for 1.
+5
+seconds while facing an enemy champion even if that champion is no longer
+visible
+.
+After completing a
+basic attack
+against a champion, the
+bonus
+movement speed
+buff is granted for 1.
+5
+seconds regardless of his facing direction.
+The
+bonus
+movement speed
+buff's value is refreshed when
+Kled
+levels up.
+Kled
+will neither gain
+Courage
+nor
+bonus
+movement speed
+if his basic attack is
+dodged
+,
+blocked
+,
+missed
+or
+parried
+.
+It is possible to get the
+Courage
+from the fountain but have
+Kled
+and
+Skaarl
+reunite outside the fountain.
+Sources of increased
+maximum
+health
+that additionally restore
+current
+health
+will restore
+Kled's
+current
+health
+even if he is
+DISMOUNTED
+.
+The
+Courage
+bar is
+white
+when under 50 courage,
+yellow
+when equal to or above 50 courage, and
+red
+at 100 courage.
+Tips & Tricks
+During the first 0.
+25
+seconds of remounting,
+Kled
+can finish an
+attack
+, cast
+Pocket Pistol
+, and utilize the
+bonus
+movement speed
+toward champions.
+Map-Specific Differences
+ARAM
+differences
+edit
+Removed:
+No longer generates
+Courage
+while at the allied
+spawn
+.
+Arena
+differences
+edit
+The
+base
+health
+gained from the global Arena Stat Adjustments buff is considered
+bonus
+health
+(bug)
+and assumed by
+Skaarl
+instead of
+Kled
+.
+Always revives
+mounted
+.
+PENDING FOR TEST:
+Which
+health
+values do
+Kled
+and
+Skaarl
+revive with at each level?
+Frayed Nerves
+duration changed to 15 seconds.
+Bonus resistances per nearby enemy changed to 40%.
+New Effect:
+Attacking a
+Power Flower
+grants 15
+Courage
+.
+Ability Preview Video
+Edit
+Pocket Pistol
+COST:
+1 Charge
+COOLDOWN:
+3
+CAST TIME:
+0.
+25
+RECHARGE:
+18 / 16 / 14 / 12 / 10
+RANGE:
+700 •
+55
+WIDTH:
+80
+ANGLE:
+20°
+SPEED:
+3000
+•
+1025
+Active:
+Kled
+sprays a cone of
+pellets
+in the target direction that deal
+physical damage
+to enemies hit, during which he also
+recoils
+backward. Each
+pellet
+that hits an enemy
+champion
+or epic
+monster
+restores
+Courage
+.
+Active:
+Kled
+sprays a cone of five
+pellets
+in the target direction while
+recoiling
+300 units in the opposite direction, dealing
+physical damage
+to enemies hit.
+Physical Damage:
+35 / 50 / 65 / 80 / 95
+(+ 65%
+bonus
+AD)
+Kled
+periodically
+stocks
+a
+Pocket Pistol
+charge, up to a maximum of 2. He will restore both charges after
+dismounting
+.
+Pellets
+collide with the first enemy champion they hit, and deal 20% damage per
+pellet
+beyond the first. Each
+pellet
+that hits an enemy
+champion
+or epic
+monster
+restores
+Courage
+, by 5 and 2.
+5
+respectively, for up to a total restore of 25 against champions and 12.
+5
+versus epic monsters.
+Reduced Damage:
+7 / 10 / 13 / 16 / 19
+(+ 13%
+bonus
+AD)
+Maximum Damage:
+63 / 90 / 117 / 144 / 171
+(+ 117%
+bonus
+AD)
+Info
+Targeting input
+Direction
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+See Notes
+Knockdown
+Interrupted
+Applies
+spell damage
+to champions and
+area damage
+to non-champions.
+The backwards
+dash
+from
+Pocket Pistol
+can pass terrain.
+Pocket Pistol
+can be cast while
+grounded
+or
+rooted
+but
+Kled
+will not dash backwards.
+This ability will cast from wherever the caster is at the end of the cast time.
+In addition to its
+projectiles
+,
+Pocket Pistol
+will check for enemy champions within a 55-unit center-to-edge radius area from the projectiles' origin point.
+The projectiles interact with projectile-blocking effects but the area check doesn't.
+Black Cleaver
+will specifically apply a stack for every pellet hit.
+Spell shield
+will negate multiple pellets if they hit at the same time.
+Even if the first pellet is negated, subsequent non-negated pellets will still only deal 20% of the damage.
+Pellets will restore
+Courage
+when colliding with units protected by
+spell shield
+, but will not restore
+Courage
+when colliding with
+Fiora's
+Riposte
+.
+PENDING FOR TEST:
+Pocket Pistol
+will have no charges if
+Kled
+dismounts
+and triggers
+Transcendence
+at the same time.
+(bug)
+PENDING FOR TEST:
+Pocket Pistol
+will falsely visually appear to have another charge ready if the end of its cast time coincides with a charge being stocked.
+(bug)
+The following table refers for interactions while
+Kled
+is dashing:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+All the other item-actives are usable
+Disabled
+Hextech Rocketbelt
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Recall
+Mark
+Disabled
+Flash
+Teleport
+Hexflash
+Dash
+Interrupted by
+N/A
+Interrupted by
+Death
+Buffering Interactions
+Attempting to use any effect that would be buffered until the end of the cast time will instead delay it until the end of the dash, even if that effect is usable during the dash.
+Tips & Tricks
+Like other dashes with a cast time, the
+recoil
+can be used to override
+forced displacement
+by beginning the cast shortly before the displacement takes effect.
+Like other dashes,
+Pocket Pistol's
+dash will end prematurely when colliding with terrain it can't pass, allowing
+Kled
+to act early.
+Pocket Pistol
+is not worth using for out-of-combat mobility if
+Kled
+has more than ~470
+movement speed
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Bear Trap on a Rope
+cooldown changed to 9 / 8 / 7 / 6 / 5 seconds.
+Ability Preview Video
+Edit
+Violent Tendencies
+COOLDOWN
+:
+13 / 12 / 11 / 10 / 9
+Passive:
+Kled
+periodically gains
+Violent Tendencies
+, which starts expiring upon his next basic attack.
+Violent Tendencies:
+Kled
+gains
+bonus
+attack speed
+for his next 4 basic attacks within a few seconds. The final attack deals
+additional
+physical damage
+based on the
+target's
+maximum
+health
+.
+Passive:
+Kled
+periodically gains
+Violent Tendencies
+, which starts expiring upon his next
+basic attack
+.
+Violent Tendencies:
+Kled
+gains
+150%
+bonus
+attack speed
+on his next 4 basic attacks within 4 seconds. The fourth attack is empowered to deal
+additional
+physical damage
+. The damage based on the target's health is capped at 200 against
+monsters
+.
+Violent Tendencies'
+current
+cooldown
+is reduced by 0.
+5
+seconds
+on-hit
+, increased to 1.
+5
+against champions.
+Additional Physical Damage:
+20 / 30 / 40 / 50 / 60
+(+ 4.
+5
+/ 5 / 5.
+5
+/ 6 / 6.
+5
+%
+(+ 2% per 100
+bonus
+AD)
+(+ 0.
+4
+% per 100
+bonus
+health)
+of target's
+maximum
+health)
+Against
+structures
+, the fourth attack deals modified
+additional
+physical damage
+.
+Structure Additional Damage:
+62 – 96.
+41
+(based on level)
+(+ 0 / 15 / 30 / 45 / 60)
+Info
+Targeting input
+Passive
+Affects
+Enemies
+Damage classification
+Type
+See Notes
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Violent Tendencies'
+additional damage is applied as a separate damage instance from the attack that triggers it.
+This causes
+Black Cleaver's
+Carve
+to be applied twice.
+(unexpected)
+This damage instance is applied before the damage of the attack.
+Violent Tendencies'
+additional damage is tagged as
+basic damage
+and
+spell damage
+, which allows it to trigger spell effects.
+The additional damage
+applies
+life steal
+.
+Attacking a
+plant
+or
+ward
+will not activate
+Violent Tendencies
+.
+Attacking either while
+Violent Tendencies
+is already active will still consume an attack.
+Kled
+gains
+attack speed
+even on non-
+Violent Tendencies
+attacks as long as the ability is not on cooldown.
+While affected by
+Silence
+or
+Forced Actions
+, the animations and sounds of
+Kled's
+first 3
+Violent Tendencies
+attacks are replaced with default ones.
+(bug)
+The first and third attack will  instead play
+critical strike
+animations if they strike critically.
+Learning
+Violent Tendencies
+will cancel
+Kled's
+ongoing
+attack windup
+.
+(bug)
+In contrast,
+Violent Tendencies
+coming off cooldown during an ongoing attack windup will not cancel it.
+Successfully finishing the basic attack will then cause
+Violent Tendencies
+to begin expiring, but will not count as one of the 4 attacks.
+Tips & Tricks
+Players should consider when they want to learn
+Violent Tendencies
+to avoid "wasting" its cooldown.
+Ability Preview Video
+Edit
+Jousting
+This ability is unusable while
+dismounted
+.
+"Skaarl! Come back, buddy! Skaarl?"
+Info
+Targeting input
+N/A
+No additional details.
+Edit
+Chaaaaaaaarge!!!
+This ability is unusable while
+dismounted
+.
+"Skaarl? Skaarl!?!"
+Info
+Targeting input
+N/A
+No additional details.
+Map-Specific Differences
+Arena
+differences
+edit
+Flash
+is not disabled during the charge.
+Cooldown changed to 60 / 45 / 30 seconds.
+Maximum shield value is now 181.
+82
+/ 272.
+73
+/ 363.
+64
+(+ 272.
+73
+%
+bonus
+AD)
+.
+Maximum shield value is now achieved
+0.
+75
+– 1
+seconds into the charge, beginning with
+40%
+and gaining another 20% of the maximum shield amount every 0.
+25
+seconds.
+Critical Healing
+only increases the first instance of shield gained.
+(bug)
+Casting
+Chaaaaaaaarge!!!
+counts as a
+dash
+for the purpose of
+Chauffeur
+.
+Kled
+will still
+attach
+to his ally after 1.
+5
+seconds of casting, even if he is charging.
+Chaaaaaaaarge's!!!
+dash does not count as a dash for the purpose of
+Chauffeur
+, and will be interrupted once
+Kled
+becomes attached.
+(bug)
+Pets
+Skaarl
+Statistics
+Move speed
+335
+/
+1000
+Gameplay radius
+80
+Pathing radius
+50
+Control type
+Autonomous
+Target type
+Untargetable
+Notes
+Upon
+dismount
+,
+Skaarl
+will spawn at
+Kled's
+location and path towards the nearest
+brush
+outside of a minimum radius.
+Upon entering
+brush
+,
+Skaarl
+becomes
+invisible
+to both teams. Enemy
+Sweeper Drones
+grant
+obscured vision
+of
+Skaarl
+.
+The time it takes
+Kled
+to remount is not dependent on his proximity to
+Skaarl
+;
+Kled
+will remount even if
+Skaarl
+does not reach him in time.
+Once spawned,
+Skaarl
+gains
+bonus
+movement speed
+. If
+Skaarl's
+path is blocked, she additionally becomes
+ghosted
+.
+Skaarl
+sometimes does not gain
+bonus
+movement speed
+.
+(bug)
+Skaarl
+will appear on the map as a minion despite being untargetable and invulnerable.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Kled (Collection)
+.
+Original
+09.08.2016
+A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire’s soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the legions have waged, has 'acquired' every military title, and has never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is undeniable: Charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what’s his… and to take whatever he can get.
+Spike Spencer
+Evan 'Somnicidal' Monteiro
+Loot eligible
+View in 3D
+•
+View Music
+Sir
+975
+09.08.2016
+Sir Prince Chevalier Archduke Lord Double-Earl Kled (or Sir Kled, for short) is a half-mad knight from the aptly named Kingdom of Kled, which contains exactly two subjects: Kled, and his cowardly avian mount, Skarl. Together, the pair ravage the countryside to 'reclaim' Kled's 'land', which apparently is… all land, everywhere.
+Spike Spencer
+Pan Chengwei
+Medieval
+Loot eligible
+New Animations
+New Recall
+View in 3D
+Count Kledula
+1350
+24.10.2018
+This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!
+Spike Spencer
+Rudy Siswanto
+Trick-or-Treat
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Count Kledula Chromas
+Emerald
+Golden
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Marauder
+1350
+07.01.2021
+Throughout history, the Marauders have balanced on the knife's edge between brutality and cunning. General Kled, one half of the pair that currently leads the regime, is truly the incarnation of their historic brutality… and little more. If it weren't for Xin Zhao, Kled would bet everything on a final, bloody, battle.
+Spike Spencer
+Rudy Siswanto
+Marauder
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Marauder Kled Chromas
+Citrine
+Emerald
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Kibble-Head
+1350
+06.04.2023
+He's just a lil' guy wearing a bowl of Poro-Pup Chow as a hat, riding the bestest beagle into battle. The get-up won Kled and Skaarl a blue ribbon at Beagle's Bridge, so if ain't broke, don't fix it. Here's hoping that the more "refined" judges at this year's Summoner Sweetie's Pet Show agree.
+Spike Spencer
+Horace 'Hozure' Hsu
+Cats Versus Dogs
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Kibble-Head Kled Chromas
+Amethyst
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Patch history
+For the expanded patch notes, see
+here
+.
+V25.16
+- August 13th Hotfix
+Bear Trap on a Rope
+Bug Fix:
+No longer uses
+Pocket Pistol's
+cooldown after being cast for the first time after remounting in the fountain.
+V25.16
+Bear Trap on a Rope
+Undocumented / Bug Fix:
+No longer gains two charges after
+Kled
+remounts via the fountain.
+V25.15
+Skaarl the Cowardly Lizard
+New Effect:
+While dismounted,
+Kled
+now also gains 4
+bonus
+armor and magic resistance, increased for each nearby enemy champion.
+Bonus resistances per nearby enemy increased to 30% from 20%.
+Maximum bonus resistances increased to 250% of the minimum from 200%.
+Bug Fix:
+Refunding an item during the remount sequence no longer causes
+Kled
+to perform the remount sequence but without actually switching the player to the mounted ability set.
+Bear Trap on a Rope
+Undocumented / Bug Fix:
+Is no longer able to damage
+minions
+, small
+pets
+, and small
+monsters
+with its area check, resulting in double the intended damage in case both the projectile and area check hit the target.
+V25.14
+- Gameplay Update
+[
+3
+]
+General
+While out of combat,
+Skaarl
+will now tilt its head to look at nearby visible jungle monsters.
+Resolved an error that sometimes caused players to have reduced performance when looking at
+Kled
+after he has re-mounted.
+Skaarl the Cowardly Lizard
+New Effect:
+Remount health is now granted instantly upon beginning to remount, rather than after 0.
+5
+seconds.
+New Effect:
+Kled
+now gains
+bonus
+armor
+and
+bonus
+magic resistance
+equal to
+1% of
+bonus
+health
+, increased by 20% per nearby enemy champion within
+1400 units, up to a maximum of
+2%
+bonus
+health
+.
+Courage from minion kills increased to 5 from 4.
+Removed:
+Champion takedowns within 3 seconds of damaging them no longer grants 20 Courage.
+Dismounted attack damage penalty reduced to
+15% / 10% / 5% / 0% (based on level)
+from 20% at all levels.
+Dismounted movement speed penalty reduced to 40 from 60.
+Dismounted bonus movement speed toward champions reduced to
+70 – 155 (based on level)
+from
+100 – 185 (based on level)
+.
+Dismounted bonus movement speed range increased to 1200 units from 1000.
+Skaarl
+base health reduced to
+400 – 1400 (based on level)
+from
+400 – 1550 (based on level)
+.
+Now uses stat growth instead of linear growth.
+Remount health reduced to
+40% / 50% / 60% / 70% (based on level)
+of
+Skaarl's maximum
+health
+from
+45% / 55% / 65% / 75% (based on level)
+.
+New Effect:
+Granted bonus movement speed while dismounted now updates on level-up.
+Bug Fix:
+Additional instances of damage applied by a spell that causes the dismount are now properly ignored upon dismounting instead of unintentionally affecting
+Kled
+.
+Bug Fix:
+Dismount dash and its accompanying lockout are now exactly 0.
+5
+seconds instead of lasting up to 0.
+25
+seconds more based on engine ticks (they are no longer "fuzzy").
+Bug Fix:
+Allied projectiles are no longer destroyed by the untargetability while dismounting.
+Bug Fix:
+Courage bar now always turns yellow when equal to or above 50 Courage instead of only when at 50–59 Courage.
+Bug Fix:
+Kled's health no longer sometimes shows an incorrect amount after remounting.
+Bug Fix:
+Taking fatal damage while affected by
+Renata Glasc's
+Bailout
+no longer breaks
+Kled's
+health bar for the rest of the game.
+Bug Fix:
+Skaarl's
+health is no longer unintentionally displayed while only
+Kled
+is affected by the protection of
+Renata Glasc's
+Bailout
+after taking fatal damage.
+Bug Fix:
+Lulu's
+Wild Growth
+no longer grants
+Kled
+more health than the intended health bonus based on
+Skaarl's
+base health.
+Bug Fix:
+Health regeneration is now properly calculated upon remounting and no longer uses incorrect numbers for up to 0.
+25
+seconds after remounting (it is no longer "fuzzy").
+Bug Fix:
+No longer unintentionally loses a minuscule amount of attack damage while dismounted.
+Bear Trap on a Rope
+Tether bonus AD ratio reduced to
+60%
+bonus
+AD
+from
+65%
+.
+Removed:
+No longer applies
+Grievous Wounds
+for 5 seconds after successfully pulling the target.
+Slow reduced to 30 / 35 / 40 / 45 / 50% from 40 / 45 / 50 / 55 / 60%.
+Slow duration increased to 2.
+5
+seconds from 1.
+5
+.
+New Effect:
+Damage calculations now update again for the pull instead of using the values at the time of the tether connecting.
+New Effect:
+Now checks for enemy units within a
+60-unit radius
+from the projectile's origin point, prioritizing the closest unit that can be affected by the tether.
+Bug Fix:
+Pull timer is now exactly 1.
+75
+seconds instead of lasting slightly longer.
+Pocket Pistol
+Recharge timer changed to 18 / 16 / 14 / 12 / 10 seconds from
+20 – 7.
+25
+(based on level)
+.
+Bonus AD ratio reduced to
+65%
+bonus
+AD
+from
+80%
+.
+New Effect:
+Now checks for enemy champions within a
+55-unit radius
+from the projectiles' origin point.
+New Effect:
+Now deals
+spell damage
+instead of
+area damage
+against champion targets.
+Violent Tendencies
+Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5.
+New Effect:
+Basic attacks now reduces its cooldown by 1.
+5
+seconds, reduced to 0.
+5
+against non-champions.
+Bonus AD ratio reduced to
+2% per 100
+bonus
+AD
+from
+5%
+.
+New Effect:
+Now scales with
+0.
+4
+% per 100
+bonus
+health
+.
+New Effect:
+Attacking wards now maintains bonus attack speed rather than consuming the effect.
+Bug Fix:
+While dismounted, the fourth attack is no longer invalidated by
+silence
+and
+forced action
+effects.
+Jousting
+Bonus AD ratio reduced to
+55%
+bonus
+AD
+from
+65%
+.
+New Effect:
+Recast timer is now tracked on the ability's icon in the HUD.
+New Effect:
+Recast now has a range indicator.
+Bug Fix:
+No longer is able to hit units twice when they re-enter its area check during the dash.
+Chaaaaaaaarge!!!
+Damage type changed to magic from physical.
+Minimum base damage increased to
+4 / 6 / 8% of target's
+maximum
+health
+from
+4 / 5 / 6%
+.
+Maximum base damage increased to
+12 / 18 / 24% of target's
+maximum
+health
+from
+12 / 15 / 18%
+Minimum damage bonus AD ratio reduced to
+3% per 100
+bonus
+AD
+from
+4%
+.
+Maximum damage bonus AD ratio reduced to
+9% per 100
+bonus
+AD
+from
+12%
+.
+Increased the cadence of checking for valid targets.
+New Effect:
+Pinging the ability now shows targets within range in chat.
+Bug Fix:
+CC-immunity is no longer unintentionally removed at the end point of the charge shortly before the dash to a target begins.
+Bug Fix:
+No longer causes
+Kled
+to sometimes lose
+Elixir of Iron's
+trail.
+Rescripted the check for valid targets at the start of cast.
+[Note: This was intended to prevent failure to detect valid targets in range at the start of the charge, but did not.]
+V25.11
+Skaarl the Cowardly Lizard
+Bug Fix:
+No longer causes Kled to unintentionally instantly die when a damage instance that triggers
+The Collector's
+Death execute on Skaarl exceeds Kled's current health.
+V14.9
+Violent Tendencies
+New Effect:
+Now also does
+spell damage
+in addition to
+basic damage
+.
+V14.4
+Bear Trap on a Rope
+Tether update cadence for valid range conditions has been updated to check every 0.
+05
+seconds instead of every 0.
+25
+seconds.
+V14.2
+Bear Trap on a Rope
+Bug Fix:
+Tether now properly lasts for 1.
+75
+seconds at all times rather than for a variable ("fuzzy") duration of 1.
+75
+-2 seconds.
+[
+4
+]
+V13.23
+Undocumented:
+Added a new voice line.
+V13.13
+Chaaaaaaaarge!!!
+Bug Fix:
+Can now properly cast an auto-targeted
+Heal
+during the charge.
+V13.12
+Chaaaaaaaarge!!!
+Bug Fix:
+Attempting to cast
+Primal Smite
+on a target outside of its range no longer causes
+Kled
+to redirect the path and charge towards the target enemy.
+V13.8
+Jousting
+Undocumented / Bug Fix:
+No longer deals
+spell damage
+instead of
+area damage
+to non-champions hit.
+Now no longer kills
+Yorick's
+Mist Walkers and
+Zyra's
+Plants in one hit.
+V12.14
+Bear Trap on a Rope
+Undocumented:
+Bonus AD ratio increased to
+65%
+bonus
+AD
+from
+60%
+.
+V12.13
+Bear Trap on a Rope
+Tether bonus AD ratio increased to
+65%
+bonus
+AD
+from
+60%
+.
+Pull bonus AD ratio increased to
+130%
+bonus
+AD
+from
+120%
+.
+Violent Tendencies
+Cooldown reduced to 11 / 9.
+5
+/ 8 / 6.
+5
+/ 5 seconds from 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6.
+V12.11
+Bear Trap on a Rope
+Grievous Wounds
+strength reduced to 40% from 50%.
+V12.10
+- May 25th Hotfix
+Violent Tendencies
+Cooldown reduced to 12 / 10.
+5
+/ 9 / 7.
+5
+/ 6 seconds from 14 / 12.
+5
+/ 11 / 9.
+5
+/ 8.
+Chaaaaaaaarge!!!
+Cooldown reduced to 140 / 125 / 110 seconds from 160 / 140 / 120.
+V12.10
+Stats
+Base health increased to 410 from 340.
+Health growth increased to 84 from 70.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Kled & Skaarl
+stats
+Base health increased to 810 from 740.
+Health growth increased to 144 from 130.
+Armor growth increased to 5.
+2
+from 4.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Dismounted
+Health upon remount reduced to
+45% / 55% / 65% / 75% (based on level)
+of
+Skaarl's
+maximum
+health
+from
+50% / 60% / 70% / 80% (based on level)
+.
+Bear Trap on a Rope
+Grievous Wounds
+strength reduced to 50% from 60%.
+Chaaaaaaaarge!!!
+Bug Fix:
+No longer causes his location to occasionally desync from the enemy's perspective.
+Unknown Patch
+Dismounted Skaarl the Cowardly Lizard
+Undocumented / Removed:
+No longer grants 100% resistance to some damage types while dismounting.
+V12.3
+Dismounted
+Bug Fix:
+Courage bar now properly displays correct values when Skaarl is lost.
+Violent Tendencies
+New Effect:
+Now cancels
+Kled's
+ongoing attack windup when the ability is leveled.
+V12.1
+Skaarl the Cowardly Lizard
+Bug Fix:
+Fixed a bug where he would sometimes respawn with an incorrect amount of health.
+Bug Fix:
+Now destroys all missiles targeting
+Kled
+while dismounting.
+V11.24
+General
+Bug Fix:
+Voice lines for several skins now play more consistently and accurately.
+Skaarl the Cowardly Lizard
+Skaarl base health increased to
+400 – 1550 (based on level)
+from
+400 – 1420 (based on level)
+.
+New Effect:
+While dismounted, now checks whether Skaarl's courage has been restored twice as often, reducing the time it takes for them to reunite when at max courage.
+Bug Fix:
+Skaarl's base health now correctly counts as
+base
+health instead of
+bonus
+health.
+Any health items that
+Kled
+purchases will add to Skaarl's health and count as bonus health.
+Bug Fix:
+Kled
+now spawns with full health.
+Undocumented / Bug Fix:
+Chemtech Dragon Soul
+no longer fails to kill
+Kled
+if he remounts while in the
+zombie
+state.
+Jousting
+Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 14 / 13 / 12 / 11 / 10.
+Bonus AD ratio increased to
+65%
+bonus
+AD
+from
+60%
+.
+Maximum bonus AD ratio increased to
+130%
+bonus
+AD
+from
+120%
+.
+V11.15
+Violent Tendencies
+Bug Fix:
+A missing voiceline has been restored.
+Marauder Kled
+Bug Fix:
+Dismounted voice lines and attack lines now play properly instead of the mounted ones.
+Bug Fix:
+Violent Tendencies
+voice lines have been restored to trigger properly.
+V11.5
+- March 8th Hotfix
+Skaarl the Cowardly Lizard
+Bug Fix:
+Fixed a bug where
+Skaarl's
+total health wasn't being treated as bonus health.
+Bug Fix:
+Fixed a bug where remounting would be affected
+Grievous Wounds
+.
+Bug Fix:
+Fixed a bug where
+Kled's
+dismounted health would not regenerate past the amount he was at when he remounted.
+Bug Fix:
+Fixed a bug where
+Skaarl
+would not respawn at full health after
+Kled's
+been killed.
+Bug Fix:
+Fixed a bug where would gain courage while being revived by
+Guardian Angel
+even if remount is on cooldown.
+V11.5
+Skaarl the Cowardly Lizard
+Undocumented:
+Rescripted.
+Undocumented:
+Skaarl base health rescaled to
+400 – 1420 (based on level)
+(60 health per level) from
+400 – 1420 (based on level)
+(60 growth per level).
+Unknown Patch
+General
+Illaoi's
+Test of Spirit
+now always spawns a dismounted
+Kled
+spirit.
+V10.23
+Skaarl the Cowardly Lizard
+Bug Fix:
+Now counts the entirety of
+Skaarl
+health as bonus health.
+V10.20
+Stats
+Base magic resistance reduced to 28 from 32.
+1
+.
+V10.18
+Skaarl the Cowardly Lizard
+Bug Fix:
+Bami's Cinder
+passive damage properly increases with his bonus health.
+Undocumented:
+Now correctly gains movement speed while dismounted after basic attacking an enemy champion.
+Undocumented:
+Locket of the Iron Solari
+active shield properly increases with his bonus health.
+V10.12
+Skaarl the Cowardly Lizard
+Bug Fix:
+Fixed a bug where he would lose movement speed faster than intended when he lost vision of enemies.
+V10.10
+Bear Trap on a Rope
+Cooldown increased to 11 / 10 / 9 / 8 / 7 seconds from 9 / 8.
+5
+/ 8 / 7.
+5
+/ 7.
+V10.9
+Skaarl the Cowardly Lizard
+Bug Fix:
+Now properly gains Courage when attacking champions dismounted.
+Unknown Patch
+Pocket Pistol
+Uncodumented / Bug Fix:
+No longer sometimes dashes further and at a different angle than he is supposed to.
+Chaaaaaaaarge!!!
+Uncodumented / Bug Fix:
+No longer sometimes fails to collide with the locked-on enemy champion.
+Uncodumented / New Effect:
+Now collides with the first champion
+Kled
+comes in contact with after locking onto an enemy champion.
+V9.21
+Skaarl the Cowardly Lizard
+Bug Fix:
+No longer loses his untargetable status when dismounting near turrets/walls.
+V9.14
+Bear Trap on a Rope
+New Effect:
+When pulling an enemy, now applies
+Grievous Wounds
+for 5 seconds, reducing healing on the target by 60%.
+Violent Tendencies
+Undocumented:
+Now correctly deals bonus damage with the fourth basic attack if
+Violent Tendencies
+has been upgraded during the attacks.
+V9.2
+Violent Tendencies
+Bug Fix:
+Restored some missing audio on his basic attacks while
+Violent Tendencies
+is on cooldown.
+V9.1
+(Announced in
+V9.2
+)
+Jousting
+Bug Fix:
+Jousting through minions is no longer likely to stack them directly on top of each other.
+V8.22
+Count Kledula
+Bear Trap on a Rope
+Bug Fix:
+SFX have been restored.
+V8.7
+Sir Kled
+Bug Fix:
+Weapon textures are no longer misaligned on his blade.
+Unknown Patch
+Chaaaaaaaarge!!!
+Undocumented:
+Hextech Flashtraption
+can no longer be used during the charge.
+V7.24b
+Stats
+Base attack damage increased to 65 from 63.
+Attack damage growth increased to 3.
+5
+from 3.
+Jousting
+Base damage increased to 35 / 60 / 85 / 110 / 135 from 25 / 50 / 75 / 100 / 125.
+V7.22
+Stats
+Base attack damage increased to 63 from 55.
+Base armor increased to 35 from 26.
+Bear Trap on a Rope
+Base damage increased to 30 / 55 / 80 / 105 / 130 from 25 / 50 / 75 / 100 / 125.
+Pocket Pistol
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 30 / 45 / 60 / 75 / 90.
+Violent Tendencies
+Target's maximum health ratio increased to
+4.
+5
+/ 5 / 5.
+5
+/ 6 / 6.
+5
+% of target's
+maximum
+health
+from
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6%
+.
+Jousting
+Base damage increased to 25 / 50 / 75 / 100 / 125 from 20 / 45 / 70 / 95 / 120.
+V7.10
+May 17th Hotfix
+General
+Bug Fix:
+Fixed a bug where he wasn't gaining his flat bonus movement speed towards enemies while dismounted.
+Bug Fix:
+Fixed a bug where he wasn't moving the expected distance during his dismount.
+V7.5
+Violent Tendencies
+Bug Fix:
+Fixed a bug where if
+Kled
+leveled up
+Violent Tendencies
+while auto attacking an enemy, his 4th hit would not deal bonus damage.
+Chaaaaaaaarge!!!
+Bug Fix:
+Fixed a bug where using
+Chilling
+or
+Challenging Smite
+would cause
+Chaaaaaaaarge!!!
+to re-route and extend the range of his charge.
+V7.4
+General
+Adjusted splash artwork for
+Sir Kled
+.
+Jousting
+Bug Fix:
+Now can correctly dash through player-created terrain with the second cast.
+V7.3
+Violent Tendencies
+Bug Fix:
+No longer activates when used on plants or when
+Kled
+cancels his basic attack.
+V6.24
+Violent Tendencies
+Bug Fix:
+The fourth hit now properly procs on-hit effects even when the bonus damage kills a unit.
+V6.22
+Skaarl the Cowardly Lizard
+Remount delay reduced to 0.
+5
+seconds from 1.
+25
+.
+Violent Tendencies
+Bonus damage reduced to
+4 / 4.
+5
+/ 5 / 5.
+5
+/ 6% of target's
+maximum
+health
+from
+4 / 5 / 6 / 7 / 8%
+.
+V6.20
+Chaaaaaaaarge!!!
+Bug Fix:
+Can now issue pings during
+Chaaaaaaaarge!!!
+.
+V6.19
+Skaarl the Cowardly Lizard
+Removed:
+Reduced damage to minions and monsters while dismounted.
+Chaaaaaaaarge!!!
+Movement speed trail duration reduced to 6 seconds from 8.
+Range reduced to 3500 / 4000 / 4500 from 4500 at all ranks.
+V6.18
+General
+Bug Fix:
+Health bar no longer takes forever to reappear if he dies and is revived by
+Zilean's
+Chronoshift
+at the exact instant he remounts
+Skaarl
+.
+Bug Fix:
+Sir Kled's
+joke animation now loops until canceled (like base
+Kled
+), rather than stopping after one runthrough.
+V6.17
+General
+Clarity:
+Colorblind mode now changes the color of
+Skaarl
+health bar.
+V6.16
+- Added
+Added
+Trivia
+Kled
+is one of 11 champions that can change shape, altering some or all of their abilities:
+Elise
+,
+Gnar
+,
+Jayce
+,
+Kayn
+,
+Nidalee
+,
+Rek'Sai
+,
+Shyvana
+,
+Sylas
+,
+Viego
+, and
+Yunara
+.
+In Kled's case,
+Skaarl the Cowardly Lizard
+allows him to switch between his
+Mounted
+and
+Dismounted
+forms.
+Kled
+is one of 23 champions without a single
+ability power
+ratio on any ability, the others are:
+Aatrox
+,
+Ambessa
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+K'Sante
+,
+Kayn
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+,
+Zaahen
+, and
+Zed
+.
+Kled and
+Skaarl
+are the first champion with two health bars, combining to form the highest in-game base health, with Kled's being the lowest.
+Kled is also the first champion and one of the two champions in the game whose health cannot be improved except through growth per level, the second being
+Pyke
+.
+Kled, while
+dismounted
+, has the lowest base
+movement speed
+of all champions at 305.
+When using the joke emote, Kled will randomly play one of two joke animations.
+Mr. Kled's Wild Ride
+is most likely a reference to the Disneyland attraction
+Mr. Toad's Wild Ride
+from the animated film
+The Adventures of Ichabod and Mr. Toad
+, originally adapted from the children's novel
+The Wind in the Willows
+by Kenneth Grahame.
+Kled and
+Skaarl
+, as
+Mr. Toad
+and
+Cyril the Horse
+respectively.
+J. Thaddeus Toad And Cyril Proudbottom
+Mr. Kled's Wild Ride
+is a probable reference to "
+MR BONES WILD RIDE
+", a custom roller coaster built in
+RollerCoaster Tycoon 2
+called  that took in game years to complete its course. Then, once a passenger finally got off the ride, it led back to the start of the ride, creating an never-ending cycle of riding the attraction. One of the most famous quotes that a ton of riders thought was "I want to get off 'MR BONES WILD RIDE'".
+The name
+Skaarl the Cowardly Lizard
+may be a reference to the
+Courage the Cowardly Dog
+Cartoon Network
+cartoon.
+Kled is the first champion to swear (albeit censored) in-game.
+Kled is the only champion to celebrate takedowns with a unique animation.
+Kled's
+dismounted
+dance references the
+Moonwalk
+, a famous
+dance move
+.
+A side-by-side comparison can be seen
+here.
+The song used in the short cinematic
+The Reunion
+is
+Edvard Grieg's
+,
+Peer Gynt - Morning Mood
+.
+While out of combat,
+Skaarl
+will tilt her head to look at nearby visible jungle monsters.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Fury
+Fury
+is an umbrella term for many named resources that must be generated before being usable, compared to
+Mana
+or
+Energy
+that exist in some quantity beforehand. For most users, this resource is only required by a single ability or passive effect.
+It represents
+momentum
+and encourages sustained aggression from users, often gating a power-spike or empowerment.
+Fury
+generation varies between users, but is always generated
+in-combat
+(e.g. on-hit, ability casts or taking damage) and often decays when out of combat.
+Known as
+Fury
+Rage
+Battle Fury
+Dragon Fury
+Crimson Rush
+Courage
+Grit
+Awakening
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Top
+Within a
+drafted team
+, the
+Top Laner
+is the champion assigned to the top lane.
+Juggernauts
+,
+Divers
+,
+Battlemages
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Top Lane
+position.
+League of Legends content
+Skirmisher
+Slayers
+(formerly "Assassins") are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+Skirmishers
+(also known as Duelists) aim to shred through any nearby enemy that approaches. Because Skirmishers lack high-end burst damage or reliable ways of closing in on high-priority targets, they are instead armed with situationally powerful defensive tools to survive in the fray, along with extreme sustained damage to cut down even the most durable targets.
+Examples
+Fiora
+Jax
+Yasuo
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Tank (Legacy)
+Tanks
+excel in shrugging off incoming damage and focus on disrupting their enemies more than being significant damage threats themselves.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Dismounted
+Innate:
+While
+Dismounted
+,
+Kled
+suffers all damage taken and is vulnerable to
+death
+.
+Kled's
+base health
+cannot be improved through any means, his
+movement speed
+is reduced, and his
+basic attacks
+against
+champions
+deal less
+physical damage
+. However,
+Kled
+gains a large amount of
+bonus
+movement speed
+when facing
+visible
+enemy champions,
+bonus
+armor
+and
+bonus
+magic resistance
+, and he has the ability to restore
+Skaarl's
+Courage
+to
+mount
+again.
+Courage:
+Kled gains a large amount of
+Courage
+by
+basic attacking
+champions and a small amount when killing
+minions
+, or attacking
+structures
+or epic
+monsters
+. At 100
+Courage
+,
+Skaarl
+returns and
+Kled
+becomes
+Mounted
+.
+Kled's
+own
+health
+is preserved through re-mounting.
+Entering the
+fountain
+will always restore
+Courage
+and return
+Skaarl
+. Outside of the fountain,
+Kled
+cannot gain
+Courage
+for 30 seconds after re-mounting.
+League of Legends content
+Cleanse
+A unit that is
+cleansed
+has all applicable
+crowd control
+status effects removed.
+Due to the nature of the
+cleanse
+interaction, cleansing abilities and effects remain castable in circumstances that would otherwise inhibit casting, unless special-cased.
+"
+Cleanse
+" does not always refer to the act of removing
+all
+crowd control effects, some sources would specify only one or a few types of crowd control.
+A
+cleanse
+does not remove
+Stasis
+, but will remove the disable portion of
+Airborne
+.
+League of Legends content
+Crowd control
+A unit that is
+disabled
+is affected by a status effect that prevents certain actions – such as movement, attacking, casting and/or seeing–blocked, reduced or controlled.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Bear Trap on a Rope
+COOLDOWN:
+11 / 10 / 9 / 8 / 7
+Active:
+Kled
+throws a bear trap in the target direction that deals
+physical damage
+to enemies hit and forms a
+tether
+against the first
+champion
+or
+large monster
+hit,
+revealing
+them.
+The tether shrinks over a brief time, after which
+Kled
+pulls
+the target, dealing
+physical damage
+, and briefly
+slowing
+them.
+League of Legends content
+Pocket Pistol
+RECHARGE:
+18 / 16 / 14 / 12 / 10
+Active:
+Kled
+sprays a cone of
+pellets
+in the target direction that deal
+physical damage
+to enemies hit, during which he also
+recoils
+backward. Each
+pellet
+that hits an enemy
+champion
+or epic
+monster
+restores
+Courage
+.
+League of Legends content
+Lunge
+A
+lunge
+refers to the movement of a champion
+during
+an ability's cast animation (
+such as short-ranged abilities
+) or an empowered attack's animation (
+such as empowerments that grant
+bonus range
+), in order to place the champion in range for a follow-up attack.
+Lunge
+is a movement distinct from
+dashes
+, primarily by not triggering effects that would otherwise interact with dashes, such as
+Poppy's
+Steadfast Presence
+and
+Vex's
+Doom 'n Gloom
+.
+League of Legends content
+Lockout
+A champion that is
+locked out
+is unable to perform certain actions such as casting abilities, moving, or attacking due to currently performing another action that must complete. The prevented actions can vary per instance.
+Lockout does not interact with
+crowd control
+mechanics unless otherwise stated.
+League of Legends content
+Untargetable
+A unit that is
+untargetable
+is an invalid target; it can neither be
+selected
+nor hit by most effects. Effects that have already been applied are
+not
+invalidated by the unit becoming untargetable, unless they are special-cased to do so.
+Becoming untargetable will interrupt acqusition. This also causes non-champions to lose
+aggro
+. Many untargetabilities additionally
+destroy
+all incoming
+unit-targeted
+projectiles
+.
+League of Legends content
+Cc-Immune
+Crowd control immunity
+prevents
+any
+type of
+crowd control
+from being
+applied
+to the unit. CC which has already been applied will still have an effect on the unit. Epic
+monsters
+(excluding a summoned
+Rift Herald
+) and
+turrets
+are always immune to all crowd control, with the exception of
+stasis
+.
+Additional effects over the
+crowd control
+will not be prevented (e.g.
+Malzahar's
+Nether Grasp
+will not
+suppress
+but the
+tether
+still applies).
+League of Legends content
+Jousting
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+Active:
+Skaarl
+dashes
+in the target direction, dealing
+physical damage
+to enemies she passes through and marking enemy
+champions
+hit. The mark
+reveals
+the target for a short time, during which
+Jousting
+can be recast.
+Recast:
+Skaarl
+consumes the mark to
+dash
+through the marked target.
+League of Legends content
+Chaaaaaaaarge!!!
+COOLDOWN:
+140 / 125 / 110
+Active:
+Kled
+&
+Skaarl
+become
+ghosted
+and
+unstoppably
+charge to a location, building up
+bonus
+movement speed
+and
+shield
+and leaving a draft in their wake that grants
+Mr. Kled's Wild Ride
+to allies that follow the draft.
+Skaarl
+dashes
+to the first enemy champion encountered,
+knocking them back
+, and dealing
+magic damage
+based on travel time.
+Mr. Kled's Wild Ride:
+Gain a large amount of
+movement speed
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Cast instance
+Cast instance is the identifier that tells the
+source
+of spells; it is the game's method of associating multiple effects (damage events, buff applications) as originating from a specific, singular attack or ability cast by a unit. Multiple effects occurring under the same cast instance behave as one for certain interactions. Some notable examples:
+Conqueror's
+stacking can only be triggered once per cast instance.
+Electrocute
+and
+Phase Rush
+can only receive 1 stack for their activation per cast instance.
+Muramana
+deals its damage once per cast instance.
+Not to be confused with damage instance, which is each individual effects, even under the same cast instance.
+League of Legends content
+Homing projectile destruction
+Destroying
+or
+popping of a projectile
+references an effect that destroys all homing
+missiles
+currently targeting a specific unit, such as ranged projectile-based
+basic attacks
+. Destroyed missiles will do the same thing as if they were destroyed by
+Wind Wall
+or
+Blade Whirl
+(usually vanishing without any effect).
+The following abilities perform one or more
+projectile popping events
+:
+Most
+abilities and effects that grant
+untargetability
+pop projectiles when the unit gains the status effect.
+Master Yi's
+Alpha Strike
+in particular pops targeted projectiles on each game tick for its duration.
+Gwen's
+Hallowed Mist
+pops all projectiles (from enemy champions outside of its area of effect) targeted at her that attempt to pass through or be inside its area of effect.
+Upon entering or leaving
+Mordekaiser's
+Realm of Death
+.
+Upon successfully completing the
+channel
+of:
+Shen's
+Stand United
+Twisted Fate's
+Gate
+Teleport
+League of Legends content
+Test of Spirit
+COOLDOWN:
+16 / 15 / 14 / 13 / 12
+Active:
+Illaoi
+reaches with a tendril in the target direction that stops upon the first enemy hit. If the target is a
+champion
+, she rips their
+Spirit
+out from them to stand before her.
+The
+Spirit
+tethers
+to the target for a duration, dealing a portion of any damage it takes. If the
+Spirit
+is killed or the target leaves its range, the target will be
+slowed
+and marked as a
+Vessel
+for a duration or until they
+takedown
+Illaoi
+, spawning
+Tentacles
+while marked.
+Tentacles
+will autonomously attack the nearest
+Spirit
+or
+Vessel
+.
+League of Legends content
+Umbral Trespass
+COOLDOWN:
+120 / 100 / 80
+Passive:
+Kayn
+marks
+enemy champions he has damaged for a few seconds.
+Active:
+Kayn
+vanishes
+and
+dashes
+to a
+marked
+enemy champion. Upon arrival, he
+channels
+for a short time,
+attaching
+to the target and
+revealing
+them.
+Recast:
+Kayn
+deals
+physical damage
+to the target and
+dashes
+out from their body in the target direction.
+Shadow Assassin Bonus:
+Umbral Trespass
+has increased range. Emerging will
+reset
+The Darkin Scythe's
+cooldown.
+Darkin Slayer Bonus:
+Umbral Trespass
+deals damage based on the
+target's
+maximum
+health
+, and
+heals
+him for a portion of the
+target's
+maximum
+health
+.
+League of Legends content
+Devour
+COOLDOWN:
+120 / 100 / 80
+Active:
+Tahm Kench
+swallows the target
+champion
+for a short time,
+vanishing
+them.
+Devour
+can be cast on enemies only with max stacks of
+An Acquired Taste
+.
+If the target is an ally, they are granted a
+shield
+that lasts a short time.
+Tahm Kench
+will also gain
+bonus
+movement speed
+for a short time, but cannot cast movement spells besides
+Abyssal Dive
+while an ally is swallowed.
+Tahm Kench
+can cast
+Regurgitate
+within the duration, and automatically does so afterwards. The swallowed ally can also force this cast by attempting to exit in the target direction.
+An Acquired Taste
+Bonus:
+The target is
+suppressed
+while swallowed.
+Tahm Kench
+will also be
+grounded
+and
+slowed
+while an enemy is swallowed.
+Regurgitate
+Active:
+Tahm Kench
+spits
+the swallowed champion in the target direction. If they are an enemy, he deals
+magic damage
+based on the
+target's
+maximum
+health
+.
+League of Legends content
+Spell shield
+A
+spell shield
+refers to one of several effects that have the capacity to negate hostile abilities from applying to the recipient. A
+spell shield
+may negate many active effects coming from
+champion abilities
+,
+epic monsters
+,
+champion summoned units
+, and
+items
+, but almost none from
+runes
+and
+summoner spells
+with the only exceptions of
+Arcane Comet
+,
+Unleashed Smite
+, and
+Primal Smite
+which will be blocked.
+See the article for more details.
+League of Legends content
+Execute
+Executes
+deal
+true damage
+equal to
+100% of the target's
+current
+health
+through the
+raw damage
+source type, ignoring all mitigations.
+They do not bypass
+invulnerability
+and effects that prevent falling below a health amount, unless the source type is
+internalraw
+.
+League of Legends content
+ARAM
+All Random All Mid
+is a queue and 5v5
+Classic
+game mode in which teams are assigned random champions and fight within a single-lane map.
+Playable maps
+Butcher's Bridge
+/
+Howling Abyss
+/
+Koeshin's Crossing
+The full ARAM game rules balance combat pacing and champion interaction; most notably, the
+fountain's
+regeneration is disabled and players can only shop for
+items
+after dying. Additionally, a multitude of adjustments to champions, items and runes have been made. ARAM rules are used in both matchmade and custom games.
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Edge range
+Edge range
+is calculated from the
+edge
+of a source unit's hitbox to the
+edge
+of a target unit's hitbox.
+Edge range is mostly used for
+basic attacks
+;
+skill shots
+; and point-blank areas of effect (including
+auras
+).
+These become
+more
+effective against large champions, as the source gains more reach against them. This may be favorable or unfavorable: durable champions tend to be larger and thus easier to hit, and frail champions tend to be smaller and more difficult to hit.
+League of Legends content
+Tether
+A
+tether
+is an effect that applies a
+bind
+buff on both the source and the target(s), which then creates the actual tether that requires both to remain in close proximity so any accompanying effects (
+damage
+,
+crowd control
+,
+heals
+,
+buffs
+, etc) can apply.
+The tether breaks if it exceeds maximum range, or either conduit is removed (e.g.
+Death
+). The tether will also break from a transition into the
+zombie state
+due to the target already dying.
+Generally, a
+bind
+with an enemy will break along with the tether, whereas a bind with an ally will last indefinitely and automatically reapply the tether when within range.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Monster
+Monsters
+are neutral units in
+League of Legends
+. Unlike
+minions
+, monsters do not fight for either team, and will only do so if
+aggroed
+(provoked) – with the exception of the
+Rift Scuttler
+, which simply runs away when attacked.
+League of Legends content
+True sight
+True Sight
+reveals units through
+Fog of War
+,
+brush
+, and
+stealth
+. It does not bypass
+nearsight
+effects.
+References
+↑
+1.0
+1.1
+Kled's profile page
+at
+LeagueOfLegends.com
+↑
+Edge of Night bug
+↑
+Kled Fighter Reshape Patch 25.14 Dev Preview
+↑
+Evidence of the Kled Q timing change

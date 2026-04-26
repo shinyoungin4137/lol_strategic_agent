@@ -1,0 +1,3257 @@
+# Briar
+
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Briar
+is a
+champion
+in
+League of Legends
+(LoL)
+.
+[
+1
+]
+Base statistics
+Edit
+HP
+625
++100
+Resource
+N/A
+HP5
+0
++0
+Secondary Bar
+Frenzy
+AR
+30
++4.5
+AD
+60
++2.5
+MR
+32
++2.05
+Crit. DMG
+200%
+MS
+340
+Attack range
+125
+Attack speed
+Base AS
+0.644
+Windup%
+19.317%
+AS ratio
+0.669
+Bonus AS
++2
+%
+Unit radius
+Gameplay radius
+65
+Select. radius
+120
+Pathing radius
+35
+Select. height
+192
+Acq. radius
+400
+Special statistics
+Damage Dealt
++5%
+Damage Received
++0%
+Healing
++10%
+HP
+「 625 (+
+90
+) 」
+「
+625 – 2155
+」
+AR
+「 30 (+
+3.5
+) 」
+「
+30 – 89.
+5
+」
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Briar
+The Restrained Hunger
+Role(s):
+Jungle
+Store price:
+2400
+|
+880
+Style:
+Difficulty:
+Damage
+2
+Toughness
+2
+Control
+3
+Mobility
+3
+Utility
+1
+Release date
+2023-09-14
+Last changed
+V26.03
+Class
+Diver
+Legacy class
+Fighter
+,
+Assassin
+Resource
+Frenzy
+Range type
+Melee
+Adaptive type
+Physical
+Abilities
+Edit
+Crimson Curse
+Innate:
+Briar
+has no
+base
+health regeneration
+but she gains increased healing from other sources based on her
+missing
+health
+.
+Innate:
+Briar's
+basic attacks
+on-hit
+and
+abilities
+inflict a bleed on the target for a few seconds, which may
+stack
+up to 5 times. For each stack, the target is dealt
+physical damage
+and
+Briar
+heals
+for a portion of it. If a target affected by her bleed dies,
+Briar
+heals for the remaining amount.
+Innate:
+Briar's
+basic attacks
+on-hit
+and
+abilities
+inflict a bleed against enemies for 5 seconds, refreshing on subsequent applications,
+stacking
+up to 5 times and dealing 25% damage for stacks beyond the first. The bleed deals
+「
+10 – 54.
+71
+(based on level)
+(+ 50%
+bonus
+AD)
+total
+physical damage
+and
+heals
+Briar
+for
+2.
+5
+– 13.
+68
+(based on level)
+(+ 12.
+5
+%
+bonus
+AD)
+over the duration, increased by
+2.
+5
+– 13.
+68
+(based on level)
+(+ 12.
+5
+%
+bonus
+AD)
+and
+0.
+63
+– 3.
+42
+(based on level)
+(+ 3.
+125
+%
+bonus
+AD)
+for each subsequent stack respectively and up to a maximum of
+20 – 109.
+41
+(based on level)
+(+ 100%
+bonus
+AD)
+total
+physical damage
+and
+5 – 27.
+35
+(based on level)
+(+ 25%
+bonus
+AD)
+over the duration. 」
+「
+1 – 5.
+47
+(based on level)
+(+ 5%
+bonus
+AD)
+physical damage
+and
+heals
+Briar
+for
+0.
+25
+– 1.
+37
+(based on level)
+(+ 1.
+25
+%
+bonus
+AD)
+every 0.
+5
+seconds, increased by
+0.
+25
+– 1.
+37
+(based on level)
+(+ 1.
+25
+%
+bonus
+AD)
+and
+0.
+06
+– 0.
+34
+(based on level)
+(+ 0.
+3125
+%
+bonus
+AD)
+for each subsequent stack respectively and up to a maximum of
+2 – 10.
+94
+(based on level)
+(+ 10%
+bonus
+AD)
+physical damage
+and
+0.
+5
+– 2.
+74
+(based on level)
+(+ 2.
+5
+%
+bonus
+AD)
+per tick. 」
+If a target dies while bleeding, she will heal herself equal to 125%  of the remaining bleed damage.
+Briar
+has no
+base
+health regeneration
+, but she increases healing from all sources by
+0% – 40% (based on
+missing
+health)
+(+
+0% – 2.
+5
+% (based on
+missing
+health)
+per 100
+bonus
+health)
+.
+Info
+Targeting input
+Passive
+Affects
+Enemies, Self
+Damage classification
+Type
+Default damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Parries
+Blocked
+The bleed always heals
+Briar
+for 25% of the
+pre-mitigation damage
+dealt.
+Because of this,
+Briar
+will not heal on
+invulnerable
+targets.
+Blood Frenzy's
+area of effect damage around the target does not apply bleed stacks.
+Map-Specific Differences
+Arena
+differences
+edit
+Base healing amplifier changed to
+0% – 35% (based on
+missing
+health)
+.
+Edit
+Head Rush
+COST:
+5%
+current
+Health
+COOLDOWN:
+13 / 12 / 11 / 10 / 9
+CAST TIME:
+none
+TARGET RANGE:
+475
+SPEED:
+600 – 900 (based on distance)
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Briar
+leaps
+to the target unit. If the target is an enemy, she deals
+physical damage
+,
+stuns
+them briefly, and additionally reduces their
+armor
+and
+magic resistance
+for a few seconds.
+Head Rush
+applies
+on-hit
+and
+on-attack
+effects.
+Active:
+Briar
+leaps
+to the target unit. If the target is an enemy, she deals
+physical damage
+, applies
+on-hit
+effects, triggers
+on-attack
+effects,
+stuns
+them for 0.
+85
+seconds, and reduces their
+armor
+and
+magic resistance
+for 5 seconds.
+Physical Damage:
+60 / 85 / 110 / 135 / 160
+(+ 80%
+bonus
+AD)
+(+ 60% AP)
+Resistances Reduction:
+10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%
+Head Rush
+resets
+Briar's
+basic attack timer.
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target unit to cast
+Affects
+Enemies, Self
+Damage classification
+Type
+Spell damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Head Rush
+can be cast on
+jungle plants
+,
+wards
+, and
+traps
+.
+It cannot be cast on
+structures
+.
+Head Rush
+does not force the target's armor and magic resistance to update immediately outside of the
+natural stat update cycle
+, meaning its damage will typically still be mitigated by the unreduced armor value.
+Head Rush's
+damage benefits from
+life steal
+.
+Head Rush
+is a non-following dash.
+It picks its dash destination ~100 units in front of enemy targets, 75 units in front of enemy targets when already very close to them, 75 units in front of allied targets.
+If already within 75 units of her target, she dashes to her current location, which takes 0 time but still triggers dash effects such as
+Sudden Impact
+.
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 50 / 85 / 120 / 155 / 190.
+Resistances reduction changed to 8 / 10 / 12 / 14 / 16%.
+Edit
+Blood Frenzy
+COST:
+5%
+current
+Health
+COOLDOWN
+:
+14 / 13 / 12 / 11 / 10
+CAST TIME:
+none
+TARGET RANGE:
+75 - 300
+•
+650
+EFFECT RADIUS:
+1000
+•
+275
+SPEED:
+1200
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Briar
+dashes
+and senses her surroundings. If there is a nearby enemy upon her arrival, she gains
+Blood Frenzy
+for a few seconds, during which she can cast
+Snack Attack
+.
+Blood Frenzy:
+Briar
+breaks free from her pillory, turning
+berserk
+against the nearest enemy, prioritizing
+champions
+, and gaining
+ghosting
+,
+bonus
+attack speed
+and
+bonus
+movement speed
+. During this time, she also empowers her basic attacks to deal
+physical damage
+to enemies around her target.
+Briar
+can also cast
+Chilling Scream
+to end the
+Blood Frenzy
+early.
+Active:
+Briar
+dashes
+in the target direction. If there is a nearby enemy upon her arrival, she gains
+Blood Frenzy
+for 5 seconds, during which she can cast
+Snack Attack
+.
+Blood Frenzy:
+Briar
+breaks free from her pillory, causing her to become
+forced
+to basic attack the nearest enemy. She
+reveals
+the target and gains
+ghosting
+,
+bonus
+attack speed
+and
+bonus
+movement speed
+, as well as empowering her basic attacks to have an
+uncancellable windup
+and deal
+physical damage
+to enemies surrounding her target. This damage is affected by
+critical strike
+modifiers.
+Bonus Attack Speed:
+55 / 65 / 75 / 85 / 95%
+Bonus Movement Speed:
+24 / 33 / 42 / 51 / 60%
+Physical Damage:
+60 / 70 / 80 / 90 / 100% AD
+Briar
+prioritizes attacking
+champions
+, then large
+monsters
+or
+minions
+, and then any other unit. If she casts
+Head Rush
+on a non-champion, she will shift her target priority to large monsters or minions, then champions, and then any other unit.
+Blood Frenzy causes
+Briar
+to become unable to receive movement and attack commands. The frenzy ends early if there are no longer any nearby valid targets or
+Chilling Scream
+is cast. Blood Frenzy
+resets
+Briar's
+basic attack timer.
+Head Rush
+and
+Certain Death
+can be cast during the dash.
+Edit
+Snack Attack
+CAST TIME:
+none
+Active:
+Briar
+empowers her next attack during
+Blood Frenzy
+to take a bite out of the target enemy. The attack gains increased
+range
+, deals
+bonus
+physical damage
+based on the target's
+missing
+health
+and
+heals
+Briar
+for a portion of the damage dealt.
+Active:
+Briar
+empowers her next basic attack within 5 seconds during
+Blood Frenzy
+to take a bite out of the target enemy, gaining
+50
+bonus
+range
+, dealing
+bonus
+physical damage
+and
+healing
+her for
+5% of her
+maximum
+health
+plus a percentage of the
+post-mitigation damage
+dealt.
+Bonus Physical Damage:
+5 / 20 / 35 / 50 / 65
+(+ 5% AD)
+(+ 9%
+(+ 2.
+5
+% per 100
+bonus
+AD)
+of the target's
+missing
+health)
+Heal Percentage:
+24 / 28 / 32 / 36 / 40%
+Snack Attack
+deals 110% damage against
+minions
+and
+monsters
+, with the damage based on the target's health ratio being capped at 400.
+Non-Champion Bonus Damage:
+5.
+5
+/ 22 / 38.
+5
+/ 55 / 71.
+5
+(+ 5.
+5
+% AD)
+(+ 9.
+9
+%
+(+ 2.
+75
+% per 100
+bonus
+AD)
+of the target's
+missing
+health)
+Snack Attack
+resets
+Briar's
+basic attack timer.
+Targeting input
+Location
+Target out-of-range override
+Target at maximum range (clamped)
+Insufficient dash range
+Dash will gain bonus range through terrain
+Affects
+Enemies, Self
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Physical
+Counters
+Parries
+Blocked
+Grounded
+Disabled
+Knockdown
+Interrupted
+Blood Frenzy
+acquires targets regardless of if they are visible or not.
+This does not apply to
+stealthed
+targets.
+It cannot acquire
+wards
+or
+jungle plants
+, however.
+If the main attack
+critically strikes
+, the cleave damage will do so as well.
+Briar
+uses
+Frenzy
+as a
+resource
+to indicate the remaining duration of the frenzy, in seconds.
+The following table refers for interactions while
+Briar
+is in her frenzy:
+While in the frenzy,
+Briar
+cannot control her movement nor declare who she attacks. She will automatically acquire a nearby enemy as her attack target based on a priority system, becoming
+forced
+to basic attack the target and consequently move into her attack range of them to do so.
+Disarming crowd control
+as well as any other lockout that would disable basic attacking will disable the forced attacks.
+Forced action
+crowd control will cause her forced attacks to be either overridden or disabled, depending on the actions being forced by the debuff.
+Attacking
+Uncontrollable
+Abilities
+Head Rush
+can only be cast on targets within its radius.
+Chilling Scream
+interrupts the frenzy.
+Certain Death
+can be cast during the frenzy without interrupting it.
+Movement
+Uncontrollable
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Targeting input
+Auto
+Affects
+Enemies, Self
+Damage classification
+Type
+Proc damage
+Sub-type(s)
+Physical
+Counters
+Spell shield
+Not Blocked
+Parries
+Blocked
+Snack Attack
+can only be used during
+Blood Frenzy
+; if the frenzy ends at any point, the empowered attack will be lost immediately.
+Snack Attack
+can be cast while
+Briar
+is
+charmed
+or
+taunted
+.
+(bug)
+Blood Frenzy
+Arena
+differences
+edit
+Bonus attack speed changed to 50 / 60 / 70 / 80 / 90%.
+No video available.
+Edit
+Chilling Scream
+COST:
+5%
+current
+Health
+COOLDOWN
+:
+16
+CAST TIME:
+None
+•
+0.
+15
+RANGE:
+-100
+•
+400 – 600 (based on charge time)
+WIDTH:
+380
+SPEED:
+1900
+•
+1800
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Briar
+charges
+to increase
+Chilling Scream's
+damage and range, gaining damage reduction and
+healing
+herself.
+Chilling Scream
+can be recast within the duration, and does so automatically afterwards. The charge cannot be
+interrupted
+.
+Recast:
+Briar
+unleashes a scream in the target direction that deals
+magic damage
+to enemies hit and briefly
+slows
+them. If
+Chilling Scream
+was charged for its full duration, the scream forcefully
+knocks back
+enemies hit, and if they collide with terrain, they rebound to take massive
+bonus
+magic damage
+, and they are
+knocked airborne
+briefly and
+stunned
+for longer.
+Active:
+Briar
+prepares to unleash a scream in the target direction,
+charging
+for up to 1 second, during which she increases
+Chilling Scream's
+damage and range, and gains 35% damage reduction and
+heals
+herself every 0.
+25
+seconds.
+Heal Per Tick:
+2.
+5
+/ 2.
+875
+/ 3.
+25
+/ 3.
+625
+/ 4%
+maximum
+health
+Maximum Heal:
+10 / 11.
+5
+/ 13 / 14.
+5
+/ 16%
+maximum
+health
+Chilling Scream
+can be recast within the duration, and does so automatically afterwards.
+Chilling Scream's
+charge cannot be
+interrupted
+by
+crowd control
+.
+Recast:
+Briar
+unleashes the scream in the direction she targeted at the time of cast, dealing
+magic damage
+to enemies hit and
+slowing
+them by 80% for 0.
+5
+seconds.
+Maximum Magic Damage:
+80 / 115 / 150 / 185 / 220
+(+ 100%
+bonus
+AD)
+(+ 100% AP)
+Minimum Magic Damage:
+2 / 2.
+875
+/ 3.
+75
+/ 4.
+625
+/ 5.
+5
+(+ 2.
+5
+%
+bonus
+AD)
+(+ 2.
+5
+% AP)
+If
+Chilling Scream
+was charged for its full duration, enemies hit are also
+knocked back
+575 units. If they collide with terrain, they will rebound to take
+bonus
+magic damage
+and become
+knocked up
+for 0.
+5
+seconds and
+stunned
+for 1.
+5
+seconds.
+Bonus Magic Damage:
+140 / 215 / 290 / 365 / 440
+(+ 240%
+bonus
+AD)
+(+ 240% AP)
+Total Magic Damage:
+220 / 330 / 440 / 550 / 660
+(+ 340%
+bonus
+AD)
+(+ 340% AP)
+Info
+Targeting input
+Direction
+•
+Auto
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Disruption
+Not Interrupted
+Chilling Scream
+increases its damage by its minimum every 0.
+025
+seconds over the duration.
+This ability will cast from wherever the caster is at the end of the cast time.
+The following table refers for interactions while
+Briar
+is
+channeling
+:
+Type
+Charge channel
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled, but can still use trinkets
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Interrupted by
+Hexflash
+(Recasts)
+Interrupted by
+Death
+Map-Specific Differences
+ARAM
+differences
+edit
+Damage reduction changed to 55%.
+Edit
+Certain Death
+COST:
+5%
+current
+Health
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+1
+•
+1.
+25
+RANGE:
+12000
+EFFECT RADIUS:
+Global
+•
+1500
+•
+575
+WIDTH:
+320
+SPEED:
+2000
+•
+2500 – 5000
+QUEUE THRESHOLD
+:
+0.
+5
+Active:
+Briar
+kicks her pillory's hemolith a large distance toward the target direction which marks the first enemy
+champion
+hit and
+reveals
+them. If a target is hit,
+Briar
+destroys her pillory and
+dashes
+to them. Upon arrival, she creates an explosion that deals
+magic damage
+to the marked champion and enemies around them, and also
+fears
+all non-marked enemies.
+Briar
+then enters
+Hematomania
+.
+Hematomania:
+Briar
+gains all effects of
+Blood Frenzy
+against the marked target as well as
+bonus
+armor
+,
+bonus
+magic resistance
+,
+life steal
+, and
+additional bonus
+movement speed
+.
+Hematomania
+lasts until she or the marked target dies.
+Briar
+can cast
+Chilling Scream
+to end
+Hematomania
+early.
+Active:
+Briar
+kicks her pillory's hemolith in the target direction, briefly granting
+sight
+of its
+surroundings
+as it
+travels
+and marking the first enemy champion hit as her prey. The mark's application
+disrupts
+the target's ongoing
+channels
+. While the target is marked, they are
+revealed
+.
+If a target is hit,
+Briar
+cleanses
+herself from all
+crowd control
+and becomes
+immune to them
+over a cast time, afterwards
+dashing
+to them with
+displacement immunity
+. Upon arrival, she creates an explosion around the marked target that deals
+magic damage
+to them and nearby enemies and
+fears
+all non-marked targets for 1.
+5
+seconds, during which they are
+slowed
+by 35%. She then enters a state of
+Hematomania
+.
+Magic Damage:
+150 / 250 / 350
+(+ 130% AP)
+Hematomania:
+Briar
+gains all effects of
+Blood Frenzy
+as well as
+bonus
+armor
+and
+bonus
+magic resistance
+equal to
+20% AD
+,
+life steal
+, and
+additional bonus
+movement speed
+.
+Life Steal:
+10 / 15 / 20%
+Additional Bonus Movement Speed:
+10 / 20 / 30%
+While in the empowered frenzy,
+Briar
+prioritizes attacking the marked target over all other units and regardless of range. If that target becomes invalid, she will shift back to her
+normal targeting priority
+until the marked target can be attacked again.
+Hematomania
+lasts until the mark is dispelled by any means, including
+Briar's
+or the target's death.
+Casting
+Chilling Scream
+removes the target's mark and ends Hematomania early.
+Head Rush's
+cast does not shift her targeting priority during Hematomania.
+Activation alert.
+"
+FOUND YOU!!
+"
+Info
+Targeting input
+Direction
+Affects
+Enemies, Self
+Damage classification
+Type
+Area damage
+Sub-type(s)
+Magic
+Counters
+Spell shield
+Blocked
+Projectile
+Blocked
+Grounded
+Disabled
+Knockdown
+Not Interrupted
+Briar
+will track the target with the
+dash
+if they change locations.
+She will not stop tracking the target until she reaches them, as there is no maximum tracking distance.
+Briar
+lands 100 units in front of her target at the end of the dash.
+Briar
+will not initiate the second cast if she is being
+suppressed
+, is under
+resurrection
+, or is in the
+Realm of Death
+when her target is hit by the missile in the normal realm.
+Since
+Certain Death
+cleanses herself from all crowd control when the first cast hits, she will be able to start the second cast due to removing the suppression effect.
+Briar
+will still dash to the target even if they die before she reaches them.
+Briar
+will transition from having
+total crowd control immunity
+during the cast time of the dash, to having
+displacement immunity
+during the dash.
+Briar
+will place herself onto the ground and interrupt
+displacements
+affecting her upon starting the second cast time.
+Hematomania's
+targeting priorities differ slightly from that of
+Blood Frenzy's
+:
+She will prioritize the marked target regardless of range and over all other units as long as it can be attacked.
+If the marked target is not available, then she shifts her priority to the nearest other champion, then large monster or minion, and then any other unit.
+If neither the marked target is valid or any other valid targets are close nearby, then she will prioritize targeting the nearest other champion, then large monster or minion, and then any other unit within a global radius.
+Starting the second cast interrupts any spells that
+Briar
+is
+channeling
+.
+The mark will expire if
+Hematomania's
+buff is dispelled.
+Casting
+Blood Frenzy
+during
+Hematomania
+will not grant any additional bonuses nor will it override
+Hematomania's
+effects.
+Gaining
+Hematomania
+while
+Blood Frenzy
+is active will override the previous buff.
+The
+disrupt
+is 'wrapped' into a status effect that causes the affected champion to display the "
+Silenced
+" UI on their
+health bar
+for 0.
+25
+seconds, without actually applying the disabling effects of the
+silence
+crowd control type (functions as an indicator of the target becoming
+disrupted
+). This however ensures that the
+disrupt
+is also prevented by effects that would negate
+silences
+(such as
+crowd control immunity
+).
+Experimental Hexplate's
+Overdrive
+,
+Fiendhunter Bolts'
+Opening Barrage
+, and
+Zeke's Convergence's
+Frostfire Tempest
+will activate at the end of
+Certain Death's
+initial cast time. If the missile hits a target, the buff's duration is refreshed at the end of the dash.
+This ability will cast from wherever the caster is at the start of the cast time.
+The following table refers for interactions while
+Briar
+is in either the first or second cast time:
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death, unless protected by
+Resurrection
+The following table refers for interactions while
+Briar
+is dashing:
+Attacking
+Disabled
+Abilities
+Disabled
+Movement
+Disabled
+Items
+Usable
+N/A
+Disabled
+All items are disabled
+Interrupted by
+N/A
+Consumables
+Disabled
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+Flash
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+The following table refers for interactions while
+Briar
+is in
+Hematomania
+:
+Attacking
+Uncontrollable
+Abilities
+Head Rush
+can only be cast on targets within its radius.
+Chilling Scream
+interrupts the frenzy.
+Certain Death
+is disabled.
+Movement
+Uncontrollable
+Items
+Usable
+All items are usable
+Disabled
+N/A
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Interrupted by
+N/A
+Interrupted by
+Death
+Map-Specific Differences
+Arena
+differences
+edit
+Base damage changed to 150 / 275 / 400.
+Damage bonus AD ratio changed to
+90%
+bonus
+AD
+.
+Resistances AD ratio changed to
+10% AD
+.
+Champion skins
+This article section only contains champion skins. For all associated collection items, see
+Briar (Collection)
+.
+Original
+13.09.2023
+A failed experiment by the Black Rose, Briar's uncontrollable bloodlust required a special pillory to focus her frenzied mind. After years of confinement, this living weapon broke free from her restraints and unleashed herself into the world. Now she's controlled by no one—following only her hunger for knowledge and blood—and relishes the opportunities to let loose, even if reining back the frenzy isn't easy.
+Julie Nathanson
+Horace 'Hozure' Hsu
+Loot eligible
+View in 3D
+•
+View Music
+Street Demons
+1350
+13.09.2023
+Whether you see her violently in-your-face tags that inspire audiences to get WILD, or her more relaxed art rife with cheeky humor, Briar's work makes an impression. As a jiangshi, she feeds off of the energy her art creates, so which style she uses really just depends on how hungry Briar is.
+Julie Nathanson
+Herbie Wang, Kudos Productions
+Street Demons
+Loot eligible
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Street Demons Briar Chromas
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Tanzanite
+Turquoise
+Primordian
+1350
+31.07.2024
+Briar was an early draft of Aatrox's perfection, but was deemed a “failure”—because instead of using her finely-honed mind to get back at surface-dwellers, she loves humans! Now that Briar has joined up with Anima Squad, maybe they can show her how to be more than what she was made to be.
+Julie Nathanson
+Su Fu, Kudos Productions
+Anima Squad
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+•
+View Music
+Primordian Briar Chromas
+Abyssal
+Amethyst
+Aquamarine
+Catseye
+Obsidian
+Pearl
+Peridot
+Rose Quartz
+Ruby
+Battle Academia
+1350
+22.01.2026
+The confining rules of most God Weapon academies made it hard for Briar to be a successful student—until she transferred to Babylon Academy. Here there were no rules or guardrails, only directions. Want to study God Weapon history? Martial arts? Ceramics? All a student needed was an appetite for knowledge, and Briar's was
+considerable
+.
+Julie Nathanson
+Horace 'Hozure' Hsu
+Battle Academia
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations
+New Recall
+Chromas
+View in 3D
+Battle Academia Briar Chromas
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Patch history
+For the expanded patch notes, see
+here
+.
+V26.03
+Stats
+Health growth increased to 100 from 95.
+Armor growth increased to 4.
+5
+from 4.
+2
+.
+Head Rush
+Health cost reduced to
+5%
+current
+health
+from
+6%
+.
+Blood Frenzy
+Health cost reduced to
+5%
+current
+health
+from
+6%
+.
+Chilling Scream
+Health cost reduced to
+5%
+current
+health
+from
+6%
+.
+Certain Death
+Health cost reduced to
+5%
+current
+health
+from
+6%
+.
+V26.02
+Blood Frenzy
+Bug Fix:
+Fixed a bug that caused it, when targeting an enemy
+Viego
+, to be ended early via
+Harrowed Path
++
+Spectral Maw
+combo.
+Bug Fix:
+Fixed a bug that caused it to end early if a
+Twitch
+she was targeting entered
+camouflage
+.
+V25.20
+Crimson Curse
+Maximum number of stacks reduced to 5 from 7.
+V25.18
+Head Rush
+Damage type changed to physical from magic.
+Base damage reduced to 60 / 85 / 110 / 135 / 160 from 60 / 90 / 120 / 150 / 180.
+Blood Frenzy
+Bug Fix:
+Manual attack orders issued on a target during the Frenzy can now properly persist upon exiting the state and are no longer automatically dropped.
+Certain Death
+Global audio warning now plays after the cast time of the missile's cast instead of at its start.
+Removed:
+Explosion damage no longer scales off of
+50%
+bonus
+AD
+.
+Explosion damage AP ratio increased to
+130% AP
+from
+120% AP
+.
+Missile range increased to 12000 units from 10000.
+V25.17
+Blood Frenzy
+Bug Fix:
+No longer sometimes has a brief delay before aggroing a valid target.
+V25.14
+Blood Frenzy
+Bug Fix:
+Casting
+Head Rush
+on an enemy champion who is standing near an allied minion no longer unintentionally causes her to prioritize enemy minions.
+Certain Death
+Disable immunity during the cast time for the dash changed to total
+crowd control immunity
+from
+displacement immunity
+.
+Bug Fix:
+Briar
+no longer becomes unable to cast any spell after
+Bard's
+Tempered Fate's
+stasis expires if she was affected by it prior to
+Certain Death's
+dagger landing.
+V25.13
+- June 27th Hotfix
+Stats
+Attack damage growth reduced to 2.
+5
+from 3.
+Crimson Curse
+Maximum number of stacks reduced to 7 from 9.
+V25.13
+Blood Frenzy
+New Effect:
+All attacks during her
+Blood Frenzy
+now have an
+uncancellable windup
+.
+Chilling Scream
+Recast time changed to 0.
+15
+seconds from 100% of her attack windup.
+V25.11
+Chilling Scream
+Bug Fix:
+Issuing an attack-move command during the charge no longer incorrectly causes the ability to recast.
+V25.09
+General
+Bug Fix:
+If
+feared
+during her frenzy state (
+Blood Frenzy
+/
+Certain Death
+), no longer becomes unable to move and attack acquired targets, standing still until exiting the state instead.
+V25.05
+Certain Death
+Bug Fix:
+Cast time to begin the travel is now properly canceled upon her
+False Life
+triggering.
+V25.04
+Certain Death
+Bug Fix:
+Frenzy no longer continues through the end of her
+False Life
+.
+V14.22
+Stats
+Base health increased to 625 from 590.
+V14.9
+Stats
+Gameplay radius increased to 65 units from 55.
+Selection radius increased to 120 units from 111.
+11109924316406
+.
+Certain Death
+Bug Fix:
+No longer lasts indefinitely if the acquired target is a
+Vessel
+created by
+Illaoi's
+Test of Spirit
+.
+V14.8
+Stats
+Health growth reduced to 95 from 100.
+Head Rush
+Cast range increased to 475 units from 450.
+Blood Frenzy
+Bonus attack speed changed to 55 / 65 / 75 / 85 / 95% from 54 / 68 / 82 / 96 / 110%.
+Bug Fix:
+Now properly reveals the nearest target while the effects of nearsight.
+V14.7
+General
+Bug Fix:
+Ability icons in the HUD no longer sometimes disappear.
+V14.6
+Head Rush
+New Effect:
+Can now target wards and traps.
+Blood Frenzy
+Bonus attack speed reduced to 54 / 68 / 82 / 96 / 110% from 55 / 70 / 85 / 100 / 115%.
+Snack Attack
+Healing reduced to 24 / 28 / 32 / 36 / 40% of damage dealt from 25 / 30 / 35 / 40 / 45%.
+Certain Death
+Base damage reduced to 150 / 250 / 350 from 150 / 300 / 450.
+V14.5
+General
+Bug Fix:
+No longer repeatedly cancels the windup of her basic attacks if she had a low enough attack speed value.
+V14.4
+Head Rush
+Bug Fix:
+Tooltip now also mentions the magic resistance reduction in the level-up display.
+Blood Frenzy
+New Effect:
+Now has a range indicator for the detection radius.
+Bug Fix:
+Dash range indicator now properly resizes to account for shorter target ranges than the maximum. (
+Note: its functionality is unchanged.
+)
+V14.3
+Head Rush
+Bug Fix:
+No longer applies 2 stacks of
+Crimson Curse
+.
+V14.2
+Crimson Curse
+Bleed tick interval reduced to 0.
+5
+seconds from 1.
+Bonus healing reduced to
+0% – 40% (based on
+missing
+health)
+from
+0% – 50%
+.
+New Effect:
+Bonus healing is now increased by
+0.
+025
+% per 100
+bonus
+health
+.
+Head Rush
+Damage type changed to magic from physical.
+New Effect:
+Damage now scales with
+60% AP
+.
+New Effect:
+Now also reduces magic resistance by 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20%.
+New Effect:
+Now applies on-hit and on-attacks effects and benefits from life steal.
+Snack Attack
+Healing reduced to 25 / 30 / 35 / 40 / 45% of damage dealt from 35 / 41.
+25
+/ 47.
+5
+/ 53.
+75
+/ 60%.
+New Effect:
+Healing now scales with
+5% of her
+maximum
+health
+.
+Removed:
+Bonus damage can no longer
+critically strike
+.
+V13.24
+Stats
+Attack speed ratio increased to 0.
+669
+from 0.
+644
+.
+Base armor reduced to 30 from 32.
+Head Rush
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 95 / 130 / 165 / 200.
+Blood Frenzy
+Bonus attack speed reduced to 55 / 70 / 85 / 100 / 115% from 60 / 75 / 90 / 105 / 120%.
+Chilling Scream
+Damage reduction reduced to 35% from 40%.
+Certain Death
+Damage type changed to magic from physical.
+AP ratio increased to
+120% AP
+from
+110% AP
+.
+Bonus AD ratio reduced to
+50%
+bonus
+AD
+from
+75%
+.
+V13.23
+Stats
+Base health reduced to 590 from 610.
+Snack Attack
+Health ratio reduced to
+9% of target's
+missing
+health
+from
+10%
+.
+Bonus AD ratio reduced to
+2.
+5
+% per 100
+bonus
+AD
+from
+3.
+5
+%
+.
+V13.22
+Head Rush
+Base damage reduced to 60 / 95 / 130 / 165 / 200 from 60 / 100 / 140 / 180 / 220.
+Armor reduction reduced to 10 / 12.
+5
+/ 15 / 17.
+5
+/ 20% from 10 / 14 / 18 / 22 / 26%.
+Blood Frenzy
+Bug Fix:
+No longer counts as a crowd control ability for the purposes of death recap and crowd control score in the post-game statistics.
+Bug Fix:
+Basic attack animations no longer sometimes appear to be slower against champions.
+Bug Fix:
+No longer triggers the loss of control screen effect upon becoming berserk.
+Snack Attack
+Bug Fix:
+Using it to score the killing blow against
+Baron Nashor
+no longer causes her to then gain kill credit of all minions empowered by the
+Hand of Baron
+.
+Certain Death
+Base damage reduced to 150 / 300 / 450 from 150 / 325 / 500.
+Bonus AD ratio reduced to
+75%
+bonus
+AD
+from
+110%
+.
+Bug Fix:
+No longer causes players to disconnect from the game if her dash finishes while the target is untargetable.
+Bug Fix:
+Basic attacks no longer become disabled against almost any target for a period after the frenzy ended if she had
+Duskblade of Draktharr
+.
+Bug Fix:
+No longer is able to attack allies during the berserk under certain conditions.
+V13.21
+Stats
+Attack speed growth reduced to 2% from 2.
+3
+%.
+Crimson Curse
+Heal on-target death increased to 125% of remaining bleed damage from 100%.
+Snack Attack
+Bonus AD ratio reduced to
+3.
+5
+% per 100
+bonus
+AD
+from
+4%
+.
+V13.19
+General
+Recommended items and runes have been updated.
+Bug Fix:
+Transitions from her attack to idle animation now play correctly.
+Stats
+Attack speed growth reduced to 2.
+3
+% from 2.
+5
+%.
+Crimson Curse
+Bug Fix:
+Spell shield
+now also blocks applications of bleed stacks from blocked spells when the first stack was already applied.
+Head Rush
+New Effect:
+Now properly tagged as an attack reset for interactions like
+Hail of Blades
+.
+Bug Fix:
+Targeting an enemy over terrain now consistently causes her to dash to their location on the other side, rather than landing in front of the wall if the target was not far enough away from the wall on the other side.
+Blood Frenzy
+New Effect:
+Frenzy duration is now also displayed on her resource bar on the health bar, and color-coded.
+Tooltip now clarifies that casting it does not remove or replace the empowered
+Blood Frenzy
+granted by
+Certain Death
+.
+Bug Fix:
+Dash no longer cancels existing movement commands.
+Snack Attack
+Healing changed to 36 / 42 / 48 / 54 / 60% from 35 / 42.
+5
+/ 50 / 57.
+5
+/ 65%.
+Non-champion damage reduced to 110% from 120%.
+Monster health ratio damage cap reduced to 400 from 500.
+Bug Fix:
+Percent health damage is no longer affected by critical strike modifiers.
+New Effect:
+Now has a brief cooldown after gaining
+Blood Frenzy
+.
+Chilling Scream
+Bug Fix:
+Now makes displaced enemies collide with player-generated terrain more consistently.
+Undocumented/Bug Fix:
+No longer renders enemies
+airborne
+for 1 second after the displacement ends.
+Certain Death
+New Effect:
+Frenzy duration is now also displayed on her resource bar on the health bar, and color-coded.
+New Effect:
+Pinging the ability now tells teammates which enemies are within its cast range.
+Bug Fix:
+Berserk is now properly canceled if the the target dies during the cast time of the second cast.
+Bug Fix:
+No longer creates the explosion around the target if the dash is interrupted by the
+Dash
+summoner spell.
+Bug Fix:
+Now behaves properly when interacting with
+Tahm Kench's
+Devour
+and
+Kalista's
+Fate's Call
+.
+Bug Fix:
+True sight debuff now properly expires if she enters a
+resurrection
+state during the berserk effect.
+Bug Fix:
+VFX now properly plays even if cast at maximum range.
+Bug Fix:
+Yuumi
+is now properly revealed by the true sight debuff even while she is untargetable from
+You and Me!
+.
+Bug Fix:
+No longer fails to enter the berserk state with
+Blood Frenzy
+upon reaching the target and consequently create two explosions under certain conditions.
+Street Demons Briar
+Chilling Scream
+Bug Fix:
+SFX for the ability now plays correctly.
+V13.18
+- September 14th Hotfix
+Stats
+Base health increased to 610 from 590.
+Chilling Scream
+Damage reduction increased to 40% from 35%.
+Cooldown reduced to 16 seconds from 18.
+V13.18
+- Added
+Crimson Curse
+- Innate
+Innate:
+Briar's
+basic attacks
+and
+abilities
+inflict a bleed against enemies for 5 seconds, refreshing on subsequent applications,
+stacking
+up to 9 times and dealing 25% damage for stacks beyond the first. The bleed deals
+「
+10 – 50 (based on level)
+(+ 50%
+bonus
+AD)
+total
+physical damage
+over the duration, up to a maximum of
+30 – 150 (based on level)
+(+ 150%
+bonus
+AD)
+. 」
+「
+2 – 10 (based on level)
+(+ 10%
+bonus
+AD)
+physical damage
+per second, up to a maximum of
+6 – 30 (based on level)
+(+ 30%
+bonus
+AD)
+per tick. 」
+Briar
+heals
+herself equal to 25% of the
+pre-mitigation damage
+dealt. If a target dies while bleeding, she will heal herself equal to 100% of the remaining bleed damage.
+Briar
+has no
+base
+health regeneration
+, but she increases healing from all sources by
+0% – 50% (based on
+missing
+health)
+.
+Head Rush
+- Q
+Active:
+Briar
+leaps
+to the target unit. If the target is an enemy, she deals 60 / 100 / 140 / 180 / 220
+(+ 80%
+bonus
+AD)
+physical damage
+,
+stuns
+them for 0.
+85
+seconds, and inflicts them with
+10 / 14 / 18 / 22 / 26%
+armor reduction
+for 5 seconds.
+Cost:
+6%
+current
+health
+.
+Cooldown:
+13 / 12 / 11 / 10 / 9 seconds.
+Cast Time:
+None,
+Target Range:
+450.
+Blood Frenzy
+- W
+Active:
+Briar
+dashes
+to the target location. If there is a nearby enemy upon her arrival, she gains
+Blood Frenzy
+for 5 seconds, during which she can cast
+Snack Attack
+.
+Blood Frenzy:
+Briar
+breaks free from her pillory, turning
+berserk
+against the nearest enemy. She
+reveals
+the target and gains
+ghosting
+, 60 / 75 / 90 / 105 / 120%
+bonus
+attack speed
+and 24 / 33 / 42 / 51 / 60%
+bonus
+movement speed
+, as well as empowering her basic attacks to deal
+60 / 70 / 80 / 90 / 100% AD
+physical damage
+to enemies surrounding her target. This damage is affected by
+critical strike
+modifiers.
+Briar
+prioritizes attacking
+champions
+, then large
+monsters
+, and then
+minions
+.
+Blood Frenzy ends early if there are no longer any nearby valid targets or
+Chilling Scream
+is cast. If
+Head Rush
+is cast on a non-champion,
+Briar
+will stop prioritizing champions during the frenzy. Blood Frenzy
+resets
+Briar's
+basic attack timer.
+Head Rush
+and
+Certain Death
+can be cast during the dash.
+Cost:
+6%
+current
+health
+.
+Cooldown:
+14 / 13 / 12 / 11 / 10 seconds.
+Cast Time:
+None,
+Target Range:
+75
+-
+300
+/
+650
+,
+Effect Radius:
+1000
+/
+275
+,
+Speed:
+1200
+.
+Snack Attack
+- W
+Active:
+Briar
+empowers her next basic attack within 5 seconds during
+Blood Frenzy
+to take a bite out of the target enemy, having an
+uncancellable windup
+, gaining
+50
+bonus
+range
+, dealing 5 / 20 / 35 / 50 / 65
+(+ 105% AD)
+(+ 10%
+(+ 4% per 100
+bonus
+AD)
+of the target's
+missing
+health)
+bonus
+physical damage
+and
+healing
+for 35 / 42.
+5
+/ 50 / 57.
+5
+/ 65% of the
+post-mitigation damage
+dealt.
+Snack Attack
+deals 120% damage against
+minions
+and
+monsters
+, with the damage based on the target's health ratio being capped at 500.
+Snack Attack
+resets
+Briar's
+basic attack timer.
+Cast Time:
+None.
+Chilling Scream
+- E
+Active:
+Briar
+charges
+for up to 1 second, during which she increases
+Chilling Scream's
+damage and range, and gains 35% damage reduction and
+heals
+herself for
+2.
+5
+/ 2.
+875
+/ 3.
+25
+/ 3.
+625
+/ 4%
+maximum
+health
+every 0.
+25
+seconds.
+Chilling Scream
+can be recast within the duration, and does so automatically afterwards.
+Chilling Scream's
+charge cannot be
+interrupted
+by
+crowd control
+.
+Recast:
+Briar
+unleashes a scream in the target direction that deals 80 / 115 / 150 / 185 / 220
+(+ 100%
+bonus
+AD)
+(+ 100% AP)
+magic damage
+to enemies hit and
+slows
+them by 80% for 0.
+5
+seconds.
+If
+Chilling Scream
+was charged for its full duration, enemies hit are also
+knocked back
+575 units. If they collide with terrain, they will rebound to take 140 / 215 / 290 / 365 / 440
+(+ 240%
+bonus
+AD)
+(+ 240% AP)
+bonus
+magic damage
+and become
+knocked up
+for 0.
+5
+seconds and
+stunned
+for 1.
+5
+seconds.
+Cost:
+6%
+current
+health
+.
+Cooldown:
+18 seconds.
+Cast Time:
+None
+/
+0.
+291
+(at base attack speed)
+,
+Range:
+-100
+/
+400 – 600 (based on charge time)
+,
+Width:
+380,
+Speed:
+1900
+/
+1800
+.
+Certain Death
+- R
+Active:
+Briar
+kicks a hemolith in the target direction that briefly grants
+sight
+of its
+surroundings
+as it
+travels
+and marks the first enemy champion hit as her prey,
+disrupting
+their ongoing
+channels
+and
+revealing
+them.
+If a target is hit,
+Briar
+cleanses
+herself from all
+crowd control
+and destroys her pillory over a cast time, afterwards
+dashing
+to them with
+displacement immunity
+. Upon arrival, she creates an explosion around the marked target that deals 150 / 325 / 500
+(+ 110%
+bonus
+AD)
+(+ 110% AP)
+physical damage
+to them and nearby enemies and
+fears
+all non-marked targets for 1.
+5
+seconds. She then enters a state of
+Hematomania
+.
+Hematomania:
+Briar
+gains all effects of
+Blood Frenzy
+against the marked target as well as
+bonus
+armor
+and
+bonus
+magic resistance
+equal to
+20% AD
+, 10 / 15 / 20%
+life steal
+, and 10 / 20 / 30%
+additional bonus
+movement speed
+.
+Hematomania
+lasts until the marked target dies. If the target becomes invalid,
+Briar
+will turn
+berserk
+against the nearest
+other enemy
+until her target becomes valid again.
+Casting
+Chilling Scream
+ends Hematomania early.
+Cost:
+6%
+current
+health
+.
+Cooldown:
+120 / 100 / 80 seconds.
+Cast Time:
+1
+/
+1.
+25
+,
+Range:
+10000
+,
+Effect Radius:
+Global
+/
+1500
+/
+575
+,
+Width:
+320
+,
+Speed:
+2000
+/
+2500 - 5000
+.
+Trivia
+Briar is one of six champions who use health as a resource for abilities, the other five being
+Dr. Mundo
+,
+Olaf
+,
+Soraka
+,
+Vladimir
+, and
+Zac
+.
+Briar is one of 19 champions able to apply a form of
+crowd control
+to themselves by using an
+ability
+, the others are:
+Blitzcrank
+,
+Galio
+,
+Nunu
+,
+Pantheon
+,
+Poppy
+,
+Pyke
+,
+Quinn
+,
+Renata Glasc
+,
+Samira
+,
+Sion
+,
+Tahm Kench
+,
+Taliyah
+,
+Thresh
+,
+Varus
+,
+Vi
+,
+Viego
+,
+Vladimir
+, and
+Xerath
+.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+League of Legends content
+Frenzy
+Frenzy
+is a resource used exclusively by
+Briar
+that is only generated when she finds an enemy target for her
+Frenzy state
+(via
+Blood Frenzy
+or
+Certain Death
+) and represents the remaining duration of it.
+Frenzy
+is removed upon her state ending or otherwise being canceled.
+League of Legends content
+Attack windup
+The
+attack windup
+is a portion of the
+basic attack
+animation that must play out in order to launch it. For
+projectile
+basic attacks, the windup usually aligns with drawing the projectile on-screen.
+The attack windup is displayed as a percentage, and any windup modifier is listed as a decimal next to it.
+League of Legends content
+Attack speed ratio
+The
+Attack speed ratio (AS ratio)
+adjusts the effectiveness of bonus AS from all sources. It is usually equal to the unit's base AS (level 1 with no bonuses), but tuning to a higher or lower relative value translates to more or less bonus AS received compared to other units with the same base AS.
+Total AS = Base AS + Bonus AS ×
+AS Ratio
+(All values in decimal form)
+The ingame stats HUD displays the
+AS ratio
+instead of base AS to communicate this comparative effectiveness. The Wiki opts to always list both stats and show the
+AS ratio
+as "N/A" if the two are equal.
+League of Legends content
+Gameplay radius
+A unit's
+gameplay radius
+is a
+stat
+that most closely resembles the concept of a 'hitbox', and is the radius used for
+edge range
+effects, which include
+basic attacks
+,
+line collision missiles
+, rectangular AOEs, and others. The gameplay radius determines the reach of both incoming and outgoing effects: for example, enemies are within a unit's
+basic attack range
+based on the edge of their gameplay radius and vice versa.
+League of Legends content
+Selection radius
+A unit's
+selection radius
+is a
+stat
+that determines the horizontally furthest point from the center of their model that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+League of Legends content
+Pathing radius
+A unit's
+pathing radius
+is a
+stat
+that determines the gameplay area they occupy for unit-collision and pathfinding logic. A unit's center cannot intersect with another unit's
+pathing radius
+, unless one of them is
+ghosted
+.
+League of Legends content
+Selection height
+A unit's
+selection height
+is a
+stat
+that determines the vertically furthest point from the center of their model at the ground that other players' cursor is allowed to be, while still maintaining the ability to select that unit.
+Gameplay in
+League of Legends
+takes place in two dimensions no matter the visuals. However, a virtual
+height
+dimension that is perpendicular to the ground creates the game's three-dimensional view, which in combination with the camera's perspective necessitates the usage of the
+selection height
+.
+League of Legends content
+Acquisition radius
+A unit's
+acquisition range
+is a
+stat
+that determines the distance at which they will acquire
+basic attack
+targets when a target unit is not specified by the player.
+Auto-attacking
+automatically
+orders an idle champion to acquire enemies within this range. This can be disabled in the
+Settings
+.
+Attack-move commands scan for targets within this range while moving toward a given location.
+Acquisition range
+is calculated from the champion's
+edge to the edge of other units.
+Attack range
+bonuses modify the champion's
+acquisition range
+by the same amount.
+League of Legends content
+Jungle
+Within a
+drafted team
+, the
+Jungler
+is the champion assigned to the jungle. A
+Jungler
+needs to be able to
+clear jungle camps
+without too much difficulty and ambush other champions in lane.
+Divers
+,
+Assassins
+,
+Skirmishers
+, and
+Vanguards
+are the most likely champions to be selected in the
+Jungler
+position.
+League of Legends content
+Diver
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+Divers
+are the more mobile portion of the Fighter class. Divers excel at singling out high-priority targets to blitz toward, immediately forcing those targets (and their teammates) to deal with the diver’s presence. Divers are not as durable as the tanks or juggernauts of the world, but Divers can take their fair share of punishment while bringing enough damage to be a real kill threat if left unchecked.
+Examples
+Hecarim
+Jarvan IV
+Vi
+League of Legends content
+Fighter (Legacy)
+Fighters
+are durable and damage-focused melee champions that look to be in the thick of combat.
+League of Legends content
+Assassin (Legacy)
+Assassins
+are fragile but agile damage-focused melee champions that look to swiftly take down their targets.
+League of Legends content
+Melee
+Melee
+champions have a basic attack
+range
+usually within 200 units. A melee attack does not use a projectile to deal damage, therefore not subject to effects that mitigate projectiles, like
+Wind Wall
+. Some champions can shift between a ranged and melee form, and certain items/runes differ for melee characters.
+League of Legends content
+Basic attack
+The
+basic attack
+(or "auto") is the default means by which a unit deals damage, usually equaling
+100% AD
+physical damage
+.
+Basic attacks
+are normally unit-targeted
+edge range
+spells, and the
+attack range
+stat determines their reach.
+The caster must stand still to complete a brief
+windup
+before launching a
+basic attack
+. Depending on the caster:
+If a caster's attacks are non-projectile (e.g.
+melee
+) launching the attack deals damage immediately.
+If a caster's attacks are
+projectile
+, launching the attack sends a projectile that follows the target and deals damage upon striking them.
+The caster then incurs a brief cooldown, based on their
+attack speed
+. Basic attacks' damage may trigger
+on-hit effects
+only upon dealing damage.
+On-attack
+effects will always trigger upon the attack's
+windup
+completing.
+League of Legends content
+On-hit effect
+On-hit
+is an umbrella term for a type of effect that triggers on instances of
+basic damage
+, or generally upon a
+basic attack
+or certain attack-like
+ability
+hitting a target. Most on-hit effects deal
+proc damage
+or
+default damage
+, which are non-reactive (= the effects don't trigger more effects).
+Critical strikes
+are
+not
+on-hit effects. An ability listed as applying on-hit effects cannot critically strike unless otherwise stated.
+Life steal
+is
+not
+an on-hit effect. Damage from on-hit effects normally does not apply life steal, unless those effects deal
+basic damage
+or are special-cased to benefit from life steal.
+The ability counterpart to
+on-hit effects
+are
+ability effects
+, which apply on instances of
+ability damage
+.
+League of Legends content
+Champion ability
+A
+champion ability
+(often just
+ability
+) is a unique action performed by and only available to a specific
+champion
+. All of these special moves available to a champion collectively constitute their
+kit
+. A skill point is earned each time the champion
+levels up
+, which the player can spend on most abilities to learn them and rank them up to improve their potency.
+Champion abilities
+can have either or both
+active
+and
+passive
+effects:
+Active effects are
+cast
+by using their respective
+hotkey
+and selecting a valid target. Most abilities require spending an amount of
+resource
+, such as
+mana
+.
+Passive effects may simply be permanently available or are
+cast
+by fulfilling a requirement or using a specific command.
+Most abilities incur a
+cooldown
+after being cast, during which they cannot be used. This cooldown time is usually reduced by
+ability haste
+.
+Spell effects
+may trigger only when a valid ability deals damage. On-cast effects trigger upon an ability's
+cast time
+completing.
+League of Legends content
+Stack
+A
+stack
+refers to a
+buff
+or
+debuff
+that can be increased in count under certain circumstances. Stacking effects with durations will refresh per instance, unless otherwise stated.
+Stacking effects that time out may cause all stacks to expire at once or one by one in given intervals, depending on the source.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Heal
+Healing
+replenishes a unit's
+current
+health
+, but never above their
+maximum
+health
+.
+League of Legends content
+Default damage
+Default damage
+is dealt by effects that are not otherwise classified, or are deliberately left unclassified. This most common source of
+default damage
+is splash damage from basic attacks.
+Default damage
+does not interact with most other effects, such as
+Conqueror
+stacking,
+Luden's Companion
+or
+Arcane Comet
+. The main exception is:
+Omnivamp
+and
+Physical vamp
+(where applicable) heal for a percentage of damage dealt.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Physical damage
+Applies:
+Black Cleaver's
+Carve
+Chempunk Chainsword's
+,
+Executioner's Calling's
+and
+Mortal Reminder's
+Grievous Wounds
+Omnivamp
+Physical vamp
+Triggers:
+Armored Advance's
+Noxian Endurance
+.
+Mitigated by:
+Damage shields
+Invulnerability
+Damage reduction
+Armor
+Physical shields
+Death's Dance
+League of Legends content
+Invulnerability
+A unit that is
+Invulnerable
+reduces all damage taken to
+0
+and prevents effects that trigger from damage.
+League of Legends content
+Blood Frenzy
+COOLDOWN:
+14 / 13 / 12 / 11 / 10
+Active:
+Briar
+dashes
+and senses her surroundings. If there is a nearby enemy upon her arrival, she gains
+Blood Frenzy
+for a few seconds, during which she can cast
+Snack Attack
+.
+Blood Frenzy:
+Briar
+breaks free from her pillory, turning
+berserk
+against the nearest enemy, prioritizing
+champions
+, and gaining
+ghosting
+,
+bonus
+attack speed
+and
+bonus
+movement speed
+. During this time, she also empowers her basic attacks to deal
+physical damage
+to enemies around her target.
+Briar
+can also cast
+Chilling Scream
+to end the
+Blood Frenzy
+early.
+League of Legends content
+Arena
+Arena
+is a team deathmatch game mode organized in a tournament format that consists of eight teams of two players fighting on six different battlefields. Teams brawl in rotating combat rounds while powering themselves up with unique Augments and Items and using multiple environmental features to their advantage, in a display of both deeply tactical and highly explosive combat until the last team standing.
+Regular Modes
+8-Team Round-Robin Tournament
+Battlefields — The Grand Reckoning
+Ancestral Woods
+Desert Oasis
+Frostbite Thicket
+Koi Pond
+Magma Chamber
+Reckoner Arena
+League of Legends content
+Centered range
+Centered range
+is calculated from the
+center
+of a source unit's hitbox to the
+center
+of a target unit's hitbox.
+Centered range is used for most
+unit-targeted
+abilities.
+It is
+less
+effective and may seem to have diminished reach against
+large
+units.
+League of Legends content
+Dash
+A
+dash
+is a quick movement action by a unit in which they move to a specific direction or location while traversing the intervening distance, ignoring the boundaries of terrain.
+The game engine does not take into account the height of the unit; dashes that depict air travel are considered to be on the ground for targeting purposes such as
+skill-shots
+.
+Dashes should not be confused with
+displacement
+effects, which are usually sourced from enemy units (and are classified as
+crowd control
+debuffs).
+Dashes are interrupted by
+stasis
+(from an enemy),
+knockdown
+, and
+blinks
+.
+Dashes are overridden by all move blocks, which includes
+displacements
+and other dashes, as well as a few other cases.
+Not all dashes can traverse terrain (e.g.
+Justice Punch
+,
+Searing Charge
+,
+Tumble
+).
+Some dashes gain increased distance when directed through terrain (e.g.
+Umbral Dash
+,
+Perfect Execution
+,
+Phantom Undertow
+).
+League of Legends content
+Stun
+A unit that is
+stunned
+is unable to control its movement, declare attacks, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+for the duration.
+Stun
+is an
+immobilizing
+effect
+.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+) and all
+channeled and charged
+abilities.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+On-attack
+On-attack
+effects refer to various instances that are triggered by the user when they finish their basic attack windup.
+Unlike on-hit effects, on-attack effects do not require the user to land their basic attacks, only to finish their windup. Abilities that trigger on-attack effects will do so upon successfully hitting the target.
+League of Legends content
+Basic attack reset
+An
+attack reset
+is a mechanic that will result in a champion's attack timer being reset to zero. When this effect takes place during the basic attack's cooldown and not its windup, it allows the attacker to start a second attack quicker than normal.
+Casting certain ability and item actives can reset the attack timer.
+Hail of Blades
+generates an additional
+stack
+of its effect each time the user resets their attack timer from
+attack resets
+.
+League of Legends content
+Spell damage
+Spell damage
+is the damage type dealt by most
+abilities
+and some
+items
+and
+runes
+that affect targets directly, usually a single one.
+Spell damage
+applies
+spell effects
+by default.
+Arcane Comet's
+remaining
+cooldown
+is reduced by 20% upon dealing an instance of
+spell damage
+to a champion.
+Effects triggered by damage subtypes (
+physical
+,
+magic
+,
+true
+) will always occur regardless of damage type (e.g.
+Black Cleaver's
+Carve stacking on instances of
+physical damage
+and
+Morellonomicon's
+Grievous Wounds
+application on instances of
+magic damage
+).
+League of Legends content
+Ward
+Wards
+are deployable units that that grant
+sight
+over the surrounding area. They can only be destroyed by
+basic attacks
+, granting
+gold
+and
+experience
+.
+There are three kinds of deployable
+wards
+available for purchase:
+Control Ward
+,
+Warding Totem
+, and
+Farsight Alteration
+.
+League of Legends content
+Stealthed trap
+Stealthed traps
+are
+units
+that enter
+stealth
+shortly after being summoned, last for a duration, and are
+untargetable
+until they are
+revealed
+. They may be revealed and made targetable once again by
+Control Wards
+,
+Sweeper Drones
+(e.g. from
+Fiddlesticks'
+A Harmless Scarecrow
+and
+Oracle Lens
+), and
+Umbral Glaive's
+Blackout.
+League of Legends content
+Structure
+A
+structure
+is a fixed, immobile unit on the battlefield that exists to control a team's territory and protect their base. Structures include
+turrets
+,
+inhibitors
+, and the
+Nexus
+. The structure unit type is considered an invalid target to most abilities and spells, and can normally only be damaged with
+basic attacks
+.
+Turrets
+are heavy fortifications that defend a part of territory. They provide vision of the area and autonomously fire homing bolts at nearby enemies, establishing a defensive ground for allies.
+Inhibitors
+are stone platforms containing an arcane crystal. They are located in each team's base and are each protected by an inhibitor turret standing before them in the same lane. When a team's inhibitor is destroyed, allied
+super minions
+will begin spawning in the waves set in the respective lane.
+The
+Nexus
+is a massive stone platform containing a large arcane crystal. One is located in each team's base and each are protected by two Nexus turrets standing before them. When a team's Nexus is destroyed, they are defeated and the opposing team scores victory of the match, thus ending the game.
+League of Legends content
+Snack Attack
+Active:
+Briar
+empowers her next attack during
+Blood Frenzy
+to take a bite out of the target enemy. The attack gains increased
+range
+, deals
+bonus
+physical damage
+based on the target's
+missing
+health
+and
+heals
+Briar
+for a portion of the damage dealt.
+League of Legends content
+Berserk
+A unit that is
+berserk
+will attempt to perform basic attacks on a nearby unit for the duration, during which they're unable to perform issued movement or attack commands, cast abilities, activate items or use the
+summoner spells
+Flash
+,
+Teleport
+,
+Hexflash
+, and
+Mark
+/
+Dash
+. Any associated effects included with basic attacks can persist beyond the
+Berserk
+duration.
+Berserk
+is an
+immobilizing
+effect
+.
+Forced action effects
+cannot
+force the unit to perform an action that is disabled.
+Units that are
+berserk
+search for targets within a
+1000 radius of them. Sources of
+berserk
+have their own targeting priority system, including the
+berserked
+unit's allies. The target does not need to be visible for the
+berserked
+unit to attack them.
+Interrupts:
+Interrupts
+attack windups
+(excluding
+uncancellable windups
+and windups against the acquired target) and all
+channeled and charged
+abilities, as well as overrides previous
+Forced Action
+effects.
+Reduction:
+The
+duration
+is affected by
+Tenacity
+.
+Resist:
+Resisted by
+crowd control immunity
+and
+Dr. Mundo's
+Goes Where He Pleases
+.
+Removal:
+Removed by
+Cleanses
+.
+Crowd control applied by one's self or an ally cannot be countered in any way, neither
+reduced
+in duration,
+resisted
+, nor
+removed
+unless special cased to do so.
+The crowd control effect may still be
+cleansed
+if it is applied as a
+debuff
+separate from the originated ability.
+League of Legends content
+Champion
+Champions
+are the player-controlled characters in
+League of Legends
+. Each champion possesses unique abilities and
+attributes
+.
+League of Legends content
+Ghosted
+A unit that is
+ghosted
+ignores
+unit collision
+, allowing them to move through other units and other units to move through them.
+League of Legends content
+Chilling Scream
+COOLDOWN:
+16
+Active:
+Briar
+charges
+to increase
+Chilling Scream's
+damage and range, gaining damage reduction and
+healing
+herself.
+Chilling Scream
+can be recast within the duration, and does so automatically afterwards. The charge cannot be
+interrupted
+.
+Recast:
+Briar
+unleashes a scream in the target direction that deals
+magic damage
+to enemies hit and briefly
+slows
+them.
+If
+Chilling Scream
+was charged for its full duration, the scream forcefully
+knocks back
+enemies hit, and if they collide with terrain, they rebound to take massive
+bonus
+magic damage
+, and they are
+knocked airborne
+briefly and
+stunned
+for longer.
+League of Legends content
+Standard sight
+Standard sight
+reveals units through
+Fog of War
+and
+brush
+, but
+not
+stealth
+. It does not bypass
+nearsight
+effects.
+League of Legends content
+Uncancellable windup
+Some effects cause a basic attack to have an
+uncancellable windup
+. Unlike normal basic attacks and similar to the cast time of a spell, the windup of these attacks cannot be
+interrupted
+by neither the user themselves nor any status effect, other than
+death
+,
+polymorph
+and
+Quinn's
+Vault
+, and sometimes
+untargetability
+and range.
+Any effect that would disrupt an attack's windup, aside from the ones noted above, are ignored by basic attacks with
+uncancellable windups
+. If the attack doesn't lock out other abilities, they may be used normally, and the basic attack will hit during the ability cast.
+References
+↑
+Briar's profile page
+at
+LeagueOfLegends.com
