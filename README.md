@@ -26,7 +26,7 @@ This project provides an AI-driven strategy agent for League of Legends that com
 ---
 
 ## 🛠️ How to Run
-1.  Open `notebooks/lol_agent_execution.ipynb` in Google Colab.
+1.  Open  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZBZOqok2DTJPPOxE4FD9aDGs8xciT7d1)
 2.  Set the runtime to **T4 GPU** (Runtime > Change runtime type).
 3.  Execute all cells. 
 4.  Once the Gradio public URL is generated (`https://xxxx.gradio.live`), click to chat with the agent.
