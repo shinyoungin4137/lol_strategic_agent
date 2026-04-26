@@ -5,7 +5,7 @@ This project provides an AI-driven strategy agent for League of Legends that com
 ---
 
 ## 📺 Project Demo
-* **Demo Video:** [](https://www.youtube.com/watch?v=LSHDjbMsRf0)]
+* **Demo Video:** [[](https://www.youtube.com/watch?v=LSHDjbMsRf0)]](https://www.youtube.com/watch?v=LSHDjbMsRf0)
 * **Direct Execution:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shinyoungin4137/lol_strategic_agent/blob/main/notebooks/lol_agent_execution.ipynb)
     * *Note: Run all cells in Colab (T4 GPU required) to generate the public Gradio link.*
 
