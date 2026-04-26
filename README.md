@@ -22,8 +22,6 @@ This project provides an AI-driven strategy agent for League of Legends that com
 ## 📂 Repository Structure
 * `data/`: Raw scraped text and processed CSV/JSONL files.
 * `src/`: Python scripts for data collection, scraping, and processing.
-* `notebooks/`: Jupyter notebooks for model training and final execution.
-* `requirements.txt`: List of dependencies for environment setup.
 
 ---
 
