@@ -1,6 +1,6 @@
 # 🎮 LoL Strategic Expert Agent (RAG + LoRA)
 
-This project provides an AI-driven strategy agent for League of Legends that combines real-time game statistics with deep domain knowledge. It overcomes the knowledge cutoff of standard LLMs by using **RAG** (Retrieval-Augmented Generation) and **LoRA** fine-tuning.
+This project provides an AI-driven strategy agent for League of Legends that combines up-to date game statistics with deep domain knowledge. It overcomes the knowledge cutoff of standard LLMs by using **RAG** (Retrieval-Augmented Generation) and **LoRA** fine-tuning.
 
 ---
 
@@ -13,7 +13,7 @@ This project provides an AI-driven strategy agent for League of Legends that com
 ---
 
 ## 🚀 Key Features
-* **Real-time RAG:** Fetches latest champion stats (Win rate, Tiers) using OP.GG MCP API.
+* **Up-to-Date RAG:** Fetches latest champion stats (Win rate, Tiers) using OP.GG MCP API.
 * **Domain-Specific Knowledge:** Fine-tuned Mistral-7B model on Inven community strategy data.
 * **Efficient Inference:** 4-bit quantization allows high-speed execution on consumer-grade cloud GPUs.
 
